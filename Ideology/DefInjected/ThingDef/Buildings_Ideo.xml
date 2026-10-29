@@ -4,22 +4,22 @@
   <!-- EN: grand altar -->
   <Altar_Grand.label>altare maggiore</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>Una grande piattaforma che gioca un ruolo nei rituali ideologici.</Altar_Grand.description>
+  <Altar_Grand.description>Una grande piattaforma che gioca un ruolo nei rituali ideoligiosi.</Altar_Grand.description>
   
   <!-- EN: large altar -->
   <Altar_Large.label>grande altare</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>Una grande piattaforma che gioca un ruolo nei rituali ideologici.</Altar_Large.description>
+  <Altar_Large.description>Una grande piattaforma che gioca un ruolo nei rituali ideoligiosi.</Altar_Large.description>
   
   <!-- EN: medium altar -->
   <Altar_Medium.label>altare medio</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>Una piattaforma media che gioca un ruolo nei rituali ideologici.</Altar_Medium.description>
+  <Altar_Medium.description>Una piattaforma media che gioca un ruolo nei rituali ideoligiosi.</Altar_Medium.description>
   
   <!-- EN: small altar -->
   <Altar_Small.label>piccolo altare</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>Una piccola piattaforma che gioca un ruolo nei rituali ideologici.</Altar_Small.description>
+  <Altar_Small.description>Una piccola piattaforma che gioca un ruolo nei rituali ideoligiosi.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>capsula bioscultore</BiosculpterPod.label>
@@ -36,7 +36,7 @@
   <!-- EN: age reversal -->
   <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>inversione dell’età</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse {DURATION} of aging. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Invertire {DURATION} dell'invecchiamento.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Inverti {DURATION} di invecchiamento.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>piacere</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
@@ -45,7 +45,7 @@
   <!-- EN: burnbong -->
   <Burnbong.label>burnbong</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>Una struttura in legno confezionata in smokeleaf. Può essere acceso durante un rituale e produce un'enorme quantità di fumo di foglie per alcune ore, dopodiché viene distrutto.</Burnbong.description>
+  <Burnbong.description>Una struttura in legno riempita di smokeleaf. Può essere accesa durante un rituale e produce un'enorme quantità di fumo di foglie per alcune ore, dopodiché viene distrutto.</Burnbong.description>
   
   <!-- EN: cannibal platter -->
   <CannibalPlatter.label>piatto cannibale</CannibalPlatter.label>
@@ -58,12 +58,12 @@
   <ChristmasTree.description>Un albero celebrativo decorato con ornamenti e luci tradizionalmente realizzati come parte delle celebrazioni natalizie.</ChristmasTree.description>
   
   <!-- EN: darktorch -->
-  <Darktorch.label>torciaoscura</Darktorch.label>
+  <Darktorch.label>torcia oscura</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
   <Darktorch.description>Torcia in legno appositamente trattato che produce una luce fioca su una vasta area. Le persone che preferiscono la luce oscura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente di legna. Produci una piccola quantità di calore.</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
-  <DarktorchFungus.label>fungo darktorch</DarktorchFungus.label>
+  <DarktorchFungus.label>torcia oscura fungina</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
   <DarktorchFungus.description>Una torcia fungina appositamente trattata che produce una luce fioca su una vasta area. Le persone che preferiscono la luce oscura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente con funghi crudi. Produci una piccola quantità di calore.</DarktorchFungus.description>
   
@@ -75,19 +75,19 @@
   <!-- EN: ideogram -->
   <Ideogram.label>ideogramma</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>Una grande immagine disegnata a terra e rinforzata con bordi metallici. È usato come punto focale per i rituali.</Ideogram.description>
+  <Ideogram.description>Una grande immagine disegnata a terra e rinforzata con bordi metallici. È usata come punto focale per i rituali.</Ideogram.description>
   
   <!-- EN: incense shrine -->
-  <IncenseShrine.label>incenso del santuario</IncenseShrine.label>
+  <IncenseShrine.label>santuario dell'incenso</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>Collezione di contenitori per incenso confezionati. Può essere acceso e produce un potente effetto di incenso come punto focale per i rituali. Viene distrutto dopo essere bruciato.</IncenseShrine.description>
+  <IncenseShrine.description>Collezione di contenitori per incenso confezionati. Può essere accesa e produce un potente effetto di incenso come punto focale per i rituali. Viene distrutto dopo essere bruciato.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>supercaricatore neurale</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
   <NeuralSupercharger.description>Un dispositivo di sensibilizzazione dei neuroni in grado di fornire una supercarica neurale ogni giorno. Una persona con una supercarica neurale penserà e imparerà più velocemente, ma consumerà anche più cibo. L'effetto svanisce in un giorno. I supercaricatore neurale consumano molta elettricità.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
-  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Ottieni la supercarica neurale</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Ricevere la sovralimentazione neurale</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
   <Pyre.label>pira</Pyre.label>
@@ -95,7 +95,7 @@
   <Pyre.description>Una torre di legno per il rogo rituale.</Pyre.description>
   
   <!-- EN: ritual spot -->
-  <RitualSpot.label>rituale del punto</RitualSpot.label>
+  <RitualSpot.label>luogo rituale</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
   <RitualSpot.description>Un luogo per eseguire determinati tipi di rituali.</RitualSpot.description>
   

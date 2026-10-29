@@ -32,12 +32,12 @@
   <GibbetCage.description>Una gabbia metallica per contenere ed esporre i cadaveri. Questo spettacolo terrificante ispira terrore e disgusto negli osservatori. È un modo particolarmente brutale ed efficace per terrorizzare gli schiavi.</GibbetCage.description>
   
   <!-- EN: kneel pillow -->
-  <KneelPillow.label>cuscino per le ginocchia</KneelPillow.label>
+  <KneelPillow.label>cuscino per inginocchiarsi</KneelPillow.label>
   <!-- EN: A pillow on which believers kneel while observing rituals, praying, or discussing. -->
   <KneelPillow.description>Un cuscino su cui i credenti si inginocchiano mentre osservano rituali, pregano o discutono.</KneelPillow.description>
   
   <!-- EN: kneel sheet -->
-  <KneelSheet.label>foglio inginocchiato</KneelSheet.label>
+  <KneelSheet.label>telo per inginocchiarsi</KneelSheet.label>
   <!-- EN: A sheet on which believers kneel while observing rituals, praying, or discussing. -->
   <KneelSheet.description>Un lenzuolo su cui i credenti si inginocchiano mentre osservano rituali, pregano o discutono.</KneelSheet.description>
   
@@ -49,7 +49,7 @@
   <!-- EN: lightball -->
   <LightBall.label>palla di luce</LightBall.label>
   <!-- EN: A decorative light that rotates and changes colors. Used as a focus for dance parties. -->
-  <LightBall.description>Una luce decorativa che ruota e cambia colore. Utilizzato come punto focale per le feste da ballo.</LightBall.description>
+  <LightBall.description>Una luce decorativa che ruota e cambia colore. Utilizzata come punto focale per le feste da ballo.</LightBall.description>
   
   <!-- EN: loudspeaker -->
   <Loudspeaker.label>altoparlante</Loudspeaker.label>
@@ -59,12 +59,12 @@
   <!-- EN: pew -->
   <Pew.label>banco</Pew.label>
   <!-- EN: A long bench where ritual participants can sit while listening to a speaker. Place it facing rituals and speeches to extend the duration of their positive effects. -->
-  <Pew.description>Una lunga panca dove i partecipanti al rituale possono sedersi mentre ascoltano un relatore. Posizionatelo di fronte a rituali e discorsi per prolungare la durata dei loro effetti positivi.</Pew.description>
+  <Pew.description>Una lunga panca dove i partecipanti al rituale possono sedersi mentre ascoltano un relatore. Posizionala di fronte a rituali e discorsi per prolungare la durata dei loro effetti positivi.</Pew.description>
   
   <!-- EN: bonsai pot -->
   <PlantPot_Bonsai.label>vaso bonsai</PlantPot_Bonsai.label>
   <!-- EN: This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements. -->
-  <PlantPot_Bonsai.description>Questo vaso speciale è adatto per piantare alberi bonsai, che possono migliorare l'umore delle persone vicine e soddisfare i requisiti ideologici.</PlantPot_Bonsai.description>
+  <PlantPot_Bonsai.description>Questo vaso speciale è adatto per piantare alberi bonsai, che possono migliorare l'umore delle persone vicine e soddisfare i requisiti ideoligiosi.</PlantPot_Bonsai.description>
   
   <!-- EN: reliquary -->
   <Reliquary.label>reliquiario</Reliquary.label>
@@ -76,7 +76,7 @@
   <!-- EN: A spike mounted upright for the purpose of piercing and displaying a human skull. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves. -->
   <Skullspike.description>Una punta montata verticalmente allo scopo di perforare e mostrare un teschio umano. Per alcuni, i teschi esposti sono un simbolo di potere. Per altri rappresentavano il male barbaro. Gli aculei del cranio sono un modo particolarmente brutale ed efficace per terrorizzare gli schiavi.</Skullspike.description>
   <!-- EN: skull of -->
-  <Skullspike.comps.CompHasSources.inspectStringLabel>cranio di</Skullspike.comps.CompHasSources.inspectStringLabel>
+  <Skullspike.comps.CompHasSources.inspectStringLabel>teschio di</Skullspike.comps.CompHasSources.inspectStringLabel>
   
   <!-- EN: slab bed -->
   <SlabBed.label>letto a lastra</SlabBed.label>
@@ -84,7 +84,7 @@
   <SlabBed.description>Una lastra di materiale duro su cui dormire. I letti a lastre sono scomodi, ma alcuni vedono il loro uso come una dimostrazione di bene morale.</SlabBed.description>
   
   <!-- EN: slab double bed -->
-  <SlabDoubleBed.label>letto matrimoniale a soppalco</SlabDoubleBed.label>
+  <SlabDoubleBed.label>letto matrimoniale a lastra</SlabDoubleBed.label>
   <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people. -->
   <SlabDoubleBed.description>Una lastra di materiale duro su cui dormire. I letti a lastre sono scomodi, ma alcuni vedono il loro uso come una dimostrazione di bene morale. Questo è abbastanza largo da contenere due persone.</SlabDoubleBed.description>
   
