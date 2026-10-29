@@ -32,7 +32,7 @@
   <!-- EN: Revenant smear discovered -->
   <LetterLabelRevenantSmearDiscovered>Traccia del revenant scoperta</LetterLabelRevenantSmearDiscovered>
   <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
-  <LetterRevenantSmearDiscovered>{0} ha notato una pozza scura a terra. La sostanza, ancora fresca, appare innaturale e emana un odore acre e disgustoso. Un'entità ultraterrena è passata di qui di recente.</LetterRevenantSmearDiscovered>
+  <LetterRevenantSmearDiscovered>{0} ha notato una pozza scura a terra. La sostanza, ancora fresca, appare innaturale ed emana un odore acre e disgustoso. Un'entità ultraterrena è passata di qui di recente.</LetterRevenantSmearDiscovered>
   <!-- EN: Revenant killed -->
   <LetterLabelRevenantKilled>Revenant ucciso</LetterLabelRevenantKilled>
   <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
@@ -52,7 +52,7 @@
   <!-- EN: In trance. -->
   <InTrance>In trance.</InTrance>
   <!-- EN: Revenant emergence -->
-  <LetterLabelRevenantEmergence>Emergenza del revenant</LetterLabelRevenantEmergence>
+  <LetterLabelRevenantEmergence>Riemersione del revenant</LetterLabelRevenantEmergence>
   <!-- EN: The revenant has reemerged from the safety of its spine! Destroy it before it escapes.\n\nIn the process, the revenant has mutated and adopted a new biosignature. -->
   <LetterRevenantEmergence>Il revenant è riemerso dalla sua colonna vertebrale, dove si era nascosto! Distruggilo prima che scappi.\n\nNel frattempo, il revenant ha subito una mutazione e ha assunto una nuova biosignatura.</LetterRevenantEmergence>
 
@@ -138,12 +138,12 @@
   <!-- EN: Obelisk mutation -->
   <ObeliskTentacleLetterLabel>Mutazione dell'obelisco</ObeliskTentacleLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
-  <ObeliskTentacleLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito formicolare il braccio. Poco dopo, la pelle si è squarciata e una crescita carnosa è esplosa dal corpo. Il braccio di {PAWN_possessive} è stato sostituito da un tentacolo contorto!\n\n{PAWN_nameDef} ha perso un po' di sangue, ma sembra illeso/a.</ObeliskTentacleLetter>
+  <ObeliskTentacleLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito formicolare il braccio. Poco dopo, la pelle si è squarciata e una crescita carnosa è esplosa dal corpo. Il suo braccio è stato sostituito da un tentacolo contorto!\n\n{PAWN_nameDef} ha perso un po' di sangue, ma sembra illeso/a.</ObeliskTentacleLetter>
 
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshWhipLetterLabel>Mutazione dell'obelisco</ObeliskFleshWhipLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
-  <ObeliskFleshWhipLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito formicolare il braccio. Poco dopo, la pelle si è squarciata violentemente e una crescita è esplosa dal corpo. Il braccio di {PAWN_possessive} è stato sostituito da un tentacolo con una lama ossea!\n\n{PAWN_nameDef} ha perso un po' di sangue, ma sembra illeso/a. Il tentacolo è orribile, ma sarà un'eccellente arma da mischia.</ObeliskFleshWhipLetter>
+  <ObeliskFleshWhipLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito formicolare il braccio. Poco dopo, la pelle si è squarciata violentemente e una crescita è esplosa dal corpo. Il suo braccio è stato sostituito da un tentacolo con una lama ossea!\n\n{PAWN_nameDef} ha perso un po' di sangue, ma sembra illeso/a. Il tentacolo è orribile, ma sarà un'eccellente arma da mischia.</ObeliskFleshWhipLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedArmLetterLabel>Interazione con l'obelisco</MutatorObeliskFailedArmLetterLabel>
@@ -153,7 +153,7 @@
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassStomachLetterLabel>Mutazione dell'obelisco</ObeliskFleshmassStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
-  <ObeliskFleshmassStomachLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito un dolore improvviso e acuto allo stomaco, mentre i suoi tessuti iniziavano a torcersi e mutare. Lo stomaco di {PAWN_possessive} si è trasformato in una massa di carne semi-senziente. Gli acidi corrosivi che produce sono dolorosi ma impediscono le intossicazioni alimentari.</ObeliskFleshmassStomachLetter>
+  <ObeliskFleshmassStomachLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito un dolore improvviso e acuto allo stomaco, mentre i suoi tessuti iniziavano a torcersi e mutare. Il suo stomaco si è trasformato in una massa di carne semi-senziente. Gli acidi corrosivi che produce sono dolorosi ma impediscono le intossicazioni alimentari.</ObeliskFleshmassStomachLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedStomachLetterLabel>Interazione con l'obelisco</MutatorObeliskFailedStomachLetterLabel>
@@ -163,7 +163,7 @@
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassLungLetterLabel>Mutazione dell'obelisco</ObeliskFleshmassLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
-  <ObeliskFleshmassLungLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito un dolore acuto al petto, mentre il suo polmone iniziava a torcersi e gonfiarsi. Il polmone di {PAWN_possessive} si è trasformato in una massa dolorosa di carne semi-senziente. I tessuti si rigenerano costantemente, rendendolo immune a condizioni come marciume polmonare e asma.</ObeliskFleshmassLungLetter>
+  <ObeliskFleshmassLungLetter>Mentre interagiva con l'obelisco, {PAWN_nameDef} ha sentito un dolore acuto al petto, mentre il suo polmone iniziava a torcersi e gonfiarsi. Il suo polmone si è trasformato in una massa dolorosa di carne semi-senziente. I tessuti si rigenerano costantemente, rendendolo immune a condizioni come marciume polmonare e asma.</ObeliskFleshmassLungLetter>
 
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedLungLetterLabel>Interazione con l'obelisco</MutatorObeliskFailedLungLetterLabel>
@@ -183,12 +183,12 @@
   <!-- EN: Obelisk duplicate -->
   <ObeliskDuplicationLetterLabel>Duplicazione dell'obelisco</ObeliskDuplicationLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self! The duplicate claims to be the real {PAWN_nameDef} and has joined your colony. -->
-  <ObeliskDuplicationLetter>Durante l'interazione con l'obelisco, {PAWN_nameIndef} ha visto un impulso energetico e un lampo di luce. {PAWN_nameDef} si è trovat{PAWN_gender ? o : a : o/a} faccia a faccia con una copia di sé stess{PAWN_gender ? o : a : o/a}! Il duplicato afferma di essere il vero {PAWN_nameDef} ed è entrato nella tua colonia.</ObeliskDuplicationLetter>
+  <ObeliskDuplicationLetter>Durante l'interazione con l'obelisco, {PAWN_nameDef} ha visto un impulso energetico e un lampo di luce. {PAWN_nameDef} si è trovat{PAWN_gender ? o : a : o/a} faccia a faccia con una copia di sé stess{PAWN_gender ? o : a : o/a}! Il duplicato afferma di essere il vero {PAWN_nameDef} ed è entrato nella tua colonia.</ObeliskDuplicationLetter>
 
   <!-- EN: Obelisk failure -->
   <ObeliskDuplicationFailedLetterLabel>Fallimento dell'obelisco</ObeliskDuplicationFailedLetterLabel>
   <!-- EN: {PAWN_nameDef} attempted to trigger the obelisk but nothing occurred. Something about {PAWN_nameDef} is preventing the obelisk from duplicating {PAWN_objective}. -->
-  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} ha tentato di attivare la duplicazione dell'obelisco, ma non è accaduto nulla. Qualcosa in {PAWN_objective} impedisce all'obelisco di copiarl{PAWN_gender ? o : a : o/a}.</ObeliskDuplicationFailedLetter>
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} ha tentato di attivare la duplicazione dell'obelisco, ma non è accaduto nulla. Qualcosa in {PAWN_nameDef} impedisce all'obelisco di copiarl{PAWN_gender ? o : a : o/a}.</ObeliskDuplicationFailedLetter>
   
   <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
   <ObeliskDuplicationSuccessMessage>{PAWN_nameDef} ha attivato con successo la duplicazione dell'obelisco.</ObeliskDuplicationSuccessMessage>
@@ -196,7 +196,7 @@
   <!-- EN: Hostile obelisk duplicate -->
   <ObeliskHostileDuplicateLetterLabel>Clone ostile creato dall'obelisco</ObeliskHostileDuplicateLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
-  <ObeliskHostileDuplicateLetter>Durante l'interazione con l'obelisco, {PAWN_nameIndef} ha visto un impulso energetico e un lampo di luce. {PAWN_nameDef} si è trovat{PAWN_gender ? o : a : o/a} faccia a faccia con un clone che si sta avvicinando con intenzioni omicide!</ObeliskHostileDuplicateLetter>
+  <ObeliskHostileDuplicateLetter>Durante l'interazione con l'obelisco, {PAWN_nameDef} ha visto un impulso energetico e un lampo di luce. {PAWN_nameDef} si è trovat{PAWN_gender ? o : a : o/a} faccia a faccia con un clone che si sta avvicinando con intenzioni omicide!</ObeliskHostileDuplicateLetter>
 
   <!-- EN: Obelisk activation -->
   <DuplicatorObeliskLetterLabel>Attivazione dell'obelisco</DuplicatorObeliskLetterLabel>
@@ -216,7 +216,7 @@
   <!-- EN: {PAWN_nameDef} reappeared -->
   <ObeliskAbductedLetterLabel>{PAWN_nameDef} è riappars{PAWN_gender ? o : a : o/a}</ObeliskAbductedLetterLabel>
   <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
-  <ObeliskAbductedLetter>{PAWN_nameDef} è stat{PAWN_gender ? o : a : o/a} teletrasportat{PAWN_gender ? o : a : o/a} in una stanza strana. Le pareti sono fatte di un materiale grigio non identificabile e l'aria è completamente immobile. {PAWN_pronoun} non sa dove si trovi né come tornare a casa.\n\nUna porta vicina è bloccata, ma sembra che si possa forzare con un po' di sforzo. Clic destro sulle porte bloccate per aprirle.\n\nStudiando l'obelisco, altri coloni potrebbero capire cos'è successo a {PAWN_nameDef} e trovare un modo per aiutare {PAWN_objective}. In alternativa, attaccare l'obelisco potrebbe provocare altri rapimenti.</ObeliskAbductedLetter>
+  <ObeliskAbductedLetter>{PAWN_nameDef} è stat{PAWN_gender ? o : a : o/a} teletrasportat{PAWN_gender ? o : a : o/a} in una stanza strana. Le pareti sono fatte di un materiale grigio non identificabile e l'aria è completamente immobile. {PAWN_pronoun} non sa dove si trovi né come tornare a casa.\n\nUna porta vicina è bloccata, ma sembra che si possa forzare con un po' di sforzo. Clic destro sulle porte bloccate per aprirle.\n\nStudiando l'obelisco, altri coloni potrebbero capire cos'è successo a {PAWN_nameDef} e trovare un modo per aiutarl{PAWN_gender ? o : a : o/a}. In alternativa, attaccare l'obelisco potrebbe provocare altri rapimenti.</ObeliskAbductedLetter>
 
   <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
   <MutatorObeliskMutated>{PAWN_nameIndef} si è {PAWN_gender ? trasformato : trasformata : trasformatə} in una bestia di carne.</MutatorObeliskMutated>
@@ -265,7 +265,7 @@
   <!-- EN: Automatic suppression -->
   <ActivitySuppressionTooltipTitle>Repressione automatica</ActivitySuppressionTooltipTitle>
   <!-- EN: Automatic suppression is currently disabled. Enable it to have wardens suppress the {0}. -->
-  <ActivitySuppressionTooltipDisabled>La repressione automatica è attualmente disattivata. Attivala per far sì che i guardiani reprimano il/la {0}.</ActivitySuppressionTooltipDisabled>
+  <ActivitySuppressionTooltipDisabled>La repressione automatica è attualmente disattivata. Attivala per far sì che i guardiani sopprimano questa entità ({0}).</ActivitySuppressionTooltipDisabled>
   <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
   <ActivitySuppressionTooltipDesc>Il livello di attività di {0} aumenta col tempo. L'attività aumenta più rapidamente se {0} è danneggiat{0_gender ? o : a : o/a} o provocat{0_gender ? o : a : o/a}.\n\nSe il livello raggiunge il 100%, {0} si attiverà.\n\nI guardiani possono reprimere {0} per mantenerne l’attività a un livello sicuro. Lo faranno ogni volta che il livello supera quello assegnato: {LEVEL}\n\nLe entità con livelli di attività più elevati forniscono più conoscenze quando vengono studiate.</ActivitySuppressionTooltipDesc>
   <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
@@ -293,9 +293,9 @@
   <!-- EN: Capturable -->
   <Capturable>Catturabile</Capturable>
   <!-- EN: Must be captured in a holding platform. -->
-  <RequiresHoldingPlatform>Deve essere catturat{PAWN_gender ? o : a : o/a} su una piattaforma di detenzione.</RequiresHoldingPlatform>
+  <RequiresHoldingPlatform>Si cattura su una piattaforma di detenzione.</RequiresHoldingPlatform>
   <!-- EN: Choose a location for the nociosphere to teleport to. -->
-  <ChooseNociosphereDest>Scegli una destinazione per la teletrasportazione della nociosfera.</ChooseNociosphereDest>
+  <ChooseNociosphereDest>Scegli dove teletrasportare la nociosfera.</ChooseNociosphereDest>
   <!-- EN: Transfer {0_definite} -->
   <TransferEntity>Trasferisci {0_definite}</TransferEntity>
   <!-- EN: Transfer the contained entity to another holding platform. -->
@@ -671,7 +671,7 @@
   <!-- EN: Warped obelisk -->
   <LetterLabelObeliskDiscovered>Obelisco distorto</LetterLabelObeliskDiscovered>
   <!-- EN: {PAWN_nameDef} has discovered a large obelisk. It looks nearly identical to the one that originally brought {PAWN_objective} here. Perhaps it can be activated to return {PAWN_objective} home.\n\nSelect {PAWN_nameDef} and right-click the obelisk to activate it. -->
-  <LetterObeliskDiscovered>{PAWN_nameDef} ha scoperto un grande obelisco che sembra quasi identico a quello che l'ha {PAWN_gender ? portato : portata : portat*} qui. Forse può essere attivato per riportare {PAWN_objective} a casa.\n\nSeleziona {PAWN_nameDef} e fai clic destro sull'obelisco per attivarlo.</LetterObeliskDiscovered>
+  <LetterObeliskDiscovered>{PAWN_nameDef} ha scoperto un grande obelisco che sembra quasi identico a quello che l'ha {PAWN_gender ? portato : portata : portat*} qui. Forse può essere attivato per riportarl{PAWN_gender ? o : a : o/a} a casa.\n\nSeleziona {PAWN_nameDef} e fai clic destro sull'obelisco per attivarlo.</LetterObeliskDiscovered>
   
   <!-- EN: Floor etchings -->
   <LetterLabelFloorEtchings>Incisioni sul pavimento</LetterLabelFloorEtchings>
@@ -697,7 +697,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>Nessun colono disponibile.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>La superficie metallica scura del monolito è calda al tatto, e {PAWN_nameDef} pensa di sentire un leggero ronzio provenire dall'interno. Le linee sulla superficie impolverata sembrano contorcersi in schemi inquietanti.\n\n{PAWN_nameDef} si concentra sulle forme per cercare di comprenderne il significato.\n\nIl ronzio si intensifica. Le forme iniziano a scorrere nella visione di {PAWN_nameDef}, ma la superficie non cambia. Un potere si sta srotolando nello spazio vuoto intorno. Una forma nera si sta formando nella mente di {PAWN_possessive}.\n\nL'Anomalia si sta risvegliando...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>La superficie metallica scura del monolito è calda al tatto, e {PAWN_nameDef} pensa di sentire un leggero ronzio provenire dall'interno. Le linee sulla superficie impolverata sembrano contorcersi in schemi inquietanti.\n\n{PAWN_nameDef} si concentra sulle forme per cercare di comprenderne il significato.\n\nIl ronzio si intensifica. Le forme iniziano a scorrere nella visione di {PAWN_nameDef}, ma la superficie non cambia. Un potere si sta srotolando nello spazio vuoto intorno. Una forma nera si sta formando nella sua mente.\n\nL'Anomalia si sta risvegliando...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>Continua a concentrarti sull'Anomalia</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -725,7 +725,7 @@
   <!-- EN: Disturbing vision -->
   <VoidMonolithVisionLabel>Visione inquietante</VoidMonolithVisionLabel>
   <!-- EN: {PAWN_nameDef} has had a strange dream. In it, {PAWN_pronoun} saw a black shape, unfurling in space and time, growing and consuming. The shape originated from a nearby crumbled monolith.\n\nUpon waking from the vision, {PAWN_nameDef} feels strangely drawn to the monolith. It calls to {PAWN_objective}. -->
-  <VoidMonolithVisionText>{PAWN_nameDef} ha fatto uno strano sogno. In esso, {PAWN_pronoun} ha visto una forma nera che si spiegava nello spazio e nel tempo, crescendo e consumando. La forma proveniva da un monolite crollato lì vicino.\n\nAl risveglio, {PAWN_nameDef} si sente stranamente attrattə dal monolite. Sembra chiamare {PAWN_objective}.</VoidMonolithVisionText>
+  <VoidMonolithVisionText>{PAWN_nameDef} ha fatto uno strano sogno. In esso, {PAWN_pronoun} ha visto una forma nera che si spiegava nello spazio e nel tempo, crescendo e consumando. La forma proveniva da un monolite crollato lì vicino.\n\nAl risveglio, {PAWN_nameDef} si sente stranamente attrattə dal monolite. Sembra chiamarl{PAWN_gender ? o : a : o/a}.</VoidMonolithVisionText>
   <!-- EN: Choose who should do this -->
   <VoidMonolithChooseActivator>Scegli chi deve farlo.</VoidMonolithChooseActivator>
   <!-- EN: Target is downed -->
@@ -838,11 +838,11 @@
 
   <!-- Chimeras -->
   <!-- EN: The chimera is {0} -->
-  <MessageChimeraModeChangeSingular>La chimera è {0}.</MessageChimeraModeChangeSingular>
+  <MessageChimeraModeChangeSingular>La chimera è {0}</MessageChimeraModeChangeSingular>
   <!-- EN: The chimeras are {0} -->
-  <MessageChimeraModeChangePlural>Le chimere sono {0}.</MessageChimeraModeChangePlural>
+  <MessageChimeraModeChangePlural>Le chimere sono {0}</MessageChimeraModeChangePlural>
   <!-- EN: temporarily withdrawing. -->
-  <MessageChimeraWithdrawing>si stanno ritirando temporaneamente.</MessageChimeraWithdrawing>
+  <MessageChimeraWithdrawing>in ritirata temporanea.</MessageChimeraWithdrawing>
 
   <!-- EN: Chimeras attacking -->
   <LetterChimerasAttackingLabel>Attacco delle chimere</LetterChimerasAttackingLabel>

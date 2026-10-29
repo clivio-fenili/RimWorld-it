@@ -32,7 +32,7 @@
   <!-- EN: Cultist psychic ritual -->
   <Alert_CultistPsychicRitual>Rituale psichico del cultista</Alert_CultistPsychicRitual>
   <!-- EN: {INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire. -->
-  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} ha iniziato a eseguire il rituale {RITUAL_definite}. Se non interrompi {INVOKER_objective}, le conseguenze potrebbero essere gravi.</Alert_CultistPsychicRitualDesc>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} ha iniziato a eseguire il rituale {RITUAL_definite}. Se non {INVOKER_objective} interrompi, le conseguenze potrebbero essere gravi.</Alert_CultistPsychicRitualDesc>
 
   <!-- EN: Ghoul starvation -->
   <AlertMeatHunger>Ghoul affamato</AlertMeatHunger>

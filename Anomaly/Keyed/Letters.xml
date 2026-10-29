@@ -30,7 +30,7 @@
   <!-- EN: Unfortunately, your call has been left unanswered. -->
   <VoidProvocationFailed>Purtroppo, il tuo richiamo è rimasto senza risposta.</VoidProvocationFailed>
   <!-- EN: In the process, {INVOKER_nameDef} glimpsed something horrifying beyond human understanding. The psychic darkness shocked {INVOKER_objective} into a short-term coma. -->
-  <VoidProvocationDarkPsychicShock>Durante il processo, {INVOKER_nameDef} ha intravisto qualcosa di terrificante oltre la comprensione umana. L'oscurità psichica ha scioccato {INVOKER_objective}, inducendolo/a in un coma temporaneo.</VoidProvocationDarkPsychicShock>
+  <VoidProvocationDarkPsychicShock>Durante il processo, {INVOKER_nameDef} ha intravisto qualcosa di terrificante oltre la comprensione umana. Per lo shock dell'oscurità psichica, {INVOKER_nameDef} è cadut{INVOKER_gender ? o : a : o/a} in un breve coma.</VoidProvocationDarkPsychicShock>
   <!-- EN: {INVOKER_nameDef} has completed {RITUAL_definite} ritual, absorbing skills and memories of {TARGET_nameDef}. -->
   <PhilophagyCompleteText>{INVOKER_nameDef} ha completato il rituale {RITUAL_definite}, assorbendo abilità e ricordi di {TARGET_nameDef}.</PhilophagyCompleteText>
   <!-- EN: {0_nameDef} gained {1} XP in {2_label} -->
@@ -44,7 +44,7 @@
   <!-- EN: remaining at skill level {0}. -->
   <PhilophagySkillLevelRemains>rimane al livello di abilità {0}.</PhilophagySkillLevelRemains>
   <!-- EN: The process damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
-  <PhilophagyDamagedTarget>Il processo ha danneggiato il cervello di {TARGET_nameDef}, mettendo {TARGET_objective} in coma.</PhilophagyDamagedTarget>
+  <PhilophagyDamagedTarget>Il processo ha danneggiato il cervello di {TARGET_nameDef}, che è cadut{TARGET_gender ? o : a : o/a} in coma.</PhilophagyDamagedTarget>
 
   <!-- EN: {0_nameDef} has been imbued with death refusal. {0_pronoun} can now self-resurrect after dying.\n\nThe process has atrophied {0_nameDef}'s brain, causing {0_objective} to lose a total of {1} XP in {0_possessive} skills. -->
   <ImbueDeathRefuralCompleteText>{0_nameDef} è stato/a infuso/a con il rifiuto della morte. Ora {0_pronoun} può auto-resuscitare dopo la morte.\n\nIl processo ha atrofizzato il cervello di {0_nameDef}, causando la perdita di {1} XP nelle sue abilità.</ImbueDeathRefuralCompleteText>
@@ -96,16 +96,16 @@
   <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual and has consumed {TARGET_nameDef}'s psychic presence. -->
   <PsychophagyCompleteText>{INVOKER_nameDef} ha completato il rituale {RITUAL_definite} e ha consumato la presenza psichica di {TARGET_nameDef}.</PsychophagyCompleteText>
   <!-- EN: {TARGET_nameDef} is now psychically deaf. The process has damaged {TARGET_nameDef}'s brain, putting {TARGET_objective} into a coma. -->
-  <PsychophagyTargetSurvived>{TARGET_nameDef} è ora sordo/a a livello psichico. Il processo ha danneggiato il suo cervello, mettendo {TARGET_objective} in coma.</PsychophagyTargetSurvived>
+  <PsychophagyTargetSurvived>{TARGET_nameDef} è ora sordo/a a livello psichico. Il processo ha danneggiato il suo cervello, e {TARGET_pronoun} è cadut{TARGET_gender ? o : a : o/a} in coma.</PsychophagyTargetSurvived>
   
   <!-- EN: The process has liquified {TARGET_nameDef}'s brain, killing {TARGET_objective}. -->
-  <PsychicRitualTargetBrainLiquified>Il processo ha liquefatto il cervello di {TARGET_nameDef}, uccidendo {TARGET_objective}.</PsychicRitualTargetBrainLiquified>
+  <PsychicRitualTargetBrainLiquified>Il processo ha liquefatto il cervello di {TARGET_nameDef}, uccidendol{TARGET_gender ? o : a : o}.</PsychicRitualTargetBrainLiquified>
 
   <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. Fleshbeasts are emerging from the ground! -->
   <SummonFleshbeastsPlayerCompleteText>{0_nameDef} ha completato il rituale {RITUAL_definite}. Abomini di carne stanno emergendo dal terreno!</SummonFleshbeastsPlayerCompleteText>
 
   <!-- EN: {INVOKER_nameDef} has finished infusing {TARGET_nameDef} with bioferrite. The ritual has twisted {TARGET_nameDef}'s mind and mutated {TARGET_possessive} body, creating a terrifying creature known as a ghoul. {INVOKER_nameDef} shares a psychic link with {TARGET_nameDef}, allowing {INVOKER_objective} to control {TARGET_nameDef}.\n\nGhouls eat raw meat to survive. If they go hungry, they can turn hostile. -->
-  <GhoulInfusionCompleteText>{INVOKER_nameDef} ha infuso {TARGET_nameDef} di bioferrite. Il rituale ha distorto la mente di {TARGET_nameDef} e mutato il suo corpo, creando una creatura terrificante chiamata ghoul. {INVOKER_nameDef} condivide un legame psichico con {TARGET_nameDef}, permettendo a {INVOKER_objective} di controllare {TARGET_nameDef}.\n\nI ghoul si nutrono di carne cruda per sopravvivere. Se restano affamati, possono diventare ostili.</GhoulInfusionCompleteText>
+  <GhoulInfusionCompleteText>{INVOKER_nameDef} ha infuso {TARGET_nameDef} di bioferrite. Il rituale ha distorto la mente di {TARGET_nameDef} e mutato il suo corpo, creando una creatura terrificante chiamata ghoul. {INVOKER_nameDef} condivide un legame psichico con {TARGET_nameDef}, e può quindi controllarl{TARGET_gender ? o : a : o}.\n\nI ghoul si nutrono di carne cruda per sopravvivere. Se restano affamati, possono diventare ostili.</GhoulInfusionCompleteText>
   
   <!-- EN: They might perform the ritual multiple times. You need to go stop them. -->
   <AttackersMayCastRitualMultipleTimes>Potrebbero eseguire il rituale più volte. Devi fermarli.</AttackersMayCastRitualMultipleTimes>
