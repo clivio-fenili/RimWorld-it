@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: glucosoid rush -->
-  <GlucosoidRush.label>corsa ai glucoidi</GlucosoidRush.label>
+  <GlucosoidRush.label>scarica di glucoidi</GlucosoidRush.label>
   <!-- EN: Move speed is increased because this person used a glucosoid pump while deathresting. This effect lasts until the next deathrest. -->
   <GlucosoidRush.description>La velocità di movimento è aumentata perché questa persona ha utilizzato una pompa per glucoidi durante il riposo mortale. Questo effetto dura fino al successivo riposo mortale.</GlucosoidRush.description>
   <!-- EN: Lasts until the next deathrest. -->
@@ -16,7 +16,7 @@
   <HemogenAmplified.extraTooltip>Dura fino al prossimo riposo mortale.</HemogenAmplified.extraTooltip>
   
   <!-- EN: psychofluid rush -->
-  <PsychofluidRush.label>corsa psicofluida</PsychofluidRush.label>
+  <PsychofluidRush.label>scarica di psicofluido</PsychofluidRush.label>
   <!-- EN: Psychic sensitivity is enhanced because this person used a psychofluid pump while deathresting. This effect lasts until the next deathrest. -->
   <PsychofluidRush.description>La sensibilità psichica è migliorata perché questa persona ha utilizzato una pompa di psicofluido durante il riposo mortale. Questo effetto dura fino al successivo riposo mortale.</PsychofluidRush.description>
   <!-- EN: Lasts until the next deathrest. -->
