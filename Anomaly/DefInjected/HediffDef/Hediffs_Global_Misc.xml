@@ -181,7 +181,7 @@
   <!-- EN: {0_nameDef} is now suffering from duplicate sickness. -->
   <DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>{0_nameDef} soffre ora della malattia da duplicazione.</DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>
   <!-- EN: {PAWN_nameDef} is suffering from duplicate sickness. Psychic interference between this person and their duplicate is causing slow mental deterioration. As long as multiple copies of this person are alive, the condition will keep getting worse. -->
-  <DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} soffre della malattia da duplicazione. Interferenze psichiche tra {PAWN_objective} e il suo duplicato stanno causando un lento deterioramento mentale. Finché {PAWN_objective} e i suoi duplicati saranno in vita, la condizione continuerà a peggiorare.</DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} soffre della malattia da duplicazione. Interferenze psichiche tra questa persona e il suo duplicato stanno causando un lento deterioramento mentale. Finché questa persona e i suoi duplicati saranno in vita, la condizione continuerà a peggiorare.</DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
   <DuplicateSickness.stages.initial-0.label>iniziale</DuplicateSickness.stages.initial-0.label>
   <!-- EN: initial -->
@@ -268,12 +268,12 @@
   <!-- EN: pain field -->
   <PainField.label>campo del dolore</PainField.label>
   <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
-  <PainField.description>Dolore lancinante causato dalla presenza di un'entità attivamente psichica nelle vicinanze. L’effetto si intensifica con l’aumentare dell’attività dell’entità.</PainField.description>
+  <PainField.description>Dolore lancinante causato dalla presenza di un'entità psichicamente attiva nelle vicinanze. L’effetto si intensifica con l’aumentare dell’attività dell’entità.</PainField.description>
   
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>impulso edonico</PleasurePulse.label>
   <!-- EN: This person has been impacted by a psychic pulse of pleasurable sensations and emotions. They feel unnaturally happy, distracting them from their work. -->
-  <PleasurePulse.description>Questa persona ha subito un impulso psichico di sensazioni ed emozioni piacevoli. Si sente felicemente fuori misura, il che la distrae dal lavoro.</PleasurePulse.description>
+  <PleasurePulse.description>Questa persona ha subito un impulso psichico di sensazioni ed emozioni piacevoli. Si sente innaturalmente felice, e questo la distrae dal lavoro.</PleasurePulse.description>
   
   <!-- EN: psychically dead -->
   <PsychicallyDead.label>morte psichica</PsychicallyDead.label>
