@@ -19,7 +19,7 @@
   <!-- EN: scorcher -->
   <Mech_Scorcher.label>bruciatore</Mech_Scorcher.label>
   <!-- EN: A close-approach war mechanoid that specializes in incendiary attacks. Its flame burst attack has little reach, but once it closes on a group of defenders it can ignite and disrupt them with blasts of searing flame. -->
-  <Mech_Scorcher.description>Un meccanoide da guerra ad avvicinamento ravvicinato specializzato in attacchi incendiari. Il suo attacco con esplosione di fiamme ha una portata limitata, ma una volta che si avvicina a un gruppo di difensori può incendiarli e distruggerli con esplosioni di fiamme ardenti.</Mech_Scorcher.description>
+  <Mech_Scorcher.description>Un meccanoide da guerra per il combattimento ravvicinato specializzato in attacchi incendiari. Il suo attacco con esplosione di fiamme ha una portata limitata, ma una volta che si avvicina a un gruppo di difensori può incendiarli e scompaginarli con esplosioni di fiamme ardenti.</Mech_Scorcher.description>
   <!-- EN: front left leg -->
   <Mech_Scorcher.tools.front_left_leg.label>gamba anteriore sinistra</Mech_Scorcher.tools.front_left_leg.label>
   <!-- EN: leg -->
@@ -34,7 +34,7 @@
   <!-- EN: tesseron -->
   <Mech_Tesseron.label>tesserone</Mech_Tesseron.label>
   <!-- EN: A medium-range combat mechanoid. While it is fairly vulnerable to attacks, the tesseron's sweeping beam graser can pierce thick armor and even ignite shielded targets. -->
-  <Mech_Tesseron.description>Un meccanoide da combattimento a medio raggio. Anche se è abbastanza vulnerabile agli attacchi, il raggio radente del tesseron può perforare armature spesse e persino incendiare bersagli schermati.</Mech_Tesseron.description>
+  <Mech_Tesseron.description>Un meccanoide da combattimento a medio raggio. Anche se è abbastanza vulnerabile agli attacchi, il graser a raggio radente del tesserone può perforare armature spesse e persino incendiare bersagli schermati.</Mech_Tesseron.description>
   <!-- EN: left fist -->
   <Mech_Tesseron.tools.left_fist.label>pugno sinistro</Mech_Tesseron.tools.left_fist.label>
   <!-- EN: fist -->

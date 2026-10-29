@@ -4,7 +4,7 @@
   <!-- EN: agrihand -->
   <Mech_Agrihand.label>agrihand</Mech_Agrihand.label>
   <!-- EN: A small mechanoid designed to sow and harvest crops. While it is better suited to labor than combat, it can fight with built-in cutting blades if necessary. -->
-  <Mech_Agrihand.description>Un piccolo meccanoide progettato per seminare e raccogliere raccolti. Sebbene sia più adatto al lavoro che al combattimento, può combattere con le lame taglienti integrate, se necessario.</Mech_Agrihand.description>
+  <Mech_Agrihand.description>Un piccolo meccanoide progettato per seminare e raccogliere le colture. Sebbene sia più adatto al lavoro che al combattimento, può combattere con le lame taglienti integrate, se necessario.</Mech_Agrihand.description>
   <!-- EN: head -->
   <Mech_Agrihand.tools.head.label>Testa</Mech_Agrihand.tools.head.label>
   <!-- EN: right blade -->
@@ -59,7 +59,7 @@
   <!-- EN: war urchin -->
   <Mech_WarUrchin.label>monello di guerra</Mech_WarUrchin.label>
   <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy war queen mech. War urchins are expendable fighters designed to swarm-attack enemies. They are mounted with short-ranged spiner guns and have a non-rechargeable power source. -->
-  <Mech_WarUrchin.description>Un piccolo meccanoide da combattimento schierabile solitamente fabbricato all'interno di un mech da guerra ultra pesante. I monelli di guerra sono combattenti sacrificabili progettati per attaccare in sciame i nemici. Sono dotati di cannoni spiner a corto raggio e hanno una fonte di energia non ricaricabile.</Mech_WarUrchin.description>
+  <Mech_WarUrchin.description>Un piccolo meccanoide da combattimento schierabile solitamente fabbricato all'interno di una regina di guerra, un mech ultrapesante. I monelli di guerra sono combattenti sacrificabili progettati per attaccare in sciame i nemici. Sono dotati di cannoni spiner a corto raggio e hanno una fonte di energia non ricaricabile.</Mech_WarUrchin.description>
   <!-- EN: head -->
   <Mech_WarUrchin.tools.head.label>Testa</Mech_WarUrchin.tools.head.label>
   

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: chopped stump -->
-  <ChoppedStump_Polluted.label>ceppo tritato</ChoppedStump_Polluted.label>
+  <ChoppedStump_Polluted.label>ceppo abbattuto</ChoppedStump_Polluted.label>
   <!-- EN: A stump left behind after a polluted tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
   <ChoppedStump_Polluted.description>Un ceppo lasciato dopo l'abbattimento di un albero inquinato. Il ceppo può essere estratto ma si ottiene pochissimo legno utilizzabile. Lasciato all'aperto, il ceppo si deteriorerà nel tempo.</ChoppedStump_Polluted.description>
   
@@ -14,7 +14,7 @@
   <!-- EN: pebble cactus -->
   <Plant_PebbleCactus.label>cactus di ciottoli</Plant_PebbleCactus.label>
   <!-- EN: A small cactus that resembles a cluster of pebbles. It can only grow on polluted terrain. It yields a meager amount of woody fiber when harvested. -->
-  <Plant_PebbleCactus.description>Un piccolo cactus che ricorda un ammasso di ciottoli. Può crescere solo su terreni inquinati. Produce una maggiore quantità di fibra legnosa quando viene raccolto.</Plant_PebbleCactus.description>
+  <Plant_PebbleCactus.description>Un piccolo cactus che ricorda un ammasso di ciottoli. Può crescere solo su terreni inquinati. Produce una scarsa quantità di fibra legnosa quando viene raccolto.</Plant_PebbleCactus.description>
   
   <!-- EN: rat palm tree -->
   <Plant_RatPalm.label>palma di ratto</Plant_RatPalm.label>
@@ -37,7 +37,7 @@
   <Plant_Witchwood.description>Un piccolo albero adattato alle tossine con un tronco contorto. Può crescere solo su terreni inquinati. Una volta raccolto, produce una scarsa quantità di legno.</Plant_Witchwood.description>
   
   <!-- EN: smashed stump -->
-  <SmashedStump_Polluted.label>ceppo fracassato</SmashedStump_Polluted.label>
+  <SmashedStump_Polluted.label>ceppo distrutto</SmashedStump_Polluted.label>
   <!-- EN: The remnants of a polluted tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
   <SmashedStump_Polluted.description>I resti di un albero inquinato distrutto dai danni. È brutto. Il ceppo può essere estratto ma si ottiene pochissimo legno utilizzabile. Lasciato all'aperto, il ceppo si deteriorerà nel tempo.</SmashedStump_Polluted.description>
   
