@@ -31,13 +31,13 @@
   <EntityLiberator.recoveryMessage>{0} non libera più entità.</EntityLiberator.recoveryMessage>
   
   <!-- EN: insane ramblings -->
-  <InsaneRamblings.label>farneticazioni alienate</InsaneRamblings.label>
+  <InsaneRamblings.label>farneticazioni deliranti</InsaneRamblings.label>
   <!-- EN: Mental state: Insane ramblings -->
-  <InsaneRamblings.baseInspectLine>Stato mentale: farneticazioni alienate</InsaneRamblings.baseInspectLine>
+  <InsaneRamblings.baseInspectLine>Stato mentale: farneticazioni deliranti</InsaneRamblings.baseInspectLine>
   <!-- EN: {PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours. -->
-  <InsaneRamblings.beginLetter>{PAWN_nameDef} è {PAWN_gender ? diventato : diventata : divəntatə} completamente {PAWN_gender ? scollegato : scollegata : scollegatə} dalla realtà e vaneggia su argomenti impossibili. {PAWN_pronoun} tornerà in sé tra qualche ora.</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef} è {PAWN_gender ? diventato : diventata : diventatə} completamente {PAWN_gender ? scollegato : scollegata : scollegatə} dalla realtà e vaneggia su argomenti impossibili. {PAWN_pronoun} tornerà in sé tra qualche ora.</InsaneRamblings.beginLetter>
   <!-- EN: insane ramblings -->
-  <InsaneRamblings.beginLetterLabel>farneticazioni alienate</InsaneRamblings.beginLetterLabel>
+  <InsaneRamblings.beginLetterLabel>farneticazioni deliranti</InsaneRamblings.beginLetterLabel>
   <!-- EN: {PAWN_nameDef} has stopped rambling. -->
   <InsaneRamblings.recoveryMessage>{PAWN_nameDef} ha smesso di farneticare.</InsaneRamblings.recoveryMessage>
   

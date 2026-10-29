@@ -7,14 +7,14 @@
   <Disrupted.monolithLabel>monolite crollato</Disrupted.monolithLabel>
   
   <!-- EN: Level 4: Awakened -->
-  <Embraced.levelInspectText>Livello 4: Risveglio</Embraced.levelInspectText>
+  <Embraced.levelInspectText>Livello 4: risvegliato</Embraced.levelInspectText>
   <!-- EN: void monolith -->
   <Embraced.monolithLabel>monolite del vuoto</Embraced.monolithLabel>
   
   <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
   <Gleaming.extraQuestDescription>Il vuoto si è risvegliato. Il portale è aperto. Le tenebre del vuoto irrompono nella nostra realtà, manifestate da una mente immensa colma di furia infinita.</Gleaming.extraQuestDescription>
   <!-- EN: Level 4: Awakened -->
-  <Gleaming.levelInspectText>Livello 4: Risveglio</Gleaming.levelInspectText>
+  <Gleaming.levelInspectText>Livello 4: risvegliato</Gleaming.levelInspectText>
   <!-- EN: void monolith -->
   <Gleaming.monolithLabel>monolite del vuoto</Gleaming.monolithLabel>
   
@@ -40,7 +40,7 @@
   <!-- EN: You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities. -->
   <Stirring.activatableLetterText>Ora possiedi conoscenze sufficienti sui fenomeni legati al vuoto per armonizzare il monolite e ampliare il suo condotto psichico.\n\nQuesto attirerà l’attenzione di entità anomale più pericolose.</Stirring.activatableLetterText>
   <!-- EN: As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research.\n\n(*Gray)Note: You can adjust the percentage of major threats that will be Anomaly-related at any point in the storyteller settings.(/Gray) -->
-  <Stirring.activatedLetterText>Quando il monolite ha iniziato a contorcersi e mutare, {PAWN_nameDef} è statə travoltə da una visione terrificante. In un istante, {PAWN_pronoun} ha compreso.\n\nIl monolite è una porta, appena socchiusa. Qualcosa di oscuro, oltre ogni immaginazione, si agita dall’altra parte e si insinua nella nostra realtà.\n\nTerrorizzatə ma affascinatə, {PAWN_nameDef} è convintə di poter apprendere molto di più se gli/le sarà concesso il tempo di studiarlo.\n\n - Categoria edificio sbloccata: Anomalia\n - Scheda ricerca sbloccata: Anomalia\n - Codice entità sbloccato\n - Ora puoi studiare il monolite e altre entità per ottenere ricerca su Anomalie.\n\n(*Gray)Nota: puoi regolare in qualsiasi momento la percentuale di minacce principali legate alle Anomalie nei settaggi del narratore.(/Gray)</Stirring.activatedLetterText>
+  <Stirring.activatedLetterText>Quando il monolite ha iniziato a contorcersi e mutare, {PAWN_nameDef} è statə travoltə da una visione terrificante. In un istante, {PAWN_pronoun} ha compreso.\n\nIl monolite è una porta, appena socchiusa. Qualcosa di oscuro, oltre ogni immaginazione, si agita dall’altra parte e si insinua nella nostra realtà.\n\nTerrorizzatə ma affascinatə, {PAWN_nameDef} è convintə di poter apprendere molto di più se gli/le sarà concesso il tempo di studiarlo.\n\n - Categoria edificio sbloccata: Anomalia\n - Scheda ricerca sbloccata: Anomalia\n - Codex delle entità sbloccato\n - Ora puoi studiare il monolite e altre entità per far avanzare la ricerca sull'Anomalia.\n\n(*Gray)Nota: puoi regolare in qualsiasi momento la percentuale di minacce principali legate all'Anomalia nelle impostazioni del narratore.(/Gray)</Stirring.activatedLetterText>
   <!-- EN: attune {0} -->
   <Stirring.activateFloatMenuText>armonizza {0}</Stirring.activateFloatMenuText>
   <!-- EN: Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities. -->

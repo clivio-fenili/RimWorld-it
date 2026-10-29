@@ -22,16 +22,16 @@
   <CubeSculpting.recoveryMessage>{PAWN_nameDef} ha terminato la scultura del cubo.</CubeSculpting.recoveryMessage>
   
   <!-- EN: humanity break -->
-  <HumanityBreak.label>crollo dell'identità</HumanityBreak.label>
+  <HumanityBreak.label>crollo dell'umanità</HumanityBreak.label>
   <!-- EN: Mental state: Humanity break -->
-  <HumanityBreak.baseInspectLine>Stato mentale: crollo dell'identità</HumanityBreak.baseInspectLine>
+  <HumanityBreak.baseInspectLine>Stato mentale: crollo dell'umanità</HumanityBreak.baseInspectLine>
   <!-- EN: {PAWN_nameDef} has relinquished {PAWN_possessive} remaining ties to humanity and embraced {PAWN_possessive} ideology's worship of the void. {PAWN_possessive} concern for health, family, friendship, and love have been broken.\n\n{PAWN_nameDef} is now inhumanized, and will suffer a breakdown as {PAWN_pronoun} tries to grapple with {PAWN_possessive} new mental alignment. -->
   <HumanityBreak.beginLetter>{PAWN_nameDef} ha reciso ogni legame con la propria umanità e ha abbracciato l'ideologia del vuoto. {PAWN_pronoun} ha smesso di preoccuparsi per salute, famiglia, amicizia e amore.\n\n{PAWN_nameDef} è ormai disumanizzatə e subirà un crollo mentre tenta di adattarsi al nuovo assetto mentale.</HumanityBreak.beginLetter>
   
   <!-- EN: manhunter -->
-  <ManhunterBloodRain.label>predatore impazzito</ManhunterBloodRain.label>
+  <ManhunterBloodRain.label>sete di sangue</ManhunterBloodRain.label>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterBloodRain.baseInspectLine>Follia: predatore impazzito</ManhunterBloodRain.baseInspectLine>
+  <ManhunterBloodRain.baseInspectLine>Follia: sete di sangue</ManhunterBloodRain.baseInspectLine>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
   <ManhunterBloodRain.recoveryMessage>{0} non è più preda della sete di sangue.</ManhunterBloodRain.recoveryMessage>
   
