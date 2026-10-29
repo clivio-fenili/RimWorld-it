@@ -7,14 +7,14 @@
   <RelicInertArk.description>Un oggetto dal significato ideoligioso.</RelicInertArk.description>
   
   <!-- EN: box -->
-  <RelicInertBox.label>scatole</RelicInertBox.label>
+  <RelicInertBox.label>scatola</RelicInertBox.label>
   <!-- EN: An object with ideoligious significance. -->
   <RelicInertBox.description>Un oggetto dal significato ideoligioso.</RelicInertBox.description>
   
   <!-- EN: cube -->
   <RelicInertCube.label>cubo</RelicInertCube.label>
   <!-- EN: A hand-sized cube. While now dormant, it was once unnaturally captivating. -->
-  <RelicInertCube.description>Un oggetto dal significato ideoligioso.</RelicInertCube.description>
+  <RelicInertCube.description>Un cubo grande come una mano. Ora è inattivo, ma un tempo era stranamente ammaliante.</RelicInertCube.description>
   
   <!-- EN: chalice -->
   <RelicInertCup.label>calice</RelicInertCup.label>

@@ -18,11 +18,11 @@
   <HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>potenziamento artificiale</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
   
   <!-- EN: transhumanist modded -->
-  <HasProsthetic_Approved.stages.transhumanist_modded.label>modificato transumanista</HasProsthetic_Approved.stages.transhumanist_modded.label>
+  <HasProsthetic_Approved.stages.transhumanist_modded.label>transumanista modificato</HasProsthetic_Approved.stages.transhumanist_modded.label>
   <!-- EN: This artificial enhancement matches my belief. -->
   <HasProsthetic_Approved.stages.transhumanist_modded.description>Questo miglioramento artificiale corrisponde alla mia convinzione.</HasProsthetic_Approved.stages.transhumanist_modded.description>
   <!-- EN: transhumanist connected -->
-  <HasProsthetic_Approved.stages.transhumanist_connected.label>connesso ai transumanisti</HasProsthetic_Approved.stages.transhumanist_connected.label>
+  <HasProsthetic_Approved.stages.transhumanist_connected.label>transumanista connesso</HasProsthetic_Approved.stages.transhumanist_connected.label>
   <!-- EN: The more artificial enhancements I get, the stronger my expression of my beliefs. -->
   <HasProsthetic_Approved.stages.transhumanist_connected.description>Più miglioramenti artificiali ottengo, più forte è la mia espressione delle mie convinzioni.</HasProsthetic_Approved.stages.transhumanist_connected.description>
   <!-- EN: transhumanist enhanced -->

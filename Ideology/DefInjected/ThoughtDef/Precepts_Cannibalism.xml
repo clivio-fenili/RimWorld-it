@@ -2,98 +2,98 @@
 <LanguageData>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. This is an offense against everything I believe. -->
   <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>Ho dovuto mangiare carne umana. Questa è un'offesa contro tutto ciò in cui credo.</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. I believe such actions are wrong. -->
   <AteHumanMeat_Disapproved.stages.ate_human_meat.description>Ho dovuto mangiare carne umana. Credo che tali azioni siano sbagliate.</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Horrible.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Horrible.stages.ate_human_meat.label>
   <!-- EN: I had to eat human meat. This was a horrible thing. -->
   <AteHumanMeat_Horrible.stages.ate_human_meat.description>Ho dovuto mangiare carne umana. Questa è stata una cosa orribile.</AteHumanMeat_Horrible.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_Preferred.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_Preferred.stages.ate_human_meat.label>
   <!-- EN: I ate human meat. It makes me feel noble and strong. -->
   <AteHumanMeat_Preferred.stages.ate_human_meat.description>Ho mangiato carne umana. Mi fa sentire nobile e forte.</AteHumanMeat_Preferred.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
   <!-- EN: I ate human meat! The world is right, and I am as I should be. -->
   <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>Ho mangiato carne umana! Il mondo è giusto e io sono come dovrei essere.</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>mangiava carne umana</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>ha mangiato carne umana</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
   <!-- EN: I ate human meat, as every real human should. -->
   <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>Ho mangiato carne umana, come dovrebbe fare ogni vero essere umano.</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>mangiavano cibo non cannibale</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>ha mangiato cibo non cannibale</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
   <!-- EN: I had to eat food that wasn't taken from a human body. This is absolutely against my beliefs. -->
-  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>Dovevo mangiare cibo che non proveniva da un corpo umano. Questo è assolutamente contrario alle mie convinzioni.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>Ho dovuto mangiare cibo che non proveniva da un corpo umano. Questo è assolutamente contrario alle mie convinzioni.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>mangiavano cibo non cannibale</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>ha mangiato cibo non cannibale</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
   <!-- EN: I had to eat food that wasn't taken from a human body. My beliefs strictly forbid such things. -->
-  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>Dovevo mangiare cibo che non proveniva da un corpo umano. Le mie convinzioni vietano severamente queste cose.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>Ho dovuto mangiare cibo che non proveniva da un corpo umano. Le mie convinzioni vietano severamente queste cose.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>mangiavano cibo non cannibale</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>ha mangiato cibo non cannibale</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
   
   <!-- EN: ate non-cannibal food -->
-  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>mangiavano cibo non cannibale</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>ha mangiato cibo non cannibale</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>Ho massacrato come un essere umano</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>ho macellato un umano</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. This is an offense against everything I believe. -->
-  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Ho massacrato un essere umano. Questa è un'offesa contro tutto ciò in cui credo.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Ho macellato un essere umano. Questa è un'offesa contro tutto ciò in cui credo.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>Ho massacrato come un essere umano</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>ho macellato un umano</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. I believe such actions are wrong. -->
-  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Ho massacrato un essere umano. Credo che tali azioni siano sbagliate.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Ho macellato un essere umano. Credo che tali azioni siano sbagliate.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>Ho massacrato come un essere umano</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>ho macellato un umano</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. This was a horrible thing. -->
-  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Ho massacrato un essere umano. Questa è stata una cosa orribile.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Ho macellato un essere umano. Questa è stata una cosa orribile.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
   
   <!-- EN: we butchered humanlike -->
-  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>abbiamo massacrato come se fossimo umani</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>abbiamo macellato un umano</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
   <!-- EN: One of us butchered a human being. This is an offense against everything I believe. -->
-  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>Uno di noi ha massacrato un essere umano. Questa è un'offesa contro tutto ciò in cui credo.</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>Uno di noi ha macellato un essere umano. Questa è un'offesa contro tutto ciò in cui credo.</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike -->
-  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>massacrato come un essere umano</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>ha macellato un umano</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
   
   <!-- EN: we butchered humanlike -->
-  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>abbiamo massacrato come se fossimo umani</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>abbiamo macellato un umano</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
   <!-- EN: One of us butchered a human being. I believe such actions are wrong. -->
-  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>Uno di noi ha massacrato un essere umano. Credo che tali azioni siano sbagliate.</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>Uno di noi ha macellato un essere umano. Credo che tali azioni siano sbagliate.</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike -->
-  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>massacrato come un essere umano</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>ha macellato un umano</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
   
   <!-- EN: we butchered humanlike -->
-  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>abbiamo massacrato come se fossimo umani</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>abbiamo macellato un umano</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
   <!-- EN: One of us butchered a human being. This was a horrible thing. -->
-  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>Uno di noi ha massacrato un essere umano. Questa è stata una cosa orribile.</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>Uno di noi ha macellato un essere umano. Questa è stata una cosa orribile.</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike -->
-  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>massacrato come un essere umano</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>ha macellato un umano</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
   
   <!-- EN: human leather {0} -->
   <HumanLeatherApparel_Abhorrent.stages.human_leather.label>pelle umana {0}</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
@@ -119,15 +119,15 @@
   <!-- EN: human leather {0} (+1) -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_1.label>pelle umana {0} (+1)</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
   <!-- EN: I'm dressed in human skin. I do not like this. -->
-  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>Sono vestito di pelle umana. Non mi piace questo.</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>Sono vestito di pelle umana. Non mi piace.</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
   <!-- EN: human leather {0} (+2) -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>pelle umana {0} (+2)</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
   <!-- EN: Why am I wearing so much human leather apparel? We should have something else to wear for me... -->
-  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>Perché indosso così tanti capi di abbigliamento in pelle umana? Dovremmo avere qualcos'altro da indossare per me...</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>Perché indosso così tanti capi di abbigliamento in pelle umana? Ci dovrebbe essere qualcos'altro da mettermi...</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
   <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>pelle umana {0} ecc</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
   <!-- EN: I should really wear non-human leather apparel. I look like a crazy person. -->
-  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>Dovrei davvero indossare abiti in pelle non umana. Sembro una persona pazza.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>Dovrei davvero indossare abiti in pelle non umana. Sembro un pazzo.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
   
   <!-- EN: human leather {0} -->
   <HumanLeatherApparel_Horrible.stages.human_leather.label>pelle umana {0}</HumanLeatherApparel_Horrible.stages.human_leather.label>
@@ -198,18 +198,18 @@
   <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>La carne! La carne segnala il mio trionfo!</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
   
   <!-- EN: want human meat -->
-  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>vogliono carne umana</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>vuole carne umana</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
   <!-- EN: It's been too long since I consumed any human meat. It feels wrong. -->
   <NoRecentHumanMeat_Preferred.stages.want_human_meat.description>È passato troppo tempo dall'ultima volta che ho consumato carne umana. Sembra sbagliato.</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
   
   <!-- EN: want human meat -->
-  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>vogliono carne umana</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>vuole carne umana</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
   <!-- EN: Ravenous! It's been so long since I tasted the true flesh. This is wrong! -->
   <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>Famelico! È passato così tanto tempo dall'ultima volta che ho assaggiato la vera carne. Questo è sbagliato!</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
   
   <!-- EN: want human meat -->
-  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>vogliono carne umana</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>vuole carne umana</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
   <!-- EN: It's been far too long since I consumed human. I should have eaten by now. -->
-  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>È passato troppo tempo dall'ultima volta che ho consumato un essere umano. Avrei dovuto mangiare ormai.</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>È passato troppo tempo dall'ultima volta che ho mangiato carne umana. Avrei dovuto mangiare ormai.</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
   
 </LanguageData>
