@@ -12,10 +12,10 @@
     <li>groupLabelSingleOrPlural(beggarCount>=2)->travelers</li>
   -->
   <Beggars.questContentRules.rulesStrings>
-    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] ferito</li>
-    <li>letterTextBeggarsBetrayed->Il [groupLabelSingleOrPlural] che [wasWere] cercava la tua carità [hasHave] è stato ferito. I coloni con credenze caritatevoli saranno infelici.</li>
-    <li>hasHave(beggarCount==1)->ha</li>
-    <li>hasHave(beggarCount>=2)->hanno</li>
+    <li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] ferit[hasHave]</li>
+    <li>letterTextBeggarsBetrayed->Chi era venuto a chiedere la tua carità è stato ferito. I coloni con credenze caritatevoli saranno infelici.</li>
+    <li>hasHave(beggarCount==1)->o</li>
+    <li>hasHave(beggarCount>=2)->i</li>
     <li>wasWere(beggarCount==1)->era</li>
     <li>wasWere(beggarCount>=2)->erano</li>
     <li>groupLabelSingleOrPlural(beggarCount==1)->viaggiatore</li>
@@ -89,10 +89,10 @@
     <li>claimInfo(beggarCount==1,requestedThingDefName==MedicineHerbal,childCount==1,priority=1)->[beggars0_nameDef] ha bisogno della medicina per aiutare il fratellino che è ferito nelle vicinanze</li>
     <li>claimInfo(beggarCount==1,requestedThingDefName==MedicineIndustrial)->[beggars0_nameDef] vuole [item_la_le] medicin[item_a_e] per salvare il suo fedele animale domestico ferito lungo la strada</li>
     <li>claimInfo(beggarCount==1,requestedThingDefName==Penoxycyline)->[beggars0_nameDef] ha bisogno di [requestedThing_label] per vaccinare un amico malaticcio contro malattie mortali</li>
-    <li>claimInfo(beggarCount==1,requestedThingDefName==Beer)->[beggars0_nameDef] lo vuole per affogare i suoi dispiaceri dopo aver perso un compagno di viaggio in un terribile incidente</li>
+    <li>claimInfo(beggarCount==1,requestedThingDefName==Beer)->[beggars0_nameDef] vuole la [requestedThing_label] per affogare i suoi dispiaceri dopo aver perso un compagno di viaggio in un terribile incidente</li>
     <li>claimInfo(beggarCount==1,requestedThingDefName==Beer,childCount==1,priority=1)->[beggars0_nameDef] vuole la [requestedThing_label] per alleviare la sofferenza di uno zio gravemente malato</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==Silver)->Vogliono l'argento per poter ricomprare un amico che è stato recentemente rapito</li>
-    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal)->Hanno bisogno della medicina per tentare un'operazione salvavita su un compagno di viaggio attaccato dai mechanoidi</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal)->Hanno bisogno della medicina per tentare un'operazione salvavita su un compagno di viaggio attaccato dai meccanoidi</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal,allChildren==true,priority=1)->Hanno bisogno della medicina per preparare un rimedio erboristico per un amico a letto con febbre intensa</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineIndustrial)->Hanno bisogno della medicina per aiutare i loro amici in un insediamento vicino devastato dai predoni</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==Penoxycyline)->Vogliono [requestedThing_label] per poter viaggiare in sicurezza mentre cercano un nuovo posto da chiamare casa</li>
