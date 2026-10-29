@@ -4,12 +4,12 @@
   <!-- EN: blood rain -->
   <BloodRain.label>pioggia di sangue</BloodRain.label>
   <!-- EN: Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect. -->
-  <BloodRain.description>Un rituale fa cadere dal cielo un psychofluido simile al sangue. Esseri umani e animali esposti impazziranno gradualmente in una frenesia omicida. Tratti e sensibilità psichica influenzano l’effetto.</BloodRain.description>
+  <BloodRain.description>Un rituale fa cadere dal cielo uno psicofluido simile al sangue. Esseri umani e animali esposti impazziranno gradualmente in una frenesia omicida. Tratti e sensibilità psichica influenzano l’effetto.</BloodRain.description>
   <!-- EN: At the current ritual quality, the blood rain will last for {0}. -->
   <BloodRain.outcomeDescription>Con la qualità attuale del rituale, la pioggia di sangue durerà {0}.</BloodRain.outcomeDescription>
   
   <!-- EN: brainwipe -->
-  <Brainwipe.label>amnèsia</Brainwipe.label>
+  <Brainwipe.label>amnesia</Brainwipe.label>
   <!-- EN: Erase a person's memories. Traumatic events will be forgotten. Prisoners will forget their allegiance and become easier to recruit, even if they were unwavering before. Inhumanized individuals will forget their connection to the void. Unfortunately, the disruptive effect of the ritual will induce a coma that could last a long time, especially if the ritual is of poor quality. -->
   <Brainwipe.description>Cancella i ricordi di una persona. Gli eventi traumatici saranno dimenticati. I prigionieri dimenticheranno la loro lealtà e saranno più facili da reclutare, anche se prima erano irremovibili. Gli individui disumanizzati dimenticheranno il legame col vuoto. Purtroppo, l’effetto secondario del rituale è un coma che può durare a lungo, specialmente se la qualità è scarsa.</Brainwipe.description>
   <!-- EN: The target will be brainwiped.\n\nWith the current ritual quality, the target will also enter a coma for {0}. -->
@@ -66,7 +66,7 @@
   <!-- EN: Skip abduction -->
   <SkipAbduction.letterAICompleteLabel>Rapimento tramite teletrasporto</SkipAbduction.letterAICompleteLabel>
   <!-- EN: {PAWN_nameDef} has been abducted by the cultists! -->
-  <SkipAbduction.letterAICompleteText>{PAWN_nameDef} è stato rapito dai cultisti!</SkipAbduction.letterAICompleteText>
+  <SkipAbduction.letterAICompleteText>{PAWN_nameDef} è stat{PAWN_gender ? o : a : o/a} rapit{PAWN_gender ? o : a : o/a} dai cultisti!</SkipAbduction.letterAICompleteText>
   <!-- EN: The target will be teleported to the invoker's location and fall into a coma. -->
   <SkipAbduction.outcomeDescription>Il bersaglio verrà teletrasportato presso l'invocatore e cadrà in coma.</SkipAbduction.outcomeDescription>
   
@@ -80,9 +80,9 @@
   <!-- EN: draw animals -->
   <SummonAnimals.label>attrazione di animali</SummonAnimals.label>
   <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
-  <SummonAnimals.description>Emette un impulso psichico che attira un branco distante di animali nella zona. Potrai cacciarli o usarli come preferisci. Se il rituale è eseguito male, potrebbe attirare predatori infetti da scaria.</SummonAnimals.description>
+  <SummonAnimals.description>Emette un impulso psichico che attira un branco distante di animali nella zona. Potrai cacciarli o usarli come preferisci. Se il rituale è eseguito male, potrebbe attirare cacciatori di uomini infetti da scaria.</SummonAnimals.description>
   <!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
-  <SummonAnimals.outcomeDescription>Con la qualità attuale del rituale, c'è il {0} di probabilità che gli animali arrivino come predatori folli.</SummonAnimals.outcomeDescription>
+  <SummonAnimals.outcomeDescription>Con la qualità attuale del rituale, c'è il {0} di probabilità che gli animali arrivino come cacciatori di uomini.</SummonAnimals.outcomeDescription>
   
   <!-- EN: draw fleshbeasts -->
   <SummonFleshbeasts.label>attrazione di abomini di carne</SummonFleshbeasts.label>
@@ -91,7 +91,7 @@
   <!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
   <SummonFleshbeasts.letterAIArrivedText>Intendono usare un rituale psichico per evocare orrendi abomini di carne contro di te.</SummonFleshbeasts.letterAIArrivedText>
   <!-- EN: Fleshbeasts emerging -->
-  <SummonFleshbeasts.letterAICompleteLabel>Emergenza di abomini di carne</SummonFleshbeasts.letterAICompleteLabel>
+  <SummonFleshbeasts.letterAICompleteLabel>Emersione di abomini di carne</SummonFleshbeasts.letterAICompleteLabel>
   <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
   <SummonFleshbeasts.letterAICompleteText>Gli abomini di carne stanno emergendo dal terreno. Preparati all'attacco!</SummonFleshbeasts.letterAICompleteText>
   <!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
