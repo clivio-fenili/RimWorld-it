@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: archotech structure -->
-  <AbandonedArchotechStructures.label>struttura archeotecnologica</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.label>struttura archotech</AbandonedArchotechStructures.label>
   <!-- EN: An archotech structure that you can study. -->
-  <AbandonedArchotechStructures.description>Una struttura archotecnologica che puoi studiare.</AbandonedArchotechStructures.description>
+  <AbandonedArchotechStructures.description>Una struttura archotech che puoi studiare.</AbandonedArchotechStructures.description>
   
   <!-- EN: second archonexus settlement -->
   <Settlement_SecondArchonexusCycle.label>insediamento</Settlement_SecondArchonexusCycle.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement_SecondArchonexusCycle.description>Basato su uno dei fatti.</Settlement_SecondArchonexusCycle.description>
+  <Settlement_SecondArchonexusCycle.description>La base di una delle fazioni.</Settlement_SecondArchonexusCycle.description>
   
   <!-- EN: third archonexus settlement -->
   <Settlement_ThirdArchonexusCycle.label>insediamento</Settlement_ThirdArchonexusCycle.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement_ThirdArchonexusCycle.description>Basato su uno dei fatti.</Settlement_ThirdArchonexusCycle.description>
+  <Settlement_ThirdArchonexusCycle.description>La base di una delle fazioni.</Settlement_ThirdArchonexusCycle.description>
   
 </LanguageData>

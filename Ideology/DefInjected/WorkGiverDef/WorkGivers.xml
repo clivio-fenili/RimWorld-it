@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: change dryad types -->
-  <ChangeTreeMode.label>cambiare tipo di driade</ChangeTreeMode.label>
+  <ChangeTreeMode.label>cambiare la casta delle driadi</ChangeTreeMode.label>
   <!-- EN: changing dryad caste for -->
-  <ChangeTreeMode.gerund>cambiare casta driade per</ChangeTreeMode.gerund>
+  <ChangeTreeMode.gerund>cambiare la casta della driade per</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
-  <ChangeTreeMode.verb>cambia casta driade per</ChangeTreeMode.verb>
+  <ChangeTreeMode.verb>cambiare la casta della driade per</ChangeTreeMode.verb>
   
   <!-- EN: convert prisoners -->
   <ConvertPrisoner.label>convertire i prigionieri</ConvertPrisoner.label>
   <!-- EN: converting -->
-  <ConvertPrisoner.gerund>conversione</ConvertPrisoner.gerund>
+  <ConvertPrisoner.gerund>convertire</ConvertPrisoner.gerund>
   <!-- EN: convert -->
   <ConvertPrisoner.verb>convertire</ConvertPrisoner.verb>
   
   <!-- EN: emancipate slaves -->
   <EmancipateSlave.label>emancipare gli schiavi</EmancipateSlave.label>
   <!-- EN: emancipating -->
-  <EmancipateSlave.gerund>emancipante</EmancipateSlave.gerund>
+  <EmancipateSlave.gerund>emancipare</EmancipateSlave.gerund>
   <!-- EN: emancipate -->
-  <EmancipateSlave.verb>emanciparti</EmancipateSlave.verb>
+  <EmancipateSlave.verb>emancipare</EmancipateSlave.verb>
   
   <!-- EN: enslave prisoners -->
   <EnslavePrisoner.label>schiavizzare i prigionieri</EnslavePrisoner.label>
@@ -32,14 +32,14 @@
   <!-- EN: execute prisoners -->
   <ExecuteSlave.label>giustiziare i prigionieri</ExecuteSlave.label>
   <!-- EN: executing -->
-  <ExecuteSlave.gerund>esecuzione</ExecuteSlave.gerund>
+  <ExecuteSlave.gerund>giustiziare</ExecuteSlave.gerund>
   <!-- EN: execute -->
-  <ExecuteSlave.verb>eseguire</ExecuteSlave.verb>
+  <ExecuteSlave.verb>giustiziare</ExecuteSlave.verb>
   
   <!-- EN: carry to biosculpter pod -->
-  <HaulToBiosculpterPod.label>portare al pod del bioscultore</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.label>portare alla capsula bioscultore</HaulToBiosculpterPod.label>
   <!-- EN: filling -->
-  <HaulToBiosculpterPod.gerund>Riempimento</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.gerund>riempire</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->
   <HaulToBiosculpterPod.verb>riempire</HaulToBiosculpterPod.verb>
   
@@ -48,19 +48,19 @@
   <!-- EN: imprisoning -->
   <ImprisonSlave.gerund>imprigionare</ImprisonSlave.gerund>
   <!-- EN: imprison -->
-  <ImprisonSlave.verb>impressione</ImprisonSlave.verb>
+  <ImprisonSlave.verb>imprigionare</ImprisonSlave.verb>
   
   <!-- EN: prune Gauranlen trees -->
   <PruneGauranlenTree.label>potare gli alberi di Gauranlen</PruneGauranlenTree.label>
   <!-- EN: pruning -->
-  <PruneGauranlenTree.gerund>potatura</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.gerund>potare</PruneGauranlenTree.gerund>
   <!-- EN: prune -->
-  <PruneGauranlenTree.verb>fesso</PruneGauranlenTree.verb>
+  <PruneGauranlenTree.verb>potare</PruneGauranlenTree.verb>
   
   <!-- EN: suppress slaves -->
   <SuppressSlave.label>sopprimere gli schiavi</SuppressSlave.label>
   <!-- EN: suppressing -->
-  <SuppressSlave.gerund>soppressione</SuppressSlave.gerund>
+  <SuppressSlave.gerund>sopprimere</SuppressSlave.gerund>
   <!-- EN: suppress -->
   <SuppressSlave.verb>sopprimere</SuppressSlave.verb>
   
