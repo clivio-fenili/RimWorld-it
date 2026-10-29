@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: incubate bioferrite -->
-  <ExtractBioferrite.label>produzione di bioferrite</ExtractBioferrite.label>
+  <ExtractBioferrite.label>incuba bioferrite</ExtractBioferrite.label>
   <!-- EN: Process a corpse in order to incubate a batch of bioferrite from archites seeded into the flesh and nervous tissue. -->
   <ExtractBioferrite.description>Produci bioferrite a partire dagli architi impiantati nella carne e nei tessuti nervosi di un cadavere.</ExtractBioferrite.description>
   <!-- EN: Incubating bioferrite from corpse. -->
-  <ExtractBioferrite.jobString>Produzione di bioferrite da un cadavere.</ExtractBioferrite.jobString>
+  <ExtractBioferrite.jobString>Incuba bioferrite da un cadavere.</ExtractBioferrite.jobString>
   
 </LanguageData>

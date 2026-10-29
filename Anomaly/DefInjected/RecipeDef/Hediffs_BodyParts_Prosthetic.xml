@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install adrenal heart -->
-  <InstallAdrenalHeart.label>installare un cuore surrenale</InstallAdrenalHeart.label>
+  <InstallAdrenalHeart.label>installa cuore surrenale</InstallAdrenalHeart.label>
   <!-- EN: Install adrenal heart. -->
   <InstallAdrenalHeart.description>Installa un cuore surrenale.</InstallAdrenalHeart.description>
   <!-- EN: Installing adrenal heart. -->
-  <InstallAdrenalHeart.jobString>Installazione di un cuore surrenale.</InstallAdrenalHeart.jobString>
+  <InstallAdrenalHeart.jobString>Installa cuore surrenale.</InstallAdrenalHeart.jobString>
   
   <!-- EN: install corrosive heart -->
-  <InstallCorrosiveHeart.label>installare un cuore corrosivo</InstallCorrosiveHeart.label>
+  <InstallCorrosiveHeart.label>installa cuore corrosivo</InstallCorrosiveHeart.label>
   <!-- EN: Install corrosive heart. -->
   <InstallCorrosiveHeart.description>Installa un cuore corrosivo.</InstallCorrosiveHeart.description>
   <!-- EN: Installing corrosive heart. -->
-  <InstallCorrosiveHeart.jobString>Installazione di un cuore corrosivo.</InstallCorrosiveHeart.jobString>
+  <InstallCorrosiveHeart.jobString>Installa cuore corrosivo.</InstallCorrosiveHeart.jobString>
   
   <!-- EN: install ghoul barbs -->
-  <InstallGhoulBarbs.label>installare spuntoni da ghoul</InstallGhoulBarbs.label>
+  <InstallGhoulBarbs.label>installa spine di ghoul</InstallGhoulBarbs.label>
   <!-- EN: Install ghoul barbs. -->
-  <InstallGhoulBarbs.description>Installa spuntoni da ghoul.</InstallGhoulBarbs.description>
+  <InstallGhoulBarbs.description>Installa spine di ghoul.</InstallGhoulBarbs.description>
   <!-- EN: Installing ghoul barbs. -->
-  <InstallGhoulBarbs.jobString>Installazione di spuntoni da ghoul.</InstallGhoulBarbs.jobString>
+  <InstallGhoulBarbs.jobString>Installa spine di ghoul.</InstallGhoulBarbs.jobString>
   
   <!-- EN: install ghoul plating -->
-  <InstallGhoulPlating.label>installare piastre da ghoul</InstallGhoulPlating.label>
+  <InstallGhoulPlating.label>installa piastre di ghoul</InstallGhoulPlating.label>
   <!-- EN: Install ghoul plating. -->
-  <InstallGhoulPlating.description>Installa piastre da ghoul.</InstallGhoulPlating.description>
+  <InstallGhoulPlating.description>Installa piastre di ghoul.</InstallGhoulPlating.description>
   <!-- EN: Installing ghoul plating. -->
-  <InstallGhoulPlating.jobString>Installazione di piastre da ghoul.</InstallGhoulPlating.jobString>
+  <InstallGhoulPlating.jobString>Installa piastre di ghoul.</InstallGhoulPlating.jobString>
   
   <!-- EN: install metalblood heart -->
-  <InstallMetalbloodHeart.label>installare un cuore metallico</InstallMetalbloodHeart.label>
+  <InstallMetalbloodHeart.label>installa cuore di ferrosangue</InstallMetalbloodHeart.label>
   <!-- EN: Install metalblood heart. -->
-  <InstallMetalbloodHeart.description>Installa un cuore metallico.</InstallMetalbloodHeart.description>
+  <InstallMetalbloodHeart.description>Installa un cuore di ferrosangue.</InstallMetalbloodHeart.description>
   <!-- EN: Installing metalblood heart. -->
-  <InstallMetalbloodHeart.jobString>Installazione di un cuore metallico.</InstallMetalbloodHeart.jobString>
+  <InstallMetalbloodHeart.jobString>Installa cuore di ferrosangue.</InstallMetalbloodHeart.jobString>
   
   <!-- EN: install revenant vertebrae -->
-  <InstallRevenantVertebrae.label>installare vertebre da revenant</InstallRevenantVertebrae.label>
+  <InstallRevenantVertebrae.label>installa vertebre di revenant</InstallRevenantVertebrae.label>
   <!-- EN: Install revenant vertebrae. -->
-  <InstallRevenantVertebrae.description>Installa vertebre da revenant.</InstallRevenantVertebrae.description>
+  <InstallRevenantVertebrae.description>Installa vertebre di revenant.</InstallRevenantVertebrae.description>
   <!-- EN: Installing revenant vertebrae. -->
-  <InstallRevenantVertebrae.jobString>Installazione di vertebre da revenant.</InstallRevenantVertebrae.jobString>
+  <InstallRevenantVertebrae.jobString>Installa vertebre di revenant.</InstallRevenantVertebrae.jobString>
   
 </LanguageData>
