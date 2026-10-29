@@ -149,7 +149,7 @@
   <!-- EN: deep red skin -->
   <Skin_DeepRed.label>pelle rosso intenso</Skin_DeepRed.label>
   <!-- EN: Carriers of this gene produce a deep-red pigment that gives their skin an almost bloody appearance. -->
-  <Skin_DeepRed.description>I portatori di questo gene producono un pigmento rosso intenso che conferisce alla loro pelle un aspetto quasi sanguinante.</Skin_DeepRed.description>
+  <Skin_DeepRed.description>I portatori di questo gene producono un pigmento rosso intenso che conferisce alla loro pelle un aspetto quasi insanguinato.</Skin_DeepRed.description>
   <!-- EN: red -->
   <Skin_DeepRed.labelShortAdj>rosso</Skin_DeepRed.labelShortAdj>
   <!-- EN: red -->
@@ -223,7 +223,7 @@
   <!-- EN: light gray skin -->
   <Skin_LightGray.label>pelle grigio chiaro</Skin_LightGray.label>
   <!-- EN: Carriers of this produce a light-gray pigment in their skin. -->
-  <Skin_LightGray.description>I portatori di questo producono un pigmento grigio chiaro nella loro pelle.</Skin_LightGray.description>
+  <Skin_LightGray.description>I portatori di questo gene producono un pigmento grigio chiaro nella loro pelle.</Skin_LightGray.description>
   <!-- EN: gray -->
   <Skin_LightGray.labelShortAdj>grigio</Skin_LightGray.labelShortAdj>
   <!-- EN: gray -->

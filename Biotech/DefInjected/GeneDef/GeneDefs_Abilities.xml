@@ -172,7 +172,7 @@
   <!-- EN: gene implanter -->
   <XenogermReimplanter.label>impiantatore di geni</XenogermReimplanter.label>
   <!-- EN: Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Germline genes will be unaffected. -->
-  <XenogermReimplanter.description>I portatori di questo gene possono impiantare una copia del loro xenogerme in un'altra persona attraverso un organo iniettore dall'aspetto piuttosto ripugnante. Il loro materiale genetico crescerà quindi molto lentamente. Se si impiantano mentre i loro geni stanno ricrescendo, moriranno. I geni germinali non saranno influenzati.</XenogermReimplanter.description>
+  <XenogermReimplanter.description>I portatori di questo gene possono impiantare una copia del loro xenogerme in un'altra persona attraverso un organo iniettore dall'aspetto piuttosto ripugnante. Il loro materiale genetico poi ricrescerà molto lentamente. Se ne impiantano un altro mentre i loro geni stanno ricrescendo, moriranno. I geni germinali non saranno influenzati.</XenogermReimplanter.description>
   <!-- EN: reimplanter -->
   <XenogermReimplanter.labelShortAdj>reimpiantatore</XenogermReimplanter.labelShortAdj>
   

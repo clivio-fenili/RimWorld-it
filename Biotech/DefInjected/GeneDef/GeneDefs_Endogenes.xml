@@ -33,7 +33,7 @@
   <Body_Fat.symbolPack.suffixSymbols.3.symbol>palla</Body_Fat.symbolPack.suffixSymbols.3.symbol>
   
   <!-- EN: hulk body -->
-  <Body_Hulk.label>corpo di Hulk</Body_Hulk.label>
+  <Body_Hulk.label>corpo massiccio</Body_Hulk.label>
   <!-- EN: Carriers can have large bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed. -->
   <Body_Hulk.description>I portatori possono avere corpi di grandi dimensioni. Una persona può avere più di un gene del tipo corporeo; verrà scelta una tipologia corporea tra quelle ammesse.</Body_Hulk.description>
   <!-- EN: hulk -->

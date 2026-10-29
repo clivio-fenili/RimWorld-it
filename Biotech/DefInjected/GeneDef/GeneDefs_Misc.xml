@@ -136,7 +136,7 @@
   <!-- EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
   <PollutionRush.description>I portatori di questo gene subiscono un'ondata chimica a causa dell'esposizione all'inquinamento. Questo li fa muovere più velocemente e li aiuta a pensare in modo più chiaro. Un gene simile si trova nei megainsetti progettati per il combattimento.</PollutionRush.description>
   <!-- EN: Gain stat bonuses when exposed to pollution. -->
-  <PollutionRush.customEffectDescriptions.0>Ottieni bonus alle statistiche quando sei esposto all'inquinamento.</PollutionRush.customEffectDescriptions.0>
+  <PollutionRush.customEffectDescriptions.0>Ottiene bonus alle statistiche quando è esposto all'inquinamento.</PollutionRush.customEffectDescriptions.0>
   
   <!-- EN: psychic bonding -->
   <PsychicBonding.label>legame psichico</PsychicBonding.label>
@@ -150,7 +150,7 @@
   <!-- EN: robust digestion -->
   <RobustDigestion.label>digestione robusta</RobustDigestion.label>
   <!-- EN: Carriers of this gene grow a multi-fold stomach, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all. -->
-  <RobustDigestion.description>I portatori di questo gene sviluppano uno stomaco multiforme, consentendo loro di digerire i cibi crudi in modo più efficiente rispetto agli esseri umani di base. In generale, ottengono la stessa nutrizione dal cibo crudo e da quello cotto. Inoltre non si preoccupano affatto del sapore del cibo crudo.</RobustDigestion.description>
+  <RobustDigestion.description>I portatori di questo gene sviluppano uno stomaco a più cavità, consentendo loro di digerire i cibi crudi in modo più efficiente rispetto agli esseri umani di base. In generale, ottengono la stessa nutrizione dal cibo crudo e da quello cotto. Inoltre il sapore del cibo crudo non dà loro alcun fastidio.</RobustDigestion.description>
   <!-- EN: eat -->
   <RobustDigestion.symbolPack.prefixSymbols.0.symbol>mangiare</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: raw -->
@@ -203,7 +203,7 @@
   <!-- EN: violence disabled -->
   <ViolenceDisabled.label>violenza disabilitata</ViolenceDisabled.label>
   <!-- EN: Carriers of this gene are emotionally and mentally incapable of engaging in violence. They are overwhelmingly resistant to and horrified by the idea of hurting another. -->
-  <ViolenceDisabled.description>I portatori di questo gene sono emotivamente e mentalmente incapaci di impegnarsi nella violenza. Sono estremamente resistenti e inorriditi dall’idea di fare del male a un altro.</ViolenceDisabled.description>
+  <ViolenceDisabled.description>I portatori di questo gene sono emotivamente e mentalmente incapaci di commettere violenza. Sono estremamente resistenti e inorriditi dall’idea di fare del male a un altro.</ViolenceDisabled.description>
   <!-- EN: nonviolent -->
   <ViolenceDisabled.labelShortAdj>non violento</ViolenceDisabled.labelShortAdj>
   <!-- EN: paci -->

@@ -58,7 +58,7 @@
   <!-- EN: partial antitoxic lungs -->
   <ToxicEnvironmentResistance_Partial.label>polmoni antitossici parziali</ToxicEnvironmentResistance_Partial.label>
   <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
-  <ToxicEnvironmentResistance_Partial.description>I portatori di questo gene sono resistenti alle tossine ambientali. Ottengono meno accumuli tossici da gas tossici, terreno inquinato e ricadute tossiche, ma sono comunque vulnerabili agli attacchi diretti con veleno o veleno iniettato. Inoltre, accumulano più lentamente l'esposizione alla puzza di marciume.</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.description>I portatori di questo gene sono resistenti alle tossine ambientali. Ottengono meno accumuli tossici da gas tossici, terreno inquinato e ricadute tossiche, ma sono comunque vulnerabili agli attacchi diretti con veleno animale o iniettato. Inoltre, accumulano più lentamente l'esposizione alla puzza di marciume.</ToxicEnvironmentResistance_Partial.description>
   <!-- EN: tox-resistant -->
   <ToxicEnvironmentResistance_Partial.labelShortAdj>resistente alle tossine</ToxicEnvironmentResistance_Partial.labelShortAdj>
   <!-- EN: tox -->
@@ -67,7 +67,7 @@
   <!-- EN: total antitoxic lungs -->
   <ToxicEnvironmentResistance_Total.label>polmoni antitossici totali</ToxicEnvironmentResistance_Total.label>
   <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
-  <ToxicEnvironmentResistance_Total.description>I portatori di questo gene sono immuni alle tossine ambientali, ma non agli attacchi tossici diretti. Non subiscono accumuli tossici da gas tossici, terreni inquinati o ricadute tossiche e non sono disturbati dallo smog acido. Sono ancora vulnerabili agli attacchi diretti come il veleno e il veleno iniettato. Inoltre, sono immuni all'esposizione alla puzza di marciume.</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.description>I portatori di questo gene sono immuni alle tossine ambientali, ma non agli attacchi tossici diretti. Non subiscono accumuli tossici da gas tossici, terreni inquinati o ricadute tossiche e non sono disturbati dallo smog acido. Sono ancora vulnerabili agli attacchi diretti come il veleno animale o iniettato. Inoltre, sono immuni all'esposizione alla puzza di marciume.</ToxicEnvironmentResistance_Total.description>
   <!-- EN: Tox gas immunity -->
   <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>Immunità ai gas tossici</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
   <!-- EN: tox-immune -->
