@@ -71,19 +71,19 @@
   <ScanningSickness.description>Questa persona è stata scansionata da un softscanner per produrre un sottonucleo meccanoide. Il dispositivo di scansione ad alta energia ha causato disturbi nella chimica del cervello che richiederanno tempo per risolversi. Non ci saranno danni a lungo termine.</ScanningSickness.description>
   
   <!-- EN: vat growing -->
-  <VatGrowing.label>coltivazione in tino</VatGrowing.label>
+  <VatGrowing.label>crescita in vasca</VatGrowing.label>
   <!-- EN: The growth vat is stimulating this person's body to increase the rate of cell division and aging. -->
   <VatGrowing.description>La vasca di crescita stimola il corpo di questa persona ad aumentare il tasso di divisione cellulare e di invecchiamento.</VatGrowing.description>
   
   <!-- EN: vat learning -->
-  <VatLearning.label>apprendimento dell'iva</VatLearning.label>
+  <VatLearning.label>apprendimento in vasca</VatLearning.label>
   <!-- EN: The growth vat is electrically stimulating this person's brain to induce skill development. This process is not very effective, and will only partially replace the skills missed from not growing in the outside world. -->
-  <VatLearning.description>La vasca di crescita stimola elettricamente il cervello di questa persona per indurre lo sviluppo delle abilità. Questo processo non è molto efficace e sostituirà solo parzialmente le competenze perse a causa della mancata crescita nel mondo esterno.</VatLearning.description>
+  <VatLearning.description>La vasca di crescita stimola elettricamente il cervello di questa persona per indurre lo sviluppo delle abilità. Questo processo non è molto efficace e sostituirà solo in parte le abilità perse a causa della mancata crescita nel mondo esterno.</VatLearning.description>
   
   <!-- EN: xenogermination coma -->
-  <XenogerminationComa.label>Coma di xenogerminazione</XenogerminationComa.label>
+  <XenogerminationComa.label>coma da xenogerminazione</XenogerminationComa.label>
   <!-- EN: A xenogerm was implanted in this person. The xenogerm needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the xenogerm keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a xenogerm with better medical facilities and more skilled doctors. -->
-  <XenogerminationComa.description>In questa persona è stato impiantato uno xenogerma. Lo xenogerme ha bisogno di tempo per integrarsi nell'ospite e modificare i geni e la chimica dei vari tessuti del corpo. Durante questo periodo, la persona non può svegliarsi in sicurezza, quindi lo xenogerme la mantiene in coma.\n\nLa durata di questo coma può essere ridotta impiantando uno xenogerme in strutture mediche migliori e medici più qualificati.</XenogerminationComa.description>
+  <XenogerminationComa.description>In questa persona è stato impiantato uno xenogerme. Lo xenogerme ha bisogno di tempo per integrarsi nell'ospite e modificare i geni e la chimica dei vari tessuti del corpo. Durante questo periodo, la persona non può svegliarsi in sicurezza, quindi lo xenogerme la mantiene in coma.\n\nLa durata di questo coma può essere ridotta impiantando uno xenogerme in strutture mediche migliori e medici più qualificati.</XenogerminationComa.description>
   
   <!-- EN: gene loss shock -->
   <XenogermLossShock.label>shock da perdita genetica</XenogermLossShock.label>
@@ -93,7 +93,7 @@
   <!-- EN: genes regrowing -->
   <XenogermReplicating.label>geni in ricrescita</XenogermReplicating.label>
   <!-- EN: This person's genetic material is regrowing. This process doesn't have any direct health effects. However, extracting their genes while they are regrowing will kill them. -->
-  <XenogermReplicating.description>Il materiale genetico di questa persona sta ricrescendo. Questo processo non ha effetti diretti sulla salute. Tuttavia, estrarre i loro geni mentre stanno ricrescendo li ucciderà.</XenogermReplicating.description>
+  <XenogermReplicating.description>Il materiale genetico di questa persona sta ricrescendo. Questo processo non ha effetti diretti sulla salute. Tuttavia, estrarne i geni mentre stanno ricrescendo la ucciderà.</XenogermReplicating.description>
   <!-- EN: {PAWN_nameDef}'s genes have finished regrowing. -->
   <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>I geni di {PAWN_nameDef} hanno finito di ricrescere.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
   

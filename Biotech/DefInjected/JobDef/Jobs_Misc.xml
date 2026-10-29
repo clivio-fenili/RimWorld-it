@@ -2,81 +2,81 @@
 <LanguageData>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <AbsorbXenogerm.reportString>assorbendo lo xenogerme da TargetA.</AbsorbXenogerm.reportString>
+  <AbsorbXenogerm.reportString>assorbe lo xenogerme di TargetA.</AbsorbXenogerm.reportString>
   
   <!-- EN: hauling TargetA to TargetB. -->
-  <CarryGenepackToContainer.reportString>trasportando TargetA a Target.</CarryGenepackToContainer.reportString>
+  <CarryGenepackToContainer.reportString>trasporta TargetA in TargetB.</CarryGenepackToContainer.reportString>
   
   <!-- EN: carrying TargetB to TargetA. -->
-  <CarryToBuilding.reportString>portando TargetB a TargetA.</CarryToBuilding.reportString>
+  <CarryToBuilding.reportString>porta TargetB in TargetA.</CarryToBuilding.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityGoToThing.reportString>Facendo qualcosa.</CastAbilityGoToThing.reportString>
+  <CastAbilityGoToThing.reportString>fa qualcosa.</CastAbilityGoToThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeapon.reportString>Facendo qualcosa.</CastAbilityOnThingWithoutWeapon.reportString>
+  <CastAbilityOnThingWithoutWeapon.reportString>fa qualcosa.</CastAbilityOnThingWithoutWeapon.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>Facendo qualcosa.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>fa qualcosa.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
   
   <!-- EN: cleaning pollution. -->
-  <ClearPollution.reportString>pulizia dell'inquinamento.</ClearPollution.reportString>
+  <ClearPollution.reportString>pulisce l'inquinamento.</ClearPollution.reportString>
   
   <!-- EN: taking control of TargetA. -->
-  <ControlMech.reportString>prendendo il controllo di TargetA.</ControlMech.reportString>
+  <ControlMech.reportString>prende il controllo di TargetA.</ControlMech.reportString>
   
   <!-- EN: creating xenogerm. -->
-  <CreateXenogerm.reportString>creando xenogermi.</CreateXenogerm.reportString>
+  <CreateXenogerm.reportString>crea uno xenogerme.</CreateXenogerm.reportString>
   
   <!-- EN: deathresting. -->
-  <Deathrest.reportString>riposo a morte.</Deathrest.reportString>
+  <Deathrest.reportString>è in riposo mortale.</Deathrest.reportString>
   
   <!-- EN: disassembling TargetA. -->
-  <DisassembleMech.reportString>smontando TargetA.</DisassembleMech.reportString>
+  <DisassembleMech.reportString>smonta TargetA.</DisassembleMech.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterBuilding.reportString>inserendo TargetA.</EnterBuilding.reportString>
+  <EnterBuilding.reportString>entra in TargetA.</EnterBuilding.reportString>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <GetReimplanted.reportString>assorbendo lo xenogerme da TargetA.</GetReimplanted.reportString>
+  <GetReimplanted.reportString>assorbe lo xenogerme di TargetA.</GetReimplanted.reportString>
   
   <!-- EN: hauling TargetA to charger. -->
-  <HaulMechToCharger.reportString>trasportare TargetA al caricabatterie.</HaulMechToCharger.reportString>
+  <HaulMechToCharger.reportString>porta TargetA al caricatore.</HaulMechToCharger.reportString>
   
   <!-- EN: installing TargetA. -->
-  <InstallMechlink.reportString>installazione di TargetA.</InstallMechlink.reportString>
+  <InstallMechlink.reportString>installa TargetA.</InstallMechlink.reportString>
   
   <!-- EN: charging. -->
-  <MechCharge.reportString>ricarica.</MechCharge.reportString>
+  <MechCharge.reportString>si ricarica.</MechCharge.reportString>
   
   <!-- EN: feeding on TargetA. -->
-  <PrisonerBloodfeed.reportString>nutrendosi di TargetA.</PrisonerBloodfeed.reportString>
+  <PrisonerBloodfeed.reportString>si nutre di TargetA.</PrisonerBloodfeed.reportString>
   
   <!-- EN: decrypting TargetA. -->
-  <ReadDatacore.reportString>decodifica TargetA.</ReadDatacore.reportString>
+  <ReadDatacore.reportString>decifra TargetA.</ReadDatacore.reportString>
   
   <!-- EN: releasing mechanoids. -->
-  <ReleaseMechs.reportString>meccanoidi di rilascio.</ReleaseMechs.reportString>
+  <ReleaseMechs.reportString>rilascia i meccanoidi.</ReleaseMechs.reportString>
   
   <!-- EN: Doing something. -->
-  <RemoveMechlink.reportString>Facendo qualcosa.</RemoveMechlink.reportString>
+  <RemoveMechlink.reportString>fa qualcosa.</RemoveMechlink.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMech.reportString>riparare TargetA.</RepairMech.reportString>
+  <RepairMech.reportString>ripara TargetA.</RepairMech.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMechRemote.reportString>riparare TargetA.</RepairMechRemote.reportString>
+  <RepairMechRemote.reportString>ripara TargetA.</RepairMechRemote.reportString>
   
   <!-- EN: dormant self-charging. -->
-  <SelfShutdown.reportString>autocarica dormiente.</SelfShutdown.reportString>
+  <SelfShutdown.reportString>è in autoricarica dormiente.</SelfShutdown.reportString>
   
   <!-- EN: shielding TargetA. -->
-  <ShieldMech.reportString>schermatura TargetA.</ShieldMech.reportString>
+  <ShieldMech.reportString>protegge TargetA con uno scudo.</ShieldMech.reportString>
   
   <!-- EN: romancing TargetA. -->
-  <TryRomance.reportString>romanticismo TargetA.</TryRomance.reportString>
+  <TryRomance.reportString>corteggia TargetA.</TryRomance.reportString>
   
   <!-- EN: waiting. -->
-  <Wait_WithSleeping.reportString>in attesa.</Wait_WithSleeping.reportString>
+  <Wait_WithSleeping.reportString>aspetta.</Wait_WithSleeping.reportString>
   
 </LanguageData>

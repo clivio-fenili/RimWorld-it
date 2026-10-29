@@ -7,21 +7,21 @@
   <AllowedAreaMech.headerTip>Le aree consentite si applicano solo ai mech in modalità lavoro e ricarica.</AllowedAreaMech.headerTip>
   
   <!-- EN: auto repair -->
-  <AutoRepair.label>Auto Riparazione</AutoRepair.label>
+  <AutoRepair.label>autoriparazione</AutoRepair.label>
   
   <!-- EN: control group -->
   <ControlGroup.label>gruppo di controllo</ControlGroup.label>
   
   <!-- EN: draft -->
-  <DraftMech.label>bozza</DraftMech.label>
+  <DraftMech.label>mobilitazione</DraftMech.label>
   
   <!-- EN: energy -->
   <Energy.label>energia</Energy.label>
   
   <!-- EN: overseer -->
-  <Overseer.label>sorvegliante</Overseer.label>
+  <Overseer.label>supervisore</Overseer.label>
   
   <!-- EN: work mode -->
-  <WorkMode.label>modalità Lavoro</WorkMode.label>
+  <WorkMode.label>modalità di lavoro</WorkMode.label>
   
 </LanguageData>

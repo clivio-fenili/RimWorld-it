@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: waster grenadier -->
-  <Grenadier_Tox.label>granatiere sprecatore</Grenadier_Tox.label>
+  <Grenadier_Tox.label>granatiere waster</Grenadier_Tox.label>
   
   <!-- EN: elite waster -->
-  <Mercenary_EliteTox.label>sprecatore d'élite</Mercenary_EliteTox.label>
+  <Mercenary_EliteTox.label>waster d'élite</Mercenary_EliteTox.label>
   <!-- EN: elite mercenaries -->
   <Mercenary_EliteTox.labelPlural>mercenari d'élite</Mercenary_EliteTox.labelPlural>
   
   <!-- EN: waster gunner -->
-  <Mercenary_GunnerTox.label>artigliere sprecato</Mercenary_GunnerTox.label>
+  <Mercenary_GunnerTox.label>artigliere waster</Mercenary_GunnerTox.label>
   
   <!-- EN: heavy waster -->
-  <Mercenary_HeavyTox.label>pesante perditempo</Mercenary_HeavyTox.label>
+  <Mercenary_HeavyTox.label>waster pesante</Mercenary_HeavyTox.label>
   
   <!-- EN: waster slasher -->
-  <Mercenary_SlasherTox.label>slasher sprecatore</Mercenary_SlasherTox.label>
+  <Mercenary_SlasherTox.label>squartatore waster</Mercenary_SlasherTox.label>
   
   <!-- EN: waster boss -->
-  <PirateBossTox.label>capo dei rifiuti</PirateBossTox.label>
+  <PirateBossTox.label>capo waster</PirateBossTox.label>
   <!-- EN: waster bosses -->
-  <PirateBossTox.labelPlural>capi sprecatori</PirateBossTox.labelPlural>
+  <PirateBossTox.labelPlural>capi waster</PirateBossTox.labelPlural>
   
 </LanguageData>

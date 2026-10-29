@@ -7,18 +7,18 @@
   <Escort.description>Rimani vicino al meccanista e combatti i nemici vicini. Segui il meccanista, anche fuori dalla mappa.</Escort.description>
   
   <!-- EN: recharge -->
-  <Recharge.label>ricaricare</Recharge.label>
+  <Recharge.label>ricarica</Recharge.label>
   <!-- EN: Go to rechargers and recharge, even if already well-charged. -->
-  <Recharge.description>Vai ai ricaricatori e ricarica, anche se già ben carica.</Recharge.description>
+  <Recharge.description>Vai ai caricatori e ricaricati, anche se già ben carico.</Recharge.description>
   
   <!-- EN: dormant self-charge -->
   <SelfShutdown.label>autocarica dormiente</SelfShutdown.label>
   <!-- EN: Go into a dormant self-charging state that very slowly regains energy without a recharger. -->
-  <SelfShutdown.description>Entra in uno stato dormiente di autoricarica che recupera molto lentamente energia senza ricaricatore.</SelfShutdown.description>
+  <SelfShutdown.description>Entra in uno stato dormiente di autoricarica che recupera molto lentamente energia senza caricatore.</SelfShutdown.description>
   
   <!-- EN: work -->
   <Work.label>lavoro</Work.label>
   <!-- EN: Work autonomously according to mechanoid type. Automatically go to rechargers and recharge when needed. -->
-  <Work.description>Lavora in autonomia in base al tipo di meccanoide. Vai automaticamente ai caricabatterie e ricarica quando necessario.</Work.description>
+  <Work.description>Lavora in autonomia in base al tipo di meccanoide. Vai automaticamente ai caricatori e ricarica quando necessario.</Work.description>
   
 </LanguageData>

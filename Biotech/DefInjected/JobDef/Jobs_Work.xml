@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: extracting TargetB from TargetA. -->
-  <EmptyWasteContainer.reportString>estraendo TargetB da TargetA.</EmptyWasteContainer.reportString>
+  <EmptyWasteContainer.reportString>estrae TargetB da TargetA.</EmptyWasteContainer.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToAtomizer.reportString>trasportando TargetA.</HaulToAtomizer.reportString>
+  <HaulToAtomizer.reportString>trasporta TargetA.</HaulToAtomizer.reportString>
   
 </LanguageData>

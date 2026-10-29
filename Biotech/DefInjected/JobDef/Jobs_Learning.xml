@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: floordrawing. -->
-  <Floordrawing.reportString>disegno del pavimento.</Floordrawing.reportString>
+  <Floordrawing.reportString>disegna sul pavimento.</Floordrawing.reportString>
   
   <!-- EN: teaching a lesson. -->
-  <Lessongiving.reportString>insegnare una lezione.</Lessongiving.reportString>
+  <Lessongiving.reportString>tiene una lezione.</Lessongiving.reportString>
   
   <!-- EN: learning a lesson -->
-  <Lessontaking.reportString>imparare una lezione.</Lessontaking.reportString>
+  <Lessontaking.reportString>segue una lezione.</Lessontaking.reportString>
   
   <!-- EN: nature running. -->
-  <NatureRunning.reportString>la natura che corre.</NatureRunning.reportString>
+  <NatureRunning.reportString>corre all'aria aperta.</NatureRunning.reportString>
   
   <!-- EN: radiotalking. -->
-  <Radiotalking.reportString>radioparlante.</Radiotalking.reportString>
+  <Radiotalking.reportString>parla alla radio.</Radiotalking.reportString>
   
   <!-- EN: skydreaming. -->
-  <Skydreaming.reportString>sognare nel cielo.</Skydreaming.reportString>
+  <Skydreaming.reportString>sogna guardando il cielo.</Skydreaming.reportString>
   
   <!-- EN: watching work be performed. -->
-  <Workwatching.reportString>osservare il lavoro svolto.</Workwatching.reportString>
+  <Workwatching.reportString>osserva qualcuno che lavora.</Workwatching.reportString>
   
 </LanguageData>

@@ -7,11 +7,11 @@
   <GiveQuest_AncientComplex_Mechanitor.letterLabel>antico complesso meccanista</GiveQuest_AncientComplex_Mechanitor.letterLabel>
   
   <!-- EN: polux tree -->
-  <PoluxTreeSpawn.label>albero di polluce</PoluxTreeSpawn.label>
+  <PoluxTreeSpawn.label>albero di polux</PoluxTreeSpawn.label>
   <!-- EN: Polux tree sprout -->
-  <PoluxTreeSpawn.letterLabel>Germoglio dell'albero di Polluce</PoluxTreeSpawn.letterLabel>
+  <PoluxTreeSpawn.letterLabel>Germoglio di albero di polux</PoluxTreeSpawn.letterLabel>
   <!-- EN: A polux tree has sprouted nearby!\n\nPolux trees slowly absorb pollution from the terrain around them. Unlike most methods of clearing polluted terrain, polux trees do not generate toxic wastepacks. -->
-  <PoluxTreeSpawn.letterText>Un albero di Pollux è germogliato nelle vicinanze!\n\nGli alberi di Pollux assorbono lentamente l'inquinamento dal terreno circostante. A differenza della maggior parte dei metodi di bonifica dei terreni inquinati, gli alberi inquinati non generano accumuli di rifiuti tossici.</PoluxTreeSpawn.letterText>
+  <PoluxTreeSpawn.letterText>Un albero di polux è germogliato nelle vicinanze!\n\nGli alberi di polux assorbono lentamente l'inquinamento dal terreno circostante. A differenza della maggior parte dei metodi di bonifica dei terreni inquinati, gli alberi di polux non producono contenitori di rifiuti tossici.</PoluxTreeSpawn.letterText>
   
   <!-- EN: transport pod crash -->
   <RefugeePodCrash_Baby.label>incidente della capsula di trasporto</RefugeePodCrash_Baby.label>

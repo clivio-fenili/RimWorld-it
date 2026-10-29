@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: playing with TargetA. -->
-  <BabyPlay.reportString>giocando con TargetA.</BabyPlay.reportString>
+  <BabyPlay.reportString>gioca con TargetA.</BabyPlay.reportString>
   
   <!-- EN: feeding from TargetA. -->
-  <BabySuckle.reportString>alimentazione da TargetA.</BabySuckle.reportString>
+  <BabySuckle.reportString>poppa da TargetA.</BabySuckle.reportString>
   
   <!-- EN: feeding TargetB to TargetA. -->
-  <BottleFeedBaby.reportString>alimentando TargetB a TargetA.</BottleFeedBaby.reportString>
+  <BottleFeedBaby.reportString>dà TargetB a TargetA.</BottleFeedBaby.reportString>
   
   <!-- EN: breastfeeding TargetA. -->
-  <Breastfeed.reportString>allattamento al seno TargetA.</Breastfeed.reportString>
+  <Breastfeed.reportString>allatta TargetA al seno.</Breastfeed.reportString>
   
   <!-- EN: carrying TargetA to TargetB. -->
-  <BreastfeedCarryToMom.reportString>portando CardA a Target.</BreastfeedCarryToMom.reportString>
+  <BreastfeedCarryToMom.reportString>porta TargetA da TargetB.</BreastfeedCarryToMom.reportString>
   
   <!-- EN: putting TargetA somewhere safe. -->
-  <BringBabyToSafety.reportString>mettendo TargetA in un posto sicuro.</BringBabyToSafety.reportString>
+  <BringBabyToSafety.reportString>porta TargetA in un posto sicuro.</BringBabyToSafety.reportString>
   
   <!-- EN: putting TargetA somewhere safe. -->
-  <BringBabyToSafetyUnforced.reportString>mettendo TargetA in un posto sicuro.</BringBabyToSafetyUnforced.reportString>
+  <BringBabyToSafetyUnforced.reportString>porta TargetA in un posto sicuro.</BringBabyToSafetyUnforced.reportString>
   
   <!-- EN: carrying TargetA to TargetB. -->
-  <CarryToMomAfterBirth.reportString>portando CardA a Target.</CarryToMomAfterBirth.reportString>
+  <CarryToMomAfterBirth.reportString>porta TargetA da TargetB.</CarryToMomAfterBirth.reportString>
   
   <!-- EN: fertilizing TargetA. -->
-  <FertilizeOvum.reportString>fertilizzazione TargetA.</FertilizeOvum.reportString>
+  <FertilizeOvum.reportString>feconda TargetA.</FertilizeOvum.reportString>
   
 </LanguageData>
