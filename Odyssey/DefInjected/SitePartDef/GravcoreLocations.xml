@@ -30,9 +30,9 @@
   <CrashedMechanoidPlatform.mainPartAllThreatsLabel>Contiene: nucleo a gravitoni</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
   
   <!-- EN: frozen terraformer -->
-  <FrozenTerraformer.label>terraformer congelato</FrozenTerraformer.label>
+  <FrozenTerraformer.label>terraformante congelato</FrozenTerraformer.label>
   <!-- EN: You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
-  <FrozenTerraformer.description>Hai rilevato la firma energetica di un nucleo a gravitoni. Il nucleo a gravitoni alimenta un antico terraformer malfunzionante. La sua posizione è segnata sulla mappa del mondo.\n\nIl terraformer sta raffreddando la regione locale a temperature pericolosamente basse. Preparati al freddo.\n\nOttieni nuclei a gravitoni e pannelli di gravlite per aumentare le dimensioni della tua nave gravitazionale.</FrozenTerraformer.description>
+  <FrozenTerraformer.description>Hai rilevato la firma energetica di un nucleo a gravitoni. Il nucleo a gravitoni alimenta un antico terraformante malfunzionante. La sua posizione è segnata sulla mappa del mondo.\n\nIl terraformante sta raffreddando la regione locale a temperature pericolosamente basse. Preparati al freddo.\n\nOttieni nuclei a gravitoni e pannelli di gravlite per aumentare le dimensioni della tua nave gravitazionale.</FrozenTerraformer.description>
   <!-- EN: Contains: Gravcore -->
   <FrozenTerraformer.mainPartAllThreatsLabel>Contiene: nucleo a gravitoni</FrozenTerraformer.mainPartAllThreatsLabel>
   

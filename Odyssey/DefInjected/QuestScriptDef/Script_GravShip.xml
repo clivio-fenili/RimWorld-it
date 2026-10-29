@@ -47,18 +47,18 @@
   </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Frozen terraformer -->
-  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>Nucleo a gravitoni rilevato: Terraformer congelato</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>Nucleo a gravitoni rilevato: Terraformante congelato</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather and a long stay.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
   <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
-    <li>questDescription->Hai rilevato la firma energetica di un nucleo a gravitoni. Il nucleo a gravitoni alimenta un antico terraformer difettoso. La sua posizione è segnata sulla mappa del mondo.\n\nIl terraformer sta raffreddando la regione locale a temperature pericolosamente basse. Preparati a un clima freddo e a un soggiorno prolungato.\n\nOttieni nuclei a gravitoni e pannelli di gravlite per aumentare le dimensioni della tua nave gravitazionale.</li>
+    <li>questDescription->Hai rilevato la firma energetica di un nucleo a gravitoni. Il nucleo a gravitoni alimenta un antico terraformante difettoso. La sua posizione è segnata sulla mappa del mondo.\n\nIl terraformante sta raffreddando la regione locale a temperature pericolosamente basse. Preparati a un clima freddo e a un soggiorno prolungato.\n\nOttieni nuclei a gravitoni e pannelli di gravlite per aumentare le dimensioni della tua nave gravitazionale.</li>
   </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->frozen terraformer</li>
   -->
   <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
-    <li>questName->terraformer congelato</li>
+    <li>questName->terraformante congelato</li>
   </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Cave entrance -->
