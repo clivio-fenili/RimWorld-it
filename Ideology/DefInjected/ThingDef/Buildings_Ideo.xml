@@ -60,12 +60,12 @@
   <!-- EN: darktorch -->
   <Darktorch.label>torcia oscura</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>Torcia in legno appositamente trattato che produce una luce fioca su una vasta area. Le persone che preferiscono la luce oscura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente di legna. Produci una piccola quantità di calore.</Darktorch.description>
+  <Darktorch.description>Torcia in legno appositamente trattato che produce una luce fioca su una vasta area. Le persone che preferiscono la luce scura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente di legna. Produci una piccola quantità di calore.</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
   <DarktorchFungus.label>torcia oscura fungina</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
-  <DarktorchFungus.description>Una torcia fungina appositamente trattata che produce una luce fioca su una vasta area. Le persone che preferiscono la luce oscura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente con funghi crudi. Produci una piccola quantità di calore.</DarktorchFungus.description>
+  <DarktorchFungus.description>Una torcia fungina appositamente trattata che produce una luce fioca su una vasta area. Le persone che preferiscono la luce scura funzionano meglio con questa fonte di luce. Può essere rifornito automaticamente con funghi crudi. Produci una piccola quantità di calore.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>effigie</Effigy.label>

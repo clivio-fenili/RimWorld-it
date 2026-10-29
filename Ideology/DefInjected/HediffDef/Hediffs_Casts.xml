@@ -44,7 +44,7 @@
   <!-- EN: mining command -->
   <MiningCommand.label>comando minerario</MiningCommand.label>
   <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
-  <MiningCommand.description>Questa persona offre indicazioni sulle tecniche di mining, aumentando la velocità di mining per tutti coloro che si trovano nelle vicinanze.</MiningCommand.description>
+  <MiningCommand.description>Questa persona offre indicazioni sulle tecniche di estrazione, aumentando la velocità di estrazione per tutti coloro che si trovano nelle vicinanze.</MiningCommand.description>
   
   <!-- EN: mining command -->
   <MiningCommandBuff.label>comando minerario</MiningCommandBuff.label>

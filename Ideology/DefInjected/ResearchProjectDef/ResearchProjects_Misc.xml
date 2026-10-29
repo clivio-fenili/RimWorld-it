@@ -27,7 +27,7 @@
   <!-- EN: biosculpting -->
   <Biosculpting.label>bioscultura</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
-  <Biosculpting.description>Costruisci capsule bioscultrici in grado di eseguire varie alterazioni biologiche sui coloni. Questi sono particolarmente importanti per i credenti nel transumanesimo.</Biosculpting.description>
+  <Biosculpting.description>Costruisci capsule bioscultore in grado di eseguire varie alterazioni biologiche sui coloni. Sono particolarmente importanti per i credenti nel transumanesimo.</Biosculpting.description>
   <!-- EN:
     <li>subject->biosculpting</li>
     <li>subject_story->constructed biosculpter pods on contract for various colonies</li>
@@ -40,12 +40,12 @@
   -->
   <Biosculpting.generalRules.rulesStrings>
     <li>subject->bioscultura</li>
-    <li>subject_story->ha costruito capsule bioscultrici su contratto per varie colonie</li>
+    <li>subject_story->ha costruito capsule bioscultore su contratto per varie colonie</li>
     <li>subject_story->ha studiato i precetti transumanisti, inclusa la necessità della bioscultura</li>
     <li>subject_story->ha ricercato quali alterazioni biologiche potessero essere effettuate in sicurezza</li>
     <li>subject_story->è fuggito da una fattoria di supporto di Glitterworld con questi piani</li>
     <li>subject_story->è stato accolto in una colonia transumanista</li>
-    <li>subject_gerund->costruire capsule bioscultrici</li>
+    <li>subject_gerund->costruire capsule bioscultore</li>
     <li>subject_gerund->scolpire la forma umana</li>
   </Biosculpting.generalRules.rulesStrings>
   

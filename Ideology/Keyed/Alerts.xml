@@ -37,7 +37,7 @@
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0} desiderato</IdeoBuildingMissing>
   <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>{IDEO_name} richiede che tu abbia un {0} nella tua colonia finché {2} o superiore.\n\n{0} è una variante di {BASEBUILDING_label}.{BUILDINGINFO}\n\nQuesto requisito è attivo solo se {IDEO_name} è l'ideologia principale della tua fazione oppure ci sono {MINBELIEVERS} credenti nella tua fazione.{4}\n\nSe il requisito non viene soddisfatto, questi credenti diventeranno infelici:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} richiede che tu abbia un {0} nella tua colonia finché {2} o superiore.\n\n{0} è una variante di {BASEBUILDING_label}.{BUILDINGINFO}\n\nQuesto requisito è attivo solo se {IDEO_name} è l'ideoligione principale della tua fazione oppure ci sono {MINBELIEVERS} credenti nella tua fazione.{4}\n\nSe il requisito non viene soddisfatto, questi credenti diventeranno infelici:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
   <IdeoBuildingArchitectTabDesc>Puoi trovarlo aprendo la scheda '{TABNAME}' del menu architetto.</IdeoBuildingArchitectTabDesc>
   <!-- EN:  It can be created at:\n{0}. -->
@@ -81,7 +81,7 @@
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>È stata richiesta un’inversione di età</AlertAgeReversalDemandNear>
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
-  <AlertAgeReversalDemandDesc>A causa delle loro convinzioni, alcuni dei tuoi coloni richiedono trattamenti regolari per l'inversione dell'età in una capsula bioscultrice. Se non ricevono i trattamenti, saranno scontenti.\n\nLe seguenti persone richiedono un trattamento per l'inversione dell'età</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc>A causa delle loro convinzioni, alcuni dei tuoi coloni richiedono trattamenti regolari per l'inversione dell'età in una capsula bioscultore. Se non ricevono i trattamenti, saranno scontenti.\n\nLe seguenti persone richiedono un trattamento per l'inversione dell'età</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
   <AlertAgeReversalDemandDesc_Recruit>{PAWN} si è iscritto a {FACTION} di recente e desidera iniziare i trattamenti per l'inversione dell'età in {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->

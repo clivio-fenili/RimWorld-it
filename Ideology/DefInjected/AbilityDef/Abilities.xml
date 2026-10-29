@@ -11,7 +11,7 @@
   <!-- EN: berserk trance -->
   <BerserkTrance.label>trance furiosa</BerserkTrance.label>
   <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>L'incantatore si riempie di rabbia per le lamentele ideologiche. Ciò rafforza il corpo oltre i limiti normali, ma significa anche perdere il controllo e attaccare ogni nemico nelle vicinanze con una rabbia inarrestabile. Lo stato furioso durerà 3 ore.</BerserkTrance.description>
+  <BerserkTrance.description>L'utilizzatore si riempie di rabbia per le lamentele ideologiche. Ciò rafforza il corpo oltre i limiti normali, ma significa anche perdere il controllo e attaccare ogni nemico nelle vicinanze con una rabbia inarrestabile. Lo stato furioso durerà 3 ore.</BerserkTrance.description>
   
   <!-- EN: combat command -->
   <CombatCommand.label>comando di combattimento</CombatCommand.label>
@@ -46,7 +46,7 @@
   <!-- EN: farming command -->
   <FarmingCommand.label>comando agricolo</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <FarmingCommand.description>Offri indicazioni sulle tecniche agricole, aumentando le capacità agricole di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'incantatore per 24 ore.</FarmingCommand.description>
+  <FarmingCommand.description>Offri indicazioni sulle tecniche agricole, aumentando le capacità agricole di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'utilizzatore per 24 ore.</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
   <ImmunityDrive.label>spinta immunitaria</ImmunityDrive.label>
@@ -61,22 +61,22 @@
   <!-- EN: marksman command -->
   <MarksmanCommand.label>comando del tiratore scelto</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MarksmanCommand.description>Dà indicazioni di tiro e potenzia le abilità di tiro di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'incantatore per 24 ore.</MarksmanCommand.description>
+  <MarksmanCommand.description>Dà indicazioni di tiro e potenzia le abilità di tiro di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'utilizzatore per 24 ore.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
   <MiningCommand.label>comando minerario</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MiningCommand.description>Offri indicazioni sulle tecniche di mining, aumentando la velocità di mining per tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'incantatore per 24 ore.</MiningCommand.description>
+  <MiningCommand.description>Offri indicazioni sulle tecniche di estrazione, aumentando la velocità di estrazione per tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'utilizzatore per 24 ore.</MiningCommand.description>
   
   <!-- EN: preach health -->
   <PreachHealth.label>predicare la salute</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>Predica la forza morale a una persona malata o ferita attraverso i concetti della tua ideologia. Questo migliorerà la sua velocità di guarigione delle ferite e di acquisizione dell'immunità.</PreachHealth.description>
+  <PreachHealth.description>Predica la forza morale a una persona malata o ferita attraverso i concetti della tua ideoligione. Questo migliorerà la sua velocità di guarigione delle ferite e di acquisizione dell'immunità.</PreachHealth.description>
   
   <!-- EN: production command -->
   <ProductionCommand.label>comando di produzione</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ProductionCommand.description>Offri indicazioni sulle tecniche di costruzione, potenziando le abilità di costruzione e artigianato per tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'incantatore per 24 ore.</ProductionCommand.description>
+  <ProductionCommand.description>Offri indicazioni sulle tecniche di costruzione, potenziando le abilità di costruzione e artigianato per tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'utilizzatore per 24 ore.</ProductionCommand.description>
   
   <!-- EN: reassure -->
   <Reassure.label>rassicurare</Reassure.label>
@@ -88,7 +88,7 @@
   <!-- EN: research command -->
   <ResearchCommand.label>comando di ricerca</ResearchCommand.label>
   <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ResearchCommand.description>Fornisci suggerimenti e supporto mentale, aumentando la velocità di ricerca di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'incantatore per 24 ore.</ResearchCommand.description>
+  <ResearchCommand.description>Fornisci suggerimenti e supporto mentale, aumentando la velocità di ricerca di tutti coloro che si trovano nelle vicinanze. L'effetto rimane attaccato all'utilizzatore per 24 ore.</ResearchCommand.description>
   
   <!-- EN: trial -->
   <Trial.label>processo</Trial.label>

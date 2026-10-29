@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>Personalizzare l'ideologia</CustomizeIdeoligion>
+  <CustomizeIdeoligion>Personalizzare l'ideoligione</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
-  <ChooseYourIdeoligion>Scegli la tua ideologia</ChooseYourIdeoligion>
+  <ChooseYourIdeoligion>Scegli la tua ideoligione</ChooseYourIdeoligion>
   <!-- EN: A random structure will be used for your ideoligion. -->
   <RandomStructureTip>Per la tua ideoligione verrà utilizzata una struttura casuale.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
@@ -34,7 +34,7 @@
   <!-- EN: Load existing -->
   <LoadExisting>Carica esistente</LoadExisting>
   <!-- EN: Create custom ideoligion -->
-  <CreateCustomIdeoligion>Creare un'ideologia personalizzata</CreateCustomIdeoligion>
+  <CreateCustomIdeoligion>Creare un'ideoligione personalizzata</CreateCustomIdeoligion>
   <!-- EN: Custom ideoligion -->
   <CustomIdeoligionSectionHeader>Ideologia personalizzata</CustomIdeoligionSectionHeader>
   <!-- EN: Faction ideoligions -->
@@ -544,9 +544,9 @@
   <!-- EN: Assign colonists to your ideoligion -->
   <AssignColonists>Assegna i coloni alla tua ideoligione</AssignColonists>
   <!-- EN: Remove new ideoligion -->
-  <RemoveNewIdeoligion>Rimuovere la nuova ideologia</RemoveNewIdeoligion>
+  <RemoveNewIdeoligion>Rimuovere la nuova ideoligione</RemoveNewIdeoligion>
   <!-- EN: Make this your primary ideoligion -->
-  <MakeIdeoligionPrimary>Rendi questa la tua ideologia principale</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>Rendi questa la tua ideoligione principale</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
@@ -571,7 +571,7 @@
   <SupplySatellite>Satellite di rifornimento</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>Il colono non è disposto a estrarre il teschio dal cadavere (manca un precetto a favore delle punte del teschio)</CannotExtractSkull>
+  <CannotExtractSkull>Il colono non è disposto a estrarre il teschio dal cadavere (manca un precetto a favore dei teschi su picca)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>Anteprima del suono dell'atmosfera rituale</TipPreviewRitualAmbienceSound>
 
