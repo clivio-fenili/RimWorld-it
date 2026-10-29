@@ -78,10 +78,10 @@
   -->
   <NamerXenotype.rulePack.rulesStrings>
     <li>r_name(p=1)->[anyPrefisso][anySuffisso]</li>
-    <li>r_name(p=0.1)->[nomeCompleto]</li>
-    <li>anyPrefisso(p=2)->[genePrefisso]</li>
+    <li>r_name(p=0.1)->[wholeName]</li>
+    <li>anyPrefisso(p=2)->[genePrefix]</li>
     <li>anyPrefisso->[prefissoComune]</li>
-    <li>anySuffisso->[geneSuffisso]</li>
+    <li>anySuffisso->[geneSuffix]</li>
     <li>anySuffisso(p=3)->[suffissoComune]</li>
     <li>prefissoComune->xeno</li>
     <li>prefissoComune->alt</li>
