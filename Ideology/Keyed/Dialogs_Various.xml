@@ -75,9 +75,9 @@
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
   <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} attualmente ricopre il ruolo di {ROLE_label} e non sarà felice di perderlo.</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>Può esserci un solo leader. Ciò allontanerà {PAWN_labelShort} dal suo ruolo {OTHERROLE_labelDef}, il che farà arrabbiare {PAWN_objective}.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>Può esserci un solo leader. Questo toglierà a {PAWN_labelShort} il ruolo di {OTHERROLE_labelDef}, e la cosa l{PAWN_gender ? o : a} farà arrabbiare.</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
-  <ChooseRoleConfirmUnassign>Stai per licenziare {PAWN_labelShort} dal ruolo di {ROLE_labelIndef}. Questo sconvolgerà {PAWN_objective}.</ChooseRoleConfirmUnassign>
+  <ChooseRoleConfirmUnassign>Stai per togliere a {PAWN_labelShort} il ruolo di {ROLE_labelIndef}. La cosa l{PAWN_gender ? o : a} turberà.</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
   <ChooseRoleListAbilities>{PAWN_labelShort} acquisirà le seguenti abilità</ChooseRoleListAbilities>
   <!-- EN: The {ROLE_label} role requires the following apparel -->
@@ -95,7 +95,7 @@
   <!-- EN: Unlocked rituals -->
   <MemeUnlocksRituals>Rituali sbloccati</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>ATTENZIONE: {PAWN_nameDef} non è in grado di eseguire il lavoro richiesto per il ruolo di {ROLE_label}. Se scegli di assegnare a {PAWN_objective} questo ruolo, {PAWN_pronoun} potrebbe non essere in grado di utilizzare le abilità associate a {ROLE_label}. I tipi di lavoro mancanti sono</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>ATTENZIONE: {PAWN_nameDef} non è in grado di svolgere il lavoro richiesto per il ruolo di {ROLE_label}. Se gli assegni questo ruolo, potrebbe non riuscire a usare le abilità legate a {ROLE_label}. I tipi di lavoro mancanti sono</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
   <YourLeaderTradeBonus>Bonus leader</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
@@ -164,14 +164,14 @@
   <!-- EN: Any slave -->
   <AnySlave>Qualsiasi schiavo</AnySlave>
   <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
-  <NegotiatorWillNotTradeSlaves>{0_nameDef} si rifiuta di vendere le persone in schiavitù secondo le credenze di {0_possessive}.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} si rifiuta di vendere persone come schiavi, per le sue convinzioni.</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>Il negoziatore, {0_nameDef}, non ridurrà le persone in schiavitù a causa della fede di {0_possessive} in {1}.\n\nNota che {0_nameDef} è disposto a riscattare qualcuno per riportarlo alla propria fazione {0_possessive}, ma non è disposto a vendere qualcuno a una fazione diversa.</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>Il negoziatore, {0_nameDef}, non venderà persone come schiavi per la sua fede in {1}.\n\nNota che {0_nameDef} è dispost{0_gender ? o : a} a cedere qualcuno dietro riscatto alla sua fazione, ma non a venderlo a una fazione diversa.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
   <LastHumanMeat>L'ultima carne umana</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>A causa della fede di {PAWN_possessive} in {IDEO_name}, {PAWN_nameDef} diventerà infelice se {PAWN_pronoun} passerà più di {DURATION} giorni senza mangiare carne umana.</LastHumanMeatDesc>
+  <LastHumanMeatDesc>A causa della sua fede in {IDEO_name}, {PAWN_nameDef} diventerà infelice se passerà più di {DURATION} giorni senza mangiare carne umana.</LastHumanMeatDesc>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>L'esecuzione di {PAWN_labelShort} influenzerà negativamente le relazioni con {FACTION_name}.</ExectueNeutralFactionSlave>
@@ -293,7 +293,7 @@
   <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
   <ShipEscapeWillEndDescription>L'astronave ibernata segnalata dall'IA (*Nome)Charlon Whitestone(/Nome) volerà via quando verrà fondata la nuova colonia. Non sarà più possibile fuggire dal pianeta viaggiando su questa nave.</ShipEscapeWillEndDescription>
   <!-- EN: No relic was chosen to be brought to the new colony. -->
-  <ArchonexusRelicNotChosen>Nessuna reliquia fu scelta per essere portata nella nuova colonia.</ArchonexusRelicNotChosen>
+  <ArchonexusRelicNotChosen>Non è stata scelta nessuna reliquia da portare nella nuova colonia.</ArchonexusRelicNotChosen>
   <!-- EN: {0} out of a possible {1} items were selected to be brought to the new colony. -->
   <ArchonexusItemsNotChosen>{0} tra {1} possibili oggetti sono stati selezionati da portare nella nuova colonia.</ArchonexusItemsNotChosen>
   <!-- EN: The colony's purchasers will only allow you to take one relic. Any other relics will be left behind (even if equipped by a colonist), including: -->

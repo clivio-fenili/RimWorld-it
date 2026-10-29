@@ -92,23 +92,23 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Possibilità di avere precetto</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>Il colore preferito di {PAWN_labelShort}: {COLOR}\nAvere più di {PERCENTAGE} di {PAWN_possessive} capi di abbigliamento in questo colore{ORIDEO} renderà {PAWN_objective} leggermente più felice.\n\nPuoi modificare i colori dei capi di abbigliamento nella postazione di styling utilizzando la tintura tinctoria.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>Colore preferito di {PAWN_labelShort}: {COLOR}\nAvere più del {PERCENTAGE} dei propri capi di abbigliamento in questo colore{ORIDEO} l{PAWN_gender ? o : a} renderà un po' più felice.\n\nPuoi cambiare i colori dei capi alla postazione di styling, usando la tintura di tinctoria.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
-  <OrIdeoColor>, o il colore dell'ideoligione {PAWN_possessive},</OrIdeoColor>
+  <OrIdeoColor>, o nel colore della sua ideoligione,</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Imposta colore ideoligione</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Imposta il colore preferito</SetFavoriteColor>
   <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
-  <FavoriteColorPickerTip>Colore preferito di {PAWN_nameDef}. Avere più del 60% dell'abbigliamento di {PAWN_possessive} in questo colore, o nel colore della sua ideoligione, renderà {PAWN_objective} leggermente più felice.</FavoriteColorPickerTip>
+  <FavoriteColorPickerTip>Colore preferito di {PAWN_nameDef}. Avere più del 60% dei propri capi di abbigliamento in questo colore, o nel colore della sua ideoligione, l{PAWN_gender ? o : a} renderà un po' più felice.</FavoriteColorPickerTip>
   <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
-  <IdeoColorPickerTip>Colore dell’ideoligione di {PAWN_nameDef}. Avere più del 60% dell'abbigliamento di {PAWN_possessive} in questo colore, o nel suo colore preferito, renderà {PAWN_objective} leggermente più felice.</IdeoColorPickerTip>
+  <IdeoColorPickerTip>Colore dell'ideoligione di {PAWN_nameDef}. Avere più del 60% dei propri capi di abbigliamento in questo colore, o nel suo colore preferito, l{PAWN_gender ? o : a} renderà un po' più felice.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Configura l'ideoligione della tua fazione</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Non abbastanza colorante.</NotEnoughDye>
   <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
-  <ApparelLockedCannotRecolor>{PAWN_nameDef} non è {PAWN_gender ? disposto : disposta} a ricolorare {PAWN_possessive} {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef} non è {PAWN_gender ? disposto : disposta} a ricolorare il capo: {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>Il colono ricolorerà i vestiti quando la tintura sarà disponibile.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -624,7 +624,7 @@
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} ha completato il ciclo di guarigione.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
-  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} ha completato il ciclo di guarigione e {PAWN_possessive} {HEDIFF_label} è stato curato.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} ha completato il ciclo di guarigione ed è guarit{PAWN_gender ? o : a}: {HEDIFF_label}.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} ha completato il suo ciclo di inversione dell’età.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->

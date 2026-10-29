@@ -16,11 +16,11 @@
   <!-- EN: {PRECEPT} needs an associated ritual. -->
   <MessageBuildingMissingRitual>{PRECEPT} necessita di un rituale associato.</MessageBuildingMissingRitual>
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
-  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} si rifiuta di farlo a causa dell'ideoligione di {0_possessive}.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} si rifiuta di farlo a causa della sua ideoligione.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} ha provato a convertire {RECIPIENT_nameDef} alla {INITIATOR_possessive} ideoligione. La certezza di {RECIPIENT_nameDef} è scesa da {CERTAINTYBEFORE} a {CERTAINTYAFTER}. {RECIPIENT_pronoun} prova risentimento per il tentativo di conversione.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} ha provato a convertire {RECIPIENT_nameDef} alla sua ideoligione. La certezza di {RECIPIENT_nameDef} è scesa da {CERTAINTYBEFORE} a {CERTAINTYAFTER}, e il tentativo di conversione ha lasciato del risentimento.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
-  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} ha provato a convertire {PAWN2_nameDef} alla {PAWN1_possessive} ideoligione. Ciò ha portato ad una lotta sociale!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} ha provato a convertire {PAWN2_nameDef} alla sua ideoligione. Ne è nata una colluttazione!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
   <MessageNotEnoughMemes>Devi scegliere almeno {0} meme.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->
@@ -65,7 +65,7 @@
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>Nessun guardiano è capace di questa schiavitù.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>Non hai guardiani {MEMBERNAME} per convertire {PRISONER_nameDef}. La {PRISONER_possessive} modalità di interazione è tornata a "Nessuna interazione".</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>Non hai guardiani {MEMBERNAME} per convertire {PRISONER_nameDef}. La sua modalità di interazione è tornata a "Nessuna interazione".</MessageNoWardenOfIdeo>
 
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->

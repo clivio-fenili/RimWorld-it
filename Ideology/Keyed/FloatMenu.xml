@@ -16,7 +16,7 @@
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
   <CantStartRitualRoleNotAssigned>Devi assegnare il ruolo di {0} per iniziare questo rituale.</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>Non c’è nessuno da convertire a {0}. Hai bisogno di un colono, prigioniero o schiavo di un’ideologia diversa.</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>Non c’è nessuno da convertire a {0}. Hai bisogno di un colono, prigioniero o schiavo di un'ideoligione diversa.</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
   <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} non può essere {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
@@ -154,7 +154,7 @@
   <!-- EN: Auto age reversal for {PAWN_labelShort} -->
   <BiosculpterAutoAgeReversalLabel>Inversione automatica età per {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
-  <BiosculpterAutoAgeReversalDescription>Soddisfa automaticamente il desiderio di {PAWN_labelShort} di eseguire un trattamento annuale di inversione dell’età in questa capsula, in accordo con le convinzioni di {PAWN_possessive}. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescription>Soddisfa automaticamente il desiderio di {PAWN_labelShort} di eseguire un trattamento annuale di inversione dell’età in questa capsula, secondo le sue convinzioni. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
   <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treatment in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>Se abilitato, {PAWN_labelShort} eseguirà automaticamente il suo prossimo trattamento in {TIME} se la capsula è pronta.</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->

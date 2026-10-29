@@ -9,7 +9,7 @@
   <!-- EN: Slave unsuppressed -->
   <SlavesUnsuppressedLabel>Schiavo non soppresso</SlavesUnsuppressedLabel>
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
-  <SlavesUnsuppressedDesc>Il livello di soppressione di {0_nameDef} è pericolosamente basso. C'è una buona probabilità che {0_pronoun} si ribelli.\n\nAssicurati che ci sia un colono assegnato al lavoro di guardiano. I guardiani sopprimeranno periodicamente gli schiavi per impedire loro di ribellarsi.</SlavesUnsuppressedDesc>
+  <SlavesUnsuppressedDesc>Il livello di soppressione di {0_nameDef} è pericolosamente basso. C'è una buona probabilità che si ribelli.\n\nAssicurati che ci sia un colono assegnato al lavoro di guardiano. I guardiani sopprimeranno periodicamente gli schiavi per impedire loro di ribellarsi.</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
   <SlaveUnattendedLabel>Schiavo incustodito</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
@@ -92,7 +92,7 @@
   <AlertAgeReversalDemandDesc_Overdue>Il trattamento di {PAWN} è in ritardo di {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>La fede di {PAWN_nameDef} in {IDEO_name} impedisce a {PAWN_objective} di mangiare la carne di {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>La fede in {IDEO_name} impedisce a {PAWN_nameDef} di mangiare la carne di {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>Casta delle Driadi non impostata</AlertGauranlenTreeWithoutDryadTypeLabel>

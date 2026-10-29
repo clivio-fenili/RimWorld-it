@@ -58,7 +58,7 @@
   <!-- EN: Role became inactive due to low {0} count. -->
   <LetterRoleLostReasonLowBelieversDesc>Il ruolo è diventato inattivo a causa del basso numero di {0}.</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
-  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} ha perso la {PAWN_possessive} posizione di {ROLE_labelDef} perché {PAWN_pronoun} ha abbandonato {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} ha perso il ruolo di {ROLE_labelDef} perché ha abbandonato {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
   <!-- EN: {0} skipped -->
   <LetterObligationRoleInactive>{0} saltato.</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
@@ -66,7 +66,7 @@
   
   <!-- Ideo misc -->
   <!-- EN: {PAWN_pronoun}'s speech converted following people to {IDEO} -->
-  <LetterSpeechConvertedListeners>Il discorso di {PAWN_pronoun} ha convertito le seguenti persone a {IDEO}</LetterSpeechConvertedListeners>
+  <LetterSpeechConvertedListeners>Il suo discorso ha convertito a {IDEO} le seguenti persone</LetterSpeechConvertedListeners>
 
   <!-- EN: {0} rituals activated -->
   <LetterTitleObligationsActivated>{0} rituali attivati</LetterTitleObligationsActivated>
@@ -82,7 +82,7 @@
   <!-- EN: Bond(s) removed -->
   <LetterBondRemoved>Obbligazioni rimosse</LetterBondRemoved>
   <!-- EN: {PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS} -->
-  <LetterBondRemovedDesc>{PAWN_nameDef} si è convertito a {IDEO}. Poiché {IDEO} disapprova il legame con gli animali, {PAWN_pronoun} ha rinunciato ai {PAWN_possessive} legami con i seguenti animali:\n\n{BONDS}</LetterBondRemovedDesc>
+  <LetterBondRemovedDesc>{PAWN_nameDef} si è convertit{PAWN_gender ? o : a} a {IDEO}. Poiché {IDEO} disapprova il legame con gli animali, ha rinunciato ai suoi legami con i seguenti animali:\n\n{BONDS}</LetterBondRemovedDesc>
 
   <!-- Slave will -->
   <!-- EN: Enslaved -->
@@ -106,31 +106,31 @@
 
   <!-- Change ideo mental state -->
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
-  <LetterIdeoChangeConverted>{PAWN_pronoun} ha deciso che la {PAWN_possessive} fede in {OLDIDEO_name} non ha più alcun senso.\n\n{PAWN_pronoun} ora crede in {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeConverted>Ha deciso che la sua fede in {OLDIDEO_name} non aveva più alcun senso.\n\nOra crede in {NEWIDEO_name}.</LetterIdeoChangeConverted>
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
-  <LetterIdeoChangeNotConverted>La certezza di {PAWN_nameDef} riguardo alla {PAWN_possessive} fede in {OLDIDEO_name} è stata ridotta a {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangeNotConverted>La certezza di {PAWN_nameDef} nella sua fede in {OLDIDEO_name} è scesa a {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
-  <LetterIdeoChangedWanderOwnRoom>Per venire a patti con le {PAWN_possessive} convinzioni, {PAWN_nameDef} ora si nasconde nella {PAWN_possessive} stanza.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedWanderOwnRoom>Per venire a patti con le sue convinzioni, {PAWN_nameDef} ora si nasconde nella sua stanza.</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
-  <LetterIdeoChangedSadWander>{PAWN_nameDef} ora vaga sotto shock mentre è alle prese con le {PAWN_possessive} convinzioni.</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef} ora vaga sotto shock, alle prese con le sue convinzioni.</LetterIdeoChangedSadWander>
 
   <!-- Change ideo divorces -->
   <!-- EN: Divorce -->
   <LetterIdeoChangedDivorce>Divorzio</LetterIdeoChangedDivorce>
   <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
-  <LetterIdeoChangedDivorcedPawns>Le nuove convinzioni di {PAWN_nameDef} vietano il {PAWN_possessive} numero attuale di coniugi.\n\n{PAWN_nameDef} ha deciso di divorziare da queste persone:\n{1}</LetterIdeoChangedDivorcedPawns>
+  <LetterIdeoChangedDivorcedPawns>Le nuove convinzioni di {PAWN_nameDef} non ammettono il suo attuale numero di coniugi.\n\n{PAWN_nameDef} ha deciso di divorziare da queste persone:\n{1}</LetterIdeoChangedDivorcedPawns>
 
   <!-- Surprise reinforcement -->
   <!-- EN: Surprise reinforcements! -->
   <LetterLabelSurpriseReinforcements>Rinforzi a sorpresa!</LetterLabelSurpriseReinforcements>
   <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
-  <LetterSurpriseReinforcements>Sono arrivati ​​i rinforzi a sorpresa da {1}! Si stanno muovendo per aiutare {0} da {1}.</LetterSurpriseReinforcements>
+  <LetterSurpriseReinforcements>Sono arrivati i rinforzi a sorpresa da {1}! Si stanno muovendo per aiutare {0} da {1}.</LetterSurpriseReinforcements>
 
   <!-- Style change -->
   <!-- EN: Look change desired -->
   <LetterWantLookChange>Cambio d'aspetto desiderato</LetterWantLookChange>
   <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
-  <LetterWantLookChangeDesc>{PAWN_nameDef} desidera cambiare il {PAWN_possessive} aspetto, poiché non corrisponde più a ciò che {PAWN_pronoun} crede.\n\n{PAWN_pronoun} utilizzerà automaticamente una stazione di styling disponibile e sceglierà un aspetto. Se desideri personalizzare il {PAWN_possessive} aspetto, seleziona {PAWN_objective} e fai clic con il pulsante destro del mouse sulla stazione di styling.</LetterWantLookChangeDesc>
+  <LetterWantLookChangeDesc>{PAWN_nameDef} desidera cambiare aspetto, perché quello attuale non corrisponde più a ciò in cui crede.\n\nUserà automaticamente una postazione di styling disponibile e sceglierà un aspetto. Se vuoi personalizzarlo tu, seleziona {PAWN_nameDef} e fai clic con il pulsante destro del mouse sulla postazione di styling.</LetterWantLookChangeDesc>
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->

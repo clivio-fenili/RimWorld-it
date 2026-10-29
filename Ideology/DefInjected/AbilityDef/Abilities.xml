@@ -28,7 +28,7 @@
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>Tentativo di convertire qualcuno all'ideoligione di chi parla. Ciò ridurrà la certezza del bersaglio nelle proprie convinzioni. La riduzione della certezza dipende dalla capacità di negoziazione del parlante.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} non è riuscito a convertire {RECIPIENT_labelShort}. {RECIPIENT_labelShort} è rimasto sconvolto dal tentativo, ma la certezza di {RECIPIENT_possessive} è scesa da {CERTAINTYBEFORE} a {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} non è riuscit{INITIATOR_gender ? o : a} a convertire {RECIPIENT_labelShort}. {RECIPIENT_labelShort} è rimast{RECIPIENT_gender ? o : a} turbat{RECIPIENT_gender ? o : a} dal tentativo, ma la sua certezza è scesa da {CERTAINTYBEFORE} a {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} ha convertito {RECIPIENT_labelShort} in {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
@@ -41,7 +41,7 @@
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
   <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} ha fornito consulenza a {RECIPIENT_labelShort} con successo, annullando l'impatto sull'umore di {2}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} ha consigliato con successo {RECIPIENT_labelShort}, aumentando l'umore di {RECIPIENT_possessive} di {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} ha dato consiglio a {RECIPIENT_labelShort}, migliorandone l'umore di {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
   <FarmingCommand.label>comando agricolo</FarmingCommand.label>
