@@ -104,7 +104,7 @@
   <!-- EN: Gives hemogen supply. -->
   <Hemogenic.customEffectDescriptions.0>Fornisce apporto di emogeno.</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>Una riserva di forza biologica che può essere ottenuta e spesa in vari modi.\n\nL'emogeno può essere aumentato nutrendosi di sangue da un essere umano o consumando pacchetti di emogeno. Puoi ottenere pacchetti di emogeno utilizzando l'operazione medica «estrarre il pacchetto di emogeno» su un essere umano non emogeno.\n\nSe l'emogeno raggiunge lo zero, {PAWN_nameDef} diventerà molto infelice.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>Una riserva di forza biologica che può essere ottenuta e spesa in vari modi.\n\nL'emogeno può essere aumentato nutrendosi di sangue da un essere umano o consumando pacchetti di emogeno. Puoi ottenere pacchetti di emogeno utilizzando l'operazione medica «estrarre il pacchetto di emogeno» su un essere umano non emogenico.\n\nSe l'emogeno raggiunge lo zero, {PAWN_nameDef} diventerà molto infelice.</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
   <Hemogenic.resourceLabel>emogeno</Hemogenic.resourceLabel>
   <!-- EN: hemo -->

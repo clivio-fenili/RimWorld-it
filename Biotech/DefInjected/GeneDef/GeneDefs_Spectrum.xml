@@ -442,7 +442,7 @@
   <MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>saetta</MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: never sleep -->
-  <Neversleep.label>mai dormire</Neversleep.label>
+  <Neversleep.label>senza sonno</Neversleep.label>
   <!-- EN: Carriers of this gene have a unique metabolic process which allows clusters of neurons to sleep while the rest of the brain stays awake. They never need to sleep. -->
   <Neversleep.description>I portatori di questo gene hanno un processo metabolico unico che consente ai gruppi di neuroni di dormire mentre il resto del cervello rimane sveglio. Non hanno mai bisogno di dormire.</Neversleep.description>
   <!-- EN: wake -->
@@ -453,7 +453,7 @@
   <!-- EN: extra pain -->
   <Pain_Extra.label>dolore extra</Pain_Extra.label>
   <!-- EN: Carriers of this gene feel more pain than others given the same injuries. Neuron activity in the brain's nociception center is amplified, so pain feels extra-intense and fiery. This can be protective, but overall it's considered a negative and makes it hard to push through difficult situations. -->
-  <Pain_Extra.description>I portatori di questo gene sentono più dolore degli altri a causa delle stesse lesioni. L'attività dei neuroni nel centro nocicettivo del cervello è amplificata, quindi il dolore sembra estremamente intenso e focoso. Questo può essere protettivo, ma nel complesso è considerato negativo e rende difficile superare situazioni difficili.</Pain_Extra.description>
+  <Pain_Extra.description>I portatori di questo gene sentono più dolore degli altri a parità di lesioni. L'attività dei neuroni nel centro nocicettivo del cervello è amplificata, quindi il dolore sembra estremamente intenso e bruciante. Questo può essere protettivo, ma nel complesso è considerato negativo e rende difficile superare situazioni difficili.</Pain_Extra.description>
   <!-- EN: wimpy -->
   <Pain_Extra.labelShortAdj>debole</Pain_Extra.labelShortAdj>
   <!-- EN: wimpo -->
@@ -485,9 +485,9 @@
   <!-- EN: psychically deaf -->
   <PsychicAbility_Deaf.label>psichicamente sordo</PsychicAbility_Deaf.label>
   <!-- EN: Carriers of this gene are deaf to all psychic energy and influence outside their own minds. They cannot be affected by psychic influence, nor can they ever wield psychic power. -->
-  <PsychicAbility_Deaf.description>I portatori di questo gene sono sordi a tutta l'energia psichica e all'influenza al di fuori della loro mente. Non possono essere influenzati dall'influenza psichica, né potranno mai esercitare il potere psichico.</PsychicAbility_Deaf.description>
+  <PsychicAbility_Deaf.description>I portatori di questo gene sono sordi a tutta l'energia psichica e all'influenza al di fuori della loro mente. Non subiscono influenze psichiche, né potranno mai esercitare il potere psichico.</PsychicAbility_Deaf.description>
   <!-- EN: psy-deaf -->
-  <PsychicAbility_Deaf.labelShortAdj>psico-sordo</PsychicAbility_Deaf.labelShortAdj>
+  <PsychicAbility_Deaf.labelShortAdj>psi-sordo</PsychicAbility_Deaf.labelShortAdj>
   <!-- EN: deaf -->
   <PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>sordo</PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: blank -->
@@ -508,7 +508,7 @@
   <!-- EN: Carriers of this gene are less psychically-sensitive than others. -->
   <PsychicAbility_Dull.description>I portatori di questo gene sono meno sensibili psichicamente degli altri.</PsychicAbility_Dull.description>
   <!-- EN: psy-dull -->
-  <PsychicAbility_Dull.labelShortAdj>psico-ottuso</PsychicAbility_Dull.labelShortAdj>
+  <PsychicAbility_Dull.labelShortAdj>psi-ottuso</PsychicAbility_Dull.labelShortAdj>
   <!-- EN: dull -->
   <PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>ottuso</PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: flat -->
@@ -577,16 +577,16 @@
   <!-- EN: tox resistance -->
   <ToxResist_Partial.label>resistenza alle tossine</ToxResist_Partial.label>
   <!-- EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
-  <ToxResist_Partial.description>I portatori di questo gene sono resistenti all'accumulo di sostanze tossiche provenienti da qualsiasi fonte. Ciò include inquinamento, ricadute tossiche, gas tossici e attacchi diretti con veleno o veleno iniettato. Otterranno la metà della quantità di accumulo tossico rispetto ad altri.\n\nI filtri cellulari nei polmoni e nella pelle riducono la dose di tossine che entrano nel flusso sanguigno.</ToxResist_Partial.description>
+  <ToxResist_Partial.description>I portatori di questo gene sono resistenti all'accumulo di sostanze tossiche provenienti da qualsiasi fonte. Ciò include inquinamento, ricadute tossiche, gas tossici e attacchi diretti con veleno animale o iniettato. Otterranno la metà della quantità di accumulo tossico rispetto ad altri.\n\nI filtri cellulari nei polmoni e nella pelle riducono la dose di tossine che entrano nel flusso sanguigno.</ToxResist_Partial.description>
   <!-- EN: tox-resistant -->
   <ToxResist_Partial.labelShortAdj>resistente alle tossine</ToxResist_Partial.labelShortAdj>
   <!-- EN: tox -->
   <ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>tossi</ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: tox immunity -->
-  <ToxResist_Total.label>immunità tossica</ToxResist_Total.label>
+  <ToxResist_Total.label>immunità alle tossine</ToxResist_Total.label>
   <!-- EN: Carriers of this gene are totally immune to toxic buildup from all sources including polluted terrain, toxic fallout, tox gas, and direct attacks with venom or injected poison. They are also not bothered by acidic smog.\n\nThe carrier's biochemical pathways are modified to route around interference from nearly all known toxins. Along with enhancements to the kidneys and liver, this keeps carriers comfortable in even the most toxic of environments. -->
-  <ToxResist_Total.description>I portatori di questo gene sono totalmente immuni all'accumulo di sostanze tossiche provenienti da tutte le fonti, inclusi terreni inquinati, ricadute tossiche, gas tossici e attacchi diretti con veleno o veleno iniettato. Inoltre, non sono disturbati dallo smog acido.\n\nI percorsi biochimici del portatore sono modificati per aggirare le interferenze di quasi tutte le tossine conosciute. Insieme ai miglioramenti ai reni e al fegato, ciò mantiene i portatori a proprio agio anche negli ambienti più tossici.</ToxResist_Total.description>
+  <ToxResist_Total.description>I portatori di questo gene sono totalmente immuni all'accumulo di sostanze tossiche provenienti da tutte le fonti, inclusi terreni inquinati, ricadute tossiche, gas tossici e attacchi diretti con veleno animale o iniettato. Inoltre, non sono disturbati dallo smog acido.\n\nI percorsi biochimici del portatore sono modificati per aggirare le interferenze di quasi tutte le tossine conosciute. Insieme ai miglioramenti ai reni e al fegato, ciò mantiene i portatori a proprio agio anche negli ambienti più tossici.</ToxResist_Total.description>
   <!-- EN: Tox gas immunity -->
   <ToxResist_Total.customEffectDescriptions.0>Immunità ai gas tossici</ToxResist_Total.customEffectDescriptions.0>
   <!-- EN: tox-immune -->
