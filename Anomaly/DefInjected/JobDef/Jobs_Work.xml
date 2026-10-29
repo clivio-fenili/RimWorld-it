@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: suppressing TargetC. -->
-  <ActivitySuppression.reportString>neutralizza TargetC.</ActivitySuppression.reportString>
+  <ActivitySuppression.reportString>sopprime TargetC.</ActivitySuppression.reportString>
   
   <!-- EN: interrogating TargetA. -->
   <PrisonerInterrogateIdentity.reportString>interroga TargetA.</PrisonerInterrogateIdentity.reportString>

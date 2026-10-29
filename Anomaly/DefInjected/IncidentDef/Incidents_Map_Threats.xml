@@ -25,7 +25,7 @@
   <!-- EN: The ground seems to be giving way. The sounds of writhing flesh and cracking bones can be heard from below. -->
   <FleshbeastAttack.letterText>Il terreno sembra cedere. Dal sottosuolo provengono rumori di ossa che si spezzano e carne che si contorce.</FleshbeastAttack.letterText>
   <!-- EN: Several sinkholes have started appearing. The sounds of writhing flesh and cracking bones can be heard from below. -->
-  <FleshbeastAttack.letterTextPlural>Numerosi voragini stanno apparendo. Dal sottosuolo provengono rumori di ossa che si spezzano e carne che si contorce.</FleshbeastAttack.letterTextPlural>
+  <FleshbeastAttack.letterTextPlural>Stanno comparendo numerose voragini. Dal sottosuolo provengono rumori di ossa che si spezzano e carne che si contorce.</FleshbeastAttack.letterTextPlural>
   
   <!-- EN: frenzied animals -->
   <FrenziedAnimals.label>animali in preda alla furia</FrenziedAnimals.label>
@@ -66,7 +66,7 @@
   <SightstealerArrival.label>arrivo dell’oscuratore</SightstealerArrival.label>
   
   <!-- EN: sightstealer swarm -->
-  <SightstealerSwarm.label>orda di occultatori</SightstealerSwarm.label>
+  <SightstealerSwarm.label>orda di oscuratori</SightstealerSwarm.label>
   <!-- EN: Distant shriek -->
   <SightstealerSwarm.letterLabel>Urla lontane</SightstealerSwarm.letterLabel>
   <!-- EN: Your colonists hear inhuman shrieks in the distance.\n\nSomething is out there. -->

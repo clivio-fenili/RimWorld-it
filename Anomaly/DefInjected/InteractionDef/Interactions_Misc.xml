@@ -92,7 +92,7 @@
   </InhumanRambling.logRulesInitiator.rulesStrings>
   
   <!-- EN: interrogate identity -->
-  <InterrogateIdentity.label>interrogativi sull’identità</InterrogateIdentity.label>
+  <InterrogateIdentity.label>interrogatorio sull’identità</InterrogateIdentity.label>
   <!-- EN:
     <li>askedAbout->interrogated [RECIPIENT_nameDef] about</li>
     <li>askedAbout->asked [RECIPIENT_nameDef] about</li>
