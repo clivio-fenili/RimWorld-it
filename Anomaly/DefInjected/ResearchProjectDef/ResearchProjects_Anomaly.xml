@@ -19,7 +19,7 @@
     <li>subject_story->ha incontrato un maestro cultista esiliato, felice di vantarsi dei suoi segreti</li>
     <li>subject_story->ha approfondito la propria comprensione dei sacrifici rituali</li>
     <li>subject_story->è stato nominato professore di storia psichica all’Università di Ix</li>
-    <li>subject_gerund->sta eseguendo riti psichici avanzati</li>
+    <li>subject_gerund->eseguendo riti psichici avanzati</li>
   </AdvancedPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: atmospheric heater -->
@@ -41,14 +41,14 @@
     <li>subject_story->ha studiato la produzione di calore dei biometalli</li>
     <li>subject_story->ha analizzato l’incredibile capacità degli accumulatori archotech</li>
     <li>subject_story->ha esaminato i sistemi di ipocausto su mondi glaciali densamente abitati</li>
-    <li>subject_gerund->sta riscaldando con bioferrite</li>
-    <li>subject_gerund->sta costruendo riscaldatori a bioferrite</li>
+    <li>subject_gerund->riscaldando con bioferrite</li>
+    <li>subject_gerund->costruendo riscaldatori a bioferrite</li>
   </AtmosphericHeater.generalRules.rulesStrings>
   
   <!-- EN: void provocation -->
   <BasicPsychicRituals.label>provocazione del vuoto</BasicPsychicRituals.label>
   <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
-  <BasicPsychicRituals.description>Allestisci un luogo per rituali psichici e usa il rituale di provocazione del vuoto per scoprire nuove entità.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.description>Allestisci un punto rituale psichico e usa il rituale di provocazione del vuoto per scoprire nuove entità.</BasicPsychicRituals.description>
   <!-- EN:
     <li>subject->psychic rituals</li>
     <li>subject_story->studied the rituals of Horax cultists</li>
@@ -75,7 +75,7 @@
   <!-- EN: bioferrite extraction -->
   <BioferriteExtraction.label>estrazione di bioferrite</BioferriteExtraction.label>
   <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
-  <BioferriteExtraction.description>Estrai bioferrite direttamente da entità catturate. Usala per creare armi e abiti presso un banco da lavoro o uno stampatore di bioferrite.</BioferriteExtraction.description>
+  <BioferriteExtraction.description>Estrai bioferrite direttamente da entità catturate. Usala per creare armi e abiti presso un punto di assemblaggio o uno stampatore di bioferrite.</BioferriteExtraction.description>
   <!-- EN:
     <li>subject->bioferrite extraction</li>
     <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
@@ -157,7 +157,7 @@
     <li>subject->armamento a bioferrite</li>
     <li>subject_story->ha lavorato su una piattaforma di estrazione su un asteroide archotech</li>
     <li>subject_story->ha studiato i punti di accensione di materiali esotici</li>
-    <li>subject_story->ha lavorato nella divisione ricerca di una corporazione d’armi intermedia</li>
+    <li>subject_story->ha lavorato nella divisione ricerca di un'industria d'armi di un mondo militare</li>
     <li>subject_story->ha bonificato biomine in un deserto archotech</li>
     <li>subject_gerund->costruendo armi a base di bioferrite</li>
   </BioferriteIgnition.generalRules.rulesStrings>
@@ -228,7 +228,7 @@
   </BloodRain.generalRules.rulesStrings>
   
   <!-- EN: brainwipe -->
-  <Brainwipe.label>amnèsia</Brainwipe.label>
+  <Brainwipe.label>amnesia</Brainwipe.label>
   <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
   <Brainwipe.description>Compi un rituale psichico che cancella gran parte della memoria episodica di una persona. Gli eventi traumatici verranno dimenticati. I prigionieri più resistenti saranno più facili da reclutare. Permette di reclutare anche prigionieri con lealtà incrollabile.</Brainwipe.description>
   <!-- EN:
@@ -266,7 +266,7 @@
   -->
   <Chronophagy.generalRules.rulesStrings>
     <li>subject->cronofagia</li>
-    <li>subject_story->ha studiato la deliquescenza legata all'invecchiamento</li>
+    <li>subject_story->ha studiato la degenerazione legata all'invecchiamento</li>
     <li>subject_story->ha replicato in modo distruttivo strutture sane da un organismo all'altro</li>
     <li>subject_story->ha elaborato teorie sui vari rituali possibili tramite l'archotech</li>
     <li>subject_story->ha osservato trattamenti di longevità su pazienti facoltosi in cliniche di un mondo avanzato</li>
@@ -294,7 +294,7 @@
     <li>subject_story->ha utilizzato centrifughe atomiche per separare diversi gradi di architi</li>
     <li>subject_story->ha visto un video di un mondo urbano con un attacco letale di zombi</li>
     <li>subject_story->ha sviluppato un sistema di controllo archite con IFF calibrato automaticamente</li>
-    <li>subject_gerund->creando polvere di resurrezione</li>
+    <li>subject_gerund->creando polvere della morte vivente</li>
     <li>subject_gerund->diffondendo architi per creare zombi</li>
   </DeadlifeDust.generalRules.rulesStrings>
   
