@@ -8,9 +8,9 @@
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
   <MessageIdeoIncompatiblePrecepts>{PRECEPT1} e {PRECEPT2} sono incompatibili.</MessageIdeoIncompatiblePrecepts>
   <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
-  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} desiderio di abbigliamento si sovrappone a {ROLE} requisito di abbigliamento.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>Il desiderio di abbigliamento {DESIREDAPPAREL} si sovrappone al requisito di abbigliamento del ruolo {ROLE}.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
-  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} si sovrappone a {ROLE} requisito di abbigliamento ({ROLEAPPAREL}). Ciò renderà impossibile per {ROLE} indossare insieme l'abbigliamento richiesto e quello desiderato.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} si sovrappone al requisito di abbigliamento del ruolo {ROLE} ({ROLEAPPAREL}). Chi ha il ruolo {ROLE} non potrà indossare insieme l'abbigliamento richiesto e quello desiderato.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
   <MessageRitualMissingTarget>{PRECEPT} ha bisogno di uno di questi edifici</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
@@ -43,11 +43,11 @@
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort} ora ricopre il ruolo di {1}.</MessageRoleAssigned>
   <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
-  <MessageRoleUnassignedPrisoner>Da quando {0_labelShort} è diventato prigioniero, {0_pronoun} non può più ricoprire il ruolo di {1}.</MessageRoleUnassignedPrisoner>
+  <MessageRoleUnassignedPrisoner>Poiché {0_labelShort} è diventat{0_gender ? o : a} prigionier{0_gender ? o : a}, non può più ricoprire il ruolo di {1}.</MessageRoleUnassignedPrisoner>
   <!-- EN: Warning: {0} will be upset if a tree is cut. -->
   <MessageWarningPlayerDesignatedTreeChopped>Attenzione: {0} si arrabbierà se un albero viene tagliato.</MessageWarningPlayerDesignatedTreeChopped>
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
-  <MessageWarningPlayerDesignatedMining>Avvertenza: {0} verrà sconvolto se si verifica l'estrazione mineraria.</MessageWarningPlayerDesignatedMining>
+  <MessageWarningPlayerDesignatedMining>Attenzione: {0} si arrabbierà se si estraggono minerali.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
   <MessageConnectedPawnDied>La connessione tra {TREE_label} e {PAWN_nameDef} è stata interrotta. Deve riprendersi per {DURATION} prima di potersi riconnettere di nuovo.</MessageConnectedPawnDied>
 
@@ -55,7 +55,7 @@
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
   <MessageSlaveEmancipated>{0_nameDef} è stato emancipato da {1_nameDef}.</MessageSlaveEmancipated>
   <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
-  <MessagePrisonerEnslaved>{0_nameDef} è stato ridotto in schiavitù da {1_nameDef}.</MessagePrisonerEnslaved>
+  <MessagePrisonerEnslaved>{0_nameDef} è stat{0_gender ? o : a} ridott{0_gender ? o : a} in schiavitù da {1_nameDef}.</MessagePrisonerEnslaved>
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
   <MessagePrisonerWillBroken>La volontà del prigioniero {1_nameDef} è stata spezzata da {0_nameDef}.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
@@ -79,7 +79,7 @@
   <!-- EN: {0} are leaving empty-handed. -->
   <MessageBeggarsLeavingWithNoItems>{0} se ne vanno a mani vuote.</MessageBeggarsLeavingWithNoItems>
   <!-- EN: The {0} has accepted the requested items and is leaving. -->
-  <MessageBeggarsLeavingWithItemsSingular>Il {0} ha accettato gli oggetti richiesti e se ne sta andando.</MessageBeggarsLeavingWithItemsSingular>
+  <MessageBeggarsLeavingWithItemsSingular>{0} ha accettato gli oggetti richiesti e se ne sta andando.</MessageBeggarsLeavingWithItemsSingular>
   <!-- EN: {0} have accepted the requested items and are leaving. -->
   <MessageBeggarsLeavingWithItemsPlural>{0} hanno accettato gli oggetti richiesti e se ne stanno andando.</MessageBeggarsLeavingWithItemsPlural>
   <!-- EN: {0_nameDef} died without any treatment. -->
@@ -120,7 +120,7 @@
   <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
   <MessageAncientSignalActivated>È stato attivato un antico satellite di rifornimento. Le scorte cadranno nelle vicinanze.</MessageAncientSignalActivated>
   <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
-  <MessageAncientSignalHostileDetected>{0} da {1} hanno rilevato il segnale di rifornimento e stanno attaccando.</MessageAncientSignalHostileDetected>
+  <MessageAncientSignalHostileDetected>{0} di {1} hanno rilevato il segnale di rifornimento e stanno attaccando.</MessageAncientSignalHostileDetected>
 
   <!-- Ancient altar -->
   <!-- EN: All security systems are waking up! -->

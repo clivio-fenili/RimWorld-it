@@ -172,7 +172,7 @@
   <!-- EN: You've finally learned the location of the relic {0}! -->
   <LetterTextRelicFoundLocation>Hai finalmente scoperto la posizione della reliquia {0}!</LetterTextRelicFoundLocation>
   <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
-  <LetterTextRelicFoundSecurityThreats>La reliquia è ospitata in un'antica struttura. E' protetto da un sistema di sicurezza con più unità indipendenti. Puoi scegliere di sconfiggere le forze di sicurezza un'unità alla volta prima di prendere la reliquia, oppure provare ad afferrarla e fuggire prima che possano farti del male.\n\nDopo {0}, tutti i sistemi di sicurezza verranno allertati.</LetterTextRelicFoundSecurityThreats>
+  <LetterTextRelicFoundSecurityThreats>La reliquia è ospitata in un'antica struttura. È protetta da un sistema di sicurezza con più unità indipendenti. Puoi scegliere di sconfiggere le forze di sicurezza un'unità alla volta prima di prendere la reliquia, oppure provare ad afferrarla e fuggire prima che possano farti del male.\n\nDopo {0}, tutti i sistemi di sicurezza verranno allertati.</LetterTextRelicFoundSecurityThreats>
 
   <!-- Relics collection -->
   <!-- EN: Relics collected -->

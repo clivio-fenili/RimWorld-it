@@ -95,7 +95,7 @@
   <!-- EN: Unlocked rituals -->
   <MemeUnlocksRituals>Rituali sbloccati</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>ATTENZIONE: {PAWN_nameDef} non è in grado di svolgere il lavoro richiesto per il ruolo di {ROLE_label}. Se gli assegni questo ruolo, potrebbe non riuscire a usare le abilità legate a {ROLE_label}. I tipi di lavoro mancanti sono</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>ATTENZIONE: {PAWN_nameDef} non è in grado di svolgere il lavoro richiesto per il ruolo di {ROLE_label}. Se assegni questo ruolo a {PAWN_nameDef}, potrebbe non riuscire a usare le abilità legate a {ROLE_label}. I tipi di lavoro mancanti sono</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
   <YourLeaderTradeBonus>Bonus leader</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->

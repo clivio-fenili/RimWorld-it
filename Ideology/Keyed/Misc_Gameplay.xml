@@ -76,7 +76,7 @@
   <!-- EN: total nearby bodysize per colonist -->
   <VeneratedAnimalsBodySizePerColonist>dimensione totale del corpo vicino per colono</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
-  <MinAnimalBodySizePerColonist>Sono previste almeno {0} dimensioni corporee per colono.</MinAnimalBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>Serve una dimensione corporea totale di almeno {0} per colono.</MinAnimalBodySizePerColonist>
   <!-- EN: Disables -->
   <Disables>Disabilita</Disables>
   <!-- EN: Requires one of precepts -->
@@ -157,11 +157,11 @@
   <!-- EN: Could not load the selected ideoligion due to the requirements of the factions that will be following this ideoligion. The violated requirements are: -->
   <UnableToLoadIdeoDescription>Impossibile caricare l'ideoligione selezionata a causa dei requisiti delle fazioni che la seguiranno. I requisiti violati sono:</UnableToLoadIdeoDescription>
   <!-- EN: Meme {MEME} is not allowed for {FACTIONTYPE} factions -->
-  <UnableToLoadIdeoMemeNotAllowed>Il meme {MEME} non è consentito per {FACTIONTYPE} fazioni</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeNotAllowed>Il meme {MEME} non è consentito per le fazioni {FACTIONTYPE}</UnableToLoadIdeoMemeNotAllowed>
   <!-- EN: Meme {MEME} is required for {FACTIONTYPE} factions -->
-  <UnableToLoadIdeoMemeRequired>Il meme {MEME} è richiesto per {FACTIONTYPE} fazioni</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoMemeRequired>Il meme {MEME} è richiesto per le fazioni {FACTIONTYPE}</UnableToLoadIdeoMemeRequired>
   <!-- EN: Precept {PRECEPT} is not allowed for non-player factions -->
-  <UnableToLoadIdeoPreceptNotAllowed>Il precetto {PRECEPT} non è consentito per le fazioni non giocanti</UnableToLoadIdeoPreceptNotAllowed>
+  <UnableToLoadIdeoPreceptNotAllowed>Il precetto {PRECEPT} non è consentito per le fazioni che non sono del giocatore</UnableToLoadIdeoPreceptNotAllowed>
 
   <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
   <RitualTargetGraveInfo>Tomba contenente il cadavere di {PAWN_labelShort}</RitualTargetGraveInfo>
@@ -200,7 +200,7 @@
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Già connesso a {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>La connessione a {TREE_definite} è stata disattivata di recente. Può connettersi di nuovo in {1}.</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>La connessione a {TREE_definite} è stata disattivata di recente. Potrà connettersi di nuovo tra {1}.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({1} total). -->
   <RitualTargetWoodInfo>Hai bisogno di {0} legno per ogni partecipante ({1} in totale).</RitualTargetWoodInfo>
   <!-- EN: A participant cannot reach enough wood. -->
@@ -220,22 +220,22 @@
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>{PAWN_labelShort} è {PAWN_gender ? un vigliacco : una vigliacca} e non {PAWN_gender ? gli : le} piacerà essere {PAWN_gender ? accecato : accecata}.</RitualBlindingWarnWimp>
   <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
-  <RitualScarificationTriggerExtraDesc>È prevista la scarificazione per {IDEOMEMBERPLURAL} purché siano presenti meno di {0} scarificati {IDEOMEMBERPLURAL}.</RitualScarificationTriggerExtraDesc>
+  <RitualScarificationTriggerExtraDesc>È prevista la scarificazione dei {IDEOMEMBERPLURAL} finché i {IDEOMEMBERPLURAL} scarificati sono meno di {0}.</RitualScarificationTriggerExtraDesc>
   <!-- EN: Blinding is expected for each current and joining {IDEOMEMBER} colonist. -->
-  <RitualBlindingTriggerExtraDesc>È previsto l'accecamento per ogni colono attuale e che si unisce a {IDEOMEMBER}.</RitualBlindingTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>È previsto l'accecamento di ogni colono {IDEOMEMBER}, presente o futuro.</RitualBlindingTriggerExtraDesc>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>Tutti coloro che hanno partecipato al rituale hanno ottenuto un potenziamento di concentrazione sul lavoro di un giorno ({PERCENTAGE} velocità di lavoro globale)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
   <RitualOutcomeExtraDesc_BlindingPsylink>Grazie ad un soddisfacente rituale di accecamento, {PAWN_labelShort} ha guadagnato un livello di collegamento psichico!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>Con un nuovo livello di collegamento psichico, {PAWN_pronoun} ha ottenuto uno psycast {0}.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>Con il nuovo livello di collegamento psichico ha ottenuto il potere psichico {0}.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
-  <RitualOutcomeExtraDesc_ConsumableInspiration>Grazie ad un soddisfacente {RITUAL}, {PAWN_labelShort} ha guadagnato {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>Grazie alla buona riuscita del rituale «{RITUAL}», {PAWN_labelShort} ha ottenuto {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
   <RitualOutcomeExtraDesc_SkylanternWanderers>Le tue lanterne celesti hanno attirato alcuni viaggiatori amichevoli. Visiteranno e lasceranno un regalo.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
-  <RitualOutcomeExtraDesc_Execution>Tutti gli schiavi partecipanti furono scossi dalla vista della morte. La loro repressione è stata portata al suo livello massimo.</RitualOutcomeExtraDesc_Execution>
+  <RitualOutcomeExtraDesc_Execution>Tutti gli schiavi presenti sono stati scossi dalla vista della morte. La loro soppressione è stata portata al livello massimo.</RitualOutcomeExtraDesc_Execution>
   
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>A causa della qualità del rituale, i tuoi punti sviluppo sono aumentati di {2} (da {0} a {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
@@ -267,7 +267,7 @@
   <!-- EN: The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony. -->
   <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>Il trambusto di {0} ha attirato alcuni animali curiosi!\n\nSembrano abituati al contatto umano e si stanno unendo alla colonia.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
   <!-- EN: The {0} has induced a Gauranlen pod to sprout nearby. -->
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>Il {0} ha fatto germogliare una capsula Gauranlen nelle vicinanze.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>Il rituale «{0}» ha fatto germogliare un baccello di Gauranlen nelle vicinanze.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
   <!-- EN: Can't apply reward -->
   <RitualAttachedOutcomeCantApply>Impossibile applicare la ricompensa</RitualAttachedOutcomeCantApply>
   <!-- EN: No valid spot -->
@@ -290,7 +290,7 @@
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>La ripetizione di un rituale entro {0} giorni ne riduce la qualità. Sono trascorsi {1} giorni dall'ultimo rituale, quindi l'attuale riduzione della qualità è {2}. Questa penalità scenderà a zero {3} giorni da adesso.</RitualRepeatPenaltyTip>
   <!-- EN: For best quality, start the {0} at {1}. -->
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>Per una qualità migliore, iniziare {0} presso {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>Per una qualità migliore, inizia {0} presso {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart2>Attualmente, {0} viene avviato presso {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
   <!-- EN: Development points -->
@@ -349,7 +349,7 @@
   <!-- EN: No reachable altar or ritual spot. -->
   <AbilityDisabledNoAltarOrRitualsSpot>Altare o luogo rituale non raggiungibile.</AbilityDisabledNoAltarOrRitualsSpot>
   <!-- EN: No reachable altar, ideogram or ritual spot. -->
-  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>Altare, ideogramma o luogo rituale non raggiungibile.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>Nessun altare, ideogramma o luogo rituale raggiungibile.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
   <!-- EN: No reachable ritual spot. -->
   <AbilityDisabledNoRitualSpot>Luogo rituale non raggiungibile.</AbilityDisabledNoRitualSpot>
 
@@ -407,7 +407,7 @@
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
   <RelicHuntFoundRelicSite>La reliquia è ospitata in un'antica struttura protetta da un sistema di sicurezza multi-unità.\n\nPuoi sconfiggere le forze di sicurezza un'unità alla volta, oppure afferrare la reliquia e provare a fuggire prima che ti prendano.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
-  <RelicHuntFoundRelicSitePeaceful>La reliquia rimane in un'antica struttura nelle vicinanze.</RelicHuntFoundRelicSitePeaceful>
+  <RelicHuntFoundRelicSitePeaceful>La reliquia si trova in un'antica struttura nelle vicinanze.</RelicHuntFoundRelicSitePeaceful>
 
   <!-- EN: relic -->
   <Relic>reliquia</Relic>
@@ -421,7 +421,7 @@
   <RitualPredictedOutcomeDescNumDrums>Batteria</RitualPredictedOutcomeDescNumDrums>
 
   <!-- EN: Using ritual spot causes {0} mood bonus reduction for all participants. -->
-  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>L'uso del punto rituale provoca {0} riduzione del bonus dell'umore per tutti i partecipanti.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>Usare un luogo rituale riduce di {0} il bonus all'umore di tutti i partecipanti.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
 
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>Qualunque di questi</RitualOutcomeLabelAnyOfThese>
@@ -494,11 +494,11 @@
   <!-- EN: {0} hours every other day -->
   <HoursEveryOtherDay>{0} ore a giorni alterni</HoursEveryOtherDay>
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
-  <DryadProducesResourcesDesc>{DRYAD_labelPlural} produce {RESOURCES} ogni {DURATION}.</DryadProducesResourcesDesc>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural} producono {RESOURCES} ogni {DURATION}.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
-  <DryadCannotChangeMaster>{ANIMAL_nameDef} è collegato a {MASTER_nameDef} tramite il suo albero Gauranlen. Il suo master non può essere modificato.</DryadCannotChangeMaster>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} è collegato a {MASTER_nameDef} tramite il suo albero Gauranlen. Il suo padrone non può essere cambiato.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
-  <ConnectionStrengthTooWeakForGaumakerPod>La forza della connessione è troppo bassa per creare il pod Gauranlen.</ConnectionStrengthTooWeakForGaumakerPod>
+  <ConnectionStrengthTooWeakForGaumakerPod>La forza della connessione è troppo bassa per creare un baccello di Gauranlen.</ConnectionStrengthTooWeakForGaumakerPod>
   <!-- EN: Unconnected -->
   <Unconnected>Non connesso</Unconnected>
   <!-- EN: Dryads -->
@@ -550,7 +550,7 @@
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
-  <GameOverArchotechInvokedIntro>Hai invocato il nucleo dell'Arconesso. Il mondo si riempie di una luce accecante e il tempo sembra rallentare...\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedIntro>Hai invocato il nucleo dell'arconesso. Il mondo si riempie di una luce accecante e il tempo sembra rallentare...\n\n</GameOverArchotechInvokedIntro>
   <!-- EN: The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful... -->
   <GameOverArchotechInvokedEnding>Il dio macchina ti ha notato. Nessuno può prevedere cosa accadrà dopo. Potrebbe distruggerti, o comunicare con te direttamente, o trasportare la tua coscienza su un altro piano di realtà.\n\nPercepisci una struttura vasta e inumana di infinita complessità frattale che scorre nella tua mente. Il tempo e la scala cominciano a dissolversi. È terrificante. È bellissimo...</GameOverArchotechInvokedEnding>
   <!-- EN: These colonists have transcended:\n\n{0} -->
@@ -571,7 +571,7 @@
   <SupplySatellite>Satellite di rifornimento</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>Il colono non è disposto a estrarre il teschio dal cadavere (manca il precetto pro-skullspike)</CannotExtractSkull>
+  <CannotExtractSkull>Il colono non è disposto a estrarre il teschio dal cadavere (manca un precetto a favore delle punte del teschio)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>Anteprima del suono dell'atmosfera rituale</TipPreviewRitualAmbienceSound>
 
@@ -610,7 +610,7 @@
   <!-- EN: Interrupt cycle -->
   <BiosculpterInteruptCycle>Interrompi ciclo</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>Interrompe il ciclo corrente. L’occupante verrà espulso senza beneficiare degli effetti e soffrirà di una malattia da bioscultore a breve termine.</BiosculpterInteruptCycleDesc>
+  <BiosculpterInteruptCycleDesc>Interrompi il ciclo in corso. L’occupante verrà espulso senza beneficiare degli effetti e soffrirà di una malattia da bioscultore a breve termine.</BiosculpterInteruptCycleDesc>
   <!-- EN: {PAWN_labelShort} will enter biosculpter and begin a {CYCLE} cycle. -->
   <BiosculpterEnteringMessage>{PAWN_labelShort} entrerà nel bioscultore e inizierà un ciclo {CYCLE}.</BiosculpterEnteringMessage>
   <!-- EN: {PAWN_labelShort} will collect {INGREDIENTS}, and begin a {CYCLE} cycle. -->
@@ -628,9 +628,9 @@
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} ha completato il suo ciclo di inversione dell’età.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <AgeReversalExpectationDeadline>{PAWN_pronoun} prevede la prossima inversione di età tra {DEADLINE} giorni.</AgeReversalExpectationDeadline>
+  <AgeReversalExpectationDeadline>Si aspetta la prossima inversione dell'età tra {DEADLINE} giorni.</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
-  <BiosculpterPleasureCompletedMessage>Il ciclo del piacere di {PAWN_labelShort} è completo.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterPleasureCompletedMessage>Il ciclo del piacere di {PAWN_labelShort} è completato.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>Fattore velocità pulizia</BiosculpterCleanlinessSpeedFactor>
   <!-- EN: Biotuned speed factor -->
