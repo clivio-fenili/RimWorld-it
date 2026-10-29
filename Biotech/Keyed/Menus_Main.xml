@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: Babies always healthy -->
-  <Difficulty_BabiesAreHealthy_Label>Bambini sempre sani</Difficulty_BabiesAreHealthy_Label>
+  <Difficulty_BabiesAreHealthy_Label>Neonati sempre sani</Difficulty_BabiesAreHealthy_Label>
   <!-- EN: Human babies are always born healthy. Mothers can't die in childbirth or have miscarriages. -->
-  <Difficulty_BabiesAreHealthy_Info>I bambini umani nascono sempre sani. Le madri non possono morire di parto o avere aborti spontanei.</Difficulty_BabiesAreHealthy_Info>
+  <Difficulty_BabiesAreHealthy_Info>I neonati umani nascono sempre sani. Le madri non possono morire di parto o avere aborti spontanei.</Difficulty_BabiesAreHealthy_Info>
   <!-- EN: Disable children -->
   <Difficulty_NoBabiesOrChildren_Label>Disattiva i bambini</Difficulty_NoBabiesOrChildren_Label>
   <!-- EN: Humans can't become pregnant. Human babies and children will never appear unless you choose them as starting colonists. -->

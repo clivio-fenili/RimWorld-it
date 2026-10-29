@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: my baby {BABY_nameDef} is sick -->
-  <BabySick.stages.my_baby_is_sick.label>il mio bambino {BABY_nameDef} è malato</BabySick.stages.my_baby_is_sick.label>
+  <BabySick.stages.my_baby_is_sick.label>il mio neonato {BABY_nameDef} è malato</BabySick.stages.my_baby_is_sick.label>
   <!-- EN: My baby is sick. I'm terrified something bad will happen to my baby. -->
-  <BabySick.stages.my_baby_is_sick.description>Il mio bambino è malato. Ho il terrore che succeda qualcosa di brutto al mio bambino.</BabySick.stages.my_baby_is_sick.description>
+  <BabySick.stages.my_baby_is_sick.description>Il mio neonato è malato. Ho il terrore che gli succeda qualcosa di brutto.</BabySick.stages.my_baby_is_sick.description>
   <!-- EN: my babies are sick -->
-  <BabySick.stages.my_babies_are_sick.label>i miei bambini sono malati</BabySick.stages.my_babies_are_sick.label>
+  <BabySick.stages.my_babies_are_sick.label>i miei neonati sono malati</BabySick.stages.my_babies_are_sick.label>
   <!-- EN: My babies are sick. I'm terrified something bad will happen to them. -->
-  <BabySick.stages.my_babies_are_sick.description>I miei bambini sono malati. Ho il terrore che possa succedere loro qualcosa di brutto.</BabySick.stages.my_babies_are_sick.description>
+  <BabySick.stages.my_babies_are_sick.description>I miei neonati sono malati. Ho il terrore che possa succedere loro qualcosa di brutto.</BabySick.stages.my_babies_are_sick.description>
   
   <!-- EN: my child is in a growth vat -->
   <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>mio figlio è in una vasca di crescita</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>

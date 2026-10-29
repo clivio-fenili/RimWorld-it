@@ -4,7 +4,7 @@
   <!-- EN: infant illness -->
   <InfantIllness.label>malattia infantile</InfantIllness.label>
   <!-- EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
-  <InfantIllness.description>Effetti di varie complicazioni alla nascita. Se il bambino riesce a sopravvivere per 10 giorni, sarà abbastanza forte da riprendersi da solo.\n\nLa malattia aumenterà e diminuirà di intensità nel tempo, richiedendo diversi livelli di cure e medicine per riprendersi.</InfantIllness.description>
+  <InfantIllness.description>Effetti di varie complicazioni alla nascita. Se il neonato riesce a sopravvivere per 10 giorni, sarà abbastanza forte da riprendersi da solo.\n\nLa malattia aumenterà e diminuirà di intensità nel tempo, richiedendo diversi livelli di cure e medicine per riprendersi.</InfantIllness.description>
   <!-- EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>La malattia infantile di {PAWN_labelShort} è passata da {1} a {2}.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
   <!-- EN: that are life threatening without exceptional medical care and glitterworld medicine. -->
@@ -20,7 +20,7 @@
   <!-- EN: common -->
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>comune</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
   <!-- EN: which make the baby slightly ill but, at this rate, they will recover on their own. -->
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>il che fa ammalare leggermente il bambino ma, di questo passo, si riprenderà da solo.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>il che fa ammalare leggermente il neonato ma, di questo passo, si riprenderà da solo.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
   <!-- EN: mild -->
   <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>lieve</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
   <!-- EN: Effects of various birth complications -->
@@ -37,7 +37,7 @@
   <!-- EN: lactating -->
   <Lactating.label>in allattamento</Lactating.label>
   <!-- EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant. -->
-  <Lactating.description>La condizione di poter allattare un bambino. I seni producono e immagazzinano attivamente il latte. Lo stato di allattamento inizia quando una madre partorisce e continua indefinitamente finché allatta un bambino almeno una volta ogni 10 giorni.\n\nLe persone che allattano avranno più difficoltà a rimanere incinte.</Lactating.description>
+  <Lactating.description>La condizione di poter allattare un neonato. I seni producono e immagazzinano attivamente il latte. Lo stato di allattamento inizia quando una madre partorisce e continua indefinitamente finché allatta un neonato almeno una volta ogni 10 giorni.\n\nLe persone che allattano avranno più difficoltà a rimanere incinte.</Lactating.description>
   <!-- EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
   <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} non produce più latte perché non allatta da 10 giorni.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <!-- EN: milk fullness {CHARGEFACTOR_percentage} -->

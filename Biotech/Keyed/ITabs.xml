@@ -30,7 +30,7 @@
   <!-- EN: urgent -->
   <AutofeedModeUrgent>urgente</AutofeedModeUrgent>
   <!-- EN: Nobody can feed this baby. -->
-  <AutofeedNone>Nessuno può nutrire questo bambino.</AutofeedNone>
+  <AutofeedNone>Nessuno può nutrire questo neonato.</AutofeedNone>
   <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
   <AutofeedModeTooltipNever>{FEEDER_nameDef} non alimenterà automaticamente {BABY_nameDef}.</AutofeedModeTooltipNever>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->

@@ -5,7 +5,7 @@
     <li>questDescription->A transport pod crashes with a baby</li>
   -->
   <RefugeePodCrash_Baby.questDescriptionRules.rulesStrings>
-    <li>questDescription->Un pod di trasporto si schianta con un bambino</li>
+    <li>questDescription->Una capsula di trasporto si schianta con un neonato</li>
   </RefugeePodCrash_Baby.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Transport pod crash</li>

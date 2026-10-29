@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: feed babies -->
-  <BottleFeedBaby.label>nutrire i bambini</BottleFeedBaby.label>
+  <BottleFeedBaby.label>nutrire i neonati</BottleFeedBaby.label>
   <!-- EN: feeding -->
   <BottleFeedBaby.gerund>nutrire</BottleFeedBaby.gerund>
   <!-- EN: feed -->
   <BottleFeedBaby.verb>nutrire</BottleFeedBaby.verb>
   
   <!-- EN: breastfeed babies -->
-  <BreastfeedBaby.label>allattare i bambini</BreastfeedBaby.label>
+  <BreastfeedBaby.label>allattare i neonati</BreastfeedBaby.label>
   <!-- EN: breastfeeding -->
   <BreastfeedBaby.gerund>allattare</BreastfeedBaby.gerund>
   <!-- EN: breastfeed -->
   <BreastfeedBaby.verb>allattare</BreastfeedBaby.verb>
   
   <!-- EN: bring babies to safe temperature -->
-  <BringBabyToSafety.label>portare i bambini a una temperatura sicura</BringBabyToSafety.label>
+  <BringBabyToSafety.label>portare i neonati a una temperatura sicura</BringBabyToSafety.label>
   <!-- EN: rescuing -->
   <BringBabyToSafety.gerund>salvare</BringBabyToSafety.gerund>
   <!-- EN: rescue -->
@@ -170,7 +170,7 @@
   <HaulToWastepackAtomizer.verb>trasportare a</HaulToWastepackAtomizer.verb>
   
   <!-- EN: play with babies -->
-  <PlayWithBaby.label>giocare con i bambini</PlayWithBaby.label>
+  <PlayWithBaby.label>giocare con i neonati</PlayWithBaby.label>
   <!-- EN: playing with -->
   <PlayWithBaby.gerund>giocare con</PlayWithBaby.gerund>
   <!-- EN: play with -->

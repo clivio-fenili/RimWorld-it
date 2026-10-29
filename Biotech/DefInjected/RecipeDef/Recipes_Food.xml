@@ -4,7 +4,7 @@
   <!-- EN: make baby food -->
   <Make_BabyFood.label>preparare pappe</Make_BabyFood.label>
   <!-- EN: Make baby food, a nutritionally balanced vegetarian mash for babies. While easy to make in large quantities, only babies appreciate its bland taste and mushy texture. -->
-  <Make_BabyFood.description>Prepara la pappa, un pasto vegetariano nutrizionalmente equilibrato per i bambini. Sebbene sia facile da preparare in grandi quantità, solo i bambini ne apprezzano il gusto insipido e la consistenza pastosa.</Make_BabyFood.description>
+  <Make_BabyFood.description>Prepara la pappa, un pasto vegetariano nutrizionalmente equilibrato per i neonati. Sebbene sia facile da preparare in grandi quantità, solo i neonati ne apprezzano il gusto insipido e la consistenza pastosa.</Make_BabyFood.description>
   <!-- EN: vegetarian ingredients -->
   <Make_BabyFood.ingredients.0.filter.customSummary>ingredienti vegetariani</Make_BabyFood.ingredients.0.filter.customSummary>
   <!-- EN: Making baby food. -->
@@ -13,7 +13,7 @@
   <!-- EN: make baby food x4 -->
   <Make_BabyFoodBulk.label>preparare pappe x4</Make_BabyFoodBulk.label>
   <!-- EN: Make bulk baby food, a nutritionally balanced vegetarian mash for babies. While easy to make in large quantities, only babies appreciate its bland taste and mushy texture. -->
-  <Make_BabyFoodBulk.description>Prepara la pappa in quantità, un pasto vegetariano nutrizionalmente equilibrato per i bambini. Sebbene sia facile da preparare in grandi quantità, solo i bambini ne apprezzano il gusto insipido e la consistenza pastosa.</Make_BabyFoodBulk.description>
+  <Make_BabyFoodBulk.description>Prepara la pappa in quantità, un pasto vegetariano nutrizionalmente equilibrato per i neonati. Sebbene sia facile da preparare in grandi quantità, solo i neonati ne apprezzano il gusto insipido e la consistenza pastosa.</Make_BabyFoodBulk.description>
   <!-- EN: vegetarian ingredients -->
   <Make_BabyFoodBulk.ingredients.0.filter.customSummary>ingredienti vegetariani</Make_BabyFoodBulk.ingredients.0.filter.customSummary>
   <!-- EN: Making bulk baby food. -->

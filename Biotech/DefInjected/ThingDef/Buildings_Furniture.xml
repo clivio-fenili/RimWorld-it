@@ -4,12 +4,12 @@
   <!-- EN: baby decoration -->
   <BabyDecoration.label>decorazione per neonati</BabyDecoration.label>
   <!-- EN: A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas. -->
-  <BabyDecoration.description>Una decorazione per i bambini. Le decorazioni per bambini aumentano la velocità con cui i bambini soddisfano le loro esigenze di gioco quando un adulto gioca con loro. Posizionali attorno alle aree giochi dei tuoi bambini.</BabyDecoration.description>
+  <BabyDecoration.description>Una decorazione per i neonati. Le decorazioni per neonati aumentano la velocità con cui i neonati soddisfano il bisogno di gioco quando un adulto gioca con loro. Posizionale attorno alle aree giochi dei tuoi bambini.</BabyDecoration.description>
   
   <!-- EN: baby sleeping spot -->
-  <BabySleepingSpot.label>posto letto per bambini</BabySleepingSpot.label>
+  <BabySleepingSpot.label>posto letto per neonati</BabySleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should leave a baby. Not comfortable. -->
-  <BabySleepingSpot.description>Designa un punto sul terreno dove le persone dovrebbero lasciare un bambino. Scomodo.</BabySleepingSpot.description>
+  <BabySleepingSpot.description>Designa un punto sul terreno dove le persone dovrebbero lasciare un neonato. Scomodo.</BabySleepingSpot.description>
   
   <!-- EN: blackboard -->
   <Blackboard.label>lavagna</Blackboard.label>
@@ -22,7 +22,7 @@
   <!-- EN: crib -->
   <Crib.label>culla</Crib.label>
   <!-- EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
-  <Crib.description>Un lettino accogliente con sponde sicure, perfetto per un bambino assonnato. Una culla di alta qualità renderà felice un bambino. È possibile posizionare più culle in una camera da letto senza trasformarla in una caserma.</Crib.description>
+  <Crib.description>Un lettino accogliente con sponde sicure, perfetto per un neonato assonnato. Una culla di alta qualità renderà felice un neonato. È possibile posizionare più culle in una camera da letto senza trasformarla in una caserma.</Crib.description>
   
   <!-- EN: school desk -->
   <SchoolDesk.label>banco di scuola</SchoolDesk.label>
@@ -38,6 +38,6 @@
   <!-- EN: toy box -->
   <ToyBox.label>scatola dei giocattoli</ToyBox.label>
   <!-- EN: A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play. -->
-  <ToyBox.description>Una scatola di giocattoli contenente tanti piccoli giocattoli. Le scatole dei giocattoli possono essere utilizzate per giocare con i bambini, soddisfacendo il loro bisogno di gioco.</ToyBox.description>
+  <ToyBox.description>Una scatola di giocattoli contenente tanti piccoli giocattoli. Le scatole dei giocattoli possono essere utilizzate per giocare con i neonati, soddisfacendo il loro bisogno di gioco.</ToyBox.description>
   
 </LanguageData>

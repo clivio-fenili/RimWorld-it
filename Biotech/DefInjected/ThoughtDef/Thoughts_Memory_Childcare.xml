@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: baby crying -->
-  <CryingBaby.stages.baby_crying.label>bambino che piange</CryingBaby.stages.baby_crying.label>
+  <CryingBaby.stages.baby_crying.label>neonato che piange</CryingBaby.stages.baby_crying.label>
   <!-- EN: That shrill wailing sound is so irritating! -->
   <CryingBaby.stages.baby_crying.description>Quel suono lamentoso e acuto è così irritante!</CryingBaby.stages.baby_crying.description>
   
   <!-- EN: baby giggling -->
-  <GigglingBaby.stages.baby_giggling.label>il bambino ridacchia</GigglingBaby.stages.baby_giggling.label>
+  <GigglingBaby.stages.baby_giggling.label>neonato che ridacchia</GigglingBaby.stages.baby_giggling.label>
   <!-- EN: A giggling baby just brings a smile to my face. -->
-  <GigglingBaby.stages.baby_giggling.description>Un bambino che ridacchia mi fa semplicemente sorridere.</GigglingBaby.stages.baby_giggling.description>
+  <GigglingBaby.stages.baby_giggling.description>Un neonato che ridacchia mi fa semplicemente sorridere.</GigglingBaby.stages.baby_giggling.description>
   
   <!-- EN: my baby is crying -->
-  <MyCryingBaby.stages.my_baby_is_crying.label>il mio bambino sta piangendo</MyCryingBaby.stages.my_baby_is_crying.label>
+  <MyCryingBaby.stages.my_baby_is_crying.label>il mio neonato sta piangendo</MyCryingBaby.stages.my_baby_is_crying.label>
   <!-- EN: My baby is crying. I hope it stops soon. -->
-  <MyCryingBaby.stages.my_baby_is_crying.description>Il mio bambino sta piangendo. Spero che finisca presto.</MyCryingBaby.stages.my_baby_is_crying.description>
+  <MyCryingBaby.stages.my_baby_is_crying.description>Il mio neonato sta piangendo. Spero che finisca presto.</MyCryingBaby.stages.my_baby_is_crying.description>
   
   <!-- EN: my baby giggling -->
-  <MyGigglingBaby.stages.my_baby_giggling.label>il mio bambino ridacchia</MyGigglingBaby.stages.my_baby_giggling.label>
+  <MyGigglingBaby.stages.my_baby_giggling.label>il mio neonato ridacchia</MyGigglingBaby.stages.my_baby_giggling.label>
   <!-- EN: My baby is the cutest in the anthrosphere! -->
-  <MyGigglingBaby.stages.my_baby_giggling.description>Il mio bambino è il più carino dell'antroposfera!</MyGigglingBaby.stages.my_baby_giggling.description>
+  <MyGigglingBaby.stages.my_baby_giggling.description>Il mio neonato è il più carino dell'antroposfera!</MyGigglingBaby.stages.my_baby_giggling.description>
   
 </LanguageData>

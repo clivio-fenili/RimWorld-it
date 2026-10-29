@@ -552,7 +552,7 @@
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
   <InsertPersonGrowthVatDesc>Inserisci una persona nella vasca di crescita. Invecchierà 20 volte più velocemente del normale.</InsertPersonGrowthVatDesc>
   <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>Impianta un embrione nella vasca di crescita. Dopo la gestazione per {0}, nella vasca verrà prodotto un bambino completamente formato, si spera in buona salute.</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>Impianta un embrione nella vasca di crescita. Dopo la gestazione per {0}, nella vasca verrà prodotto un neonato completamente formato, si spera in buona salute.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
   <ImplantEmbryo>Inserisci l'embrione</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->
@@ -740,7 +740,7 @@
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
   <ImplantSurgeryConfirm>La probabilità di successo dell'impianto per {0} in {1} è {2}.\n\nLa probabilità di successo dell'impianto dipende dalla fertilità della madre surrogata. Sarà inferiore se la madre è troppo vecchia o troppo giovane.</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
-  <ImplantEmbryoCancelVat>Espellere {0} dalla vasca di crescita in questo momento lo distruggerà prima che si formi un bambino.\n\nVuoi continuare?</ImplantEmbryoCancelVat>
+  <ImplantEmbryoCancelVat>Espellere {0} dalla vasca di crescita in questo momento lo distruggerà prima che si formi un neonato.\n\nVuoi continuare?</ImplantEmbryoCancelVat>
   <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
   <ImplantFailedMessage>L'impianto di {0} in {1} non è riuscito.</ImplantFailedMessage>
   <!-- EN: Cancel embryo insertion -->

@@ -56,7 +56,7 @@
   <!-- EN: {0_nameDef} became an adult -->
   <LetterLabelBecameAdult>{0_nameDef} è diventat{0_gender ? o : a} adult{0_gender ? o : a}</LetterLabelBecameAdult>
   <!-- EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
-  <LetterBecameChild>{0_gender ? Il piccolo : La piccola} {0_nameDef} è cresciut{0_gender ? o : a} ed è {0_gender ? diventato un bambino : diventata una bambina}! Ora è abbastanza grande per svolgere i seguenti lavori:</LetterBecameChild>
+  <LetterBecameChild>{0_gender ? Il neonato : La neonata} {0_nameDef} è cresciut{0_gender ? o : a} ed è {0_gender ? diventato un bambino : diventata una bambina}! Ora è abbastanza grande per svolgere i seguenti lavori:</LetterBecameChild>
   <!-- EN: Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel. -->
   <LetterBecameChildChanges>I bambini possono svolgere vari tipi di lavoro. Man mano che invecchiano, diventano in grado di svolgere più tipi di lavoro.\n\nSvolgono anche varie attività ricreative specifiche per i bambini.\n\nI bambini devono indossare indumenti speciali a misura di bambino.</LetterBecameChildChanges>
   <!-- EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
@@ -74,7 +74,7 @@
   <!-- EN: {BABY_nameDef} adopted -->
   <LetterLabelAdopted>{BABY_nameDef} adottat{BABY_gender ? o : a}</LetterLabelAdopted>
   <!-- EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->
-  <LetterTextAdopted>{BABY_nameDef}, {BABY_gender ? un bambino : una bambina}, è stat{BABY_gender ? o : a} adottat{BABY_gender ? o : a} dalla tua colonia. Potresti voler assegnare dei coloni al tipo di lavoro 'assistenza all'infanzia' perché se ne prendano cura.</LetterTextAdopted>
+  <LetterTextAdopted>{BABY_nameDef}, {BABY_gender ? un neonato : una neonata}, è stat{BABY_gender ? o : a} adottat{BABY_gender ? o : a} dalla tua colonia. Potresti voler assegnare dei coloni al tipo di lavoro 'assistenza all'infanzia' perché se ne prendano cura.</LetterTextAdopted>
 
   <!-- EN: {0_nameDef}'s baby prep -->
   <LetterLabelThirdTrimester>Prepararsi al bambino di {0_nameDef}</LetterLabelThirdTrimester>
@@ -84,13 +84,13 @@
   <!-- EN: {0} vat birth -->
   <LetterVatBirth>{0} nascita in vasca</LetterVatBirth>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
-  <LetterVatHealthyBaby>L'embrione di {0_nameDef} e {1_nameDef} ha terminato la gestazione in una vasca di crescita ed è diventato un bambino sano!</LetterVatHealthyBaby>
+  <LetterVatHealthyBaby>L'embrione di {0_nameDef} e {1_nameDef} ha terminato la gestazione in una vasca di crescita ed è diventato un neonato sano!</LetterVatHealthyBaby>
   <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
-  <LetterVatHealthyBabyNoParents>Un embrione ha terminato la gestazione in una vasca di crescita ed è diventato un bambino sano!</LetterVatHealthyBabyNoParents>
+  <LetterVatHealthyBabyNoParents>Un embrione ha terminato la gestazione in una vasca di crescita ed è diventato un neonato sano!</LetterVatHealthyBabyNoParents>
   <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllness>L'embrione di {0_nameDef} e {1_nameDef} ha terminato la gestazione in una vasca di crescita ed è diventato un bambino. Purtroppo il bambino è malato.</LetterVatInfantIllness>
+  <LetterVatInfantIllness>L'embrione di {0_nameDef} e {1_nameDef} ha terminato la gestazione in una vasca di crescita ed è diventato un neonato. Purtroppo il neonato è malato.</LetterVatInfantIllness>
   <!-- EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-  <LetterVatInfantIllnessNoParents>Un embrione ha terminato la gestazione in una vasca di crescita ed è diventato un bambino. Purtroppo il bambino è malato.</LetterVatInfantIllnessNoParents>
+  <LetterVatInfantIllnessNoParents>Un embrione ha terminato la gestazione in una vasca di crescita ed è diventato un neonato. Purtroppo il neonato è malato.</LetterVatInfantIllnessNoParents>
   <!-- EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
   <LetterVatStillborn>Il bambino formato in una vasca di crescita dall'embrione di {0_nameDef} e {1_nameDef} è nato morto.</LetterVatStillborn>
   <!-- EN: The baby formed in a growth vat was stillborn. -->
@@ -102,26 +102,26 @@
   <!-- EN: {0_labelShort} has died due to complications after giving birth. -->
   <LetterPartColonistDiedAfterChildbirth>{0_labelShort} è morta a causa di complicazioni dopo il parto.</LetterPartColonistDiedAfterChildbirth>
   <!-- EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
-  <LetterPartSurrogacy>Il bambino è stato creato dalla fecondazione in vitro e ha la composizione genetica di {0_labelShort} e {1_labelShort}.</LetterPartSurrogacy>
+  <LetterPartSurrogacy>Il neonato è stato creato dalla fecondazione in vitro e ha la composizione genetica di {0_labelShort} e {1_labelShort}.</LetterPartSurrogacy>
   <!-- EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
-  <InbredBabyBorn>Il bambino mostra segni di anomalie genetiche dovute alla consanguineità.</InbredBabyBorn>
+  <InbredBabyBorn>Il neonato mostra segni di anomalie genetiche dovute alla consanguineità.</InbredBabyBorn>
 
   <!-- EN: {0_nameDef} has already been named. -->
   <BabyAlreadyNamed>{0_nameDef} ha già un nome.</BabyAlreadyNamed>
   <!-- EN: name baby -->
-  <NameBaby>dai un nome al bambino</NameBaby>
+  <NameBaby>dai un nome al neonato</NameBaby>
   <!-- EN: immediately -->
   <Immediately>subito</Immediately>
   <!-- EN: within -->
   <Within>entro</Within>
   <!-- EN: The baby has been given the temporary name {0_nameFull}. -->
-  <LetterPartTempBabyName>Al bambino è stato dato il nome temporaneo {0_nameFull}.</LetterPartTempBabyName>
+  <LetterPartTempBabyName>Al neonato è stato dato il nome temporaneo {0_nameFull}.</LetterPartTempBabyName>
   <!-- EN: You can change it until {0} after birth. -->
   <LetterPartLiveBirthNameDeadline>Puoi cambiarlo entro {0} dalla nascita.</LetterPartLiveBirthNameDeadline>
   <!-- EN: Would you like to give the baby another name? -->
   <LetterPartStillbirthNameDeadline>Vorresti dare un altro nome al bambino?</LetterPartStillbirthNameDeadline>
   <!-- EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
-  <LetterPartNameBabyAdopt>Al bambino è stato dato il nome temporaneo {0_nameFull}. Puoi cambiarlo purché il bambino abbia meno di {1}.</LetterPartNameBabyAdopt>
+  <LetterPartNameBabyAdopt>Al neonato è stato dato il nome temporaneo {0_nameFull}. Puoi cambiarlo purché il neonato abbia meno di {1}.</LetterPartNameBabyAdopt>
 
   <!-- EN: Growth moment for {PAWNNAME} -->
   <BirthdayGrowthMoment>Momento di crescita per {PAWNNAME}</BirthdayGrowthMoment>
@@ -202,7 +202,7 @@
   <LetterTextGenesImplanted>{CASTER_nameDef} ha impiantato una copia del suo xenogerme in {TARGET_nameDef}, trasferendo così tutti gli xenogeni.\n\n{TARGET_nameDef} sarà in coma da xenogerminazione per i prossimi {COMADURATION}, mentre il suo corpo si adatta ai cambiamenti.\n\n{CASTER_nameDef} subirà uno shock da perdita genetica per i prossimi {SHOCKDURATION}. Anche i suoi geni dovranno ricrescere, e ci vuole tempo. Se {CASTER_nameDef} impianta di nuovo il suo xenogerme prima che i suoi geni siano ricresciuti, morirà.</LetterTextGenesImplanted>
   
   <!-- EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
-  <RefugeePodCrashBaby>Un bambino chiamato {PAWN_nameDef} di {PAWN_factionName} si sta schiantando in una capsula da trasporto nelle vicinanze.\n\nPuoi scegliere di adottarl{PAWN_gender ? o : a} con il comando 'adotta' o di ignorarl{PAWN_gender ? o : a}.</RefugeePodCrashBaby>
+  <RefugeePodCrashBaby>Un neonato chiamato {PAWN_nameDef} di {PAWN_factionName} si sta schiantando in una capsula da trasporto nelle vicinanze.\n\nPuoi scegliere di adottarl{PAWN_gender ? o : a} con il comando 'adotta' o di ignorarl{PAWN_gender ? o : a}.</RefugeePodCrashBaby>
   <!-- EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
   <RefugeePodCrashBabyHasParent>Anche il corpo del genitore deceduto di {PAWN_nameDef} è contenuto nella capsula di trasporto.</RefugeePodCrashBabyHasParent>
 

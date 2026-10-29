@@ -11,7 +11,7 @@
   <!-- EN: baby play power -->
   <BabyPlayGainFactor.label>efficacia nel gioco dei neonati</BabyPlayGainFactor.label>
   <!-- EN: How effectively this object can be used to fulfill a baby's need for play. -->
-  <BabyPlayGainFactor.description>Quanto efficacemente questo oggetto può essere utilizzato per soddisfare il bisogno di gioco del bambino.</BabyPlayGainFactor.description>
+  <BabyPlayGainFactor.description>Quanto efficacemente questo oggetto può essere utilizzato per soddisfare il bisogno di gioco del neonato.</BabyPlayGainFactor.description>
   
   <!-- EN: birth quality offset -->
   <BirthRitualQualityOffset.label>modificatore della qualità del parto</BirthRitualQualityOffset.label>
