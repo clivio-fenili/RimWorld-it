@@ -83,7 +83,7 @@
     <li>maybeSignature->Firmato: [PAWN_nameDef].</li>
     <li>maybeSignature->Alla fine, è visibile un nome: [PAWN_nameDef].</li>
     <li>maybeSignature->Il nome [PAWN_nameDef] è scarabocchiato in basso.</li>
-    <li>textDescSentence->Le divagazioni incise a terra sono completamente coerenti.</li>
+    <li>textDescSentence->Le scritte incise a terra sono sconclusionate e incoerenti.</li>
     <li>textDescSentence->È difficile capirci qualcosa.</li>
     <li>textDescSentence->Gli strani segni incisi sembrano essere stati scritti al contrario.</li>
     <li>textDescSentence->La scrittura è tremolante e incerta.</li>
@@ -128,7 +128,7 @@
     <li>horrorDesc->una folla di figure umane con terrificanti maschere irte di punte</li>
     <li>rambling->voglio andarmene</li>
     <li>rambling->aiuto</li>
-    <li>rambling->al soccorso</li>
+    <li>rambling->salvatemi</li>
     <li>rambling->sta osservando</li>
     <li>rambling->mi impediscono di andarmene</li>
     <li>rambling->lasciatemi andare</li>

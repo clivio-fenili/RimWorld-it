@@ -299,7 +299,7 @@
     <li>nounEvilCountable->nociosfere</li>
     <li>nounEvilCountable->cadaveri</li>
     <li>nounEvilCountable->cubi</li>
-    <li>nounEvilCountable->ritornanti</li>
+    <li>nounEvilCountable->revenant</li>
     <li>nounEvilCountable->orrori metallici</li>
     <li>nounEvilCountable->rapitori</li>
     <li>nounEvilCountable->duplicatori</li>
@@ -362,7 +362,7 @@
     <li>suffixEvil->manzia</li>
     <li>suffixEvil->gorgon</li>
     <li>suffixEvil->morth</li>
-    <li>suffixEvil->cryptique</li>
+    <li>suffixEvil->cypher</li>
     <li>suffixEvil->vex</li>
     <li>suffixEvil->vortex</li>
     <li>suffixEvil->nox</li>

@@ -24,19 +24,19 @@
   -->
   <DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
     <li>damage_source->[source] [attacked]</li>
-    <li>source->una cosa in agguato in [dark]</li>
-    <li>source->qualcosa in [dark]</li>
-    <li>source->una creatura in [dark]</li>
+    <li>source->una cosa in agguato [dark]</li>
+    <li>source->qualcosa [dark]</li>
+    <li>source->una creatura [dark]</li>
     <li>source->una creatura invisibile</li>
     <li>source->una creatura oscura</li>
-    <li>source->un nemico invisibile in agguato in [dark]</li>
-    <li>dark->le tenebre</li>
-    <li>dark->un'oscurità soprannaturale</li>
-    <li>dark->una nerezza d'inchiostro</li>
-    <li>dark->l'ombra</li>
+    <li>source->un nemico invisibile in agguato [dark]</li>
+    <li>dark->nelle tenebre</li>
+    <li>dark->in un'oscurità innaturale</li>
+    <li>dark->in un nero d'inchiostro</li>
+    <li>dark->nell'ombra</li>
     <li>attacked->ha attaccato</li>
     <li>attacked->ha colpito</li>
-    <li>attacked->ha caricato</li>
+    <li>attacked->ha ferito</li>
     <li>damaged_present->ferendo</li>
     <li>damaged_present->lacerando</li>
     <li>destroyed_present->eliminando</li>

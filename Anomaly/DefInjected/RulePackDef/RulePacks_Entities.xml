@@ -5,7 +5,7 @@
     <li>r_logentry->[INITIATOR_definite] leaped onto [SUBJECT_definite] and began digesting [SUBJECT_objective].</li>
   -->
   <Event_DevourerConsumeLeap.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] è balzato su [SUBJECT_definite] e ha iniziato a digerire [SUBJECT_objective].</li>
+    <li>r_logentry->[INITIATOR_definite] è balzato su [SUBJECT_definite] e ha iniziato a digerirl{SUBJECT_gender ? o : a : o}.</li>
   </Event_DevourerConsumeLeap.rulePack.rulesStrings>
   
   <!-- EN:
@@ -71,10 +71,10 @@
     <li>verb->sibilando</li>
     <li>verb->gemendo</li>
     <li>verb->brontolando</li>
-    <li>verb->discutendo</li>
+    <li>verb->battendo i denti</li>
     <li>verb->sferragliando</li>
     <li>verb->respirando con difficoltà</li>
-    <li>verb->con sferragliamenti</li>
+    <li>verb->tintinnando</li>
     <li>verb->contorcendosi</li>
     <li>verb->mordendo</li>
     <li>verb->tossendo</li>
