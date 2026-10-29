@@ -39,52 +39,52 @@
   <ImplantIUD.successfullyRemovedHediffMessage>{0} ha impiantato con successo uno IUD in {1}.</ImplantIUD.successfullyRemovedHediffMessage>
   
   <!-- EN: implant xenogerm -->
-  <ImplantXenogerm.label>impianto di xenogermi</ImplantXenogerm.label>
+  <ImplantXenogerm.label>impiantare uno xenogerme</ImplantXenogerm.label>
   <!-- EN: Implant a xenogerm into a patient. This replaces any previous xenogerm they may have had. -->
-  <ImplantXenogerm.description>Impiantare uno xenogerme in un paziente. Questo sostituisce qualsiasi xenogermo precedente che potrebbero aver avuto.</ImplantXenogerm.description>
+  <ImplantXenogerm.description>Impianta uno xenogerme in un paziente. Sostituisce l'eventuale xenogerme precedente.</ImplantXenogerm.description>
   <!-- EN: Implanting xenogerm. -->
   <ImplantXenogerm.jobString>Impianto di xenogerme.</ImplantXenogerm.jobString>
   
   <!-- EN: remove IUD -->
   <RemoveIUD.label>rimuovere lo IUD</RemoveIUD.label>
   <!-- EN: Remove an implanted intrauterine device to allow normal pregnancy. If the surgery goes wrong, the patient will be rendered permanently sterile. -->
-  <RemoveIUD.description>Rimuovere un dispositivo intrauterino impiantato per consentire una gravidanza normale. Se l’intervento va storto, il paziente verrà reso permanentemente sterile.</RemoveIUD.description>
+  <RemoveIUD.description>Rimuovi un dispositivo intrauterino impiantato per consentire una gravidanza normale. Se l'intervento va storto, la paziente resterà permanentemente sterile.</RemoveIUD.description>
   <!-- EN: removing IUD from TargetA. -->
-  <RemoveIUD.jobString>rimuovendo lo IUD da TargetA.</RemoveIUD.jobString>
+  <RemoveIUD.jobString>rimuove lo IUD a TargetA.</RemoveIUD.jobString>
   <!-- EN: {0} has successfully removed {1}'s IUD. -->
   <RemoveIUD.successfullyRemovedHediffMessage>{0} ha rimosso con successo lo IUD di {1}.</RemoveIUD.successfullyRemovedHediffMessage>
   
   <!-- EN: reverse vasectomy -->
-  <ReverseVasectomy.label>vasectomia inversa</ReverseVasectomy.label>
+  <ReverseVasectomy.label>invertire la vasectomia</ReverseVasectomy.label>
   <!-- EN: Attempt to reverse the vasectomy and make a man capable of fathering children again. Most vasectomy reversals succeed, but if the surgery goes wrong the man will be left permanently sterile. -->
-  <ReverseVasectomy.description>Tentare di invertire la vasectomia e rendere un uomo capace di generare nuovamente figli. La maggior parte delle inversioni di vasectomia hanno successo, ma se l’intervento va male l’uomo rimarrà permanentemente sterile.</ReverseVasectomy.description>
+  <ReverseVasectomy.description>Tenta di invertire la vasectomia e rendere un uomo capace di generare nuovamente figli. La maggior parte delle inversioni di vasectomia hanno successo, ma se l’intervento va male l’uomo rimarrà permanentemente sterile.</ReverseVasectomy.description>
   <!-- EN: performing a vasectomy reversal on TargetA. -->
-  <ReverseVasectomy.jobString>eseguendo una vasectomia inversa su TargetA.</ReverseVasectomy.jobString>
+  <ReverseVasectomy.jobString>esegue l'inversione della vasectomia su TargetA.</ReverseVasectomy.jobString>
   <!-- EN: {0} has successfully performed a vasectomy reversal on {1}. -->
-  <ReverseVasectomy.successfullyRemovedHediffMessage>{0} ha eseguito con successo una vasectomia inversa su {1}.</ReverseVasectomy.successfullyRemovedHediffMessage>
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0} ha invertito con successo la vasectomia di {1}.</ReverseVasectomy.successfullyRemovedHediffMessage>
   
   <!-- EN: terminate pregnancy -->
   <TerminatePregnancy.label>interrompere la gravidanza</TerminatePregnancy.label>
   <!-- EN: Terminate the pregnancy of an animal or human. -->
-  <TerminatePregnancy.description>Interrompere la gravidanza di un animale o di un essere umano.</TerminatePregnancy.description>
+  <TerminatePregnancy.description>Interrompi la gravidanza di un animale o di un essere umano.</TerminatePregnancy.description>
   <!-- EN: terminating TargetA's pregnancy. -->
-  <TerminatePregnancy.jobString>interrompere la gravidanza di TargetA.</TerminatePregnancy.jobString>
+  <TerminatePregnancy.jobString>interrompe la gravidanza di TargetA.</TerminatePregnancy.jobString>
   
   <!-- EN: perform tubal ligation -->
-  <TubalLigation.label>eseguire la legatura tubulare</TubalLigation.label>
+  <TubalLigation.label>eseguire la legatura delle tube</TubalLigation.label>
   <!-- EN: Permanently render a patient sterile and unable to reproduce. -->
-  <TubalLigation.description>Rendere permanentemente un paziente sterile e incapace di riprodursi.</TubalLigation.description>
+  <TubalLigation.description>Rendi permanentemente sterile un paziente, che non potrà più riprodursi.</TubalLigation.description>
   <!-- EN: performing tubal ligation on TargetA. -->
-  <TubalLigation.jobString>eseguendo la legatura tubulare su TargetA.</TubalLigation.jobString>
+  <TubalLigation.jobString>esegue la legatura delle tube su TargetA.</TubalLigation.jobString>
   <!-- EN: {0} has successfully performed tubal ligation on {1}. -->
-  <TubalLigation.successfullyRemovedHediffMessage>{0} ha eseguito con successo la legatura tubulare su {1}.</TubalLigation.successfullyRemovedHediffMessage>
+  <TubalLigation.successfullyRemovedHediffMessage>{0} ha eseguito con successo la legatura delle tube su {1}.</TubalLigation.successfullyRemovedHediffMessage>
   
   <!-- EN: perform vasectomy -->
   <Vasectomy.label>eseguire la vasectomia</Vasectomy.label>
   <!-- EN: Cut the vas deferens to render the patient unable to reproduce. If the surgery goes wrong the patient will be left permanently sterile. -->
-  <Vasectomy.description>Tagliare il dotto deferente per rendere il paziente incapace di riprodursi. Se l’intervento va storto il paziente verrà lasciato permanentemente sterile.</Vasectomy.description>
+  <Vasectomy.description>Taglia i dotti deferenti per rendere il paziente incapace di riprodursi. Se l'intervento va storto, il paziente resterà permanentemente sterile.</Vasectomy.description>
   <!-- EN: performing a vasectomy on TargetA. -->
-  <Vasectomy.jobString>eseguendo una vasectomia su TargetA.</Vasectomy.jobString>
+  <Vasectomy.jobString>esegue una vasectomia su TargetA.</Vasectomy.jobString>
   <!-- EN: {0} has successfully performed a vasectomy on {1}. -->
   <Vasectomy.successfullyRemovedHediffMessage>{0} ha eseguito con successo una vasectomia su {1}.</Vasectomy.successfullyRemovedHediffMessage>
   

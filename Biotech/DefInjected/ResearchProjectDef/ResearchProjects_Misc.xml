@@ -46,7 +46,7 @@
   <!-- EN: fertility procedures -->
   <FertilityProcedures.label>procedure di fertilità</FertilityProcedures.label>
   <!-- EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
-  <FertilityProcedures.description>Esegui gli interventi chirurgici necessari per creare un embrione in provetta da un uomo e una donna fertili, quindi impianta l'embrione in una madre surrogata o in una vasca di crescita. Inoltre, eseguire interventi di sterilizzazione su uomini e donne.</FertilityProcedures.description>
+  <FertilityProcedures.description>Esegui gli interventi chirurgici necessari per creare un embrione in provetta da un uomo e una donna fertili, quindi impianta l'embrione in una madre surrogata o in una vasca di crescita. Inoltre, esegui interventi di sterilizzazione su uomini e donne.</FertilityProcedures.description>
   <!-- EN:
     <li>subject->fertility procedures</li>
     <li>subject_story->helped families in the coreworlds achieve their dream of parenthood with test-tube embryos</li>
@@ -88,7 +88,7 @@
   <!-- EN: growth vats -->
   <GrowthVats.label>vasche di crescita</GrowthVats.label>
   <!-- EN: Construct growth vats which can gestate an embryo or accelerate a child's growth. -->
-  <GrowthVats.description>Costruisci vasche di crescita in grado di gestire un embrione o accelerare la crescita di un bambino.</GrowthVats.description>
+  <GrowthVats.description>Costruisci vasche di crescita in grado di gestare un embrione o accelerare la crescita di un bambino.</GrowthVats.description>
   <!-- EN:
     <li>subject->advanced gestation</li>
     <li>subject->artificial wombs</li>
@@ -136,7 +136,7 @@
   <!-- EN: tox gas -->
   <ToxGas.label>gas tossico</ToxGas.label>
   <!-- EN: Produce weapons that utilize caustic tox gas. -->
-  <ToxGas.description>Produce armi che utilizzano gas tossici caustici.</ToxGas.description>
+  <ToxGas.description>Produci armi che usano il caustico gas tossico.</ToxGas.description>
   <!-- EN:
     <li>subject->gas weaponry</li>
     <li>subject->chemical warfare</li>
@@ -157,7 +157,7 @@
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>generatore di sostanze tossiche</ToxifierGenerator.label>
   <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
-  <ToxifierGenerator.description>Creare generatori tossici che generano elettricità, ma diffondono anche inquinamento attorno a sé.</ToxifierGenerator.description>
+  <ToxifierGenerator.description>Costruisci generatori di sostanze tossiche, che producono elettricità ma diffondono anche inquinamento intorno a sé.</ToxifierGenerator.description>
   <!-- EN:
     <li>subject->toxifier generator</li>
     <li>subject_story->led a clean-up crew to a toxic planetoid</li>
@@ -176,7 +176,7 @@
   <!-- EN: xenogenetics -->
   <Xenogermination.label>xenogenetica</Xenogermination.label>
   <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
-  <Xenogermination.description>Creare xenogermi che possano essere impiantati in una persona per modificarli geneticamente. Estrai pacchetti genetici da persone viventi utilizzando un estrattore di geni in modo da poter reimpiantare i loro geni in qualcun altro.</Xenogermination.description>
+  <Xenogermination.description>Crea xenogermi da impiantare in una persona per modificarla geneticamente. Estrai pacchetti genetici da persone viventi utilizzando un estrattore di geni in modo da poter reimpiantare i loro geni in qualcun altro.</Xenogermination.description>
   <!-- EN:
     <li>subject->xenogermination</li>
     <li>subject->genetic implantation</li>

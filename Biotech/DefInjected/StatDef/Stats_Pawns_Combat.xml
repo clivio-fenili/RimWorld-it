@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: melee door damage factor -->
-  <MeleeDoorDamageFactor.label>fattore di danno alla porta corpo a corpo</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.label>fattore di danno in mischia alle porte</MeleeDoorDamageFactor.label>
   <!-- EN: A special multiplier on the amount of melee damage inflicted on doors. -->
   <MeleeDoorDamageFactor.description>Uno speciale moltiplicatore sulla quantità di danni corpo a corpo inflitti alle porte.</MeleeDoorDamageFactor.description>
   

@@ -23,7 +23,7 @@
   </BasicMechtech.generalRules.rulesStrings>
   
   <!-- EN: high mechtech -->
-  <HighMechtech.label>mech di alto livello</HighMechtech.label>
+  <HighMechtech.label>mechtech avanzata</HighMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
   <HighMechtech.description>La tecnologia necessaria al tuo meccanista per creare e controllare meccanoidi di alto livello.\n\nPuoi ottenere chip powerfocus usando un meccanista per evocare una minaccia regina della guerra.</HighMechtech.description>
   <!-- EN:
@@ -36,7 +36,7 @@
   -->
   <HighMechtech.generalRules.rulesStrings>
     <li>subject->meccanoidi di alto livello</li>
-    <li>subject_story->ha sopravvissuto a un assalto della Regina della Guerra su un mondo imperiale</li>
+    <li>subject_story->ha resistito all'assalto di una regina di guerra su un mondo imperiale</li>
     <li>subject_story->ha comprato un chip powerfocus da un mercante che non ne conosceva il valore</li>
     <li>subject_story->ha interrogato meccanisti catturati in raid planetari</li>
     <li>subject_story->ha costruito micro-organi meccanoidi prototipali per un cliente di un altro mondo</li>
@@ -46,7 +46,7 @@
   <!-- EN: standard mechtech -->
   <StandardMechtech.label>mechtech standard</StandardMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
-  <StandardMechtech.description>La tecnologia necessaria al tuo meccanista per creare e controllare meccanoidi di livello standard.\n\nPuoi ottenere chip di segnale usando un meccanista per evocare una minaccia diabolus.</StandardMechtech.description>
+  <StandardMechtech.description>La tecnologia necessaria al tuo meccanista per creare e controllare meccanoidi di livello standard.\n\nPuoi ottenere chip di segnale usando un meccanista per evocare una minaccia diabolo.</StandardMechtech.description>
   <!-- EN:
     <li>subject->mechanoids</li>
     <li>subject_story->acquired a signal chip in shady circumstances</li>
@@ -59,7 +59,7 @@
     <li>subject->meccanoidi</li>
     <li>subject_story->ha ottenuto un chip di segnale in circostanze losche</li>
     <li>subject_story->ha trovato un chip di segnale intatto in un relitto di diabolus</li>
-    <li>subject_story->ha sopravvissuto a un assalto dell’alveare meccanoide</li>
+    <li>subject_story->ha resistito all'assalto di un alveare meccanoide</li>
     <li>subject_story->ha raccolto rapporti sugli attacchi dei meccanoidi, cercando somiglianze</li>
     <li>subject_gerund->creare meccanoidi standard</li>
   </StandardMechtech.generalRules.rulesStrings>
@@ -67,7 +67,7 @@
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>ultra mechtech</UltraMechtech.label>
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
-  <UltraMechtech.description>La tecnologia avanzata necessaria al tuo meccanista per creare e controllare meccanisti di livello ultra, inclusi mech di grandi dimensioni e attrezzature meccanista di livello ultra.\n\nPuoi ottenere chip nanostrutturanti utilizzando un meccanista per evocare una minaccia apocriton.</UltraMechtech.description>
+  <UltraMechtech.description>La tecnologia avanzata necessaria al tuo meccanista per creare e controllare meccanoidi di livello ultra, inclusi mech di grandi dimensioni e attrezzature meccanista di livello ultra.\n\nPuoi ottenere chip nanostrutturanti utilizzando un meccanista per evocare una minaccia apocritone.</UltraMechtech.description>
   <!-- EN:
     <li>subject->ultra-tier mechanoids</li>
     <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>

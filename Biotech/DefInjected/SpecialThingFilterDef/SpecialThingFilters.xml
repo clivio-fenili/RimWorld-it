@@ -7,8 +7,8 @@
   <AllowCorpsesMechEnemy.description>Consenti i cadaveri dei meccanoidi nemici.</AllowCorpsesMechEnemy.description>
   
   <!-- EN: allow friendly mech corpses -->
-  <AllowCorpsesMechFriendly.label>consentire cadaveri mech amichevoli</AllowCorpsesMechFriendly.label>
+  <AllowCorpsesMechFriendly.label>consentire cadaveri di mech alleati</AllowCorpsesMechFriendly.label>
   <!-- EN: Allow the dead bodies of friendly mechanoids. -->
-  <AllowCorpsesMechFriendly.description>Consenti i cadaveri dei meccanoidi amichevoli.</AllowCorpsesMechFriendly.description>
+  <AllowCorpsesMechFriendly.description>Consenti i cadaveri dei meccanoidi alleati.</AllowCorpsesMechFriendly.description>
   
 </LanguageData>

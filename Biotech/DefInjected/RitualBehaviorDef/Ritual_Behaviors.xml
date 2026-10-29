@@ -6,10 +6,10 @@
   <!-- EN: doctor -->
   <ChildBirth.roles.1.label>medico</ChildBirth.roles.1.label>
   <!-- EN: giving birth -->
-  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>dando vita</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
+  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>partorisce</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
   <!-- EN: giving birth -->
-  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>dando vita</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>partorisce</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
   <!-- EN: delivering baby -->
-  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>partorire il bambino</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>fa nascere il bambino</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
   
 </LanguageData>

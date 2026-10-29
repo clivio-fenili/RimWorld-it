@@ -8,9 +8,9 @@
   <ConfigurePawnsXenotypes.label>persone iniziali</ConfigurePawnsXenotypes.label>
   
   <!-- EN: disable exostrider remains -->
-  <DisableExostriderRemains.label>disabilitare l'exostrider rimane</DisableExostriderRemains.label>
+  <DisableExostriderRemains.label>disattivare i resti di exostrider</DisableExostriderRemains.label>
   
   <!-- EN: start with mechanoid -->
-  <StartingMech.label>iniziare con meccanoide</StartingMech.label>
+  <StartingMech.label>iniziare con un meccanoide</StartingMech.label>
   
 </LanguageData>
