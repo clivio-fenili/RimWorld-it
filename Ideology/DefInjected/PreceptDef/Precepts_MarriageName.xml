@@ -7,7 +7,7 @@
   <MarriageName_AlwaysMans.description>Le coppie devono condividere il nome dell'uomo.</MarriageName_AlwaysMans.description>
   
   <!-- EN: always woman's -->
-  <MarriageName_AlwaysWomans.label>sempre di donna</MarriageName_AlwaysWomans.label>
+  <MarriageName_AlwaysWomans.label>sempre della donna</MarriageName_AlwaysWomans.label>
   <!-- EN: Couples must share the woman's name. -->
   <MarriageName_AlwaysWomans.description>Le coppie devono condividere il nome della donna.</MarriageName_AlwaysWomans.description>
   
@@ -22,7 +22,7 @@
   <MarriageName_Random.description>Le coppie scelgono casualmente se condividere un nome e quale nome condividere.</MarriageName_Random.description>
   
   <!-- EN: usually woman's -->
-  <MarriageName_UsuallyWomans.label>solitamente di donna</MarriageName_UsuallyWomans.label>
+  <MarriageName_UsuallyWomans.label>di solito della donna</MarriageName_UsuallyWomans.label>
   <!-- EN: Most couples share the woman's name. -->
   <MarriageName_UsuallyWomans.description>La maggior parte delle coppie condivide il nome della donna.</MarriageName_UsuallyWomans.description>
   

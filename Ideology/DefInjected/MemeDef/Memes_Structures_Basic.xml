@@ -45,7 +45,7 @@
   <!-- EN: archist -->
   <Structure_Archist.label>archista</Structure_Archist.label>
   <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
-  <Structure_Archist.description>Gli archotecnici sono i veri dei. Conoscono la struttura morale dell'universo e servirli è il modo in cui ci connetteremo ad esso.</Structure_Archist.description>
+  <Structure_Archist.description>Gli archotech sono i veri dei. Conoscono la struttura morale dell'universo e servirli è il modo in cui ci connetteremo ad esso.</Structure_Archist.description>
   <!-- EN:
     <li>memeAdjective->archic</li>
     <li>memeAdjective->archotechnic</li>
@@ -99,7 +99,7 @@
   <Structure_Archist.worshipRoomLabel>santuario</Structure_Archist.worshipRoomLabel>
   
   <!-- EN: ideological -->
-  <Structure_Ideological.label>ideologia</Structure_Ideological.label>
+  <Structure_Ideological.label>ideologica</Structure_Ideological.label>
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
   <Structure_Ideological.description>Non ci sono dei. La struttura morale dell'universo si trova nella nostra grande narrazione delle forze sociali.</Structure_Ideological.description>
   <!-- EN:
@@ -180,7 +180,7 @@
   <!-- EN: abstract theist -->
   <Structure_TheistAbstract.label>teista astratto</Structure_TheistAbstract.label>
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
-  <Structure_TheistAbstract.description>Gli dei non hanno forma fisica, ma sono ovunque contemporaneamente. Sanno tutto e possono fare qualsiasi cosa. La loro volontà definirà la struttura morale dell'universo.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.description>Gli dei non hanno forma fisica, ma sono ovunque contemporaneamente. Sanno tutto e possono fare qualsiasi cosa. La loro volontà definisce la struttura morale dell'universo.</Structure_TheistAbstract.description>
   <!-- EN:
     <li>memeCreed->temple</li>
     <li>memeCreed->sect</li>

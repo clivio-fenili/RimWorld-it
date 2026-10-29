@@ -8,7 +8,7 @@
   <Hunter.label>cacciatore</Hunter.label>
   
   <!-- EN: logger -->
-  <Logger.label>registratore</Logger.label>
+  <Logger.label>taglialegna</Logger.label>
   
   <!-- EN: miner -->
   <Miner.label>minatore</Miner.label>
@@ -17,7 +17,7 @@
   <Tribal_Farmer.label>contadino</Tribal_Farmer.label>
   
   <!-- EN: logger -->
-  <Tribal_Logger.label>registratore</Tribal_Logger.label>
+  <Tribal_Logger.label>taglialegna</Tribal_Logger.label>
   
   <!-- EN: miner -->
   <Tribal_Miner.label>minatore</Tribal_Miner.label>

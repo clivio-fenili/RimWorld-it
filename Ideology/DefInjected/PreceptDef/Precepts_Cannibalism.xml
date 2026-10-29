@@ -37,9 +37,9 @@
   <Cannibalism_Preferred.comps.2.description>Abbigliamento in pelle umana</Cannibalism_Preferred.comps.2.description>
   
   <!-- EN: required (ravenous) -->
-  <Cannibalism_RequiredRavenous.label>richiesto (fameso)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.label>richiesto (vorace)</Cannibalism_RequiredRavenous.label>
   <!-- EN: Man-flesh is morality. To eat a meal without it is unthinkable. -->
-  <Cannibalism_RequiredRavenous.description>La carne umana è moralità. Consumare un pasto senza di esso è impensabile.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.description>La carne umana è moralità. Consumare un pasto senza di essa è impensabile.</Cannibalism_RequiredRavenous.description>
   <!-- EN: No human meat for {HUMANMEATREQUIREDINTERVAL} days -->
   <Cannibalism_RequiredRavenous.comps.3.description>Niente carne umana per {HUMANMEATREQUIREDINTERVAL} giorni</Cannibalism_RequiredRavenous.comps.3.description>
   <!-- EN: Humanleather apparel -->
