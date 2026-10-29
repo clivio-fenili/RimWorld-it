@@ -450,9 +450,9 @@
   <SmokeLauncher.traitAdjectives.2>annebbiante</SmokeLauncher.traitAdjectives.2>
   
   <!-- EN: pistol brace -->
-  <StabilizerBrace.label>braccio stabilizzatore</StabilizerBrace.label>
+  <StabilizerBrace.label>supporto stabilizzatore</StabilizerBrace.label>
   <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
-  <StabilizerBrace.description>Quest'arma è dotata di un braccio stabilizzatore che si collega al braccio dell'utilizzatore, aumentando la precisione.</StabilizerBrace.description>
+  <StabilizerBrace.description>Quest'arma è dotata di un supporto stabilizzatore che si aggancia al braccio dell'utilizzatore, aumentando la precisione.</StabilizerBrace.description>
   <!-- EN: stable -->
   <StabilizerBrace.traitAdjectives.0>stabile</StabilizerBrace.traitAdjectives.0>
   <!-- EN: accurate -->
