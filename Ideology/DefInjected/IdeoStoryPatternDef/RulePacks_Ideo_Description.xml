@@ -268,13 +268,13 @@
     <li>conflict->Poi arrivò il [foeLeader]. I suoi [foeSoldiers] uccisero molti fedeli di [deity0_name] usando ciascuno l’arma preferita del loro capo: un(a) [place_personalWeapon].</li>
     <li>conflict->Un gruppo di [foeSoldiers] si sollevò sotto un terribile [foeLeader]. Intrappolarono i [memberNamePlural] in un unico [place_community].</li>
     <li>conflict->C’era pace, finché un [foeLeader] e i suoi [foeSoldiers] si ribellarono al dominio di [deity0_name]. I [memberNamePlural] furono costretti a fuggire in un nascosto [place_community].</li>
-    <li>founderJoin->[founder_Heroe] chiamat[founder_o_a] [founderName] tentò di assassinare il [foeLeader]. [founder_pronoun] fallì, ma [deity0_name] fu testimone dello sforzo di [founderName] e lo proclamò profeta dei [memberNamePlural].</li>
+    <li>founderJoin->Una persona di nome [founderName] tentò di assassinare il [foeLeader]. [founder_pronoun] fallì, ma [deity0_name] fu testimone dello sforzo di [founderName] e lo proclamò profeta dei [memberNamePlural].</li>
     <li>founderJoin->[deity0_name] si presentò al [place_job] [founderName] [revelationAdverb], e parlò con [founder_pronoun] di [memeConcept].</li>
     <li>founderJoin->[founderName] incontrò [revelationObject], che parlava con la voce di [deity0_name] di [memeConcept].</li>
     <li>founderJoin->Un rinomato [place_job] di nome [founderName] riunì i [memberNamePlural], e reclutò persino alcuni dei [foeSoldiers].</li>
     <li>founderJoin->Un [place_job] chiamato [founderName] si alzò e parlò contro il [foeLeader], e [deity0_name] benedisse [founderName].</li>
     <li>founderJoin->[deity0_name] decise di venire a [place_name] come un essere umano chiamato [founderName] per aiutare i [memberNamePlural].</li>
-    <li>founderJoin->[founder_Heroe] chiamat[founder_o_a] [founderName] uccise cento dei [foeSoldiers] usando un [place_personalWeapon], e [deity0_name] lo guidò parlando attraverso la reliquia [relic0_name].</li>
+    <li>founderJoin->Una persona di nome [founderName] uccise cento dei [foeSoldiers] usando un [place_personalWeapon], e [deity0_name] lo guidò parlando attraverso la reliquia [relic0_name].</li>
     <li>victory->[founderName] riunì i [memberNamePlural] in un [place_community] e insegnò loro la saggezza di [deity0_name].</li>
     <li>victory->[founderName] si sacrificò per uccidere personalmente il [foeLeader].</li>
     <li>revelationAdverb->in una visione</li>
@@ -309,10 +309,10 @@
   <TheistMyth.rules.rulesStrings>
     <li>episode(priority=-1)-></li>
     <li>creation->Per un’eternità, esistette un mondo di [materialOrigin] [Color], finché [deity0_name] creò i pianeti e le stelle.</li>
-    <li>creation->Per un’eternità, esistette un mondo di [materialOrigin_Fem] [Color_Fem], finché [deity0_name] creò i pianeti e le stelle.</li>
+    <li>creation->Per un’eternità, esistette un mondo di [materialOrigin_Fem] color [Color], finché [deity0_name] creò i pianeti e le stelle.</li>
     <li>creation->In un antico universo di lotte, [deity0_name] scatenò un grande fuoco che distrusse l’ultima era e diede inizio a una nuova.</li>
     <li>creation->[deity0_name] generò gli esseri umani in un grande incidente, e li osservò con curiosità.</li>
-    <li>creation->L’universo era un vuoto. Allora, [deity0_name], annoiat[founder_o_a] dall’eternità, formò l’uomo e la donna a partire [bodilyOrigin].</li>
+    <li>creation->L’universo era un vuoto. Allora, [deity0_name], per noia dell’eternità, formò l’uomo e la donna a partire [bodilyOrigin].</li>
     <li>episode(uses=1)->Guardando l’umanità, [deity0_name] la considerò come bambini, e dichiarò il proprio dominio su di essa.</li>
     <li>episode(uses=1)->Attraverso le vaste distanze stellari, la volontà di [deity0_name] sostenne la vita dell’umanità contro il vuoto.</li>
     <li>episode(uses=1)->Sebbene molti avventurieri si mobilitassero contro [deity0_pronoun], [deity0_name] li fermò facilmente, poiché [deity0_pronoun] era [deity0_type].</li>

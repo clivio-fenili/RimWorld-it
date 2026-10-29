@@ -52,8 +52,8 @@
     <li>archistProphecy(tag=meme_AnimalPersonhood) ->[inTheEnd], gli archeotecnici eleveranno gli esseri umani come pari solo se gli esseri umani tratteranno gli animali come pari.</li>
     <li>animistBasis(tag=meme_AnimalPersonhood)    ->Gli spiriti del pensiero e della coscienza vivono sia negli animali che negli esseri umani allo stesso modo.</li>
     <li>animistFact(tag=meme_AnimalPersonhood)     ->Gli spiriti degli animali della natura sono gli stessi che risiedono negli esseri umani.</li>
-    <li>veneratedOrAnyAnimalPl(priority=10)->[veneratedAnimalPl]</li>
-    <li>veneratedOrAnyAnimalPl->[Animal_Plural]</li>
+    <li>veneratedOrAnyAnimalPl(priority=10)->gli esemplari di [veneratedAnimal]</li>
+    <li>veneratedOrAnyAnimalPl->[AnimalPlural]</li>
     <li>veneratedOrAnyAnimal(priority=10)->[veneratedAnimal]</li>
     <li>veneratedOrAnyAnimal->[Animal]</li>
     <li>sacredAnimalList->[animal0_thingDef_label], [animal1_thingDef_label], [animal2_thingDef_label],</li>
@@ -1070,8 +1070,8 @@
     <li>archistFact(tag=meme_Rancher)     ->Gli archeotecnici si prendono cura dell’umanità come pastori, poiché siamo il loro gregge più prezioso.</li>
     <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd], gli archeotecnici partiranno e condurranno con sé coloro che hanno curato bene i propri greggi. Il resto rimarrà indietro nel deserto.</li>
     <li>animistFact(tag=meme_Rancher)     ->Gli animali della natura sono gli spiriti degli schiavi, e pretendono di essere presi al loro servizio.</li>
-    <li>ranchingAnimal(p=4)->[veneratedAnimalPl]</li>
-    <li>ranchingAnimal->[Animal_Plural]</li>
+    <li>ranchingAnimal(p=4)->esemplari di [veneratedAnimal]</li>
+    <li>ranchingAnimal->[AnimalPlural]</li>
     <li>rancherParent1->contadino</li>
     <li>rancherParent1->macellaio</li>
     <li>rancherParent1->casaro</li>

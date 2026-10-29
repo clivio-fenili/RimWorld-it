@@ -36,7 +36,7 @@
     <li>place_job->tecnico stampanti 3D</li>
     <li>place_personalWeapon->storditore elettrico</li>
     <li>place_personalWeapon->saldatrice ad arco</li>
-    <li>place_massWeapon->[unAttaccoEMP]</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
     <li>place_massWeapon->droni da saldatura telecomandati</li>
     <li>place_foeLeader->boss del crimine</li>
     <li>place_foeSoldiers->scagnozzi</li>
@@ -118,7 +118,7 @@
     <li>place_job->cacciatore di rane</li>
     <li>place_personalWeapon->piccone</li>
     <li>place_personalWeapon->balestra idraulica</li>
-    <li>place_massWeapon->[dispositivoSismico]</li>
+    <li>place_massWeapon->[seismicDevice]</li>
     <li>place_massWeapon->una bomba a polvere nera</li>
     <li>place_foeLeader->supervisore delle miniere</li>
     <li>place_foeSoldiers->marines abissali</li>
