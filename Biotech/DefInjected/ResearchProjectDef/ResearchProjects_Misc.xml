@@ -189,7 +189,7 @@
     <li>subject->xenogerminazione</li>
     <li>subject->impianto genetico</li>
     <li>subject_story->è stato migliorato da un’organizzazione benefica di un glitterworld dedicata agli svantaggiati geneticamente</li>
-    <li>subject_story->ha avuto i [ANYPAWN_possessive] geni rubati da un biologo canaglia</li>
+    <li>subject_story->ha subito il furto dei propri geni da parte di un biologo canaglia</li>
     <li>subject_story->ha gestito una clinica di trasferimento genetico per l’élite dei glitterworld</li>
     <li>subject_gerund->creando xenogermi</li>
   </Xenogermination.generalRules.rulesStrings>
