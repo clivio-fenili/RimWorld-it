@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: birth father -->
-  <ParentBirth.label>padre naturale</ParentBirth.label>
+  <ParentBirth.label>padre biologico</ParentBirth.label>
   <!-- EN: birth mother -->
   <ParentBirth.labelFemale>madre biologica</ParentBirth.labelFemale>
   

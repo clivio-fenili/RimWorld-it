@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: gestate agrihand -->
-  <Agrihand.label>Costruisci agrihand</Agrihand.label>
+  <Agrihand.label>gestare un agrihand</Agrihand.label>
   <!-- EN: Gestate an agrihand mechanoid. -->
-  <Agrihand.description>Costruisci un meccanoide agrihand.</Agrihand.description>
+  <Agrihand.description>Gesta un agrihand.</Agrihand.description>
   <!-- EN: Gestating mech. -->
-  <Agrihand.jobString>Meccanoide in costruzione.</Agrihand.jobString>
+  <Agrihand.jobString>Gestazione di un mech.</Agrihand.jobString>
   
   <!-- EN: gestate cleansweeper -->
-  <Cleansweeper.label>Costruisci spazzino</Cleansweeper.label>
+  <Cleansweeper.label>gestare uno spazzino</Cleansweeper.label>
   <!-- EN: Gestate a cleansweeper mechanoid. -->
-  <Cleansweeper.description>Costruisci un meccanoide spazzino.</Cleansweeper.description>
+  <Cleansweeper.description>Gesta uno spazzino.</Cleansweeper.description>
   <!-- EN: Gestating mech. -->
-  <Cleansweeper.jobString>Meccanoide in costruzione.</Cleansweeper.jobString>
+  <Cleansweeper.jobString>Gestazione di un mech.</Cleansweeper.jobString>
   
   <!-- EN: gestate constructoid -->
-  <Constructoid.label>Costruisci constructoid</Constructoid.label>
+  <Constructoid.label>gestare un costruttoide</Constructoid.label>
   <!-- EN: Gestate a constructoid mechanoid. -->
-  <Constructoid.description>Costruisci un meccanoide constructoid.</Constructoid.description>
+  <Constructoid.description>Gesta un costruttoide.</Constructoid.description>
   <!-- EN: Gestating mech. -->
-  <Constructoid.jobString>Meccanoide in costruzione.</Constructoid.jobString>
+  <Constructoid.jobString>Gestazione di un mech.</Constructoid.jobString>
   
   <!-- EN: gestate fabricor -->
-  <Fabricor.label>Costruisci fabricor</Fabricor.label>
+  <Fabricor.label>gestare un produttore</Fabricor.label>
   <!-- EN: Gestate a fabricor mechanoid. -->
-  <Fabricor.description>Costruisci un meccanoide fabricor.</Fabricor.description>
+  <Fabricor.description>Gesta un produttore.</Fabricor.description>
   <!-- EN: Gestating mech. -->
-  <Fabricor.jobString>Meccanoide in costruzione.</Fabricor.jobString>
+  <Fabricor.jobString>Gestazione di un mech.</Fabricor.jobString>
   
   <!-- EN: gestate lifter -->
-  <Lifter.label>Costruisci lifter</Lifter.label>
+  <Lifter.label>gestare un sollevatore</Lifter.label>
   <!-- EN: Gestate a lifter mechanoid. -->
-  <Lifter.description>Costruisci un meccanoide lifter.</Lifter.description>
+  <Lifter.description>Gesta un sollevatore.</Lifter.description>
   <!-- EN: Gestating mech. -->
-  <Lifter.jobString>Meccanoide in costruzione.</Lifter.jobString>
+  <Lifter.jobString>Gestazione di un mech.</Lifter.jobString>
   
   <!-- EN: gestate militor -->
-  <Militor.label>Costruisci militor</Militor.label>
+  <Militor.label>gestare un militare</Militor.label>
   <!-- EN: Gestate a militor mechanoid. -->
-  <Militor.description>Costruisci un meccanoide militor.</Militor.description>
+  <Militor.description>Gesta un militare.</Militor.description>
   <!-- EN: Gestating mech. -->
-  <Militor.jobString>Meccanoide in costruzione.</Militor.jobString>
+  <Militor.jobString>Gestazione di un mech.</Militor.jobString>
   
   <!-- EN: gestate paramedic -->
-  <Paramedic.label>Costruisci paramedico</Paramedic.label>
+  <Paramedic.label>gestare un paramedico</Paramedic.label>
   <!-- EN: Gestate a paramedic mechanoid. -->
-  <Paramedic.description>Costruisci un meccanoide paramedico.</Paramedic.description>
+  <Paramedic.description>Gesta un paramedico.</Paramedic.description>
   <!-- EN: Gestating mech. -->
-  <Paramedic.jobString>Meccanoide in costruzione.</Paramedic.jobString>
+  <Paramedic.jobString>Gestazione di un mech.</Paramedic.jobString>
   
 </LanguageData>

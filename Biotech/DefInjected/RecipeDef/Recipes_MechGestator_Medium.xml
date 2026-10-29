@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: gestate centipede blaster -->
-  <CentipedeBlaster.label>Blaster millepiedi gestato</CentipedeBlaster.label>
+  <CentipedeBlaster.label>gestare un blaster centopiedi</CentipedeBlaster.label>
   <!-- EN: Gestate a centipede mechanoid armed with a heavy charge blaster. -->
-  <CentipedeBlaster.description>Gestisci un millepiedi meccanoide armato con un blaster a carica pesante.</CentipedeBlaster.description>
+  <CentipedeBlaster.description>Gesta un blaster centopiedi.</CentipedeBlaster.description>
   <!-- EN: Gestating mech. -->
-  <CentipedeBlaster.jobString>Meccanismo di gestazione.</CentipedeBlaster.jobString>
+  <CentipedeBlaster.jobString>Gestazione di un mech.</CentipedeBlaster.jobString>
   
   <!-- EN: gestate lancer -->
-  <Lancer.label>lanciere gestante</Lancer.label>
+  <Lancer.label>gestare un lanciere</Lancer.label>
   <!-- EN: Gestate a lancer mechanoid. -->
-  <Lancer.description>Gestisci un meccanoide lanciere.</Lancer.description>
+  <Lancer.description>Gesta un lanciere.</Lancer.description>
   <!-- EN: Gestating mech. -->
-  <Lancer.jobString>Meccanismo di gestazione.</Lancer.jobString>
+  <Lancer.jobString>Gestazione di un mech.</Lancer.jobString>
   
   <!-- EN: gestate legionary -->
-  <Legionary.label>legionario gestato</Legionary.label>
+  <Legionary.label>gestare un legionario</Legionary.label>
   <!-- EN: Gestate a legionary mechanoid. -->
-  <Legionary.description>Genera un meccanoide legionario.</Legionary.description>
+  <Legionary.description>Gesta un legionario.</Legionary.description>
   <!-- EN: Gestating mech. -->
-  <Legionary.jobString>Meccanismo di gestazione.</Legionary.jobString>
+  <Legionary.jobString>Gestazione di un mech.</Legionary.jobString>
   
   <!-- EN: gestate pikeman -->
-  <Pikeman.label>picchiere gestante</Pikeman.label>
+  <Pikeman.label>gestare un picchiere</Pikeman.label>
   <!-- EN: Gestate a pikeman mechanoid. -->
-  <Pikeman.description>Gestisci un picchiere meccanoide.</Pikeman.description>
+  <Pikeman.description>Gesta un picchiere.</Pikeman.description>
   <!-- EN: Gestating mech. -->
-  <Pikeman.jobString>Meccanismo di gestazione.</Pikeman.jobString>
+  <Pikeman.jobString>Gestazione di un mech.</Pikeman.jobString>
   
   <!-- EN: gestate scorcher -->
-  <Scorcher.label>bruciatore della gestazione</Scorcher.label>
+  <Scorcher.label>gestare un bruciatore</Scorcher.label>
   <!-- EN: Gestate a scorcher mechanoid. -->
-  <Scorcher.description>Gestisci un meccanoide rovente.</Scorcher.description>
+  <Scorcher.description>Gesta un bruciatore.</Scorcher.description>
   <!-- EN: Gestating mech. -->
-  <Scorcher.jobString>Meccanismo di gestazione.</Scorcher.jobString>
+  <Scorcher.jobString>Gestazione di un mech.</Scorcher.jobString>
   
   <!-- EN: gestate scyther -->
-  <Scyther.label>falce gestante</Scyther.label>
+  <Scyther.label>gestare un mietitore</Scyther.label>
   <!-- EN: Gestate a scyther mechanoid. -->
-  <Scyther.description>Gestisci un meccanoide scyther.</Scyther.description>
+  <Scyther.description>Gesta un mietitore.</Scyther.description>
   <!-- EN: Gestating mech. -->
-  <Scyther.jobString>Meccanismo di gestazione.</Scyther.jobString>
+  <Scyther.jobString>Gestazione di un mech.</Scyther.jobString>
   
   <!-- EN: gestate tesseron -->
-  <Tesseron.label>tesserone gestato</Tesseron.label>
+  <Tesseron.label>gestare un tesserone</Tesseron.label>
   <!-- EN: Gestate a tesseron mechanoid. -->
-  <Tesseron.description>Gestare un tesseron meccanoide.</Tesseron.description>
+  <Tesseron.description>Gesta un tesserone.</Tesseron.description>
   <!-- EN: Gestating mech. -->
-  <Tesseron.jobString>Meccanismo di gestazione.</Tesseron.jobString>
+  <Tesseron.jobString>Gestazione di un mech.</Tesseron.jobString>
   
 </LanguageData>

@@ -6,13 +6,13 @@
   <!-- EN: Childhood is sacred. We should let kids be kids. -->
   <ChildLabor_Disapproved.description>L'infanzia è sacra. Dovremmo lasciare che i bambini siano bambini.</ChildLabor_Disapproved.description>
   <!-- EN: Children assigned work -->
-  <ChildLabor_Disapproved.comps.0.description>Bambini assegnati al lavoro</ChildLabor_Disapproved.comps.0.description>
+  <ChildLabor_Disapproved.comps.0.description>Bambini assegnati a un lavoro</ChildLabor_Disapproved.comps.0.description>
   
   <!-- EN: encouraged -->
   <ChildLabor_Encouraged.label>incoraggiato</ChildLabor_Encouraged.label>
   <!-- EN: Children build character through work. It's important for everyone to contribute. -->
   <ChildLabor_Encouraged.description>I bambini costruiscono il carattere attraverso il lavoro. È importante che tutti contribuiscano.</ChildLabor_Encouraged.description>
   <!-- EN: Children assigned recreation -->
-  <ChildLabor_Encouraged.comps.0.description>Ai bambini è stata assegnata la ricreazione</ChildLabor_Encouraged.comps.0.description>
+  <ChildLabor_Encouraged.comps.0.description>Bambini assegnati al tempo libero</ChildLabor_Encouraged.comps.0.description>
   
 </LanguageData>

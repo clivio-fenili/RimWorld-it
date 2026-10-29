@@ -6,9 +6,9 @@
   <!-- EN: toxalope calf -->
   <Toxalope.lifeStages.toxalope_calf.label>cucciolo di toxalope</Toxalope.lifeStages.toxalope_calf.label>
   <!-- EN: toxalope calves -->
-  <Toxalope.lifeStages.toxalope_calf.labelPlural>vitelli toxalope</Toxalope.lifeStages.toxalope_calf.labelPlural>
+  <Toxalope.lifeStages.toxalope_calf.labelPlural>cuccioli di toxalope</Toxalope.lifeStages.toxalope_calf.labelPlural>
   
   <!-- EN: waste rat -->
-  <WasteRat.label>ratto sprecato</WasteRat.label>
+  <WasteRat.label>ratto dei rifiuti</WasteRat.label>
   
 </LanguageData>

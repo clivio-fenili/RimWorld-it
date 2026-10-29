@@ -4,9 +4,9 @@
   <!-- EN: blood transfusion -->
   <BloodTransfusion.label>trasfusione di sangue</BloodTransfusion.label>
   <!-- EN: Use hemogen packs to reduce the effects of blood loss. Each hemogen pack used recovers 35% blood loss. The operation will also restore hemogen to hemogenic individuals. -->
-  <BloodTransfusion.description>Utilizzare impacchi di emogeno per ridurre gli effetti della perdita di sangue. Ciascun impacco di emogeno utilizzato recupera il 35% della perdita di sangue. L'operazione ripristinerà anche l'emogeno negli individui emogenici.</BloodTransfusion.description>
+  <BloodTransfusion.description>Usa pacchetti di emogeno per ridurre gli effetti della perdita di sangue. Ogni pacchetto usato recupera il 35% della perdita di sangue. L'operazione ripristina anche l'emogeno negli individui emogenici.</BloodTransfusion.description>
   <!-- EN: performing blood transfusion on TargetA. -->
-  <BloodTransfusion.jobString>eseguire una trasfusione di sangue su TargetA.</BloodTransfusion.jobString>
+  <BloodTransfusion.jobString>esegue una trasfusione di sangue su TargetA.</BloodTransfusion.jobString>
   
   <!-- EN: extract hemogen pack -->
   <ExtractHemogenPack.label>estrarre il pacchetto di emogeno</ExtractHemogenPack.label>
@@ -20,21 +20,21 @@
   <!-- EN: Extract an ovum into a storage capsule. It can then be fertilized by a man, and finally implanted into a mother to start a pregnancy. -->
   <ExtractOvum.description>Estrai un ovulo in una capsula di conservazione. Può quindi essere fecondato da un uomo e infine impiantato nella madre per iniziare una gravidanza.</ExtractOvum.description>
   <!-- EN: extracting ovum from TargetA. -->
-  <ExtractOvum.jobString>estrarre l'ovulo da TargetA.</ExtractOvum.jobString>
+  <ExtractOvum.jobString>estrae un ovulo da TargetA.</ExtractOvum.jobString>
   
   <!-- EN: implant embryo -->
-  <ImplantEmbryo.label>embrione impiantato</ImplantEmbryo.label>
+  <ImplantEmbryo.label>impiantare un embrione</ImplantEmbryo.label>
   <!-- EN: Implant an embryo in a surrogate mother to begin a pregnancy. -->
-  <ImplantEmbryo.description>Impiantare un embrione in una madre surrogata per iniziare una gravidanza.</ImplantEmbryo.description>
+  <ImplantEmbryo.description>Impianta un embrione in una madre surrogata per iniziare una gravidanza.</ImplantEmbryo.description>
   <!-- EN: Implanting embryo in TargetA. -->
-  <ImplantEmbryo.jobString>Embrione impiantato in TargetA.</ImplantEmbryo.jobString>
+  <ImplantEmbryo.jobString>Impianto dell'embrione in TargetA.</ImplantEmbryo.jobString>
   
   <!-- EN: implant IUD -->
-  <ImplantIUD.label>Impianto IUD</ImplantIUD.label>
+  <ImplantIUD.label>impiantare uno IUD</ImplantIUD.label>
   <!-- EN: Implant a small metal device in the uterus to prevent pregnancies. It can later be removed, but there is a small chance of leaving the patient permanently sterile. This surgery terminates pregnancies in the first trimester. -->
-  <ImplantIUD.description>Impiantare un piccolo dispositivo metallico nell'utero per prevenire gravidanze. Successivamente può essere rimosso, ma esiste una piccola possibilità di lasciare il paziente permanentemente sterile. Questo intervento interrompe la gravidanza nel primo trimestre.</ImplantIUD.description>
+  <ImplantIUD.description>Impianta un piccolo dispositivo metallico nell'utero per prevenire gravidanze. Successivamente può essere rimosso, ma esiste una piccola possibilità di lasciare la paziente permanentemente sterile. Questo intervento interrompe la gravidanza nel primo trimestre.</ImplantIUD.description>
   <!-- EN: implanting a IUD in TargetA. -->
-  <ImplantIUD.jobString>impiantare uno IUD in TargetA.</ImplantIUD.jobString>
+  <ImplantIUD.jobString>impianta uno IUD in TargetA.</ImplantIUD.jobString>
   <!-- EN: {0} has successfully implanted an IUD in {1}. -->
   <ImplantIUD.successfullyRemovedHediffMessage>{0} ha impiantato con successo uno IUD in {1}.</ImplantIUD.successfullyRemovedHediffMessage>
   

@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: gestate centurion -->
-  <Centurion.label>centurione gestante</Centurion.label>
+  <Centurion.label>gestare un centurione</Centurion.label>
   <!-- EN: Gestate a centurion mechanoid. -->
-  <Centurion.description>Gesta un centurione meccanoide.</Centurion.description>
+  <Centurion.description>Gesta un centurione.</Centurion.description>
   <!-- EN: Gestating mech. -->
-  <Centurion.jobString>Meccanismo di gestazione.</Centurion.jobString>
+  <Centurion.jobString>Gestazione di un mech.</Centurion.jobString>
   
   <!-- EN: gestate war queen -->
-  <Warqueen.label>regina della guerra gestata</Warqueen.label>
+  <Warqueen.label>gestare una regina di guerra</Warqueen.label>
   <!-- EN: Gestate a war queen mechanoid. -->
-  <Warqueen.description>Genera una regina della guerra meccanoide.</Warqueen.description>
+  <Warqueen.description>Gesta una regina di guerra.</Warqueen.description>
   <!-- EN: Gestating mech. -->
-  <Warqueen.jobString>Meccanismo di gestazione.</Warqueen.jobString>
+  <Warqueen.jobString>Gestazione di un mech.</Warqueen.jobString>
   
 </LanguageData>

@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: install detoxifier kidney -->
-  <InstallDetoxifierKidney.label>installare un disintossicante per i reni</InstallDetoxifierKidney.label>
+  <InstallDetoxifierKidney.label>installare un disintossicante renale</InstallDetoxifierKidney.label>
   <!-- EN: Install a detoxifier kidney. -->
-  <InstallDetoxifierKidney.description>Installa un disintossicante per i reni.</InstallDetoxifierKidney.description>
+  <InstallDetoxifierKidney.description>Installa un disintossicante renale.</InstallDetoxifierKidney.description>
   <!-- EN: Installing detoxifier kidney. -->
-  <InstallDetoxifierKidney.jobString>Installazione del rene disintossicante.</InstallDetoxifierKidney.jobString>
+  <InstallDetoxifierKidney.jobString>Installazione del disintossicante renale.</InstallDetoxifierKidney.jobString>
   
   <!-- EN: install detoxifier lung -->
-  <InstallDetoxifierLung.label>installare il disintossicante polmonare</InstallDetoxifierLung.label>
+  <InstallDetoxifierLung.label>installare un disintossicante polmonare</InstallDetoxifierLung.label>
   <!-- EN: Install a detoxifier lung. -->
   <InstallDetoxifierLung.description>Installa un disintossicante polmonare.</InstallDetoxifierLung.description>
   <!-- EN: Installing detoxifier lung. -->
-  <InstallDetoxifierLung.jobString>Installazione di un disintossicante polmonare.</InstallDetoxifierLung.jobString>
+  <InstallDetoxifierLung.jobString>Installazione del disintossicante polmonare.</InstallDetoxifierLung.jobString>
   
 </LanguageData>
