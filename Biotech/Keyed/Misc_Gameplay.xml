@@ -533,13 +533,13 @@
   <!-- EN: Base hemogen gain -->
   <AbilityHemogenGain>Guadagno di emogeno base</AbilityHemogenGain>
   <!-- EN: Smokepop charged -->
-  <AbilityMechSmokepopCharged>Smokepop caricato</AbilityMechSmokepopCharged>
+  <AbilityMechSmokepopCharged>Fumogeno pronto</AbilityMechSmokepopCharged>
   <!-- EN: Smokepop recharged in {0} -->
-  <AbilityMechSmokepopRecharging>Smokepop si ricarica tra {0}</AbilityMechSmokepopRecharging>
+  <AbilityMechSmokepopRecharging>Fumogeno: si ricarica tra {0}</AbilityMechSmokepopRecharging>
   <!-- EN: Firefoam pop charged -->
-  <AbilityMechFirefoampopCharged>Firefoam pop caricato</AbilityMechFirefoampopCharged>
+  <AbilityMechFirefoampopCharged>Getto di schiuma antincendio pronto</AbilityMechFirefoampopCharged>
   <!-- EN: Firefoam pop recharged in {0} -->
-  <AbilityMechFirefoampopRecharging>Firefoam pop si ricarica tra {0}</AbilityMechFirefoampopRecharging>
+  <AbilityMechFirefoampopRecharging>Getto di schiuma antincendio: si ricarica tra {0}</AbilityMechFirefoampopRecharging>
 
   <!-- EN: Polluted {0} -->
   <PollutedTerrain>{0} inquinato</PollutedTerrain>

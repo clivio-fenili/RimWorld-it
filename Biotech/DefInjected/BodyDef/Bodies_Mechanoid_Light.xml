@@ -24,7 +24,7 @@
   
   
   <!-- EN: light mech -->
-  <Mech_Light.label>mecc.leggero</Mech_Light.label>
+  <Mech_Light.label>mech leggero</Mech_Light.label>
   <!-- EN: sight sensor -->
   <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>sensore visivo</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
   <!-- EN: hearing sensor -->

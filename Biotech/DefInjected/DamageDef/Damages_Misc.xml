@@ -4,6 +4,6 @@
   <!-- EN: tox gas -->
   <ToxGas.label>gas tossico</ToxGas.label>
   <!-- EN: {0} has been killed. -->
-  <ToxGas.deathMessage>{0} è stato ucciso.</ToxGas.deathMessage>
+  <ToxGas.deathMessage>{0} è {PAWN_gender ? stato ucciso : stata uccisa}.</ToxGas.deathMessage>
   
 </LanguageData>

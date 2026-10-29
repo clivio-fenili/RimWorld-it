@@ -5,13 +5,13 @@
   <BulbTurret.label>torretta a bulbo</BulbTurret.label>
   
   <!-- EN: left power claw -->
-  <LeftPowerClaw.label>artiglio del potere sinistro</LeftPowerClaw.label>
+  <LeftPowerClaw.label>artiglio potenziato sinistro</LeftPowerClaw.label>
   <!-- EN: power claw -->
-  <LeftPowerClaw.labelShort>artiglio di potere</LeftPowerClaw.labelShort>
+  <LeftPowerClaw.labelShort>artiglio potenziato</LeftPowerClaw.labelShort>
   
   <!-- EN: right power claw -->
-  <RightPowerClaw.label>artiglio del potere destro</RightPowerClaw.label>
+  <RightPowerClaw.label>artiglio potenziato destro</RightPowerClaw.label>
   <!-- EN: power claw -->
-  <RightPowerClaw.labelShort>artiglio di potere</RightPowerClaw.labelShort>
+  <RightPowerClaw.labelShort>artiglio potenziato</RightPowerClaw.labelShort>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: remote repair -->
   <RemoteRepair.label>riparazione remota</RemoteRepair.label>
   <!-- EN: Remotely repair a mech. The mechanitor links with the mech and uses their brain to provide detailed guidance for its self-repair mechanites beyond its own psychic capacity. This allows the mech to make progress in rapidly healing damage. -->
-  <RemoteRepair.description>Ripara a distanza un mech. Il meccanista si collega al mech e usa il suo cervello per fornire una guida dettagliata ai suoi mechaniti di autoriparazione oltre le sue capacità psichiche. Ciò consente al mech di fare progressi nella rapida guarigione dei danni.</RemoteRepair.description>
+  <RemoteRepair.description>Ripara a distanza un mech. Il meccanista si collega al mech e usa il proprio cervello per guidare nel dettaglio i meccaniti di autoriparazione del mech, oltre le capacità psichiche del mech stesso. Ciò consente al mech di fare progressi nella rapida guarigione dei danni.</RemoteRepair.description>
   
   <!-- EN: remote shield -->
   <RemoteShield.label>scudo remoto</RemoteShield.label>
