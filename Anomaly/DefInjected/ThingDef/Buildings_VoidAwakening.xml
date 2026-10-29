@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: twisted archotech support -->
-  <TwistedArchotechSupport_Large.label>struttura archotecnologica difforme</TwistedArchotechSupport_Large.label>
+  <TwistedArchotechSupport_Large.label>struttura archotecnologica contorta</TwistedArchotechSupport_Large.label>
   <!-- EN: A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage. -->
-  <TwistedArchotechSupport_Large.description>Struttura archotecnologica difforme, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Large.description>
+  <TwistedArchotechSupport_Large.description>Struttura archotecnologica contorta, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Large.description>
   
   <!-- EN: twisted archotech support -->
-  <TwistedArchotechSupport_Small.label>struttura archotecnologica difforme</TwistedArchotechSupport_Small.label>
+  <TwistedArchotechSupport_Small.label>struttura archotecnologica contorta</TwistedArchotechSupport_Small.label>
   <!-- EN: A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage. -->
-  <TwistedArchotechSupport_Small.description>Struttura archotecnologica difforme, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Small.description>
+  <TwistedArchotechSupport_Small.description>Struttura archotecnologica contorta, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Small.description>
   
   <!-- EN: twisted archotech support -->
-  <TwistedArchotechSupport_Vertical.label>struttura archotecnologica difforme</TwistedArchotechSupport_Vertical.label>
+  <TwistedArchotechSupport_Vertical.label>struttura archotecnologica contorta</TwistedArchotechSupport_Vertical.label>
   <!-- EN: A twisted archotech structure. Visible psychic power flows through it into a nearby void node. It is impervious to damage. -->
-  <TwistedArchotechSupport_Vertical.description>Struttura archotecnologica difforme, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Vertical.description>
+  <TwistedArchotechSupport_Vertical.description>Struttura archotecnologica contorta, dalla quale fuoriesce una potenza psichica che si riversa in un nodo del vuoto nelle vicinanze. Insensibile ai danni.</TwistedArchotechSupport_Vertical.description>
   
   <!-- EN: void metal mass -->
   <VoidmetalMassLarge.label>massa metallica del vuoto</VoidmetalMassLarge.label>
@@ -45,7 +45,7 @@
   <!-- EN: Monolith study progress -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>Progressi nello studio del monolito</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.label>
   <!-- EN: {PAWN_nameDef} has had a breakthrough while studying the monolith. {PAWN_pronoun} believes the monolith is a conduit for psychic energy, connecting to some distant location. However, {PAWN_pronoun} is unsure where or what it connects to.\n\n{PAWN_nameDef} is convinced that by studying more anomalous entities, {PAWN_pronoun} can find a way to close the conduit, or learn to harness its power.\n\nThe monolith now provides more knowledge when studied. -->
-  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef} ha fatto una scoperta mentre studiava il monolito. {PAWN_pronoun} crede che il monolito sia un condotto per energia psichica, collegato a un luogo lontano. Tuttavia, {PAWN_pronoun} non è sicuro di dove o a cosa si colleghi.\n\n{PAWN_nameDef} è convinto che, studiando altre entità anomale, {PAWN_pronoun} potrà trovare un modo per chiudere il condotto o imparare a sfruttarne il potere.\n\nIl monolito ora fornisce più conoscenza quando viene studiato.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
+  <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>{PAWN_nameDef} ha fatto una scoperta mentre studiava il monolito. {PAWN_pronoun} crede che il monolito sia un condotto per energia psichica, collegato a un luogo lontano. Tuttavia, {PAWN_pronoun} non è sicur{PAWN_gender ? o : a : o/a} di dove o a cosa si colleghi.\n\n{PAWN_nameDef} è convint{PAWN_gender ? o : a : o/a} che, studiando altre entità anomale, {PAWN_pronoun} potrà trovare un modo per chiudere il condotto o imparare a sfruttarne il potere.\n\nIl monolito ora fornisce più conoscenza quando viene studiato.</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.0.text>
   <!-- EN: Monolith study progress -->
   <VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>Progressi nello studio del monolito</VoidMonolith.comps.CompStudyUnlocksMonolith.studyNotes.1.label>
   <!-- EN: {PAWN_nameDef} made progress studying the monolith. The structure connects normal space to the void - a dimension hidden in the substructure of spacetime. Some powerful mind in the void is leaking influence into our reality.\n\n{PAWN_nameDef} wants to study the monolith further to learn more.\n\nThe monolith now provides more knowledge when studied. -->
@@ -60,36 +60,36 @@
   <VoidMonolith.comps.CompProximityLetter.letterText>{PAWN_nameDef} ha notato la presenza di un antico monolito parzialmente sepolto nelle vicinanze.\n\nEsaminalo per scoprire di più.</VoidMonolith.comps.CompProximityLetter.letterText>
   
   <!-- EN: void monolith attachment -->
-  <VoidMonolithAttachmentBottomLeft.label>attacco del monolito del vuoto</VoidMonolithAttachmentBottomLeft.label>
+  <VoidMonolithAttachmentBottomLeft.label>appendice del monolite del vuoto</VoidMonolithAttachmentBottomLeft.label>
   
   <!-- EN: void monolith attachment -->
-  <VoidMonolithAttachmentBottomRight.label>attacco del monolito del vuoto</VoidMonolithAttachmentBottomRight.label>
+  <VoidMonolithAttachmentBottomRight.label>appendice del monolite del vuoto</VoidMonolithAttachmentBottomRight.label>
   
   <!-- EN: void monolith attachment -->
-  <VoidMonolithAttachmentLeft.label>attacco del monolito del vuoto</VoidMonolithAttachmentLeft.label>
+  <VoidMonolithAttachmentLeft.label>appendice del monolite del vuoto</VoidMonolithAttachmentLeft.label>
   
   <!-- EN: void monolith attachment -->
-  <VoidMonolithAttachmentRight.label>attacco del monolito del vuoto</VoidMonolithAttachmentRight.label>
+  <VoidMonolithAttachmentRight.label>appendice del monolite del vuoto</VoidMonolithAttachmentRight.label>
   
   <!-- EN: void monolith attachment -->
-  <VoidMonolithAttachmentTop.label>attacco del monolito del vuoto</VoidMonolithAttachmentTop.label>
+  <VoidMonolithAttachmentTop.label>appendice del monolite del vuoto</VoidMonolithAttachmentTop.label>
   
   <!-- EN: void node -->
-  <VoidNode.label>globo del vuoto</VoidNode.label>
+  <VoidNode.label>nodo del vuoto</VoidNode.label>
   <!-- EN: A roiling sphere of twisted psychic energy. Powered by nearby archotech machinery, it is one part of a bridge from our world into the black void. -->
   <VoidNode.description>Sfera di energia psichica distorta. Alimentata da macchinari archotech nelle vicinanze, è una parte di un ponte che collega il nostro mondo al vuoto nero.</VoidNode.description>
   <!-- EN: Order a colonist to touch this. -->
-  <VoidNode.comps.CompVoidNode.activateDescString>Ordina a un colon di toccarlo.</VoidNode.comps.CompVoidNode.activateDescString>
+  <VoidNode.comps.CompVoidNode.activateDescString>Ordina a un colono di toccarlo.</VoidNode.comps.CompVoidNode.activateDescString>
   <!-- EN: Touch... -->
-  <VoidNode.comps.CompVoidNode.activateLabelString>Toccare...</VoidNode.comps.CompVoidNode.activateLabelString>
+  <VoidNode.comps.CompVoidNode.activateLabelString>Tocca...</VoidNode.comps.CompVoidNode.activateLabelString>
   <!-- EN: Touching void node -->
-  <VoidNode.comps.CompVoidNode.activatingStringPending>Contatto con l'orbe del vuoto</VoidNode.comps.CompVoidNode.activatingStringPending>
+  <VoidNode.comps.CompVoidNode.activatingStringPending>Contatto con il nodo del vuoto</VoidNode.comps.CompVoidNode.activatingStringPending>
   <!-- EN: Choose who should touch this. -->
   <VoidNode.comps.CompVoidNode.guiLabelString>Scegli chi deve toccarlo.</VoidNode.comps.CompVoidNode.guiLabelString>
   <!-- EN: Send a colonist to touch this. -->
-  <VoidNode.comps.CompVoidNode.inspectString>Invia un colon a toccarlo.</VoidNode.comps.CompVoidNode.inspectString>
+  <VoidNode.comps.CompVoidNode.inspectString>Invia un colono a toccarlo.</VoidNode.comps.CompVoidNode.inspectString>
   <!-- EN: Touch void node -->
-  <VoidNode.comps.CompVoidNode.jobString>Toccare l'orbe del vuoto</VoidNode.comps.CompVoidNode.jobString>
+  <VoidNode.comps.CompVoidNode.jobString>Toccare il nodo del vuoto</VoidNode.comps.CompVoidNode.jobString>
   
   <!-- EN: void structure -->
   <VoidStructure.label>struttura del vuoto</VoidStructure.label>
