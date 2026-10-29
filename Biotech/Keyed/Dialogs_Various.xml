@@ -7,9 +7,9 @@
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
   <BossgroupWarningDialog>L'evocazione della minaccia {LEADERKIND_label} evocherà i seguenti meccanoidi ostili:\n\n{PAWNS}\n\nI meccanoidi arriveranno nelle prossime ore o giorni. Sei pronto a combattere?</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
-  <MechControllerDowned>{PAWN_labelShort} è inattivo.</MechControllerDowned>
+  <MechControllerDowned>{PAWN_labelShort} è a terra.</MechControllerDowned>
   <!-- EN: {PAWN_labelShort} is a prisoner. -->
-  <MechControllerImprisoned>{PAWN_labelShort} è un prigioniero.</MechControllerImprisoned>
+  <MechControllerImprisoned>{PAWN_labelShort} è {PAWN_gender ? un prigioniero : una prigioniera}.</MechControllerImprisoned>
   <!-- EN: {PAWN_labelShort} is inside {CONTAINER} -->
   <MechControllerInsideContainer>{PAWN_labelShort} è all'interno di {CONTAINER}</MechControllerInsideContainer>
   <!-- EN: {PAWN_labelShort} has insufficient bandwidth -->
@@ -17,9 +17,9 @@
   <!-- EN: {PAWN_labelShort} is in a '{MENTALSTATE_label}' mental state. -->
   <MechControllerMentalState>{PAWN_labelShort} è in uno stato mentale '{MENTALSTATE_label}'.</MechControllerMentalState>
   <!-- EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
-  <ConfirmDisassemblingMech>Vuoi davvero smontare permanentemente {0}?\n\nDisassemblando permanentemente {0} si ripristinerà</ConfirmDisassemblingMech>
+  <ConfirmDisassemblingMech>Vuoi davvero smontare permanentemente {0}?\n\nSmontando permanentemente {0} si recupererà</ConfirmDisassemblingMech>
   <!-- EN: A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink_Smithing>Un meccanista deve essere capace di lavorare il metallo per creare mechanoidi.\n\nSei sicuro di voler continuare?</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Smithing>Un meccanista deve essere capace di forgiare per creare meccanoidi.\n\nSei sicuro di voler continuare?</ConfirmInstallMechlink_Smithing>
   <!-- EN: A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue? -->
   <ConfirmInstallMechlink_Intellectual>Un meccanista deve essere capace di svolgere compiti intellettuali per sbloccare la ricerca sui meccanisti.\n\nSei sicuro di voler continuare?</ConfirmInstallMechlink_Intellectual>
   <!-- EN: insufficient bandwidth -->
@@ -41,7 +41,7 @@
 
   <!-- Subcore scanner -->
   <!-- EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
-  <ConfirmRipscanPawn>Il ripscanning di {PAWN_nameDef} ucciderà {PAWN_objective}. Sei sicuro di voler continuare?</ConfirmRipscanPawn>
+  <ConfirmRipscanPawn>Il ripscanning ucciderà {PAWN_nameDef}. Sei sicuro di voler continuare?</ConfirmRipscanPawn>
   <!-- EN: Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue? -->
   <ConfirmCancelRipscan>L'annullamento di una scansione ucciderà comunque {PAWN_nameDef}. Sei sicuro di voler continuare?</ConfirmCancelRipscan>
 
@@ -77,11 +77,11 @@
   <!-- EN: Select xenogerm -->
   <SelectXenogerm>Seleziona lo xenogerme</SelectXenogerm>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} xenogerm before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <WarningPawnWillDieFromReimplanting>Attenzione: i geni di {PAWN_nameDef} sono attualmente in fase di ricrescita. Se {PAWN_pronoun} impianta il {PAWN_possessive} xenogerme prima che i {PAWN_possessive} geni siano completamente ricresciuti, ucciderà {PAWN_objective}.\n\nSei sicuro di voler continuare?</WarningPawnWillDieFromReimplanting>
+  <WarningPawnWillDieFromReimplanting>Attenzione: i geni di {PAWN_nameDef} stanno ancora ricrescendo. Se impianta il proprio xenogerme prima che i suoi geni siano completamente ricresciuti, morirà.\n\nSei sicuro di voler continuare?</WarningPawnWillDieFromReimplanting>
   <!-- EN: Not enough archite capsules. -->
   <NotEnoughArchites>Non abbastanza capsule di archite.</NotEnoughArchites>
   <!-- EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
-  <XenogenesDesc>Gli xenogeni sono geni derivati ​​da uno xenogerme impiantato. Se lo xenogerme viene rimosso o sostituito, gli xenogeni se ne vanno con esso. Poiché gli xenogeni non fanno parte del DNA germinale dell'organismo, non vengono trasmessi ai figli.</XenogenesDesc>
+  <XenogenesDesc>Gli xenogeni sono geni derivati da uno xenogerme impiantato. Se lo xenogerme viene rimosso o sostituito, gli xenogeni se ne vanno con esso. Poiché gli xenogeni non fanno parte del DNA germinale dell'organismo, non vengono trasmessi ai figli.</XenogenesDesc>
   <!-- EN: Germline genes are naturally-inherited genes which are in every cell in an organism's body and don't require any external support. They are passed from parent to child. -->
   <EndogenesDesc>I geni germinali sono geni ereditati naturalmente che si trovano in ogni cellula del corpo di un organismo e non richiedono alcun supporto esterno. Vengono trasmessi da genitore a figlio.</EndogenesDesc>
   <!-- EN: Member xenotypes -->
@@ -121,7 +121,7 @@
   <!-- EN: Inspect baby genes -->
   <InspectBabyGenes>Ispeziona i geni del bambino</InspectBabyGenes>
   <!-- EN: no xenogerm implanted -->
-  <NoXenogermImplanted>nessun xenogerme impiantato</NoXenogermImplanted>
+  <NoXenogermImplanted>nessuno xenogerme impiantato</NoXenogermImplanted>
   <!-- EN: germline genes -->
   <Endogenes>geni della linea germinale</Endogenes>
   <!-- EN: xenogenes -->
@@ -181,7 +181,7 @@
   <!-- EN: Save anyway? -->
   <SaveAnyway>Salvare comunque?</SaveAnyway>
   <!-- EN: Ignoring restrictions allows you to create impossible gene combinations by exceeding biostat limits. It also gives you access to powerful archite genes, which can make the game very easy.\n\nAre you sure you want to ignore restrictions? -->
-  <IgnoreRestrictionsConfirmation>Ignorare le restrizioni consente di creare combinazioni genetiche impossibili superando i limiti del biostato. Ti dà anche accesso a potenti geni archite, che possono rendere il gioco molto semplice.\n\nSei sicuro di voler ignorare le restrizioni?</IgnoreRestrictionsConfirmation>
+  <IgnoreRestrictionsConfirmation>Ignorare le restrizioni consente di creare combinazioni genetiche impossibili superando i limiti biostatici. Ti dà anche accesso a potenti geni archite, che possono rendere il gioco molto semplice.\n\nSei sicuro di voler ignorare le restrizioni?</IgnoreRestrictionsConfirmation>
   <!-- EN: Colonists will always be within this developmental stage's age range when generated. -->
   <DevelopmentalAgeSelectionDesc>I coloni rientreranno sempre nell'intervallo di età di questa fase di sviluppo quando verranno generati.</DevelopmentalAgeSelectionDesc>
   <!-- EN: Colonists will always carry the genes defined by this xenotype. -->
@@ -219,7 +219,7 @@
 
   <!-- Deathrest -->
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-  <WarningWakingInterruptsDeathrest>Il risveglio di {PAWN_nameDef} prima che sia trascorsa la durata di {MINDURATION} interromperà il {PAWN_possessive} riposo mortale, lasciando {PAWN_objective} malato per giorni mentre {PAWN_pronoun} si riprende. Svegliarsi presto significa che {PAWN_nameDef} non beneficerà di alcun edificio di riposo mortale. {PAWN_pronoun} è in riposo mortale da {CURDURATION}.\n\nSei sicuro di voler svegliare {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
+  <WarningWakingInterruptsDeathrest>Il risveglio di {PAWN_nameDef} prima che sia trascorsa la durata di {MINDURATION} interromperà il suo riposo mortale, lasciandol{PAWN_gender ? o : a} malat{PAWN_gender ? o : a} per giorni mentre si riprende. Svegliarsi presto significa che {PAWN_nameDef} non beneficerà di alcun edificio di riposo mortale. {PAWN_pronoun} è in riposo mortale da {CURDURATION}.\n\nSei sicuro di voler svegliare {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
 
   <!-- Text motes -->
   <!-- EN: {0} wounds tended -->
@@ -245,25 +245,25 @@
   <!-- EN: The skill level that this mechanoid acts with. -->
   <MechWorkSkillDesc>Il livello di abilità con cui agisce questo meccanoide.</MechWorkSkillDesc>
   <!-- EN: Any mech -->
-  <AnyMech>Qualsiasi mecc</AnyMech>
+  <AnyMech>Qualsiasi mech</AnyMech>
   <!-- EN: Any human -->
   <AnyNonMech>Qualsiasi essere umano</AnyNonMech>
   <!-- EN: Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination. -->
-  <CaravanLacksMechMechanitorWarning>La tua carovana contiene un meccanoide ma non il suo sorvegliante. Avrai un controllo limitato sul meccanoide quando raggiungerai la tua destinazione.</CaravanLacksMechMechanitorWarning>
+  <CaravanLacksMechMechanitorWarning>La tua carovana contiene un meccanoide ma non il suo supervisore. Avrai un controllo limitato sul meccanoide quando raggiungerai la tua destinazione.</CaravanLacksMechMechanitorWarning>
   <!-- EN: Mechanoids -->
   <MechsSection>Meccanoidi</MechsSection>
 
   <!-- Pawn naming -->
   <!-- EN: Rename mech -->
-  <RenameMech>Rinomina mecc</RenameMech>
+  <RenameMech>Rinomina mech</RenameMech>
   <!-- EN: The mech's name is now {0}. -->
   <MechGainsName>Il nome del mech ora è {0}.</MechGainsName>
 
   <!-- EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
-  <FertilizeOvumInbredChance>{FATHER_nameDef} è il {RELATION} di {MOTHER_nameDef}. C'è una {CHANCE} possibilità che il bambino risultante abbia anomalie genetiche dovute a consanguineità.\n\nSei sicuro di voler continuare?</FertilizeOvumInbredChance>
+  <FertilizeOvumInbredChance>{FATHER_nameDef} è il {RELATION} di {MOTHER_nameDef}. C'è una probabilità del {CHANCE} che il bambino abbia anomalie genetiche dovute a consanguineità.\n\nSei sicuro di voler continuare?</FertilizeOvumInbredChance>
 
   <!-- EN: {PAWN_nameDef} is pregnant. Implanting an IUD while {PAWN_pronoun} is in {PAWN_possessive} first trimester of pregnancy will terminate the pregnancy.\n\nAre you sure you want to continue? -->
-  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} è incinta. L'impianto di uno IUD mentre {PAWN_pronoun} è nel {PAWN_possessive} primo trimestre di gravidanza interromperà la gravidanza.\n\nSei sicuro di voler continuare?</ConfirmationPawnPregnancyTerminated>
+  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} è incinta. L'impianto di uno IUD mentre è nel primo trimestre di gravidanza interromperà la gravidanza.\n\nSei sicuro di voler continuare?</ConfirmationPawnPregnancyTerminated>
 
   <!-- Pollution -->
   <!-- EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
