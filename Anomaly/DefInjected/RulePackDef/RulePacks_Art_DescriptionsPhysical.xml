@@ -119,7 +119,7 @@
     <li>cube_style_group-></li>
     <li>cubeDescSentence(p=3)->[cubeLocation], [aPawn] sta [worshipsTheCube]</li>
     <li>cubeDescSentence(p=3)->[cubeLocation], [pawnsPlural] stanno [worshippingTheCube]</li>
-    <li>cubeDescSentence->Fa venire voglia di [worshippingTheCube]</li>
+    <li>cubeDescSentence->Chi la guarda si sente spinto a unirsi a chi sta [worshippingTheCube]</li>
     <li>cubeDescSentence->Al centro di [cubeWork], si intravedono sagome che stanno [worshippingTheCube]</li>
     <li>cubeWork->questa creazione</li>
     <li>cubeWork->questa scultura</li>
@@ -149,7 +149,7 @@
     <li>cubeDepicts->rappresenta</li>
     <li>aPawn->un autoritratto dell’artista</li>
     <li>aPawn->un thrumbo</li>
-    <li>aPawn->un volto umano emaciato con troppi occhi</li>
+    <li>aPawn->una figura umana emaciata con troppi occhi</li>
     <li>aPawn->uno dei tuoi coloni</li>
     <li>aPawn->un neandertaliano</li>
     <li>aPawn->un capo di un mondo avanzato</li>
@@ -159,7 +159,7 @@
     <li>aPawn->una principessa medievale</li>
     <li>aPawn->il capo di un [Community_Masculine] lontano</li>
     <li>aPawn->il capo di una [Community_Feminine] lontana</li>
-    <li>aPawn->una donna brandendo un'arma ([Weapon])</li>
+    <li>aPawn->una donna che brandisce un'arma ([Weapon])</li>
     <li>aPawn->una processione di figure in tunica</li>
     <li>pawnsPlural->i tuoi coloni</li>
     <li>pawnsPlural->dei predoni</li>
@@ -170,48 +170,48 @@
     <li>pawnsPlural->dei [Animal] in [AnimalGroup]</li>
     <li>pawnsPlural->un gruppo proveniente da un [Community_Masculine] vicino</li>
     <li>pawnsPlural->un gruppo proveniente da una [Community_Feminine] vicina</li>
-    <li>pawnsPlural->[Quantity_adjphrase] persone stanno</li>
-    <li>worshippingTheCube->venerarlo</li>
-    <li>worshippingTheCube->inchinarsi davanti a lui</li>
-    <li>worshippingTheCube->inginocchiarsi davanti a lui</li>
-    <li>worshippingTheCube->girargli intorno</li>
-    <li>worshippingTheCube->cantare le sue lodi</li>
-    <li>worshippingTheCube->tremare di paura davanti a lui</li>
-    <li>worshippingTheCube->suplicarlo</li>
-    <li>worshippingTheCube->piangere davanti a lui</li>
-    <li>worshippingTheCube->giocare con lui</li>
-    <li>worshippingTheCube->diventargli amico</li>
-    <li>worshippingTheCube->osservarlo</li>
-    <li>worshippingTheCube->non pensare ad altro che a lui</li>
-    <li>worshippingTheCube->offrirgli un sacrificio</li>
-    <li>worshippingTheCube->fargli un'offerta</li>
-    <li>worshippingTheCube->maledirlo</li>
-    <li>worshippingTheCube->rispettarlo</li>
-    <li>worshippingTheCube->seppellirlo</li>
-    <li>worshippingTheCube->metterlo su un piedistallo</li>
-    <li>worshippingTheCube->copiarlo</li>
-    <li>worshippingTheCube->portarlo in un altro mondo</li>
-    <li>worshipsTheCube->venerarlo</li>
-    <li>worshipsTheCube->inchinarsi davanti a lui</li>
-    <li>worshipsTheCube->inginocchiarsi davanti a lui</li>
-    <li>worshipsTheCube->girargli intorno</li>
-    <li>worshipsTheCube->cantare le sue lodi</li>
-    <li>worshipsTheCube->tremare di paura davanti a lui</li>
-    <li>worshipsTheCube->suplicarlo</li>
-    <li>worshipsTheCube->piangere davanti a lui</li>
-    <li>worshipsTheCube->giocare con lui</li>
-    <li>worshipsTheCube->diventargli amico</li>
-    <li>worshipsTheCube->osservarlo</li>
-    <li>worshipsTheCube->non pensare ad altro che a lui</li>
-    <li>worshipsTheCube->offrirgli un sacrificio</li>
-    <li>worshipsTheCube->fargli un'offerta</li>
-    <li>worshipsTheCube->maledirlo</li>
-    <li>worshipsTheCube->attaccarlo</li>
-    <li>worshipsTheCube->seppellirlo</li>
-    <li>worshipsTheCube->metterlo su un piedistallo</li>
-    <li>worshipsTheCube->copiarlo</li>
-    <li>worshipsTheCube->portarlo in un altro mondo</li>
-    <li>cubeExtraSentence->Il cubo sembra [cubeEmotion] la scena</li>
+    <li>pawnsPlural->[Quantity_adjphrase] persone</li>
+    <li>worshippingTheCube->venerandolo</li>
+    <li>worshippingTheCube->inchinandosi davanti a lui</li>
+    <li>worshippingTheCube->inginocchiandosi davanti a lui</li>
+    <li>worshippingTheCube->girandogli intorno</li>
+    <li>worshippingTheCube->cantando le sue lodi</li>
+    <li>worshippingTheCube->tremando di paura davanti a lui</li>
+    <li>worshippingTheCube->supplicandolo</li>
+    <li>worshippingTheCube->piangendo davanti a lui</li>
+    <li>worshippingTheCube->giocando con lui</li>
+    <li>worshippingTheCube->facendoselo amico</li>
+    <li>worshippingTheCube->osservandolo</li>
+    <li>worshippingTheCube->pensando solo a lui</li>
+    <li>worshippingTheCube->offrendogli un sacrificio</li>
+    <li>worshippingTheCube->facendogli un'offerta</li>
+    <li>worshippingTheCube->maledicendolo</li>
+    <li>worshippingTheCube->rispettandolo</li>
+    <li>worshippingTheCube->seppellendolo</li>
+    <li>worshippingTheCube->mettendolo su un piedistallo</li>
+    <li>worshippingTheCube->copiandolo</li>
+    <li>worshippingTheCube->portandolo in un altro mondo</li>
+    <li>worshipsTheCube->venerandolo</li>
+    <li>worshipsTheCube->inchinandosi davanti a lui</li>
+    <li>worshipsTheCube->inginocchiandosi davanti a lui</li>
+    <li>worshipsTheCube->girandogli intorno</li>
+    <li>worshipsTheCube->cantando le sue lodi</li>
+    <li>worshipsTheCube->tremando di paura davanti a lui</li>
+    <li>worshipsTheCube->supplicandolo</li>
+    <li>worshipsTheCube->piangendo davanti a lui</li>
+    <li>worshipsTheCube->giocando con lui</li>
+    <li>worshipsTheCube->facendoselo amico</li>
+    <li>worshipsTheCube->osservandolo</li>
+    <li>worshipsTheCube->pensando solo a lui</li>
+    <li>worshipsTheCube->offrendogli un sacrificio</li>
+    <li>worshipsTheCube->facendogli un'offerta</li>
+    <li>worshipsTheCube->maledicendolo</li>
+    <li>worshipsTheCube->attaccandolo</li>
+    <li>worshipsTheCube->seppellendolo</li>
+    <li>worshipsTheCube->mettendolo su un piedistallo</li>
+    <li>worshipsTheCube->copiandolo</li>
+    <li>worshipsTheCube->portandolo in un altro mondo</li>
+    <li>cubeExtraSentence->Il cubo sembra [cubeEmotion] questa scena</li>
     <li>cubeExtraSentence->[pawnsPlural] si avvicinano per fare lo stesso</li>
     <li>cubeExtraSentence->[aPawn] si avvicina per fare lo stesso</li>
     <li>cubeExtraSentence->[aPawn] guarda la scena con tristezza</li>
