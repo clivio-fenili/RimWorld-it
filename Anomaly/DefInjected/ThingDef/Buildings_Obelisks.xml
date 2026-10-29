@@ -99,7 +99,7 @@
   <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>L'obelisco ha iniziato ad attivarsi.</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>
   
   <!-- EN: twisted obelisk -->
-  <WarpedObelisk_Mutator.label>obelisco difforme</WarpedObelisk_Mutator.label>
+  <WarpedObelisk_Mutator.label>obelisco contorto</WarpedObelisk_Mutator.label>
   <!-- EN: A large metallic pillar that emanates a putrid psychic energy. The pillar hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
   <WarpedObelisk_Mutator.description>Un grande pilastro metallico che emana un'energia psichica putrida. Il pilastro emette un ronzio inquietante e sembra aumentare in attività. Non è chiaro cosa accadrà quando raggiungerà la sua capacità massima.\n\nPuoi inviare i colonisti per sopprimere l'obelisco per impedirne l'attivazione. Puoi anche segnare l'obelisco per lo studio per cercare di comprenderne lo scopo e forse sfruttarlo.\n\nPuoi attaccare l'obelisco per distruggerlo, ma farlo potrebbe scatenare fenomeni soprannaturali e pericolosi.</WarpedObelisk_Mutator.description>
   <!-- EN: Obelisk study progress -->
@@ -113,7 +113,7 @@
   <!-- EN: Obelisk study complete -->
   <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>Studio dell'obelisco completato</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} investigation of the twisted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it. -->
-  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef} ha completato l'indagine sull'obelisco distorto e ha scoperto un metodo per disattivarlo in sicurezza utilizzando frammenti di archotecnologia.\n\nUna volta disattivato, non sarà più possibile studiare l'obelisco.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef} ha completato l'indagine sull'obelisco contorto e ha scoperto un metodo per disattivarlo in sicurezza utilizzando frammenti di archotecnologia.\n\nUna volta disattivato, non sarà più possibile studiare l'obelisco.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>
   <!-- EN: Induce rapid cellular growth in a person causing them to grow a tentacle or fleshmass organ. -->
   <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>Provoca una rapida crescita cellulare in un individuo, facendo crescere un tentacolo o un organo di massa di carne.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>
   <!-- EN: Mutate... -->
@@ -129,11 +129,11 @@
   <!-- EN: {PAWN_nameDef} has successfully triggered obelisk mutation. -->
   <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>{PAWN_nameDef} ha attivato con successo la mutazione dell'obelisco.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>
   <!-- EN: The twisted obelisk is ready to use again. -->
-  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>L'obelisco distorto è pronto per essere utilizzato di nuovo.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>L'obelisco contorto è pronto per essere utilizzato di nuovo.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
   <!-- EN: Mutation cooldown -->
   <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>Mutazione in fase di ricarica</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>
   <!-- EN: Permanently and safely disable the twisted obelisk. This will prevent it from activating and being studied further.\n\nRequires 2 shards. -->
-  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>Disattiva permanentemente e in sicurezza l'obelisco distorto. Non potrà più attivarsi né essere studiato ulteriormente.\n\nRichiede 2 frammenti.</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>Disattiva permanentemente e in sicurezza l'obelisco contorto. Non potrà più attivarsi né essere studiato ulteriormente.\n\nRichiede 2 frammenti.</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>
   <!-- EN: Deactivate... -->
   <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateLabelString>Disattivare...</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateLabelString>
   <!-- EN: deactivating obelisk: {1}s -->

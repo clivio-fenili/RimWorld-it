@@ -75,7 +75,7 @@
   <Sightstealer.label>oscuratore</Sightstealer.label>
   
   <!-- EN: twisted obelisk -->
-  <TwistedObelisk.label>obelisco distorto</TwistedObelisk.label>
+  <TwistedObelisk.label>obelisco contorto</TwistedObelisk.label>
   
   <!-- EN: unnatural corpse -->
   <UnnaturalCorpse.label>cadavere innaturale</UnnaturalCorpse.label>
@@ -92,6 +92,6 @@
   <VoidStructure.label>struttura del vuoto</VoidStructure.label>
   
   <!-- EN: warped obelisk -->
-  <WarpedObelisk.label>obelisco deformato</WarpedObelisk.label>
+  <WarpedObelisk.label>obelisco distorto</WarpedObelisk.label>
   
 </LanguageData>

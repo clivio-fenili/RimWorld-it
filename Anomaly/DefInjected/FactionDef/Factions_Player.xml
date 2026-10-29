@@ -10,8 +10,8 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <ResearchExpedition.messageDefendersAttacking>I {0} da {1} stanno attaccando i tuoi {2}.</ResearchExpedition.messageDefendersAttacking>
   <!-- EN: colonist -->
-  <ResearchExpedition.pawnSingular>colonizzatore</ResearchExpedition.pawnSingular>
+  <ResearchExpedition.pawnSingular>colono</ResearchExpedition.pawnSingular>
   <!-- EN: colonists -->
-  <ResearchExpedition.pawnsPlural>colonizzatori</ResearchExpedition.pawnsPlural>
+  <ResearchExpedition.pawnsPlural>coloni</ResearchExpedition.pawnsPlural>
   
 </LanguageData>

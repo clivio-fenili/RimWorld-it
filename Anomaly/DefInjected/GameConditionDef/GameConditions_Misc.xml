@@ -8,7 +8,7 @@
   <!-- EN: The blood rain is ending. -->
   <BloodRain.endMessage>La pioggia di sangue sta finendo.</BloodRain.endMessage>
   <!-- EN: Drops of thick blood-like fluid have begun falling from the sky.\n\nAnyone exposed feels a growing anger which strengthens melee attacks but will eventually become a berserk rage. Exposed animals will eventually become manhunters. The intensity of the effect varies between individuals depending on their traits, psychic sensitivity, and random individual factors. -->
-  <BloodRain.letterText>Gocce di un fluido denso simile al sangue hanno cominciato a cadere dal cielo.\n\nChiunque ne venga colpito prova una rabbia crescente che potenzia gli attacchi corpo a corpo, ma che alla fine si trasformerà in furia omicida. Gli animali esposti diventeranno infine predatori umani. L'intensità dell'effetto varia da individuo a individuo in base ai tratti, alla sensibilità psichica e ad altri fattori casuali.</BloodRain.letterText>
+  <BloodRain.letterText>Gocce di un fluido denso simile al sangue hanno cominciato a cadere dal cielo.\n\nChiunque ne venga colpito prova una rabbia crescente che potenzia gli attacchi corpo a corpo, ma che alla fine si trasformerà in furia omicida. Gli animali esposti diventeranno infine cacciatori di uomini. L'intensità dell'effetto varia da individuo a individuo in base ai tratti, alla sensibilità psichica e ad altri fattori casuali.</BloodRain.letterText>
   
   <!-- EN: death pall resurrection -->
   <DeathPall.label>bruma funesta di resurrezione</DeathPall.label>
