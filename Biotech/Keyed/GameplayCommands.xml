@@ -48,7 +48,7 @@
   <!-- EN: Turret enabled -->
   <CommandToggleTurret>Torretta abilitata</CommandToggleTurret>
   <!-- EN: Toggle turret being able to fire at will.\n\nWhen disabled, the turret will not automatically fire. This is useful while sneaking up on enemies. -->
-  <CommandToggleTurretDesc>Attiva/disattiva la torretta in grado di sparare a piacimento.\n\nSe disabilitata, la torretta non sparerà automaticamente. Questo è utile quando ci si avvicina di soppiatto ai nemici.</CommandToggleTurretDesc>
+  <CommandToggleTurretDesc>Attiva o disattiva il fuoco a volontà della torretta.\n\nSe disabilitata, la torretta non sparerà automaticamente. Questo è utile quando ci si avvicina di soppiatto ai nemici.</CommandToggleTurretDesc>
 
   <!-- EN: Cancel scan -->
   <CommandCancelSubcoreScan>Annulla scansione</CommandCancelSubcoreScan>
@@ -56,7 +56,7 @@
   <CommandCancelSubcoreScanDesc>Annulla il processo di scansione. La persona contenuta verrà espulsa.</CommandCancelSubcoreScanDesc>
 
   <!-- EN: Force xenogerm implantation -->
-  <ForceXenogermImplantation>Forzare l'impianto di xenogermi</ForceXenogermImplantation>
+  <ForceXenogermImplantation>Forza l'impianto dello xenogerme</ForceXenogermImplantation>
   <!-- EN: Force this person to implant their xenogenes into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
   <ForceXenogermImplantationDesc>Costringi questa persona a impiantare i suoi xenogeni in un altro individuo utilizzando uno speciale organo iniettore. Se i geni di questa persona sono attualmente in fase di ricrescita, morirà nel processo.\n\nUna volta impiantato, uno xenogerme sovrascriverà gli xenogeni del bersaglio. I geni germinali non saranno influenzati.</ForceXenogermImplantationDesc>
 </LanguageData>
