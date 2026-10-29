@@ -4,6 +4,6 @@
   <!-- EN: electrical burn -->
   <ElectricalBurn.label>ustione elettrica</ElectricalBurn.label>
   <!-- EN: {0} has died from electrical burns. -->
-  <ElectricalBurn.deathMessage>{0} è morto a causa di ustioni elettriche.</ElectricalBurn.deathMessage>
+  <ElectricalBurn.deathMessage>{0} è mort{0_gender ? o : a : o(a)} a causa di ustioni elettriche.</ElectricalBurn.deathMessage>
   
 </LanguageData>

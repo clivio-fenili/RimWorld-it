@@ -11,7 +11,7 @@
   <!-- EN: departure -->
   <Departure.label>partenza</Departure.label>
   <!-- EN: {PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave. -->
-  <Departure.letterDesc>{PAWN_gender ? Deluso : Delusa : Deluso(a)} dal modo in cui è stato trattato, {PAWN_nameDef} ha deciso di andarsene.</Departure.letterDesc>
+  <Departure.letterDesc>{PAWN_gender ? Deluso : Delusa : Deluso/a} dal modo in cui è stat{PAWN_gender ? o : a : o/a} trattat{PAWN_gender ? o : a : o/a}, {PAWN_nameDef} ha deciso di andarsene.</Departure.letterDesc>
   <!-- EN: {PAWN_nameDef} departure -->
   <Departure.letterLabel>Partenza di {PAWN_nameDef}</Departure.letterLabel>
   

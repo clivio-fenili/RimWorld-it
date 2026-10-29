@@ -14,7 +14,7 @@
   <!-- EN: death refusal -->
   <DeathRefusal.label>rifiuto della morte</DeathRefusal.label>
   <!-- EN: As the former subject of a cultist ritual, {PAWN_nameDef} has the ability to defy death. Black archotechnology courses throughout {PAWN_possessive} body, allowing {PAWN_objective} to self-resurrect. When {PAWN_pronoun} does, {PAWN_possessive} flesh rapidly reforms, replacing missing organs and healing wounds. The process is, however, imperfect. -->
-  <DeathRefusal.letterExtra>In quanto soggetto di un rituale occultista, {PAWN_nameDef} possiede la capacità di sfidare la morte. Un'arcotecnologia oscura scorre nel suo corpo, permettendogli di autorigenerarsi. Quando {PAWN_pronoun} lo fa, la sua carne si riforma rapidamente, ricreando organi mancanti e curando le ferite. Il processo, però, non è perfetto.</DeathRefusal.letterExtra>
+  <DeathRefusal.letterExtra>In quanto soggetto di un rituale occultista, {PAWN_nameDef} possiede la capacità di sfidare la morte. Un'archotecnologia oscura scorre nel suo corpo, così può risorgere da sé. Quando {PAWN_pronoun} lo fa, la sua carne si riforma rapidamente, ricreando organi mancanti e curando le ferite. Il processo, però, non è perfetto.</DeathRefusal.letterExtra>
   
   <!-- EN: fleshcrafter -->
   <Fleshcrafter.label>plasmatore di carne</Fleshcrafter.label>
@@ -44,7 +44,7 @@
   <!-- EN: shambler overlord -->
   <ShamblerOverlord.label>signore degli zombi</ShamblerOverlord.label>
   <!-- EN: {PAWN_nameDef}'s body is riddled with corrupt archites. {PAWN_pronoun} can release them at will, creating a cloud of deadlife dust which can reanimate nearby corpses. -->
-  <ShamblerOverlord.letterExtra>Il corpo di {PAWN_nameDef} è invaso da architi corrotti. {PAWN_pronoun} può rilasciarli a piacimento, generando una nube di polvere necroscopica capace di rianimare i cadaveri vicini.</ShamblerOverlord.letterExtra>
+  <ShamblerOverlord.letterExtra>Il corpo di {PAWN_nameDef} è invaso da architi corrotti. {PAWN_pronoun} può rilasciarli a piacimento, generando una nube di polvere della morte vivente capace di rianimare i cadaveri vicini.</ShamblerOverlord.letterExtra>
   
   <!-- EN: unnatural healing -->
   <UnnaturalHealing.label>guarigione innaturale</UnnaturalHealing.label>

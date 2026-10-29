@@ -4,7 +4,7 @@
   <!-- EN: aggressive -->
   <Aggressive.label>aggressivo</Aggressive.label>
   <!-- EN: {PAWN_nameDef}'s demeanor has suddenly changed. A menacing grin splits {PAWN_possessive} face.\n\n{PAWN_nameDef} has become hostile. -->
-  <Aggressive.letterDesc>Il comportamento di {PAWN_nameDef} è cambiato all'improvviso e {PAWN_pronoun} mostra un ghigno minaccioso.\n\n{PAWN_nameDef} è diventato ostile.</Aggressive.letterDesc>
+  <Aggressive.letterDesc>Il comportamento di {PAWN_nameDef} è cambiato all'improvviso e {PAWN_pronoun} mostra un ghigno minaccioso.\n\n{PAWN_nameDef} è diventat{PAWN_gender ? o : a : o/a} ostile.</Aggressive.letterDesc>
   <!-- EN: {PAWN_nameDef} hostile -->
   <Aggressive.letterLabel>{PAWN_nameDef} ostile</Aggressive.letterLabel>
   
@@ -18,7 +18,7 @@
   <EntityJailbreaker.label>liberatore di entità</EntityJailbreaker.label>
   
   <!-- EN: leaves -->
-  <Leaves.label>parte</Leaves.label>
+  <Leaves.label>se ne va</Leaves.label>
   <!-- EN: {PAWN_nameDef} thanks you for your hospitality, but says that it is time for {PAWN_objective} to move on. -->
   <Leaves.letterDesc>{PAWN_nameDef} ti ringrazia per l'ospitalità, ma dice che è giunto il momento di andare avanti.</Leaves.letterDesc>
   <!-- EN: {PAWN_nameDef} departure -->
