@@ -24,75 +24,75 @@
   <ChildlikePositivity.stages.childlike_confidence.description>Ci sono così tante cose interessanti da imparare.</ChildlikePositivity.stages.childlike_confidence.description>
   
   <!-- EN: deathrested outside -->
-  <DeathrestChamber.stages.deathrested_outside.label>riposato all’aperto</DeathrestChamber.stages.deathrested_outside.label>
+  <DeathrestChamber.stages.deathrested_outside.label>riposo mortale all'aperto</DeathrestChamber.stages.deathrested_outside.label>
   <!-- EN: I had to deathrest outdoors. It was awful. -->
-  <DeathrestChamber.stages.deathrested_outside.description>Ho dovuto riposare all’aperto. È stato terribile.</DeathrestChamber.stages.deathrested_outside.description>
+  <DeathrestChamber.stages.deathrested_outside.description>Ho dovuto fare il riposo mortale all'aperto. È stato terribile.</DeathrestChamber.stages.deathrested_outside.description>
   <!-- EN: awful deathrest chamber -->
-  <DeathrestChamber.stages.awful_deathrest_chamber.label>camera di riposo orribile</DeathrestChamber.stages.awful_deathrest_chamber.label>
+  <DeathrestChamber.stages.awful_deathrest_chamber.label>camera del riposo mortale orribile</DeathrestChamber.stages.awful_deathrest_chamber.label>
   <!-- EN: I had to deathrest in an awful chamber. -->
-  <DeathrestChamber.stages.awful_deathrest_chamber.description>Ho dovuto riposare in una camera orribile.</DeathrestChamber.stages.awful_deathrest_chamber.description>
+  <DeathrestChamber.stages.awful_deathrest_chamber.description>Ho dovuto fare il riposo mortale in una camera orribile.</DeathrestChamber.stages.awful_deathrest_chamber.description>
   <!-- EN: decent deathrest chamber -->
-  <DeathrestChamber.stages.decent_deathrest_chamber.label>camera di riposo decente</DeathrestChamber.stages.decent_deathrest_chamber.label>
+  <DeathrestChamber.stages.decent_deathrest_chamber.label>camera del riposo mortale decente</DeathrestChamber.stages.decent_deathrest_chamber.label>
   <!-- EN: I deathrested in a decent chamber. -->
-  <DeathrestChamber.stages.decent_deathrest_chamber.description>Ho riposato in una camera decente.</DeathrestChamber.stages.decent_deathrest_chamber.description>
+  <DeathrestChamber.stages.decent_deathrest_chamber.description>Ho fatto il riposo mortale in una camera decente.</DeathrestChamber.stages.decent_deathrest_chamber.description>
   <!-- EN: good deathrest chamber -->
-  <DeathrestChamber.stages.good_deathrest_chamber.label>buona camera di riposo</DeathrestChamber.stages.good_deathrest_chamber.label>
+  <DeathrestChamber.stages.good_deathrest_chamber.label>camera del riposo mortale buona</DeathrestChamber.stages.good_deathrest_chamber.label>
   <!-- EN: I deathrested in a slightly impressive chamber. It was nice. -->
-  <DeathrestChamber.stages.good_deathrest_chamber.description>Ho riposato in una camera un po’ impressionante. È stato piacevole.</DeathrestChamber.stages.good_deathrest_chamber.description>
+  <DeathrestChamber.stages.good_deathrest_chamber.description>Ho fatto il riposo mortale in una camera un po’ impressionante. È stato piacevole.</DeathrestChamber.stages.good_deathrest_chamber.description>
   <!-- EN: great deathrest chamber -->
-  <DeathrestChamber.stages.great_deathrest_chamber.label>ottima camera di riposo</DeathrestChamber.stages.great_deathrest_chamber.label>
+  <DeathrestChamber.stages.great_deathrest_chamber.label>camera del riposo mortale ottima</DeathrestChamber.stages.great_deathrest_chamber.label>
   <!-- EN: I deathrested in an impressive chamber. I feel rejuvenated. -->
-  <DeathrestChamber.stages.great_deathrest_chamber.description>Ho riposato in una camera impressionante. Mi sento ringiovanito.</DeathrestChamber.stages.great_deathrest_chamber.description>
+  <DeathrestChamber.stages.great_deathrest_chamber.description>Ho fatto il riposo mortale in una camera impressionante. Mi sento ringiovanito.</DeathrestChamber.stages.great_deathrest_chamber.description>
   <!-- EN: excellent deathrest chamber -->
-  <DeathrestChamber.stages.excellent_deathrest_chamber.label>eccellente camera di riposo</DeathrestChamber.stages.excellent_deathrest_chamber.label>
+  <DeathrestChamber.stages.excellent_deathrest_chamber.label>camera del riposo mortale eccellente</DeathrestChamber.stages.excellent_deathrest_chamber.label>
   <!-- EN: I deathrested in a very impressive chamber. I feel amazing. -->
-  <DeathrestChamber.stages.excellent_deathrest_chamber.description>Ho riposato in una camera molto impressionante. Mi sento alla grande.</DeathrestChamber.stages.excellent_deathrest_chamber.description>
+  <DeathrestChamber.stages.excellent_deathrest_chamber.description>Ho fatto il riposo mortale in una camera molto impressionante. Mi sento alla grande.</DeathrestChamber.stages.excellent_deathrest_chamber.description>
   <!-- EN: exceptional deathrest chamber -->
-  <DeathrestChamber.stages.exceptional_deathrest_chamber.label>camera di riposo eccezionale</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
+  <DeathrestChamber.stages.exceptional_deathrest_chamber.label>camera del riposo mortale eccezionale</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
   <!-- EN: I deathrested in an extremely impressive chamber. It was glorious. -->
-  <DeathrestChamber.stages.exceptional_deathrest_chamber.description>Ho riposato in una camera estremamente impressionante. È stato glorioso.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
+  <DeathrestChamber.stages.exceptional_deathrest_chamber.description>Ho fatto il riposo mortale in una camera estremamente impressionante. È stato glorioso.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
   <!-- EN: unbelievable deathrest chamber -->
-  <DeathrestChamber.stages.unbelievable_deathrest_chamber.label>incredibile camera di riposo</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
+  <DeathrestChamber.stages.unbelievable_deathrest_chamber.label>camera del riposo mortale incredibile</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
   <!-- EN: I deathrested in an unbelievably impressive chamber. It was spectacular. -->
-  <DeathrestChamber.stages.unbelievable_deathrest_chamber.description>Ho riposato in una camera incredibilmente impressionante. È stato spettacolare.</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
+  <DeathrestChamber.stages.unbelievable_deathrest_chamber.description>Ho fatto il riposo mortale in una camera incredibilmente impressionante. È stato spettacolare.</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
   <!-- EN: wondrous deathrest chamber -->
-  <DeathrestChamber.stages.wondrous_deathrest_chamber.label>meravigliosa camera di riposo</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
+  <DeathrestChamber.stages.wondrous_deathrest_chamber.label>camera del riposo mortale meravigliosa</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
   <!-- EN: I deathrested in such a luxurious chamber! It was wondrous. -->
-  <DeathrestChamber.stages.wondrous_deathrest_chamber.description>Ho riposato in una camera così lussuosa! È stato meraviglioso.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
+  <DeathrestChamber.stages.wondrous_deathrest_chamber.description>Ho fatto il riposo mortale in una camera così lussuosa! È stato meraviglioso.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
   
   <!-- EN: deathrest exhaustion -->
-  <DeathrestExhaustion.stages.deathrest_exhaustion.label>spossatezza da riposo</DeathrestExhaustion.stages.deathrest_exhaustion.label>
+  <DeathrestExhaustion.stages.deathrest_exhaustion.label>esaurimento da riposo mortale</DeathrestExhaustion.stages.deathrest_exhaustion.label>
   <!-- EN: The casket calls and I fall weary. The world's pall makes all so dreary. I need to deathrest. -->
-  <DeathrestExhaustion.stages.deathrest_exhaustion.description>La bara chiama e mi sento sfinito. L’ombra del mondo rende tutto cupo. Ho bisogno di riposare.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
+  <DeathrestExhaustion.stages.deathrest_exhaustion.description>La bara chiama e mi sento sfinito. L’ombra del mondo rende tutto cupo. Ho bisogno del riposo mortale.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
   
   <!-- EN: apocriton hatred (intense) -->
-  <HateAura.stages.apocriton_hatred_intense.label>odio apocriton (intenso)</HateAura.stages.apocriton_hatred_intense.label>
+  <HateAura.stages.apocriton_hatred_intense.label>odio dell'apocritone (intenso)</HateAura.stages.apocriton_hatred_intense.label>
   <!-- EN: I feel its hatred inside me, the way I feel my own emotions. It's so close and so cold. They all deserve death. -->
   <HateAura.stages.apocriton_hatred_intense.description>Sento il suo odio dentro di me, come sento le mie emozioni. È così vicino e freddo. Meritano tutti la morte.</HateAura.stages.apocriton_hatred_intense.description>
   <!-- EN: apocriton hatred (strong) -->
-  <HateAura.stages.apocriton_hatred_strong.label>odio apocriton (forte)</HateAura.stages.apocriton_hatred_strong.label>
+  <HateAura.stages.apocriton_hatred_strong.label>odio dell'apocritone (forte)</HateAura.stages.apocriton_hatred_strong.label>
   <!-- EN: I hear its hatred echoing between my thoughts. Reasons, always reasons why my friends ought to die. -->
   <HateAura.stages.apocriton_hatred_strong.description>Sento il suo odio riecheggiare tra i miei pensieri. Sempre ragioni per cui i miei amici dovrebbero morire.</HateAura.stages.apocriton_hatred_strong.description>
   <!-- EN: apocriton hatred (distant) -->
-  <HateAura.stages.apocriton_hatred_distant.label>odio apocriton (distante)</HateAura.stages.apocriton_hatred_distant.label>
+  <HateAura.stages.apocriton_hatred_distant.label>odio dell'apocritone (distante)</HateAura.stages.apocriton_hatred_distant.label>
   <!-- EN: I feel it out there somewhere. It's always thinking about why these people deserve death. Always following the logic of murder. Hard to ignore. -->
   <HateAura.stages.apocriton_hatred_distant.description>Lo percepisco là fuori, da qualche parte. Pensa sempre al motivo per cui queste persone meritano la morte. Sempre seguendo la logica dell’omicidio. Difficile da ignorare.</HateAura.stages.apocriton_hatred_distant.description>
   
   <!-- EN: hemogen craving -->
-  <HemogenCraving.stages.hemogen_craving-0.label>craving di emogeno</HemogenCraving.stages.hemogen_craving-0.label>
+  <HemogenCraving.stages.hemogen_craving-0.label>desiderio di emogeno</HemogenCraving.stages.hemogen_craving-0.label>
   <!-- EN: My bones ache. I really need hemogen. -->
   <HemogenCraving.stages.hemogen_craving-0.description>Mi fanno male le ossa. Ho davvero bisogno di emogeno.</HemogenCraving.stages.hemogen_craving-0.description>
   <!-- EN: hemogen craving -->
-  <HemogenCraving.stages.hemogen_craving-1.label>craving di emogeno</HemogenCraving.stages.hemogen_craving-1.label>
+  <HemogenCraving.stages.hemogen_craving-1.label>desiderio di emogeno</HemogenCraving.stages.hemogen_craving-1.label>
   <!-- EN: This hurts bad and my head is fuzzy. I would kill for some blood. Maybe I should. -->
   <HemogenCraving.stages.hemogen_craving-1.description>Fa malissimo e ho la testa annebbiata. Ucciderei per un po’ di sangue. Forse dovrei davvero.</HemogenCraving.stages.hemogen_craving-1.description>
   <!-- EN: hemogen craving -->
-  <HemogenCraving.stages.hemogen_craving-2.label>craving di emogeno</HemogenCraving.stages.hemogen_craving-2.label>
+  <HemogenCraving.stages.hemogen_craving-2.label>desiderio di emogeno</HemogenCraving.stages.hemogen_craving-2.label>
   <!-- EN: Can't think. Thirst. Thirst. Must. Have. Blood. -->
   <HemogenCraving.stages.hemogen_craving-2.description>Non riesco a pensare. Sete. Sete. Devo. Avere. Sangue.</HemogenCraving.stages.hemogen_craving-2.description>
   
   <!-- EN: kill thirst -->
-  <KillThirst.stages.kill_thirst.label>sete di sangue</KillThirst.stages.kill_thirst.label>
+  <KillThirst.stages.kill_thirst.label>sete di uccidere</KillThirst.stages.kill_thirst.label>
   <!-- EN: Must kill... it has been too long since I have killed somebody up close and personal. -->
   <KillThirst.stages.kill_thirst.description>Devo uccidere... è passato troppo tempo dall’ultima volta che ho ammazzato qualcuno da vicino.</KillThirst.stages.kill_thirst.description>
   
@@ -165,7 +165,7 @@
   <Recluse.stages.recluse_very_crowded.description>Ci sono così tante persone con cui dovrei lavorare. È opprimente.</Recluse.stages.recluse_very_crowded.description>
   
   <!-- EN: scanning sickness -->
-  <ScanningSickness.stages.scanning_sickness.label>malessere da scansione</ScanningSickness.stages.scanning_sickness.label>
+  <ScanningSickness.stages.scanning_sickness.label>malattia da scansione</ScanningSickness.stages.scanning_sickness.label>
   <!-- EN: Ever since that scan I've been dizzy and I can't think. -->
   <ScanningSickness.stages.scanning_sickness.description>Da quella scansione ho le vertigini e non riesco a pensare.</ScanningSickness.stages.scanning_sickness.description>
   

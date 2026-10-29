@@ -2,12 +2,12 @@
 <LanguageData>
 
   <!-- EN: Start with mech -->
-  <ScenPart_StartingMech>Inizia con mecc</ScenPart_StartingMech>
+  <ScenPart_StartingMech>Inizia con un mech</ScenPart_StartingMech>
   <!-- EN: Mechanoid -->
   <Mechanoid>Meccanoide</Mechanoid>
   <!-- EN: random mech -->
-  <RandomMech>meccanismo casuale</RandomMech>
+  <RandomMech>mech casuale</RandomMech>
   <!-- EN: Overseen chance -->
-  <StartOverseenChance>Possibilità supervisionata</StartOverseenChance>
+  <StartOverseenChance>Probabilità di essere supervisionato</StartOverseenChance>
 
 </LanguageData>

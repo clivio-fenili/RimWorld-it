@@ -13,24 +13,24 @@
   <!-- EN: my child is in a growth vat -->
   <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>mio figlio è in una vasca di crescita</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
   <!-- EN: I miss my child. It's hard knowing they're floating in that machine, bypassing their childhood. -->
-  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Mi manca mio figlio. È difficile sapere che galleggiano in quella macchina, ignorando la loro infanzia.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Mi manca mio figlio. È difficile sapere che galleggia in quella macchina, saltando la sua infanzia.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
   
   <!-- EN: good crib -->
-  <CribQuality.stages.good_crib.label>buon presepe</CribQuality.stages.good_crib.label>
+  <CribQuality.stages.good_crib.label>buona culla</CribQuality.stages.good_crib.label>
   <!-- EN: This crib is comfy. -->
   <CribQuality.stages.good_crib.description>Questa culla è comoda.</CribQuality.stages.good_crib.description>
   <!-- EN: excellent crib -->
-  <CribQuality.stages.excellent_crib.label>ottimo presepe</CribQuality.stages.excellent_crib.label>
+  <CribQuality.stages.excellent_crib.label>ottima culla</CribQuality.stages.excellent_crib.label>
   <!-- EN: This crib is very comfy. -->
-  <CribQuality.stages.excellent_crib.description>Questo lettino è molto comodo.</CribQuality.stages.excellent_crib.description>
+  <CribQuality.stages.excellent_crib.description>Questa culla è molto comoda.</CribQuality.stages.excellent_crib.description>
   <!-- EN: masterwork crib -->
-  <CribQuality.stages.masterwork_crib.label>presepe capolavoro</CribQuality.stages.masterwork_crib.label>
+  <CribQuality.stages.masterwork_crib.label>culla capolavoro</CribQuality.stages.masterwork_crib.label>
   <!-- EN: This crib is amazing. So comfortable. -->
-  <CribQuality.stages.masterwork_crib.description>Questo presepe è fantastico. Così comodo.</CribQuality.stages.masterwork_crib.description>
+  <CribQuality.stages.masterwork_crib.description>Questa culla è fantastica. Così comoda.</CribQuality.stages.masterwork_crib.description>
   <!-- EN: legendary crib -->
-  <CribQuality.stages.legendary_crib.label>presepe leggendario</CribQuality.stages.legendary_crib.label>
+  <CribQuality.stages.legendary_crib.label>culla leggendaria</CribQuality.stages.legendary_crib.label>
   <!-- EN: This crib is wonderful. So very comfortable. Perfect for naps. -->
-  <CribQuality.stages.legendary_crib.description>Questo presepe è meraviglioso. Quindi molto comodo. Perfetto per i pisolini.</CribQuality.stages.legendary_crib.description>
+  <CribQuality.stages.legendary_crib.description>Questa culla è meravigliosa. Comodissima. Perfetta per i pisolini.</CribQuality.stages.legendary_crib.description>
   
   <!-- EN: enslaved child -->
   <EnslavedChild.stages.enslaved_child.label>bambino schiavo</EnslavedChild.stages.enslaved_child.label>
@@ -40,7 +40,7 @@
   <!-- EN: my child {CHILD_nameDef} is happy -->
   <MyChildHappy.stages.my_child_is_happy.label>mio figlio {CHILD_nameDef} è felice</MyChildHappy.stages.my_child_is_happy.label>
   <!-- EN: Nothing makes me feel better than my kid being happy. -->
-  <MyChildHappy.stages.my_child_is_happy.description>Niente mi fa sentire meglio dell'essere felice di mio figlio.</MyChildHappy.stages.my_child_is_happy.description>
+  <MyChildHappy.stages.my_child_is_happy.description>Niente mi fa sentire meglio che vedere mio figlio felice.</MyChildHappy.stages.my_child_is_happy.description>
   
   <!-- EN: my children are happy -->
   <MyChildrenHappy.stages.my_children_are_happy.label>i miei figli sono felici</MyChildrenHappy.stages.my_children_are_happy.label>
@@ -55,7 +55,7 @@
   <!-- EN: my child {CHILD_nameDef} is unhappy -->
   <MyChildSad.stages.my_child_is_unhappy.label>mio figlio {CHILD_nameDef} è infelice</MyChildSad.stages.my_child_is_unhappy.label>
   <!-- EN: I worry about my child. If they're not happy, I'm not happy. -->
-  <MyChildSad.stages.my_child_is_unhappy.description>Mi preoccupo per mio figlio. Se loro non sono felici, non sono felice.</MyChildSad.stages.my_child_is_unhappy.description>
+  <MyChildSad.stages.my_child_is_unhappy.description>Mi preoccupo per mio figlio. Se non è felice, non sono felice.</MyChildSad.stages.my_child_is_unhappy.description>
   
   <!-- EN: parent is happy -->
   <MyParentHappy.stages.parent_is_happy.label>il genitore è felice</MyParentHappy.stages.parent_is_happy.label>

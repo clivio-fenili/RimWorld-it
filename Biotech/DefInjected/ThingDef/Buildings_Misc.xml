@@ -68,7 +68,7 @@
   <ShuttleCrashed_Exitable.description>Una navetta a tecnologia spaziale alimentata a uranio, progettata per il transito tra la superficie e l’orbita o tra le lune di un sistema planetario. Per prevenire usi non autorizzati, la navetta è bloccata sulla biofirma del pilota. Distruggere la navetta fornirà un motore di navetta e altre risorse preziose.</ShuttleCrashed_Exitable.description>
   
   <!-- EN: crashed mechanitor ship -->
-  <ShuttleCrashed_Exitable_Mechanitor.label>nave meccanista precipitata</ShuttleCrashed_Exitable_Mechanitor.label>
+  <ShuttleCrashed_Exitable_Mechanitor.label>nave del meccanista precipitata</ShuttleCrashed_Exitable_Mechanitor.label>
   <!-- EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
   <ShuttleCrashed_Exitable_Mechanitor.description>Una nave a corto raggio utilizzata da un meccanista per trasportare mech per viaggi in orbita bassa o planetari.</ShuttleCrashed_Exitable_Mechanitor.description>
   
