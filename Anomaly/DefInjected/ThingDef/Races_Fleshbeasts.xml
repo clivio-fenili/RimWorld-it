@@ -46,7 +46,7 @@
   <!-- EN: A fleshy dog-sized creature with a single spiked limb. Despite their short legs, fingerspikes can move remarkably fast. -->
   <Fingerspike.description>Una creatura carnosa delle dimensioni di un cane, con un unico membro appuntito. Nonostante le loro gambe corte, le digispine sono sorprendentemente veloci.</Fingerspike.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <Fingerspike.comps.CompInspectStringEmergence.inspectString>A emerso da {SOURCEPAWN_labelShort}.</Fingerspike.comps.CompInspectStringEmergence.inspectString>
+  <Fingerspike.comps.CompInspectStringEmergence.inspectString>Emersa da {SOURCEPAWN_labelShort}.</Fingerspike.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: spike -->
   <Fingerspike.tools.spike.label>spina</Fingerspike.tools.spike.label>
   <!-- EN: spike -->
@@ -57,9 +57,9 @@
   <!-- EN: toughspike -->
   <Toughspike.label>spinadura</Toughspike.label>
   <!-- EN: A fleshy man-sized creature with two spiked limbs and an armored carapace. Toughspikes throw hardened keratin spikes to take down victims from a distance.\n\nToughspike corpses will dissolve into puddles of liquefied flesh if they're not butchered quickly. -->
-  <Toughspike.description>Una creatura carnosa delle dimensioni di un uomo, con due membri appuntiti e una corazza armata. Lanciano punte di cheratina indurita per abbattere le vittime da lontano.\n\nI cadaveri delle robustopunte si dissolveranno in pozzanghere di carne liquefatta se non vengono macellati rapidamente.</Toughspike.description>
+  <Toughspike.description>Una creatura carnosa delle dimensioni di un uomo, con due membri appuntiti e un carapace corazzato. Lanciano punte di cheratina indurita per abbattere le vittime da lontano.\n\nI cadaveri delle spinadure si dissolveranno in pozzanghere di carne liquefatta se non vengono macellati rapidamente.</Toughspike.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <Toughspike.comps.CompInspectStringEmergence.inspectString>A emerso da {SOURCEPAWN_labelShort}.</Toughspike.comps.CompInspectStringEmergence.inspectString>
+  <Toughspike.comps.CompInspectStringEmergence.inspectString>Emersa da {SOURCEPAWN_labelShort}.</Toughspike.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: left spike -->
   <Toughspike.tools.left_spike.label>spina sinistra</Toughspike.tools.left_spike.label>
   <!-- EN: spike -->
@@ -74,9 +74,9 @@
   <!-- EN: trispike -->
   <Trispike.label>tripunta</Trispike.label>
   <!-- EN: A man-sized amalgamation of several smaller fleshbeasts. Each of the creature's limbs is capable of surviving independently. On death, trispikes may split into separate fingerspikes as each limb rips free and attacks. -->
-  <Trispike.description>Questa creatura delle dimensioni di un uomo è un amalgama di più piccole abominazioni di carne. Ogni suo membro è in grado di sopravvivere indipendentemente. Alla morte, le tripunte possono separarsi in digipunte separate mentre ogni membro si stacca e attacca.</Trispike.description>
+  <Trispike.description>Questa creatura delle dimensioni di un uomo è un amalgama di più piccole abominazioni di carne. Ogni suo membro è in grado di sopravvivere indipendentemente. Alla morte, le tripunte possono dividersi in digispine distinte mentre ogni membro si stacca e attacca.</Trispike.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <Trispike.comps.CompInspectStringEmergence.inspectString>A emerso da {SOURCEPAWN_labelShort}.</Trispike.comps.CompInspectStringEmergence.inspectString>
+  <Trispike.comps.CompInspectStringEmergence.inspectString>Emersa da {SOURCEPAWN_labelShort}.</Trispike.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: left spike -->
   <Trispike.tools.left_spike.label>punta sinistra</Trispike.tools.left_spike.label>
   <!-- EN: spike -->
