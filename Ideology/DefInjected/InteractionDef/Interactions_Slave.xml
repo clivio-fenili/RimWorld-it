@@ -27,9 +27,9 @@
     <li>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions.</li>
   -->
   <Suppress.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ha detto a [RECIPIENT_nameDef] che ci sarebbero state punizioni per ribellarsi.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha detto a [RECIPIENT_nameDef] che chi si ribellava sarebbe stato punito.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha avvertito [RECIPIENT_nameDef] che la disobbedienza sarebbe stata punita.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ha avvertito [RECIPIENT_nameDef] sulle violazioni di qualsiasi tipo.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha messo in guardia [RECIPIENT_nameDef] da qualsiasi infrazione.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha suggerito a [RECIPIENT_nameDef] di seguire gli ordini e non fare domande.</li>
   </Suppress.logRulesInitiator.rulesStrings>
   

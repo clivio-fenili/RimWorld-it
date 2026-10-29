@@ -80,9 +80,9 @@
     <li>memeMoralist->abate</li>
   </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>archeotecnico</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>archotecnico</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>Archeotecnica</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>Archotecnica</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
   <Structure_Archist.symbolPacks.0.member>archotecnico</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
@@ -155,11 +155,11 @@
   <!-- EN: Ethics -->
   <Structure_Ideological.symbolPacks.0.ideoName>Eticismo</Structure_Ideological.symbolPacks.0.ideoName>
   <!-- EN: ethicist -->
-  <Structure_Ideological.symbolPacks.0.member>etico</Structure_Ideological.symbolPacks.0.member>
+  <Structure_Ideological.symbolPacks.0.member>eticista</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
   <Structure_Ideological.symbolPacks.0.theme>etica</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>ideologia</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>ideologico</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
   <Structure_Ideological.symbolPacks.1.ideoName>Ideologismo</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
@@ -246,7 +246,7 @@
   <!-- EN: faithful -->
   <Structure_TheistAbstract.symbolPacks.1.adjective>fedele</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistAbstract.symbolPacks.1.ideoName>fede</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>Fede</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
   <Structure_TheistAbstract.symbolPacks.1.member>fedele</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
@@ -313,7 +313,7 @@
   <!-- EN: faithful -->
   <Structure_TheistEmbodied.symbolPacks.1.adjective>fedele</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.ideoName>fede</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>Fede</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
   <Structure_TheistEmbodied.symbolPacks.1.member>fedele</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->

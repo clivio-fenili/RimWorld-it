@@ -25,7 +25,7 @@
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
   <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ha tentato di convertire [RECIPIENT_nameDef] alla propria ideologia.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha tentato di convertire [RECIPIENT_nameDef] alla propria ideoligione.</li>
   </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
@@ -71,7 +71,7 @@
     <li>r_logentry->[INITIATOR_nameDef] ha rafforzato la salute di [RECIPIENT_nameDef] predicando su [preaching_topic].</li>
     <li>preaching_topic->le ragioni per vivere</li>
     <li>preaching_topic->gli obiettivi ideologici più grandi</li>
-    <li>preaching_topic->il proprio scopo dell'esistenza</li>
+    <li>preaching_topic->lo scopo dell'esistenza</li>
   </PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
@@ -105,7 +105,7 @@
   -->
   <Trial_Accuse.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] ha presentato alcune prove.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ha appellato alle emozioni degli spettatori.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha fatto appello alle emozioni degli spettatori.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha accusato [RECIPIENT_nameDef] di [wrongdoing].</li>
     <li>wrongdoing->sabotare la colonia</li>
     <li>wrongdoing->essere pigr{RECIPIENT_gender ? o : a}</li>
@@ -135,11 +135,11 @@
   -->
   <Trial_Defend.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] ha respinto l'accusa.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ha presentato altre prove.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha proposto un'altra interpretazione.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha fatto appello alla giuria.</li>
 
     <li>r_logentry->[INITIATOR_nameDef] ha chiesto pietà.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ha paralizzato la procedura.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ha fatto ostruzionismo.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha respinto le accuse.</li>
     <li>r_logentry->[INITIATOR_nameDef] ha definito il processo una farsa.</li>
   </Trial_Defend.logRulesInitiator.rulesStrings>

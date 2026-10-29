@@ -53,7 +53,7 @@
     <li>memeHyphenPrefix->ventris</li>
     <li>memeHyphenPrefix->fem</li>
     <li>memeHyphenPrefix->gine</li>
-    <li>memeHyphenPrefix->mantro</li>
+    <li>memeHyphenPrefix->matro</li>
     <li>memeConcept->femminismo</li>
     <li>memeConcept->femminilità</li>
     <li>memeConceptDef->il femminismo</li>
@@ -80,7 +80,7 @@
   <!-- EN: womanist -->
   <FemaleSupremacy.symbolPacks.2.adjective>donnista</FemaleSupremacy.symbolPacks.2.adjective>
   <!-- EN: Womanism -->
-  <FemaleSupremacy.symbolPacks.2.ideoName>Womanismo</FemaleSupremacy.symbolPacks.2.ideoName>
+  <FemaleSupremacy.symbolPacks.2.ideoName>Donnismo</FemaleSupremacy.symbolPacks.2.ideoName>
   <!-- EN: womanist -->
   <FemaleSupremacy.symbolPacks.2.member>donnista</FemaleSupremacy.symbolPacks.2.member>
   <!-- EN: women -->
@@ -155,7 +155,7 @@
     <li>memeLeaderNoun->barba</li>
   </MaleSupremacy.generalRules.rulesStrings>
   <!-- EN: masculist -->
-  <MaleSupremacy.symbolPacks.0.adjective>maschilista</MaleSupremacy.symbolPacks.0.adjective>
+  <MaleSupremacy.symbolPacks.0.adjective>mascolinista</MaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Masculinism -->
   <MaleSupremacy.symbolPacks.0.ideoName>Mascolinismo</MaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: masculinist -->
