@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: enslave attempt -->
-  <EnslaveAttempt.label>intento di schiavitù</EnslaveAttempt.label>
+  <EnslaveAttempt.label>tentativo di riduzione in schiavitù</EnslaveAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work for the colony.</li>
     <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must obey orders and work.</li>

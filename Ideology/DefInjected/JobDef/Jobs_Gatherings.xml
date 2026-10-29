@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: accepting role. -->
-  <AcceptRole.reportString>accettare il ruolo.</AcceptRole.reportString>
+  <AcceptRole.reportString>accetta il ruolo.</AcceptRole.reportString>
   
   <!-- EN: dancing. -->
-  <Dance.reportString>ballare</Dance.reportString>
+  <Dance.reportString>balla.</Dance.reportString>
   
   <!-- EN: eating at TargetA. -->
-  <EatAtCannibalPlatter.reportString>mangiare a TargetA.</EatAtCannibalPlatter.reportString>
+  <EatAtCannibalPlatter.reportString>mangia da TargetA.</EatAtCannibalPlatter.reportString>
   
   <!-- EN: relaxing socially. -->
-  <GotoAndBeSociallyActive.reportString>rilassarsi socialmente.</GotoAndBeSociallyActive.reportString>
+  <GotoAndBeSociallyActive.reportString>socializza.</GotoAndBeSociallyActive.reportString>
   
   <!-- EN: making a skylantern. -->
-  <PrepareSkylantern.reportString>realizzare una lanterna.</PrepareSkylantern.reportString>
+  <PrepareSkylantern.reportString>prepara una lanterna celeste.</PrepareSkylantern.reportString>
   
 </LanguageData>

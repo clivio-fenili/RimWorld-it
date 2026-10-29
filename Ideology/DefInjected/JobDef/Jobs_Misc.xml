@@ -2,60 +2,60 @@
 <LanguageData>
   
   <!-- EN: invoking archotech. -->
-  <ActivateArchonexusCore.reportString>invocando l'archotech.</ActivateArchonexusCore.reportString>
+  <ActivateArchonexusCore.reportString>invoca l'archotech.</ActivateArchonexusCore.reportString>
   
   <!-- EN: Blinding TargetA. -->
-  <Blind.reportString>Bersaglio accecanteA.</Blind.reportString>
+  <Blind.reportString>acceca TargetA.</Blind.reportString>
   
   <!-- EN: carrying TargetA to biosculpter pod. -->
-  <CarryToBiosculpterPod.reportString>portando TargetA al pod del bioscultore.</CarryToBiosculpterPod.reportString>
+  <CarryToBiosculpterPod.reportString>porta TargetA alla capsula bioscultrice.</CarryToBiosculpterPod.reportString>
   
   <!-- EN: delivering TargetA to altar. -->
-  <DeliverToAltar.reportString>Obiettivo consegnare A all'altare.</DeliverToAltar.reportString>
+  <DeliverToAltar.reportString>porta TargetA all'altare.</DeliverToAltar.reportString>
   
   <!-- EN: dyeing hair -->
-  <DyeHair.reportString>tingere i capelli</DyeHair.reportString>
+  <DyeHair.reportString>si tinge i capelli</DyeHair.reportString>
   
   <!-- EN: entering biosculpter pod. -->
-  <EnterBiosculpterPod.reportString>entrando nella capsula del bioscultore.</EnterBiosculpterPod.reportString>
+  <EnterBiosculpterPod.reportString>entra nella capsula bioscultrice.</EnterBiosculpterPod.reportString>
   
   <!-- EN: extracting TargetB from TargetA. -->
-  <ExtractRelic.reportString>estraendo TargetB da TargetA.</ExtractRelic.reportString>
+  <ExtractRelic.reportString>estrae TargetB da TargetA.</ExtractRelic.reportString>
   
   <!-- EN: extracting TargetB to inventory. -->
-  <ExtractToInventory.reportString>estraendo TargetB nell'inventario.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>mette TargetB nell'inventario.</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>ottenere la supercarica neurale da TargetA</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>riceve la sovralimentazione neurale da TargetA</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
-  <GiveToPawn.reportString>dando TargetA a Target.</GiveToPawn.reportString>
+  <GiveToPawn.reportString>dà TargetA a TargetB.</GiveToPawn.reportString>
   
   <!-- EN: inducing TargetA to rebel. -->
-  <InduceSlaveToRebel.reportString>inducendo TargetA a ribellarsi.</InduceSlaveToRebel.reportString>
+  <InduceSlaveToRebel.reportString>spinge TargetA alla ribellione.</InduceSlaveToRebel.reportString>
   
   <!-- EN: installing TargetA in TargetB -->
-  <InstallRelic.reportString>installazione di TargetS in Target</InstallRelic.reportString>
+  <InstallRelic.reportString>installa TargetA in TargetB</InstallRelic.reportString>
   
   <!-- EN: praying. -->
-  <MeditatePray.reportString>pregando.</MeditatePray.reportString>
+  <MeditatePray.reportString>prega.</MeditatePray.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <OpenStylingStationDialog.reportString>cambiare stile a TargetA.</OpenStylingStationDialog.reportString>
+  <OpenStylingStationDialog.reportString>cambia stile presso TargetA.</OpenStylingStationDialog.reportString>
   
   <!-- EN: recoloring apparel -->
-  <RecolorApparel.reportString>ricolorazione degli indumenti</RecolorApparel.reportString>
+  <RecolorApparel.reportString>ricolora gli indumenti</RecolorApparel.reportString>
   
   <!-- EN: Sacrificing TargetA. -->
-  <Sacrifice.reportString>Sacrificare TargetA.</Sacrifice.reportString>
+  <Sacrifice.reportString>sacrifica TargetA.</Sacrifice.reportString>
   
   <!-- EN: Scarifying TargetA. -->
-  <Scarify.reportString>Bersaglio scarificanteA.</Scarify.reportString>
+  <Scarify.reportString>scarifica TargetA.</Scarify.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStation.reportString>cambiare stile a TargetA.</UseStylingStation.reportString>
+  <UseStylingStation.reportString>cambia stile presso TargetA.</UseStylingStation.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStationAutomatic.reportString>cambiare stile a TargetA.</UseStylingStationAutomatic.reportString>
+  <UseStylingStationAutomatic.reportString>cambia stile presso TargetA.</UseStylingStationAutomatic.reportString>
   
 </LanguageData>
