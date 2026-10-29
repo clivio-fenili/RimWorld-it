@@ -84,7 +84,7 @@
   <CommandCancelPsychicRitualConfirm>Sei sicuro di voler annullare il rituale psichico "{0}"?</CommandCancelPsychicRitualConfirm>
 
   <!-- EN: {PAWN_labelShort} vanished -->
-  <PsychicRitualLeaveReason_Vanished>{PAWN_labelShort} è scomparso</PsychicRitualLeaveReason_Vanished>
+  <PsychicRitualLeaveReason_Vanished>{PAWN_labelShort} è scompars{PAWN_gender ? o : a : ə}</PsychicRitualLeaveReason_Vanished>
   <!-- EN: {PAWN_labelShort} is incapacitated -->
   <PsychicRitualLeaveReason_Incapped>{PAWN_labelShort} ha perso i sensi</PsychicRitualLeaveReason_Incapped>
   <!-- EN: {PAWN_labelShort} is dead -->
@@ -114,9 +114,9 @@
   <!-- EN: {PAWN_labelShort} is a prisoner -->
   <PsychicRitualLeaveReason_Prisoner>{PAWN_labelShort} è {PAWN_gender ? un prigioniero : una prigioniera : unə prigionierə}</PsychicRitualLeaveReason_Prisoner>
   <!-- EN: {PAWN_labelShort} is a slave -->
-  <PsychicRitualLeaveReason_Slave>{PAWN_labelShort} è uno schiavo</PsychicRitualLeaveReason_Slave>
+  <PsychicRitualLeaveReason_Slave>{PAWN_labelShort} è {PAWN_gender ? uno schiavo : una schiava : unə schiavə}</PsychicRitualLeaveReason_Slave>
   <!-- EN: {PAWN_labelShort} is free -->
-  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort} è libero</PsychicRitualLeaveReason_Freeman>
+  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort} è liber{PAWN_gender ? o : a : ə}</PsychicRitualLeaveReason_Freeman>
   <!-- EN: {PAWN_labelShort} is a {STAGE} -->
   <PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort} è un {STAGE}</PsychicRitualLeaveReason_DevelopmentalStage>
   <!-- EN: {PAWN_labelShort} cannot reach the target location -->
@@ -126,7 +126,7 @@
   <!-- EN: {PAWN_labelShort} is not a human -->
   <PsychicRitualLeaveReason_Mutant>{PAWN_labelShort} non è un essere umano</PsychicRitualLeaveReason_Mutant>
   <!-- EN: {PAWN_labelShort}'s belief in {IDEO_name} prevents participation -->
-  <PsychicRitualLeaveReason_IdeoUnwilling>Le convinzioni di {PAWN_labelShort} in {IDEO_name} gli impediscono di partecipare</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <PsychicRitualLeaveReason_IdeoUnwilling>Le convinzioni in {IDEO_name} impediscono a {PAWN_labelShort} di partecipare</PsychicRitualLeaveReason_IdeoUnwilling> 
   <!-- EN: {PAWN_labelShort} is not psychically sensitive -->
   <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} non ha sensibilità psichica</PsychicRitualLeaveReason_NoPsychicSensitivity>
   <!-- EN: {PAWN_labelShort} is a temporary faction member -->
@@ -143,7 +143,7 @@
   <PsychicRitualToil_Goto_JobReport_Waiting>sta aspettando che tutti si posizionino</PsychicRitualToil_Goto_JobReport_Waiting>
 
   <!-- EN: {PAWN_labelShort} was unable to find enough {1} -->
-  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort} non è riuscito a trovare abbastanza {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort} non è riuscit{PAWN_gender ? o : a : ə} a trovare abbastanza {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
   <!-- EN: gathering offering -->
   <PsychicRitualToil_GatherOfferings_JobReport>sta raccogliendo le offerte</PsychicRitualToil_GatherOfferings_JobReport>
 
@@ -166,7 +166,7 @@
   <PsychicRitualToil_InvokeHorax_Report>invoca il vuoto</PsychicRitualToil_InvokeHorax_Report>
 
   <!-- EN: {TARGET_labelShort} was destroyed -->
-  <PsychicRitualDef_TargetDestroyed>{TARGET_labelShort} è stato {PAWN_gender ? distrutto : distrutta : distruttə}</PsychicRitualDef_TargetDestroyed>
+  <PsychicRitualDef_TargetDestroyed>{TARGET_labelShort} è stato {TARGET_gender ? distrutto : distrutta : distrutto}</PsychicRitualDef_TargetDestroyed>
   <!-- EN: {INVOKER_labelShort} cannot continue the psychic ritual -->
   <PsychicRitualDef_InvocationCircle_InvokerLost>{INVOKER_labelShort} non può continuare il rituale psichico</PsychicRitualDef_InvocationCircle_InvokerLost>
 
@@ -185,7 +185,7 @@
 
   <!-- PsychicRitualDef_InvokationCircle messages -->
   <!-- EN: {0} has begun performing the {1} psychic ritual. -->
-  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0} ha iniziato a eseguire il rituale psichico {1}.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0} ha iniziato a eseguire il rituale psichico "{1}".</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
   <!-- EN: psychic ritual area is obstructed -->
   <PsychicRitualAreaObstructed>l’area del rituale psichico è ostruita</PsychicRitualAreaObstructed>
 
@@ -195,11 +195,11 @@
 
   <!-- Shambler summoning -->
   <!-- EN: No nearby shamblers. -->
-  <NoNearbyShamblers>Nessuno shambler nelle vicinanze.</NoNearbyShamblers>
+  <NoNearbyShamblers>Nessuno zombi nelle vicinanze.</NoNearbyShamblers>
 
   <!-- Pit gate summoning -->
   <!-- EN: There is already a pit gate on the map. -->
-  <PitGateAlreadyExists>C'è già un portale del pozzo sulla mappa.</PitGateAlreadyExists>
+  <PitGateAlreadyExists>C'è già una fossa sulla mappa.</PitGateAlreadyExists>
   
   <!-- Chronophagy -->
   <!-- EN: The invoker must be at least {0} years old. -->

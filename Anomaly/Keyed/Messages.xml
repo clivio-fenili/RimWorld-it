@@ -13,7 +13,7 @@
   <!-- EN: The cultists are in a trance and don't respond when attacked. -->
   <MessageHateChantersAbsorbed>I cultisti sono in trance e non reagiscono quando vengono attaccati.</MessageHateChantersAbsorbed>
   <!-- EN: The hate chanting has increased in volume. -->
-  <MessageHateChantIncreased>I canti d'odio sono diventati più forti.</MessageHateChantIncreased>
+  <MessageHateChantIncreased>Il canto dell'odio è diventato più forte.</MessageHateChantIncreased>
 
   <!-- Self-resurrection -->
   <!-- EN: {0_nameDef} can self-resurrect on command using death refusal. -->
@@ -23,9 +23,9 @@
 
   <!-- Pit Gate -->
   <!-- EN: The pit gate has collapsed. -->
-  <MessagePitGateCollapsed>La porta del pozzo è crollata.</MessagePitGateCollapsed>
+  <MessagePitGateCollapsed>La fossa è crollata.</MessagePitGateCollapsed>
   <!-- EN: A pit burrow has collapsed. -->
-  <MessagePitBurrowCollapsed>Una tana del pozzo è crollata.</MessagePitBurrowCollapsed>
+  <MessagePitBurrowCollapsed>Una galleria sotterranea è crollata.</MessagePitBurrowCollapsed>
 
   <!-- Fleshsack -->
   <!-- EN: The flesh sack contained something -->
@@ -41,13 +41,13 @@
   <!-- EN: Cannot target: {0_nameDef} is not an animal or human. -->
   <MessageBiomutationLanceInvalidTargetRace>Impossibile colpire: {0_nameDef} non è né un animale né un essere umano.</MessageBiomutationLanceInvalidTargetRace>
   <!-- EN: Cannot target: {0_nameDef} is too large. -->
-  <MessageBiomutationLanceTargetTooBig>Impossibile colpire: {0_nameDef} è troppo {0_gender ? grande : grande : grande}.</MessageBiomutationLanceTargetTooBig>
+  <MessageBiomutationLanceTargetTooBig>Impossibile colpire: {0_nameDef} è troppo grande.</MessageBiomutationLanceTargetTooBig>
 
   <!-- Containment -->
   <!-- EN: Warning: No rooms have the minimum containment strength for {0}. It may escape soon. -->
-  <MessageNoRoomWithMinimumContainmentStrength>Avviso: nessuna stanza ha la capacità di contenimento minima per {0}. Potrebbe presto fuggire.</MessageNoRoomWithMinimumContainmentStrength>
+  <MessageNoRoomWithMinimumContainmentStrength>Avviso: nessuna stanza ha la forza di contenimento minima per {0}. Potrebbe presto fuggire.</MessageNoRoomWithMinimumContainmentStrength>
   <!-- EN: Warning: {0} is below minimum containment strength for {1}. It may escape soon. -->
-  <MessageTargetBelowMinimumContainmentStrength>Avviso: {0} è al di sotto della capacità di contenimento minima per {1}. Potrebbe presto fuggire.</MessageTargetBelowMinimumContainmentStrength>
+  <MessageTargetBelowMinimumContainmentStrength>Avviso: {0} è al di sotto della forza di contenimento minima per {1}. Potrebbe presto fuggire.</MessageTargetBelowMinimumContainmentStrength>
   <!-- EN: Can't transfer to {0} reserved by someone else. -->
   <MessageHolderReserved>Impossibile trasferire in {0}: è riservato da qualcun altro.</MessageHolderReserved>
   <!-- EN: {EXECUTIONER_labelShort} has executed {VICTIM_kindIndef}. -->
@@ -87,6 +87,6 @@
   <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} ha disturbato diverse digispine.</MessageFingerspikeDisturbedPlural>
 
   <!-- EN: The death pall has begun to resurrect corpses. -->
-  <DeathPallResurrectedMessage>Il velo di morte ha iniziato a resuscitare i cadaveri.</DeathPallResurrectedMessage>
+  <DeathPallResurrectedMessage>La nebbia funesta ha iniziato a resuscitare i cadaveri.</DeathPallResurrectedMessage>
   
 </LanguageData>
