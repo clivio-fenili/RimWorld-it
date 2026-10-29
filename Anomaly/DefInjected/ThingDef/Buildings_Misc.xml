@@ -226,7 +226,7 @@
   <StoneCubeSculpture.description>Una scultura costruita frettolosamente che somiglia a un cubo.</StoneCubeSculpture.description>
   
   <!-- EN: IED deadlife trap -->
-  <TrapIED_Deadlife.label>trappola di resurrezione improvvisata</TrapIED_Deadlife.label>
+  <TrapIED_Deadlife.label>trappola improvvisata della morte vivente</TrapIED_Deadlife.label>
   <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
   <TrapIED_Deadlife.description>Due ordigni di polvere della morte vivente collegati a un innesco che esplode al tocco o all'impatto di un proiettile. Poiché è nascosta nel terreno circostante, non può essere posizionata accanto ad altre trappole. Gli animali possono percepirla quando sono calmi.\n\nPerché la polvere della morte vivente li rianimi, servono cadaveri nelle vicinanze.</TrapIED_Deadlife.description>
   
