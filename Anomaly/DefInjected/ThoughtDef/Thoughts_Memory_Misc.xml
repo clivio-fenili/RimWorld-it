@@ -75,7 +75,7 @@
   <!-- EN: {RITUAL} guilt -->
   <PsychicRitualGuilt.stages.guilt-2.label>senso di colpa dopo il rituale "{RITUAL}"</PsychicRitualGuilt.stages.guilt-2.label>
   <!-- EN: That ritual was nothing short of torture. It's evil! -->
-  <PsychicRitualGuilt.stages.guilt-2.description>Quel rituale è stata pura e semplice tortura. È malvagio!</PsychicRitualGuilt.stages.guilt-2.description>
+  <PsychicRitualGuilt.stages.guilt-2.description>Quel rituale è stato pura e semplice tortura. È malvagio!</PsychicRitualGuilt.stages.guilt-2.description>
   
   <!-- EN: psychic ritual victim -->
   <PsychicRitualVictim.stages.psychic_ritual_victim.label>vittima di rituale psichico</PsychicRitualVictim.stages.psychic_ritual_victim.label>

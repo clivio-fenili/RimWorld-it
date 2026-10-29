@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: suppress entity activity -->
-  <ActivitySuppression.label>reprimere l'attività di un'entità</ActivitySuppression.label>
+  <ActivitySuppression.label>sopprimere l'attività delle entità</ActivitySuppression.label>
   <!-- EN: suppressing -->
-  <ActivitySuppression.gerund>reprimendo</ActivitySuppression.gerund>
+  <ActivitySuppression.gerund>sopprimendo</ActivitySuppression.gerund>
   <!-- EN: suppress -->
-  <ActivitySuppression.verb>reprimere</ActivitySuppression.verb>
+  <ActivitySuppression.verb>sopprimere</ActivitySuppression.verb>
   
   <!-- EN: make things at bioferrite shaper -->
   <DoBillsBioferriteShaper.label>lavorare al modellatore di bioferrite</DoBillsBioferriteShaper.label>
@@ -16,7 +16,7 @@
   <DoBillsBioferriteShaper.verb>lavorare al</DoBillsBioferriteShaper.verb>
   
   <!-- EN: make things at serum lab -->
-  <DoBillsSerumCentrifuge.label>lavorare al laboratorio sierologico</DoBillsSerumCentrifuge.label>
+  <DoBillsSerumCentrifuge.label>lavorare al laboratorio per sieri</DoBillsSerumCentrifuge.label>
   <!-- EN: working at -->
   <DoBillsSerumCentrifuge.gerund>lavorando al</DoBillsSerumCentrifuge.gerund>
   <!-- EN: work at -->
@@ -44,7 +44,7 @@
   <ExtractBioferrite.verb>estrarre da</ExtractBioferrite.verb>
   
   <!-- EN: interrogate identity -->
-  <InterrogatePrisoner.label>interrogare l'identità</InterrogatePrisoner.label>
+  <InterrogatePrisoner.label>interrogare sull'identità</InterrogatePrisoner.label>
   <!-- EN: interrogating -->
   <InterrogatePrisoner.gerund>interrogando</InterrogatePrisoner.gerund>
   <!-- EN: interrogate -->

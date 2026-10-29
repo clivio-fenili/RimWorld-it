@@ -4,7 +4,7 @@
   <!-- EN: blood rain -->
   <BloodRain.label>pioggia di sangue</BloodRain.label>
   <!-- EN: Anyone exposed to the blood rain for long enough will be driven into a berserk rage. Certain traits and psychic sensitivity influence the berserk effect. -->
-  <BloodRain.description>Un’esposizione prolungata alla pioggia di sangue spinge le persone in una furia omicida. Alcuni tratti e la sensibilità psichica influenzano l’effetto berserk.</BloodRain.description>
+  <BloodRain.description>Un’esposizione prolungata alla pioggia di sangue spinge le persone alla rabbia furiosa. Alcuni tratti e la sensibilità psichica influenzano l’effetto.</BloodRain.description>
   
   <!-- EN: gray pall -->
   <GrayPall.label>foschia grigia</GrayPall.label>
@@ -32,7 +32,7 @@
   <UnnaturalDarkness_Stage2.description>Un fenomeno psichico che colpisce i tuoi coloni. Il cielo stesso sembra essere crollato, avvolgendo il mondo in un’oscurità innaturale. Restate nella luce.</UnnaturalDarkness_Stage2.description>
   
   <!-- EN: death pall -->
-  <UnnaturalFog.label>foschia funesta</UnnaturalFog.label>
+  <UnnaturalFog.label>nebbia funesta</UnnaturalFog.label>
   <!-- EN: A death-gray cloud of black dust has descended on this area. The smell is ancient and putrid as the diffuse dust enters every crack and crevice.\n\nThe dust is made of corrupted archites that will enter corpses and reanimate them into a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
   <UnnaturalFog.description>Una nube grigio-cadavere di polvere nera è calata su quest’area. L’odore è antico e putrido mentre la polvere si insinua in ogni fessura e crepa.\n\nQuesta polvere è composta da architi corrotti che penetrano nei cadaveri e li rianimano in una grottesca imitazione della vita.\n\nI morti si rialzeranno! Bruciate, seppellite, distruggete o spostate i cadaveri al chiuso per impedirne la resurrezione.</UnnaturalFog.description>
   

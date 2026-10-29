@@ -57,11 +57,11 @@
   <DeadlifeDust.stages.deadlife_dust-2.description>Questa polvere brucia! La sento negli occhi e nei polmoni.</DeadlifeDust.stages.deadlife_dust-2.description>
   
   <!-- EN: death pall -->
-  <DeathPall.stages.death_pall.label>foschia di morte</DeathPall.stages.death_pall.label>
+  <DeathPall.stages.death_pall.label>nebbia funesta</DeathPall.stages.death_pall.label>
   <!-- EN: It smells like death. -->
   <DeathPall.stages.death_pall.description>Puzza di morte.</DeathPall.stages.death_pall.description>
   <!-- EN: death pall exposure -->
-  <DeathPall.stages.death_pall_exposure.label>esposizione alla foschia di morte</DeathPall.stages.death_pall_exposure.label>
+  <DeathPall.stages.death_pall_exposure.label>esposizione alla nebbia funesta</DeathPall.stages.death_pall_exposure.label>
   <!-- EN: It smells like death. My eyes sting and the air grits between my teeth. -->
   <DeathPall.stages.death_pall_exposure.description>Puzza di morte. L'aria mi brucia gli occhi e sento la sabbia tra i denti.</DeathPall.stages.death_pall_exposure.description>
   
@@ -105,23 +105,23 @@
   <HarbingerScream.stages.harbinger_tree_scream.description>Ho un forte mal di testa da quando quell'albero è morto. Lo sento ancora urlare...</HarbingerScream.stages.harbinger_tree_scream.description>
   
   <!-- EN: hate chant whispers -->
-  <HateChantDrone.stages.hate_chant_whispers.label>incantesimo d’odio sussurrato</HateChantDrone.stages.hate_chant_whispers.label>
+  <HateChantDrone.stages.hate_chant_whispers.label>sussurri del canto dell'odio</HateChantDrone.stages.hate_chant_whispers.label>
   <!-- EN: I hear their whispers, no matter where I am. Saying wrong things to me over and over. -->
   <HateChantDrone.stages.hate_chant_whispers.description>Sento i loro sussurri, ovunque io sia. Mi ripetono senza sosta parole malvagie.</HateChantDrone.stages.hate_chant_whispers.description>
   <!-- EN: quiet hate chanting -->
-  <HateChantDrone.stages.quiet_hate_chanting.label>incantesimo d’odio a bassa voce</HateChantDrone.stages.quiet_hate_chanting.label>
+  <HateChantDrone.stages.quiet_hate_chanting.label>canto dell'odio a bassa voce</HateChantDrone.stages.quiet_hate_chanting.label>
   <!-- EN: I can hear them muttering, filling my mind with hatred, inside my head. -->
   <HateChantDrone.stages.quiet_hate_chanting.description>Li sento mormorare, riempiendomi la mente di odio, dentro la testa.</HateChantDrone.stages.quiet_hate_chanting.description>
   <!-- EN: hate chanting -->
-  <HateChantDrone.stages.hate_chanting.label>incantesimo d’odio</HateChantDrone.stages.hate_chanting.label>
+  <HateChantDrone.stages.hate_chanting.label>canto dell'odio</HateChantDrone.stages.hate_chanting.label>
   <!-- EN: Those words being screamed into me, muttered, guttural moans of rage. Inside my head. It's driving me mad! -->
   <HateChantDrone.stages.hate_chanting.description>Quelle parole urlate, mormorate, quei gemiti gutturali di rabbia… Dentro la mia testa. Mi faranno impazzire!</HateChantDrone.stages.hate_chanting.description>
   <!-- EN: loud hate chanting -->
-  <HateChantDrone.stages.loud_hate_chanting.label>incantesimo d’odio ad alta voce</HateChantDrone.stages.loud_hate_chanting.label>
+  <HateChantDrone.stages.loud_hate_chanting.label>canto dell'odio ad alta voce</HateChantDrone.stages.loud_hate_chanting.label>
   <!-- EN: The screaming doesn't stop, the chanting, inside me, in my head! -->
   <HateChantDrone.stages.loud_hate_chanting.description>Le urla non finiscono mai, i canti… li sento dentro di me, nella testa!</HateChantDrone.stages.loud_hate_chanting.description>
   <!-- EN: extreme hate chanting -->
-  <HateChantDrone.stages.extreme_hate_chanting.label>incantesimo d’odio assordante</HateChantDrone.stages.extreme_hate_chanting.label>
+  <HateChantDrone.stages.extreme_hate_chanting.label>canto dell'odio assordante</HateChantDrone.stages.extreme_hate_chanting.label>
   <!-- EN: Rage in my head murderous rip the skin deserves it the black ocean terror deep... -->
   <HateChantDrone.stages.extreme_hate_chanting.description>Rabbia nella mia testa omicidio strappare la pelle se lo meritano oceano nero terrore profondo...</HateChantDrone.stages.extreme_hate_chanting.description>
   
