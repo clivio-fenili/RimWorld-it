@@ -7,7 +7,7 @@
   <MeatEating_Abhorrent.description>Mangiare carne di qualsiasi tipo è profondamente malvagio.</MeatEating_Abhorrent.description>
   
   <!-- EN: disapproved -->
-  <MeatEating_Disapproved.label>non approvato</MeatEating_Disapproved.label>
+  <MeatEating_Disapproved.label>disapprovato</MeatEating_Disapproved.label>
   <!-- EN: Eating meat of any kind should be avoided. -->
   <MeatEating_Disapproved.description>Mangiare carne di qualsiasi tipo dovrebbe essere evitato.</MeatEating_Disapproved.description>
   
@@ -27,7 +27,7 @@
   <MeatEating_NonMeat_Disapproved.description>Mangiare cibo vegetariano è sgradevole. Ogni pasto dovrebbe contenere un po' di carne, uova, latte o altri prodotti animali.</MeatEating_NonMeat_Disapproved.description>
   
   <!-- EN: vegetarian hated -->
-  <MeatEating_NonMeat_Horrible.label>vegetariano orribile</MeatEating_NonMeat_Horrible.label>
+  <MeatEating_NonMeat_Horrible.label>vegetariano detestato</MeatEating_NonMeat_Horrible.label>
   <!-- EN: Eating vegetarian food is awful. Every meal should have some meat, eggs, milk, or other animal product. -->
   <MeatEating_NonMeat_Horrible.description>Mangiare cibo vegetariano è terribile. Ogni pasto dovrebbe contenere un po' di carne, uova, latte o altri prodotti animali.</MeatEating_NonMeat_Horrible.description>
   

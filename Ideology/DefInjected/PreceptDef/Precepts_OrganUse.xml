@@ -18,7 +18,7 @@
   <OrganUse_Acceptable.description>Va bene prelevare, acquistare, installare o vendere organi.</OrganUse_Acceptable.description>
   
   <!-- EN: no harvest or sell -->
-  <OrganUse_HorribleNoSell.label>nessun raccolto o vendita</OrganUse_HorribleNoSell.label>
+  <OrganUse_HorribleNoSell.label>niente prelievo né vendita</OrganUse_HorribleNoSell.label>
   <!-- EN: Harvesting organs is a horrible thing. Selling any natural organ is pretty bad too. However, it's okay to buy and install them. -->
   <OrganUse_HorribleNoSell.description>Il prelievo di organi è una cosa orribile. Anche vendere qualsiasi organo naturale è piuttosto negativo. Tuttavia, va bene acquistarli e installarli.</OrganUse_HorribleNoSell.description>
   <!-- EN: Someone harvested an organ -->
@@ -27,7 +27,7 @@
   <OrganUse_HorribleNoSell.comps.4.description>Qualcuno ha venduto un organo</OrganUse_HorribleNoSell.comps.4.description>
   
   <!-- EN: no harvest -->
-  <OrganUse_HorribleSellOK.label>nessun raccolto</OrganUse_HorribleSellOK.label>
+  <OrganUse_HorribleSellOK.label>niente prelievo</OrganUse_HorribleSellOK.label>
   <!-- EN: Harvesting organs is a horrible thing. However, it's okay to buy, install, or sell them. -->
   <OrganUse_HorribleSellOK.description>Il prelievo di organi è una cosa orribile. Tuttavia, è possibile acquistarli, installarli o venderli.</OrganUse_HorribleSellOK.description>
   <!-- EN: Someone harvested an organ -->

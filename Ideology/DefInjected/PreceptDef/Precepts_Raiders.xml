@@ -11,7 +11,7 @@
   <Raiding_Required.comps.3.thoughtStageDescriptions.1>Sono più di {DAYSSINCELASTRAIDTHRESHOLD} giorni dal nostro ultimo raid</Raiding_Required.comps.3.thoughtStageDescriptions.1>
   
   <!-- EN: respected -->
-  <Raiding_Respected.label>rispettata</Raiding_Respected.label>
+  <Raiding_Respected.label>rispettato</Raiding_Respected.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame. -->
   <Raiding_Respected.description>Non lavoriamo come comuni lavoratori, prendiamo dai deboli come dovrebbe fare il forte. Non farlo è un segno di vergogna.</Raiding_Respected.description>
   <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->

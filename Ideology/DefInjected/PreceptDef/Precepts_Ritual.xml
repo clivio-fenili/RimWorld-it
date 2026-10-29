@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: blinding -->
-  <BlindingCeremony.label>accecante</BlindingCeremony.label>
+  <BlindingCeremony.label>accecamento</BlindingCeremony.label>
   <!-- EN: A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care. -->
   <BlindingCeremony.description>Un tagliatore accecherà ritualmente un bersaglio. Il pubblico guarderà mentre il tagliatore tiene un discorso, ritaglia entrambi gli occhi del bersaglio e dice alcune parole di chiusura. Il bersaglio rimarrà sanguinante e avrà bisogno di cure mediche immediate.</BlindingCeremony.description>
   
@@ -17,7 +17,7 @@
   <Classic_DrumParty.description>Un incontro celebrativo per far divertire i tuoi coloni. Un leader terrà un discorso incoraggiante, poi tutti socializzeranno per un po'.</Classic_DrumParty.description>
   
   <!-- EN: conversion ritual -->
-  <Conversion.label>conversione rituale</Conversion.label>
+  <Conversion.label>rituale di conversione</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
   <Conversion.description>Cerca di persuadere qualcuno ad unirsi alla tua ideoligione.</Conversion.description>
   
@@ -46,7 +46,7 @@
   <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef} dovrebbe essere sepolt{PAWN_gender ? o : a} e ricevere un funerale, perché amici e familiari possano salutarl{PAWN_gender ? o : a} un'ultima volta.</Funeral.extraTextPawnDeathLetter>
   
   <!-- EN: funeral (no corpse) -->
-  <FuneralNoCorpse.label>funerale (non cadavere)</FuneralNoCorpse.label>
+  <FuneralNoCorpse.label>funerale (senza cadavere)</FuneralNoCorpse.label>
   <!-- EN: A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals. -->
   <FuneralNoCorpse.description>Un raduno che avviene intorno alla tomba di un credente dopo la sua morte e la sua sepoltura. Se il corpo viene distrutto, può essere utilizzata una tomba vuota. Gli schiavi non ricevono funerali.</FuneralNoCorpse.description>
   
@@ -55,7 +55,7 @@
   <!-- EN: A duel between prisoners or slaves. The organizer will give a speech to excite the crowd, then the duelists will fight until one of them falls or time runs out. If weapons are in the arena, the duelists will pick up and use them. -->
   <GladiatorDuel.description>Un duello tra prigionieri o schiavi. L'organizzatore terrà un discorso per emozionare la folla, poi i duellanti combatteranno finché uno di loro non cadrà o scadrà il tempo. Se nell'arena ci sono armi, i duellanti le raccoglieranno e le useranno.</GladiatorDuel.description>
   <!-- EN: Prisoner/slave gladiator duel -->
-  <GladiatorDuel.tipLabelOverride>Duello tra gladiatori prigioniero/schiavo</GladiatorDuel.tipLabelOverride>
+  <GladiatorDuel.tipLabelOverride>Duello tra gladiatori (prigionieri o schiavi)</GladiatorDuel.tipLabelOverride>
   
   <!-- EN: leader speech -->
   <LeaderSpeech.label>discorso del leader</LeaderSpeech.label>
@@ -73,22 +73,22 @@
   <ScarificationCeremony.description>Una cicatrice rituale in cui un tagliatore incide simboli ideologici su un bersaglio. Il pubblico osserverà mentre il tagliatore tiene un discorso, esegue il taglio e poi pronuncia alcune parole finali.</ScarificationCeremony.description>
   
   <!-- EN: tree connection ritual -->
-  <TreeConnection.label>rituale di connessione degli alberi</TreeConnection.label>
+  <TreeConnection.label>rituale di connessione con l'albero</TreeConnection.label>
   <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
   <TreeConnection.description>Un connettore si collegherà con un albero Gauranlen. Il connettore toccherà l'albero Gauranlen e gli parlerà, formando un collegamento permanente. Altri si riuniscono in cerchio per guardare e aggiungere forza al rituale.</TreeConnection.description>
   
   <!-- EN: trial -->
-  <Trial.label>prove</Trial.label>
+  <Trial.label>processo</Trial.label>
   <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilities of the accused and accuser, and the number of spectators. -->
   <Trial.description>Un processo per accuse atroci. L'iniziatore accuserà qualcuno di terribili illeciti e riunirà le persone per un processo. Gli spettatori ascolteranno mentre l'accusatore e l'accusato discutono avanti e indietro, quindi decideranno se l'accusa è vera. Se l'imputato viene condannato, puoi liberamente bandirlo, arrestarlo o giustiziarlo e a nessuno importerà. La possibilità di una condanna dipende dalle capacità sociali dell'imputato e dell'accusatore e dal numero di spettatori.</Trial.description>
   
   <!-- EN: trial -->
-  <TrialMentalState.label>prove</TrialMentalState.label>
+  <TrialMentalState.label>processo</TrialMentalState.label>
   <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilities of the accused and accuser, and the number of spectators. -->
   <TrialMentalState.description>Un processo per accuse atroci. L'iniziatore accuserà qualcuno di terribili illeciti e riunirà le persone per un processo. Gli spettatori ascolteranno mentre l'accusatore e l'accusato discutono avanti e indietro, quindi decideranno se l'accusa è vera. Se l'imputato viene condannato, puoi liberamente bandirlo, arrestarlo o giustiziarlo e a nessuno importerà. La possibilità di una condanna dipende dalle capacità sociali dell'imputato e dell'accusatore e dal numero di spettatori.</TrialMentalState.description>
   
   <!-- EN: trial -->
-  <TrialPrisoner.label>prove</TrialPrisoner.label>
+  <TrialPrisoner.label>processo</TrialPrisoner.label>
   <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilities of the accused and accuser, and the number of spectators. -->
   <TrialPrisoner.description>Un processo per accuse atroci. L'iniziatore accuserà qualcuno di terribili illeciti e riunirà le persone per un processo. Gli spettatori ascolteranno mentre l'accusatore e l'accusato discutono avanti e indietro, quindi decideranno se l'accusa è vera. Se l'imputato viene condannato, puoi liberamente bandirlo, arrestarlo o giustiziarlo e a nessuno importerà. La possibilità di una condanna dipende dalle capacità sociali dell'imputato e dell'accusatore e dal numero di spettatori.</TrialPrisoner.description>
   

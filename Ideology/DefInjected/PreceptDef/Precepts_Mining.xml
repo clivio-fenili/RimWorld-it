@@ -4,7 +4,7 @@
   <!-- EN: disapproved -->
   <Mining_Disapproved.label>disapprovato</Mining_Disapproved.label>
   <!-- EN: Mining into the natural earth is an ugly act. -->
-  <Mining_Disapproved.description>Estrarre la terra naturale è un atto brutto.</Mining_Disapproved.description>
+  <Mining_Disapproved.description>Scavare nella terra naturale è un atto brutto.</Mining_Disapproved.description>
   <!-- EN: Someone mined a block -->
   <Mining_Disapproved.comps.0.description>Qualcuno ha minato un blocco</Mining_Disapproved.comps.0.description>
   <!-- EN: Someone mined a block -->
@@ -24,7 +24,7 @@
   <!-- EN: Raping the natural earth with mining tools is a horrifically evil act. -->
   <Mining_Prohibited.description>Stuprare la terra naturale con strumenti minerari è un atto orribilmente malvagio.</Mining_Prohibited.description>
   <!-- EN: Mining -->
-  <Mining_Prohibited.comps.0.description>Estrazione</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.0.description>Estrarre minerali</Mining_Prohibited.comps.0.description>
   <!-- EN: Someone mined a block -->
   <Mining_Prohibited.comps.3.description>Qualcuno ha minato un blocco</Mining_Prohibited.comps.3.description>
   
