@@ -11,7 +11,7 @@
   <AgonyPulse.stages.lingering.label>persistente</AgonyPulse.stages.lingering.label>
   
   <!-- EN: awoken hypnosis -->
-  <AwokenHypnosis.label>ipnosi dell’evocato</AwokenHypnosis.label>
+  <AwokenHypnosis.label>ipnosi del risvegliato</AwokenHypnosis.label>
   <!-- EN: This person has been hypnotized by an awoken unnatural corpse. The trance is absolute, but if the awoken corpse breaks its gaze then the hypnosis will end. -->
   <AwokenHypnosis.description>Questa persona è stata ipnotizzata da un cadavere innaturale risvegliato. La trance è totale, ma l’ipnosi termina se il cadavere distoglie lo sguardo.</AwokenHypnosis.description>
   
@@ -21,14 +21,14 @@
   <BioferriteExtracted.description>La bioferrite è stata rimossa chirurgicamente da questa entità. Si rigenererà, ma ci vorranno diversi giorni.</BioferriteExtracted.description>
   
   <!-- EN: bliss lobotomy -->
-  <BlissLobotomy.label>lobotomia beata</BlissLobotomy.label>
+  <BlissLobotomy.label>lobotomia beatificante</BlissLobotomy.label>
   <!-- EN: This person has been psychically lobotomized, placing them in a state of bliss but limiting their cognitive function. -->
   <BlissLobotomy.description>Questa persona ha subito una lobotomia psichica, che la mantiene in uno stato di beatitudine ma limita le sue facoltà cognitive.</BlissLobotomy.description>
   
   <!-- EN: blood rage -->
   <BloodRage.label>furia sanguinaria</BloodRage.label>
   <!-- EN: This creature has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
-  <BloodRage.description>Questa creatura è stata esposta alla pioggia di sangue, un psicofluido che induce la furia. La rabbia crescerà finché sarà esposta, sfociando infine in una crisi violenta. L’effetto si sviluppa più rapidamente in alcuni individui, in base ai loro tratti, sensibilità psichica e altri fattori individuali.</BloodRage.description>
+  <BloodRage.description>Questa creatura è stata esposta alla pioggia di sangue, uno psicofluido che induce la furia. La rabbia crescerà finché sarà esposta, sfociando infine in una crisi violenta. L’effetto si sviluppa più rapidamente in alcuni individui, in base ai loro tratti, sensibilità psichica e altri fattori individuali.</BloodRage.description>
   <!-- EN: very mild -->
   <BloodRage.stages.very_mild.label>molto lieve</BloodRage.stages.very_mild.label>
   <!-- EN: mild -->
@@ -60,7 +60,7 @@
   <!-- EN: crumbling mind -->
   <CrumblingMind.label>mente in declino</CrumblingMind.label>
   <!-- EN: This person is experiencing a rapidly decaying mental state. Within a few days, they will be incapable of most work. With sufficient technology, like a healer mech serum, the condition can still be reversed. However, it will soon become permanent. -->
-  <CrumblingMind.description>Questa persona sta vivendo un rapido deterioramento mentale. Entro pochi giorni sarà incapace di svolgere quasi qualsiasi attività. La condizione può essere invertita con una tecnologia avanzata, come un siero curativo a base di mecaniti. In caso contrario, diventerà permanente.</CrumblingMind.description>
+  <CrumblingMind.description>Questa persona sta vivendo un rapido deterioramento mentale. Entro pochi giorni sarà incapace di svolgere quasi qualsiasi attività. La condizione può essere invertita con una tecnologia avanzata, come un siero curativo a base di meccaniti. In caso contrario, diventerà permanente.</CrumblingMind.description>
   <!-- EN: {PAWN_nameDef}'s cognitive condition has become permanent. -->
   <CrumblingMind.comps.HediffComp_ReplaceHediff.message>La condizione cognitiva di {PAWN_nameDef} è diventata permanente.</CrumblingMind.comps.HediffComp_ReplaceHediff.message>
   <!-- EN: mild -->
@@ -77,7 +77,7 @@
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will soon cause severe mental degradation. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
   <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} mostra i primi segni di una condizione grave che porterà a un forte deterioramento mentale. {SURGEON_nameDef} non è ancora in grado di individuarne la causa, ma {PAWN_nameDef} si ammalerà gravemente entro pochi giorni.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: {PAWN_nameDef} has begun experiencing pounding headaches and begs for help. {PAWN_pronoun} can't think straight and is losing {PAWN_possessive} cognitive function. {PAWN_nameDef} claims that {PAWN_pronoun} has seen a vision of the future. Within a matter of days, {PAWN_possessive} mind will crumble and {PAWN_pronoun} will become incapable of most tasks.\n\nThe condition is currently reversible with sufficient technology, like a healer mech serum, but will soon become permanent. -->
-  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} soffre di forti emicranie e chiede aiuto. {PAWN_pronoun} non riesce a pensare con lucidità e sta perdendo le proprie facoltà cognitive. {PAWN_nameDef} afferma di aver avuto una visione del futuro: la sua mente sta per crollare e presto sarà incapace di svolgere la maggior parte delle attività.\n\nQuesta condizione è ancora reversibile con una tecnologia avanzata, come un siero curativo a base di mecaniti, ma presto diventerà permanente.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} soffre di forti emicranie e chiede aiuto. {PAWN_pronoun} non riesce a pensare con lucidità e sta perdendo le proprie facoltà cognitive. {PAWN_nameDef} afferma di aver avuto una visione del futuro: la sua mente sta per crollare e presto sarà incapace di svolgere la maggior parte delle attività.\n\nQuesta condizione è ancora reversibile con una tecnologia avanzata, come un siero curativo a base di meccaniti, ma presto diventerà permanente.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
   <!-- EN: Crumbling mind: {PAWN_nameDef} -->
   <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>Mente in declino: {PAWN_nameDef}</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
   <!-- EN: diagnosed -->
@@ -90,7 +90,7 @@
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will soon cause severe mental degradation. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
   <CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} mostra i primi segni di una condizione grave che porterà a un forte deterioramento mentale. {SURGEON_nameDef} non riesce ancora a determinarne la causa esatta, ma {PAWN_nameDef} si ammalerà gravemente nei prossimi giorni.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: {PAWN_nameDef} has begun experiencing pounding headaches. {PAWN_pronoun} can't seem to think straight and is quickly losing {PAWN_possessive} cognitive function. Something has gone wrong in the duplication process.\n\nWith sufficient technology, like a healer mech serum, the condition can still be reversed. However, if not treated, it will soon become permanent. -->
-  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} ha cominciato ad avere forti mal di testa. {PAWN_pronoun} non riesce a pensare lucidamente e sta rapidamente perdendo le proprie capacità cognitive. Qualcosa è andato storto nel processo di duplicazione.\n\nCon una tecnologia sufficientemente avanzata, come un siero curativo a base di mecaniti, la condizione può ancora essere invertita. In caso contrario, diventerà permanente.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} ha cominciato ad avere forti mal di testa. {PAWN_pronoun} non riesce a pensare lucidamente e sta rapidamente perdendo le proprie capacità cognitive. Qualcosa è andato storto nel processo di duplicazione.\n\nCon una tecnologia sufficientemente avanzata, come un siero curativo a base di meccaniti, la condizione può ancora essere invertita. In caso contrario, diventerà permanente.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>
   <!-- EN: Crumbling mind: {PAWN_nameDef} -->
   <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>Mente in declino: {PAWN_nameDef}</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>
   <!-- EN: diagnosed -->
@@ -129,7 +129,7 @@
   <!-- EN: This person is upset that their cube sculptures have been destroyed. Continuing to destroy their sculptures may cause them to become violent. -->
   <CubeRage.description>Questa persona è turbata per la distruzione delle sue sculture del cubo. Se ne verranno distrutte altre, potrebbe diventare violenta.</CubeRage.description>
   <!-- EN: {PAWN_nameDef} can no longer control {PAWN_possessive} anger. Too many of {PAWN_possessive} precious cube sculptures have been destroyed.\n\n{PAWN_nameDef} has flown into a berserk rage! -->
-  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{PAWN_nameDef} non riesce più a controllare la propria rabbia. Troppe delle sue preziose sculture del cubo sono state distrutte.\n\n{PAWN_nameDef} è entrato in una furia incontrollabile!</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{PAWN_nameDef} non riesce più a controllare la propria rabbia. Troppe delle sue preziose sculture del cubo sono state distrutte.\n\n{PAWN_nameDef} è entrat{PAWN_gender ? o : a : o/a} in una furia incontrollabile!</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
   <!-- EN: Cube rage: {PAWN_nameDef} -->
   <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>Ira del cubo: {PAWN_nameDef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
   
@@ -140,9 +140,9 @@
   <!-- EN: inital -->
   <CubeWithdrawal.stages.inital.label>iniziale</CubeWithdrawal.stages.inital.label>
   <!-- EN: moderate -->
-  <CubeWithdrawal.stages.moderate.label>moderato</CubeWithdrawal.stages.moderate.label>
+  <CubeWithdrawal.stages.moderate.label>moderata</CubeWithdrawal.stages.moderate.label>
   <!-- EN: extreme -->
-  <CubeWithdrawal.stages.extreme.label>estremo</CubeWithdrawal.stages.extreme.label>
+  <CubeWithdrawal.stages.extreme.label>estrema</CubeWithdrawal.stages.extreme.label>
   
   <!-- EN: darkness exposure -->
   <DarknessExposure.label>esposizione all’oscurità</DarknessExposure.label>
