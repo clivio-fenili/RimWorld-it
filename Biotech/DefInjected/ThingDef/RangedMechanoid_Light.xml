@@ -5,10 +5,10 @@
   <Bullet_MiniShotgun.label>colpo di fucile</Bullet_MiniShotgun.label>
   
   <!-- EN: slug -->
-  <Bullet_Slugthrower.label>lumaca</Bullet_Slugthrower.label>
+  <Bullet_Slugthrower.label>pallottola</Bullet_Slugthrower.label>
   
   <!-- EN: spine -->
-  <Bullet_Spiner.label>colonna vertebrale</Bullet_Spiner.label>
+  <Bullet_Spiner.label>spina</Bullet_Spiner.label>
   
   <!-- EN: mini-flameblaster -->
   <Gun_MiniFlameblaster.label>mini lanciafiamme</Gun_MiniFlameblaster.label>
@@ -20,16 +20,16 @@
   <Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>mini lanciafiamme</Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>
   
   <!-- EN: mini-shotgun -->
-  <Gun_MiniShotgun.label>mini fucile</Gun_MiniShotgun.label>
+  <Gun_MiniShotgun.label>mini fucile a pompa</Gun_MiniShotgun.label>
   <!-- EN: A compact, short-range shotgun designed to be mounted on a light combat mechanoid. -->
   <Gun_MiniShotgun.description>Un fucile compatto a corto raggio progettato per essere montato su un meccanoide da combattimento leggero.</Gun_MiniShotgun.description>
   <!-- EN: barrel -->
   <Gun_MiniShotgun.tools.barrel.label>botte</Gun_MiniShotgun.tools.barrel.label>
   <!-- EN: mini-shotgun -->
-  <Gun_MiniShotgun.verbs.Verb_Shoot.label>mini fucile</Gun_MiniShotgun.verbs.Verb_Shoot.label>
+  <Gun_MiniShotgun.verbs.Verb_Shoot.label>mini fucile a pompa</Gun_MiniShotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: slugthrower -->
-  <Gun_Slugthrower.label>lanciatore di lumache</Gun_Slugthrower.label>
+  <Gun_Slugthrower.label>lanciapallottole</Gun_Slugthrower.label>
   <!-- EN: A compact single-shot slug thrower designed to be mounted on a light combat mechanoid. -->
   <Gun_Slugthrower.description>Un compatto lanciatore di proiettili a colpo singolo progettato per essere montato su un meccanoide da combattimento leggero.</Gun_Slugthrower.description>
   <!-- EN: barrel -->
@@ -37,7 +37,7 @@
   <!-- EN: barrel -->
   <Gun_Slugthrower.tools.barrel-1.label>botte</Gun_Slugthrower.tools.barrel-1.label>
   <!-- EN: slugthrower -->
-  <Gun_Slugthrower.verbs.Verb_Shoot.label>lanciatore di lumache</Gun_Slugthrower.verbs.Verb_Shoot.label>
+  <Gun_Slugthrower.verbs.Verb_Shoot.label>lanciapallottole</Gun_Slugthrower.verbs.Verb_Shoot.label>
   
   <!-- EN: spiner -->
   <Gun_Spiner.label>spinatore</Gun_Spiner.label>

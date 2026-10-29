@@ -5,13 +5,13 @@
   <Bullet_ToxicNeedleGun.label>ago tossico</Bullet_ToxicNeedleGun.label>
   
   <!-- EN: beam graser -->
-  <Gun_BeamGraser.label>grasatore del fascio</Gun_BeamGraser.label>
+  <Gun_BeamGraser.label>graser a raggio</Gun_BeamGraser.label>
   <!-- EN: A gamma ray laser which fires a sweeping beam. The narrow, high-energy beam can pierce thick armor and ignite targets. -->
-  <Gun_BeamGraser.description>Un laser a raggi gamma ad alta energia che spara un raggio ampio che perfora l'armatura spessa e brucia i bersagli. A causa dei rischi per la salute, gli ingrassatori vengono solitamente utilizzati solo dai meccanoidi. Questo è stato creato per interfacciarsi direttamente con un portatore meccanoide e attingere dalla sua fonte di energia.</Gun_BeamGraser.description>
+  <Gun_BeamGraser.description>Un laser a raggi gamma che spara un raggio radente. Il raggio, stretto e ad alta energia, può perforare armature spesse e incendiare i bersagli.</Gun_BeamGraser.description>
   <!-- EN: barrel -->
   <Gun_BeamGraser.tools.barrel.label>botte</Gun_BeamGraser.tools.barrel.label>
   <!-- EN: beam graser -->
-  <Gun_BeamGraser.verbs.Verb_ShootBeam.label>grasatore del fascio</Gun_BeamGraser.verbs.Verb_ShootBeam.label>
+  <Gun_BeamGraser.verbs.Verb_ShootBeam.label>graser a raggio</Gun_BeamGraser.verbs.Verb_ShootBeam.label>
   
   <!-- EN: needle launcher -->
   <Gun_NeedleLauncher.label>lanciatore di aghi</Gun_NeedleLauncher.label>

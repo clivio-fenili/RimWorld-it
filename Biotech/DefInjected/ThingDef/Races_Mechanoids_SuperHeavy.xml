@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: charge blaster turret -->
-  <Gun_ChargeBlasterTurret.label>torretta carica blaster</Gun_ChargeBlasterTurret.label>
+  <Gun_ChargeBlasterTurret.label>blaster a carica da torretta</Gun_ChargeBlasterTurret.label>
   <!-- EN: A small charge blaster designed for use on a defense turret. -->
   <Gun_ChargeBlasterTurret.description>Un piccolo blaster a carica progettato per l'uso su una torretta di difesa.</Gun_ChargeBlasterTurret.description>
   <!-- EN: charge blaster turret -->
-  <Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>torretta carica blaster</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
+  <Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>blaster a carica da torretta</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: apocriton -->
   <Mech_Apocriton.label>apocritone</Mech_Apocriton.label>

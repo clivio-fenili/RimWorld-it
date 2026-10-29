@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: revered bloodfeeder -->
-  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>venerato mangiatore di sangue</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>bevitore di sangue venerato</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
   <!-- EN: Let them worship me. Feeding upon them places them below me, as animals are below humans. -->
-  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>Lascia che mi adorino. Nutrermi di loro li pone al di sotto di me, come gli animali sono al di sotto degli umani.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>Che mi adorino. Nutrermi di loro li pone al di sotto di me, come gli animali sono al di sotto degli umani.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
   
   <!-- EN: bloodfeeder self hatred -->
   <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>odio per se stessi del mangiatore di sangue</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>
@@ -14,15 +14,15 @@
   <!-- EN: no bloodfeeders -->
   <BloodfeederColonist_Revered.stages.no_bloodfeeders.label>nessun mangiatore di sangue</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
   <!-- EN: Without a bloodfeeder master, we are undirected and lost. We should make a bloodfeeder our leader. -->
-  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Senza un padrone mangiatore di sangue, la nostra colonia sembra incompleta e inutile. Dovremmo fare di un mangiatore di sangue il nostro leader.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Senza un maestro bevitore di sangue siamo senza guida e smarriti. Dovremmo fare di un bevitore di sangue il nostro capo.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
   <!-- EN: no bloodfeeder master -->
   <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>nessun maestro mangiatore di sangue</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
   <!-- EN: Without a bloodfeeder master, we lack proper direction. We should make a bloodfeeder our leader. -->
-  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Senza un padrone mangiatore di sangue, la nostra colonia sembra incompleta e inutile. Dovremmo fare di un mangiatore di sangue il nostro leader.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Senza un maestro bevitore di sangue ci manca una vera guida. Dovremmo fare di un bevitore di sangue il nostro capo.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
   <!-- EN: bloodfeeder master -->
   <BloodfeederColonist_Revered.stages.bloodfeeder_master.label>maestro mangiatore di sangue</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
   <!-- EN: The bloodfeeder's presence is a great honor. May they live forever. -->
-  <BloodfeederColonist_Revered.stages.bloodfeeder_master.description>La presenza del succhiasangue è un grande onore. Possano vivere per sempre.</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.description>La presenza del bevitore di sangue è un grande onore. Che possa vivere per sempre.</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
   
   <!-- EN: bloodfeeder among us -->
   <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>mangiatore di sangue tra noi</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>

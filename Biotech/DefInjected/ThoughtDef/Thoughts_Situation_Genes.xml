@@ -9,7 +9,7 @@
   <!-- EN: genetic pessimism -->
   <MoodOffsetUnhappy.stages.genetic_pessimism.label>pessimismo genetico</MoodOffsetUnhappy.stages.genetic_pessimism.label>
   <!-- EN: Natural penalty from 'unhappy' gene. -->
-  <MoodOffsetUnhappy.stages.genetic_pessimism.description>Pena naturale dovuta al gene 'infelice'.</MoodOffsetUnhappy.stages.genetic_pessimism.description>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.description>Penalità naturale dovuta al gene 'infelice'.</MoodOffsetUnhappy.stages.genetic_pessimism.description>
   
   <!-- EN: genetic joy -->
   <MoodOffsetVeryHappy.stages.genetic_joy.label>gioia genetica</MoodOffsetVeryHappy.stages.genetic_joy.label>
@@ -19,6 +19,6 @@
   <!-- EN: genetic depression -->
   <MoodOffsetVeryUnhappy.stages.genetic_depression.label>depressione genetica</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
   <!-- EN: Natural penalty from 'very unhappy' gene. -->
-  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>Pena naturale dovuta al gene "molto infelice".</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>Penalità naturale dovuta al gene "molto infelice".</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
   
 </LanguageData>
