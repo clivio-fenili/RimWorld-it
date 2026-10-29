@@ -11,7 +11,7 @@
   <!-- EN: ghoul infusion -->
   <GhoulInfusion.label>infusione ghoul</GhoulInfusion.label>
   <!-- EN: Infuse a living person with an archotech shard to create a terrifying creature known as a ghoul. Ghouls are ferocious melee fighters and are incapable of work. They eat raw meat to survive but never sleep. Hungry ghouls are dangerous.\n\nGhouls created by this operation will be a part of your colony. -->
-  <GhoulInfusion.description>Un frammento di archotech viene infuso in una persona viva per creare una creatura terrificante: una ghoul. Le ghoul sono combattenti corpo a corpo feroci, incapaci di lavorare, si nutrono di carne cruda e non dormono mai. Se affamate, diventano pericolose.\n\nLe ghoul create con questa operazione entreranno a far parte della tua colonia.</GhoulInfusion.description>
+  <GhoulInfusion.description>Un frammento di archotech viene infuso in una persona viva per creare una creatura terrificante: un ghoul. I ghoul sono combattenti corpo a corpo feroci, incapaci di lavorare, si nutrono di carne cruda e non dormono mai. Se affamati, diventano pericolosi.\n\nI ghoul creati con questa operazione entreranno a far parte della tua colonia.</GhoulInfusion.description>
   <!-- EN: Ghoulizing TargetA. -->
   <GhoulInfusion.jobString>Trasformazione di TargetA in ghoul.</GhoulInfusion.jobString>
   

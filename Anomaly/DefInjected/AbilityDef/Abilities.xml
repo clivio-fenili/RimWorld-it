@@ -16,7 +16,7 @@
   <!-- EN: corrosive spray -->
   <CorrosiveSpray.label>getto corrosivo</CorrosiveSpray.label>
   <!-- EN: Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity. -->
-  <CorrosiveSpray.description>Usa il cuore corrosivo per spruzzare acido a breve distanza. Il fluido, pompato dal cuore, passa attraverso un condotto chirurgicamente impiantato e viene espulso dalla bocca della ghoul ad alta velocità.</CorrosiveSpray.description>
+  <CorrosiveSpray.description>Usa il cuore corrosivo per spruzzare acido a breve distanza. Il fluido, pompato dal cuore, passa attraverso un condotto chirurgicamente impiantato e viene espulso dalla bocca del ghoul ad alta velocità.</CorrosiveSpray.description>
   
   <!-- EN: entity skip -->
   <EntitySkip.label>salto spettrale</EntitySkip.label>
@@ -31,7 +31,7 @@
   <!-- EN: ghoul frenzy -->
   <GhoulFrenzy.label>frenesia del ghoul</GhoulFrenzy.label>
   <!-- EN: Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time. -->
-  <GhoulFrenzy.description>Usa il cuore surrenale per saturare il flusso sanguigno con ormoni dello stress ed energia liquida, permettendo alla ghoul di muoversi e attaccare a velocità incredibili per un breve periodo.</GhoulFrenzy.description>
+  <GhoulFrenzy.description>Usa il cuore surrenale per saturare il flusso sanguigno con ormoni dello stress ed energia liquida, permettendo al ghoul di muoversi e attaccare a velocità incredibili per un breve periodo.</GhoulFrenzy.description>
   
   <!-- EN: heatspikes -->
   <Heatspikes.label>dardi ardenti</Heatspikes.label>

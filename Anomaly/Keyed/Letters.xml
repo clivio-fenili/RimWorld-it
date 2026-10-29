@@ -182,7 +182,7 @@
 
   <!-- Ghouls -->
   <!-- EN: Ghoul betrayal -->
-  <GhoulBetrayalLabel>Tradimento della ghoul</GhoulBetrayalLabel>
+  <GhoulBetrayalLabel>Tradimento del ghoul</GhoulBetrayalLabel>
   <!-- EN: {PAWN_nameDef} has been driven mad by {PAWN_possessive} ravenous hunger for raw meat! -->
   <GhoulBetrayalText>{PAWN_nameDef} è impazzito/a per la fame insaziabile di carne cruda!</GhoulBetrayalText>
   
@@ -242,9 +242,9 @@
   <!-- EN: Transport pod crash -->
   <GhoulPodCrashLabel>Caduta di capsula di trasporto</GhoulPodCrashLabel>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashText>Una capsula di trasporto contenente una ghoul ostile e affamata è atterrata nelle vicinanze.\n\nAttualmente la ghoul è in stato di shock, ma presto si riprenderà e attaccherà chiunque veda. Può essere catturata e tenuta su una piattaforma di contenimento per ulteriori studi.\n\nCatturala o uccidila prima che si risvegli.</GhoulPodCrashText>
+  <GhoulPodCrashText>Una capsula di trasporto contenente un ghoul ostile e affamato è atterrata nelle vicinanze.\n\nAttualmente il ghoul è in stato di shock, ma presto si riprenderà e attaccherà chiunque veda. Può essere catturato e tenuto su una piattaforma di contenimento per ulteriori studi.\n\nCatturalo o uccidilo prima che si risvegli.</GhoulPodCrashText>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby. On closer inspection, it appears to be {PAWN_nameDef}, a previous member of your crew.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
-  <GhoulPodCrashStartingPawnText>Una capsula di trasporto contenente una ghoul ostile e affamata è atterrata nelle vicinanze. A un esame più attento, sembra essere {PAWN_nameDef}, {PAWN_gender ? un ex : un'ex : ex} membro del tuo equipaggio.\n\nAttualmente la ghoul è in stato di shock, ma presto si riprenderà e attaccherà chiunque veda. Può essere catturata e tenuta su una piattaforma di contenimento per ulteriori studi.\n\nCatturala o uccidila prima che si risvegli.</GhoulPodCrashStartingPawnText>
+  <GhoulPodCrashStartingPawnText>Una capsula di trasporto contenente un ghoul ostile e affamato è atterrata nelle vicinanze. A un esame più attento, sembra essere {PAWN_nameDef}, {PAWN_gender ? un ex : un'ex : ex} membro del tuo equipaggio.\n\nAttualmente il ghoul è in stato di shock, ma presto si riprenderà e attaccherà chiunque veda. Può essere catturato e tenuto su una piattaforma di contenimento per ulteriori studi.\n\nCatturalo o uccidilo prima che si risvegli.</GhoulPodCrashStartingPawnText>
 
   <!-- Entity codex -->
   <!-- EN: New research available -->

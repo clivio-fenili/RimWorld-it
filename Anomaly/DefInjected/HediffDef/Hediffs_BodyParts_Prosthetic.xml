@@ -4,12 +4,12 @@
   <!-- EN: adrenal heart -->
   <AdrenalHeart.label>cuore surrenale</AdrenalHeart.label>
   <!-- EN: A modified human heart that can release stress hormones and liquid energy into the bloodstream, allowing a ghoul to move and attack at incredible speeds. -->
-  <AdrenalHeart.description>Cuore umano modificato in grado di rilasciare ormoni dello stress ed energia liquida nel sangue, permettendo a una ghoul di muoversi e attaccare a velocità incredibili.</AdrenalHeart.description>
+  <AdrenalHeart.description>Cuore umano modificato in grado di rilasciare ormoni dello stress ed energia liquida nel sangue, permettendo a un ghoul di muoversi e attaccare a velocità incredibili.</AdrenalHeart.description>
   
   <!-- EN: corrosive heart -->
   <CorrosiveHeart.label>cuore corrosivo</CorrosiveHeart.label>
   <!-- EN: A modified human heart that allows a ghoul to spray corrosive fluid. -->
-  <CorrosiveHeart.description>Cuore umano modificato che consente a una ghoul di spruzzare un fluido corrosivo.</CorrosiveHeart.description>
+  <CorrosiveHeart.description>Cuore umano modificato che consente a un ghoul di spruzzare un fluido corrosivo.</CorrosiveHeart.description>
   
   <!-- EN: fleshmass lung -->
   <FleshmassLung.label>polmone di massa di carne</FleshmassLung.label>
@@ -49,7 +49,7 @@
   <!-- EN: ghoul barbs -->
   <GhoulBarbs.label>spine di ghoul</GhoulBarbs.label>
   <!-- EN: A number of barbed bioferrite spikes have been surgically attached to this ghoul. -->
-  <GhoulBarbs.description>Diverse punte barbelate di bioferrite sono state chirurgicamente impiantate su questa ghoul.</GhoulBarbs.description>
+  <GhoulBarbs.description>Diverse punte barbelate di bioferrite sono state chirurgicamente impiantate su questo ghoul.</GhoulBarbs.description>
   <!-- EN: Ghoul spikes -->
   <GhoulBarbs.renderNodeProperties.0.debugLabel>Spine di ghoul</GhoulBarbs.renderNodeProperties.0.debugLabel>
   <!-- EN: Ghoul spikes -->
@@ -58,14 +58,14 @@
   <!-- EN: ghoul plating -->
   <GhoulPlating.label>placcatura di ghoul</GhoulPlating.label>
   <!-- EN: A number of large bioferrite plates have been surgically attached to this ghoul. -->
-  <GhoulPlating.description>Diverse grandi placche di bioferrite sono state chirurgicamente impiantate su questa ghoul.</GhoulPlating.description>
+  <GhoulPlating.description>Diverse grandi placche di bioferrite sono state chirurgicamente impiantate su questo ghoul.</GhoulPlating.description>
   <!-- EN: Ghoul plates -->
   <GhoulPlating.renderNodeProperties.0.debugLabel>Placche di ghoul</GhoulPlating.renderNodeProperties.0.debugLabel>
   
   <!-- EN: metalblood heart -->
   <MetalbloodHeart.label>cuore di ferrosangue</MetalbloodHeart.label>
   <!-- EN: A modified human heart that can pump metalblood into the bloodstream, making the ghoul more resistant to damage for a short period of time. Metalblood also makes the ghoul more vulnerable to fire. -->
-  <MetalbloodHeart.description>Cuore umano modificato per pompare ferrosangue nel flusso sanguigno, rendendo la ghoul temporaneamente più resistente ai danni. Il ferrosangue la rende anche più vulnerabile al fuoco.</MetalbloodHeart.description>
+  <MetalbloodHeart.description>Cuore umano modificato per pompare ferrosangue nel flusso sanguigno, rendendo il ghoul temporaneamente più resistente ai danni. Il ferrosangue lo rende anche più vulnerabile al fuoco.</MetalbloodHeart.description>
   
   <!-- EN: revenant vertebrae -->
   <RevenantVertebrae.label>vertebre di revenant</RevenantVertebrae.label>

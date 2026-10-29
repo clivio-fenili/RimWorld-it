@@ -35,7 +35,7 @@
   <!-- EN: Ghoul attacking -->
   <GhoulAttack.letterLabel>attacco di ghoul</GhoulAttack.letterLabel>
   <!-- EN: A vicious humanoid ghoul is attacking!\n\nIt is intent on inhuman savagery and it cannot feel pain. Prepare to defend. -->
-  <GhoulAttack.letterText>Una ghoul umanoide sta attaccando!\n\nAnimata da una ferocia disumana, non prova dolore. Preparatevi a difendervi.</GhoulAttack.letterText>
+  <GhoulAttack.letterText>Un ghoul umanoide sta attaccando!\n\nAnimato da una ferocia disumana, non prova dolore. Preparatevi a difendervi.</GhoulAttack.letterText>
   
   <!-- EN: gorehulk assault -->
   <GorehulkAssault.label>assalto di bruti sanguinari</GorehulkAssault.label>
