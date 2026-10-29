@@ -29,12 +29,12 @@
   <!-- EN: immunity drive -->
   <ImmunityDrive.label>spinta immunitaria</ImmunityDrive.label>
   <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
-  <ImmunityDrive.description>Questa persona ha ricevuto un sostegno morale di natura ideologica. La loro certezza mentale ha dato energia al loro corpo e rafforzato il loro sistema immunitario.</ImmunityDrive.description>
+  <ImmunityDrive.description>Questa persona ha ricevuto un sostegno morale di natura ideologica. La sua certezza ha dato energia al corpo e rafforzato il sistema immunitario.</ImmunityDrive.description>
   
   <!-- EN: marksman command -->
   <MarksmanCommand.label>comando del tiratore scelto</MarksmanCommand.label>
   <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
-  <MarksmanCommand.description>Questa persona sta usando un'abilità speciale per richiamare i colpi. Tutti coloro che si trovano nel raggio d'azione ottengono bonus di tiro.</MarksmanCommand.description>
+  <MarksmanCommand.description>Questa persona sta usando un'abilità speciale per dare indicazioni di tiro. Tutti coloro che si trovano nel raggio d'azione ottengono bonus di tiro.</MarksmanCommand.description>
   
   <!-- EN: marksman command -->
   <MarksmanCommandBuff.label>comando del tiratore scelto</MarksmanCommandBuff.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Biosculpting sickness -->
-  <BiosculptingSickness.label>La malattia della bioscultura</BiosculptingSickness.label>
+  <BiosculptingSickness.label>malattia da bioscultura</BiosculptingSickness.label>
   <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
   <BiosculptingSickness.description>I postumi di un ciclo di bioscultura incompleto. Provoca nausea, vertigini e pensieri confusi.</BiosculptingSickness.description>
   
@@ -24,6 +24,6 @@
   <!-- EN: work focus -->
   <WorkFocus.label>concentrazione sul lavoro</WorkFocus.label>
   <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
-  <WorkFocus.description>Questa persona ha ricevuto energia da un rituale o da un evento a cui ha partecipato. L’energia significa che ora possono lavorare di più.</WorkFocus.description>
+  <WorkFocus.description>Questa persona ha ricevuto energia da un rituale o da un evento a cui ha partecipato. Grazie a questa energia ora può lavorare di più.</WorkFocus.description>
   
 </LanguageData>

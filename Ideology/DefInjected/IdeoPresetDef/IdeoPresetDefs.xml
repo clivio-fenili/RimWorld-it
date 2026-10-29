@@ -9,7 +9,7 @@
   <!-- EN: cannibals -->
   <Cannibals.label>cannibali</Cannibals.label>
   <!-- EN: The flesh of man and woman is the highest form of sustenance. Also, it's just delicious.\n\nWill have gladiator duels, prisoner sacrifices, and human meat feasts. -->
-  <Cannibals.description>La carne dell'uomo e della donna è la più alta forma di sostentamento. Inoltre, è semplicemente delizioso.\n\nAvrà duelli tra gladiatori, sacrifici di prigionieri e banchetti a base di carne umana.</Cannibals.description>
+  <Cannibals.description>La carne dell'uomo e della donna è la più alta forma di sostentamento. Inoltre, è semplicemente deliziosa.\n\nCi saranno duelli tra gladiatori, sacrifici di prigionieri e banchetti a base di carne umana.</Cannibals.description>
   
   <!-- EN: classic-like -->
   <ClassicLike.label>di tipo classico</ClassicLike.label>
@@ -24,17 +24,17 @@
   <!-- EN: criminal gang -->
   <Criminal_Gang.label>banda criminale</Criminal_Gang.label>
   <!-- EN: Following someone else's ideas and working all day are for weaklings. This group thrives on raiding others and contact with diverse ideas.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
-  <Criminal_Gang.description>Seguire le idee di qualcun altro e lavorare tutto il giorno è da deboli. Questo gruppo prospera nelle razzie degli altri e nel contatto con idee diverse.\n\nSblocca ruoli di specialisti nel corpo a corpo e nel tiro. Avrà duelli tra gladiatori.</Criminal_Gang.description>
+  <Criminal_Gang.description>Seguire le idee di qualcun altro e lavorare tutto il giorno è da deboli. Questo gruppo prospera nelle razzie degli altri e nel contatto con idee diverse.\n\nSblocca ruoli di specialisti nel corpo a corpo e nel tiro. Ci saranno duelli tra gladiatori.</Criminal_Gang.description>
   
   <!-- EN: domination gang -->
   <Domination_Gang.label>banda di dominazione</Domination_Gang.label>
   <!-- EN: Our beliefs are law and truth. We will try to convince them. Anyone who resists our teaching is a vile subhuman who must be crushed.\n\n Unlocks melee and shooting specialist roles. Will have gladiator duels. -->
-  <Domination_Gang.description>Le nostre convinzioni sono legge e verità. Cercheremo di convincerli. Chiunque resista al nostro insegnamento è un vile subumano che deve essere schiacciato.\n\n Sblocca ruoli specialistici nel corpo a corpo e nel tiro. Avrà duelli tra gladiatori.</Domination_Gang.description>
+  <Domination_Gang.description>Le nostre convinzioni sono legge e verità. Cercheremo di convincerli. Chiunque resista al nostro insegnamento è un vile subumano che deve essere schiacciato.\n\n Sblocca ruoli specialistici nel corpo a corpo e nel tiro. Ci saranno duelli tra gladiatori.</Domination_Gang.description>
   
   <!-- EN: feminine ravagers -->
   <Feminine_Ravagers.label>devastatrici femminili</Feminine_Ravagers.label>
   <!-- EN: Women should assert their natural power by reigning over men and pillaging weaker peoples.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
-  <Feminine_Ravagers.description>Le donne dovrebbero affermare il loro potere naturale regnando sugli uomini e saccheggiando le popolazioni più deboli.\n\nSblocca ruoli specialistici nel corpo a corpo e nel tiro. Avrà duelli tra gladiatori.</Feminine_Ravagers.description>
+  <Feminine_Ravagers.description>Le donne dovrebbero affermare il loro potere naturale regnando sugli uomini e saccheggiando le popolazioni più deboli.\n\nSblocca ruoli specialistici nel corpo a corpo e nel tiro. Ci saranno duelli tra gladiatori.</Feminine_Ravagers.description>
   
   <!-- EN: feral people -->
   <Feral_People.label>gente selvaggia</Feral_People.label>
@@ -49,7 +49,7 @@
   <!-- EN: high collectivists -->
   <High_Collectivists.label>collettivisti sballati</High_Collectivists.label>
   <!-- EN: Everyone must work hard and contribute to the community, so they can party in a smokeleaf circle together.\n\nUnlocks the plants specialist role. -->
-  <High_Collectivists.description>Tutti devono lavorare sodo e contribuire alla comunità, così possono festeggiare insieme in un cerchio di foglie di fumo.\n\nSblocca il ruolo di specialista delle piante.</High_Collectivists.description>
+  <High_Collectivists.description>Tutti devono lavorare sodo e contribuire alla comunità, così possono festeggiare insieme in un cerchio di smokeleaf.\n\nSblocca il ruolo di specialista delle piante.</High_Collectivists.description>
   
   <!-- EN: human purists -->
   <Human_Purists.label>puristi umani</Human_Purists.label>

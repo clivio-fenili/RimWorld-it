@@ -38,7 +38,7 @@
   <!-- EN: tribesman -->
   <NudistTribe.pawnSingular>membro della tribù</NudistTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <NudistTribe.pawnsPlural>tribù</NudistTribe.pawnsPlural>
+  <NudistTribe.pawnsPlural>membri della tribù</NudistTribe.pawnsPlural>
   
   <!-- EN: pilgrims -->
   <Pilgrims.label>pellegrini</Pilgrims.label>
@@ -64,6 +64,6 @@
   <!-- EN: tribesman -->
   <TribeCannibal.pawnSingular>membro della tribù</TribeCannibal.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCannibal.pawnsPlural>tribù</TribeCannibal.pawnsPlural>
+  <TribeCannibal.pawnsPlural>membri della tribù</TribeCannibal.pawnsPlural>
   
 </LanguageData>

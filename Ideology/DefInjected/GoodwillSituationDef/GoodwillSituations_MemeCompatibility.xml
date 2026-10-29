@@ -14,13 +14,13 @@
   <Cannibal_PainIsVirtue.label>cannibale vs dolore è virtù</Cannibal_PainIsVirtue.label>
   
   <!-- EN: collectivist agreement -->
-  <Collectivist_Collectivist.label>contratto collettivista</Collectivist_Collectivist.label>
+  <Collectivist_Collectivist.label>accordo collettivista</Collectivist_Collectivist.label>
   
   <!-- EN: collectivist vs individualist -->
   <Collectivist_Individualist.label>collettivista vs individualista</Collectivist_Individualist.label>
   
   <!-- EN: female supremacy agreement -->
-  <FemaleSupremacy_FemaleSupremacy.label>patto di supremazia femminile</FemaleSupremacy_FemaleSupremacy.label>
+  <FemaleSupremacy_FemaleSupremacy.label>accordo sulla supremazia femminile</FemaleSupremacy_FemaleSupremacy.label>
   
   <!-- EN: female supremacy vs individualist -->
   <FemaleSupremacy_Individualist.label>supremazia femminile vs individualismo</FemaleSupremacy_Individualist.label>
@@ -38,16 +38,16 @@
   <Guilty_All.label>colpevole</Guilty_All.label>
   
   <!-- EN: high life vs flesh purity -->
-  <HighLife_FleshPurity.label>vita alta contro purezza della carne</HighLife_FleshPurity.label>
+  <HighLife_FleshPurity.label>vita sballata vs purezza della carne</HighLife_FleshPurity.label>
   
   <!-- EN: high life agreement -->
-  <HighLife_HighLife.label>contratto di vita elevato</HighLife_HighLife.label>
+  <HighLife_HighLife.label>accordo sulla vita sballata</HighLife_HighLife.label>
   
   <!-- EN: human primacy vs animal personhood -->
   <HumanPrimacy_AnimalPersonhood.label>primato umano vs personalità animale</HumanPrimacy_AnimalPersonhood.label>
   
   <!-- EN: human primacy vs flesh purity -->
-  <HumanPrimacy_FleshPurity.label>primato umano contro purezza della carne</HumanPrimacy_FleshPurity.label>
+  <HumanPrimacy_FleshPurity.label>primato umano vs purezza della carne</HumanPrimacy_FleshPurity.label>
   
   <!-- EN: human primacy agreement -->
   <HumanPrimacy_HumanPrimacy.label>accordo sul primato umano</HumanPrimacy_HumanPrimacy.label>
@@ -71,13 +71,13 @@
   <MaleSupremacy_Individualist.label>supremazia maschile vs individualismo</MaleSupremacy_Individualist.label>
   
   <!-- EN: male supremacy agreement -->
-  <MaleSupremacy_MaleSupremacy.label>patto di supremazia maschile</MaleSupremacy_MaleSupremacy.label>
+  <MaleSupremacy_MaleSupremacy.label>accordo sulla supremazia maschile</MaleSupremacy_MaleSupremacy.label>
   
   <!-- EN: nature primacy vs animal personhood -->
-  <NaturePrimacy_AnimalPersonhood.label>primato della natura rispetto alla personalità animale</NaturePrimacy_AnimalPersonhood.label>
+  <NaturePrimacy_AnimalPersonhood.label>primato della natura vs personalità animale</NaturePrimacy_AnimalPersonhood.label>
   
   <!-- EN: nature primacy vs human primacy -->
-  <NaturePrimacy_HumanPrimacy.label>primato della natura contro primato dell’uomo</NaturePrimacy_HumanPrimacy.label>
+  <NaturePrimacy_HumanPrimacy.label>primato della natura vs primato umano</NaturePrimacy_HumanPrimacy.label>
   
   <!-- EN: nature primacy agreement -->
   <NaturePrimacy_NaturePrimacy.label>accordo sul primato della natura</NaturePrimacy_NaturePrimacy.label>
@@ -89,7 +89,7 @@
   <Nudism_Nudism.label>accordo sul nudismo</Nudism_Nudism.label>
   
   <!-- EN: pain is virtue agreement -->
-  <PainIsVirtue_PainIsVirtue.label>il dolore è virtù accordo</PainIsVirtue_PainIsVirtue.label>
+  <PainIsVirtue_PainIsVirtue.label>accordo sul dolore come virtù</PainIsVirtue_PainIsVirtue.label>
   
   <!-- EN: raider -->
   <Raider_All.label>predone</Raider_All.label>
@@ -98,7 +98,7 @@
   <Rancher_AnimalPersonhood.label>allevatore vs personalità animale</Rancher_AnimalPersonhood.label>
   
   <!-- EN: rancher vs nature primacy -->
-  <Rancher_NaturePrimacy.label>allevatore contro il primato della natura</Rancher_NaturePrimacy.label>
+  <Rancher_NaturePrimacy.label>allevatore vs primato della natura</Rancher_NaturePrimacy.label>
   
   <!-- EN: both follow {0_name} -->
   <SameIdeo.label>entrambi seguono {0_name}</SameIdeo.label>
