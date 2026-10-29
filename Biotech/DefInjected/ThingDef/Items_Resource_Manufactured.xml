@@ -97,6 +97,6 @@
   <!-- EN: toxic wastepack -->
   <Wastepack.label>contenitore di rifiuti tossici</Wastepack.label>
   <!-- EN: A compacted package of toxic waste that will slowly dissolve if not frozen. The surface is heat-sealed for safe transport. Wastepacks will pollute the surrounding terrain if they dissolve, deteriorate, or are otherwise destroyed.\n\nToxic wastepacks are flammable. If burned or damaged, they will release tox gas. -->
-  <Wastepack.description>Un pacchetto compatto di rifiuti tossici che si dissolverà lentamente se non congelato. La superficie è termosaldata per un trasporto sicuro. I pacchi di rifiuti inquineranno il terreno circostante se si dissolvono, si deteriorano o vengono distrutti in altro modo.\n\nI pacchi di rifiuti tossici sono infiammabili. Se bruciati o danneggiati, rilasceranno gas tossico.</Wastepack.description>
+  <Wastepack.description>Un contenitore compatto di rifiuti tossici che si dissolverà lentamente se non congelato. La superficie è termosaldata per un trasporto sicuro. I contenitori di rifiuti inquineranno il terreno circostante se si dissolvono, si deteriorano o vengono distrutti in altro modo.\n\nI pacchi di rifiuti tossici sono infiammabili. Se bruciati o danneggiati, rilasceranno gas tossico.</Wastepack.description>
   
 </LanguageData>

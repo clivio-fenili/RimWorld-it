@@ -80,7 +80,7 @@
   <!-- EN: Immune to -->
   <ImmuneTo>Immune a</ImmuneTo>
   <!-- EN: Social fight chance factor -->
-  <SocialFightChanceFactor>Fattore di probabilità di lotta sociale</SocialFightChanceFactor>
+  <SocialFightChanceFactor>Fattore di probabilità di colluttazione</SocialFightChanceFactor>
   <!-- EN: Chance mental break is violent -->
   <AggroMentalBreakSelectionChanceFactor>Probabilità che un crollo mentale sia violento</AggroMentalBreakSelectionChanceFactor>
   <!-- EN: Prison break interval factor -->
@@ -102,7 +102,7 @@
   <!-- EN: Immune to food poisoning. -->
   <FoodPoisoningImmune>Immune all'intossicazione alimentare.</FoodPoisoningImmune>
   <!-- EN: Will never do social fights. -->
-  <WillNeverSocialFight>Non parteciperà mai a liti sociali.</WillNeverSocialFight>
+  <WillNeverSocialFight>Non parteciperà mai a colluttazioni.</WillNeverSocialFight>
   <!-- EN: Aging factors -->
   <AgeFactors>Fattori di invecchiamento</AgeFactors>
   <!-- EN: Work speed is unaffected by darkness. -->

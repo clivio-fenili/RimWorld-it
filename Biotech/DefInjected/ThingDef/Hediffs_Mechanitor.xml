@@ -18,7 +18,7 @@
   <!-- EN: mech gestation processor -->
   <MechFormfeeder.label>processore di gestazione mech</MechFormfeeder.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
-  <MechFormfeeder.description>Un impianto che aumenta la velocità con cui un meccanista può produrre mech in un mech gestator. Il processore ottimizza il comportamento dei meccaniti nel serbatoio di formazione del mech.\n\nQuesto impianto può essere autoinstallato allo stesso modo del mechlink.\n\nQuesto impianto può essere installato fino a 6 volte per aumentarne l'effetto.</MechFormfeeder.description>
+  <MechFormfeeder.description>Un impianto che aumenta la velocità con cui un meccanista può produrre mech in un incubatore di mech. Il processore ottimizza il comportamento dei meccaniti nel serbatoio di formazione del mech.\n\nQuesto impianto può essere autoinstallato allo stesso modo del mechlink.\n\nQuesto impianto può essere installato fino a 6 volte per aumentarne l'effetto.</MechFormfeeder.description>
   <!-- EN: Implant {0_label} -->
   <MechFormfeeder.comps.CompUsableImplant.useLabel>Impianta {0_label}</MechFormfeeder.comps.CompUsableImplant.useLabel>
   

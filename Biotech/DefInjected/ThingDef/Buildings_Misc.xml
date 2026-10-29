@@ -55,12 +55,12 @@
   <!-- EN: pollution pump -->
   <PollutionPump.label>pompa antinquinamento</PollutionPump.label>
   <!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
-  <PollutionPump.description>Una pompa per il filtraggio delle falde acquifere che pulisce lentamente i terreni inquinati. L'inquinamento estratto si trasforma in pacchi di rifiuti tossici che devono essere trasportati via.</PollutionPump.description>
+  <PollutionPump.description>Una pompa per il filtraggio delle falde acquifere che pulisce lentamente i terreni inquinati. L'inquinamento estratto si trasforma in contenitori di rifiuti tossici che devono essere trasportati via.</PollutionPump.description>
   
   <!-- EN: blood torch -->
   <SanguphageMeetingTorch.label>torcia di sangue</SanguphageMeetingTorch.label>
   <!-- EN: A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat. -->
-  <SanguphageMeetingTorch.description>Torcia in legno appositamente trattato che produce una luce rossa su un'ampia area. I sanguofagi si riuniscono attorno a torce come queste durante i loro incontri cerimoniali. Lo splendore sanguigno è particolarmente gradito agli individui con il gene del mangiatore di sangue. Può essere rifornito automaticamente di legna e produce una piccola quantità di calore.</SanguphageMeetingTorch.description>
+  <SanguphageMeetingTorch.description>Torcia in legno appositamente trattato che produce una luce rossa su un'ampia area. I sanguofagi si riuniscono attorno a torce come queste durante i loro incontri cerimoniali. Lo splendore sanguigno è particolarmente gradito agli individui con il gene del bevitore di sangue. Può essere rifornito automaticamente di legna e produce una piccola quantità di calore.</SanguphageMeetingTorch.description>
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>navetta precipitata</ShuttleCrashed_Exitable.label>

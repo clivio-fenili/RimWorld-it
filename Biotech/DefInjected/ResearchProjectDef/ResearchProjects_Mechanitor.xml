@@ -25,7 +25,7 @@
   <!-- EN: high mechtech -->
   <HighMechtech.label>mechtech avanzata</HighMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
-  <HighMechtech.description>La tecnologia necessaria al tuo meccanista per creare e controllare meccanoidi di alto livello.\n\nPuoi ottenere chip powerfocus usando un meccanista per evocare una minaccia regina della guerra.</HighMechtech.description>
+  <HighMechtech.description>La tecnologia necessaria al tuo meccanista per creare e controllare meccanoidi di alto livello.\n\nPuoi ottenere chip di concentrazione energetica usando un meccanista per evocare una minaccia regina di guerra.</HighMechtech.description>
   <!-- EN:
     <li>subject->high tier mechanoids</li>
     <li>subject_story->survived a War Queen assault on an Imperial world</li>
@@ -37,7 +37,7 @@
   <HighMechtech.generalRules.rulesStrings>
     <li>subject->meccanoidi di alto livello</li>
     <li>subject_story->ha resistito all'assalto di una regina di guerra su un mondo imperiale</li>
-    <li>subject_story->ha comprato un chip powerfocus da un mercante che non ne conosceva il valore</li>
+    <li>subject_story->ha comprato un chip di concentrazione energetica da un mercante che non ne conosceva il valore</li>
     <li>subject_story->ha interrogato meccanisti catturati in raid planetari</li>
     <li>subject_story->ha costruito micro-organi meccanoidi prototipali per un cliente di un altro mondo</li>
     <li>subject_gerund->creare meccanoidi di alto livello</li>

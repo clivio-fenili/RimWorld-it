@@ -144,9 +144,9 @@
   <AcceptXenogerm>Accetta xenogerme {0_xenotype}</AcceptXenogerm>
 
   <!-- EN: Carry {PAWN_labelShort} to recharger -->
-  <CarryToRechargerOrdered>Porta {PAWN_labelShort} al ricaricatore</CarryToRechargerOrdered>
+  <CarryToRechargerOrdered>Porta {PAWN_labelShort} al caricatore</CarryToRechargerOrdered>
   <!-- EN: Cannot carry {PAWN_labelShort} to recharger -->
-  <CannotCarryToRecharger>Impossibile trasportare {PAWN_labelShort} al ricaricatore</CannotCarryToRecharger>
+  <CannotCarryToRecharger>Impossibile trasportare {PAWN_labelShort} al caricatore</CannotCarryToRecharger>
   <!-- EN: No available recharger -->
   <CannotCarryToRechargerNoneAvailable>Ricaricatore non disponibile</CannotCarryToRechargerNoneAvailable>
 

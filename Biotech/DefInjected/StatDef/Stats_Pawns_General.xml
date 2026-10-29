@@ -61,7 +61,7 @@
   <!-- EN: mech gestation speed -->
   <MechFormingSpeed.label>velocità di gestazione mech</MechFormingSpeed.label>
   <!-- EN: A multiplier on the speed at which this mechanitor can form new mechanoids at a gestator. -->
-  <MechFormingSpeed.description>Un moltiplicatore della velocità con cui un meccanista può formare nuovi meccanoidi in un gestatore.</MechFormingSpeed.description>
+  <MechFormingSpeed.description>Un moltiplicatore della velocità con cui un meccanista può formare nuovi meccanoidi in un incubatore di mech.</MechFormingSpeed.description>
   
   <!-- EN: mech remote repair distance -->
   <MechRemoteRepairDistance.label>distanza riparazione remota mech</MechRemoteRepairDistance.label>
