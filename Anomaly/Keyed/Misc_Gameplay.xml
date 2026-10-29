@@ -11,9 +11,9 @@
   <!-- EN: Shuffling listlessly. -->
   <ShamblerShuffling>Trascina i piedi svogliatamente.</ShamblerShuffling>
   <!-- EN: Be careful, the group contains a shambler gorehulk. -->
-  <LetterText_ShamblerGorehulk>Attenzione, il gruppo contiene un abominio.</LetterText_ShamblerGorehulk>
+  <LetterText_ShamblerGorehulk>Attenzione, il gruppo contiene un bruto sanguinario.</LetterText_ShamblerGorehulk>
   <!-- EN: Be careful, the group contains several shambler gorehulks. -->
-  <LetterText_ShamblerGorehulkPlural>Attenzione, il gruppo contiene diversi abomini.</LetterText_ShamblerGorehulkPlural>
+  <LetterText_ShamblerGorehulkPlural>Attenzione, il gruppo contiene diversi bruti sanguinari.</LetterText_ShamblerGorehulkPlural>
   <!-- EN: Be careful, the group contains a shambler chimera. -->
   <LetterText_ShamblerChimera>Attenzione, il gruppo contiene una chimera zombi.</LetterText_ShamblerChimera>
   <!-- EN: Be careful, the group contains several shambler chimeras. -->

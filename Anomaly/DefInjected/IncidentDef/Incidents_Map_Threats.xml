@@ -38,9 +38,9 @@
   <GhoulAttack.letterText>Una ghoul umanoide sta attaccando!\n\nAnimata da una ferocia disumana, non prova dolore. Preparatevi a difendervi.</GhoulAttack.letterText>
   
   <!-- EN: gorehulk assault -->
-  <GorehulkAssault.label>assalto di abomini</GorehulkAssault.label>
+  <GorehulkAssault.label>assalto di bruti sanguinari</GorehulkAssault.label>
   <!-- EN: Gorehulk assault -->
-  <GorehulkAssault.letterLabel>assalto di abomini</GorehulkAssault.letterLabel>
+  <GorehulkAssault.letterLabel>assalto di bruti sanguinari</GorehulkAssault.letterLabel>
   <!-- EN: A group of monstrous, human-like abominations are attacking! Their bodies are ravaged by thick keratin spines which they can launch at a distance. However, their fleshy forms can do little damage at close range. -->
   <GorehulkAssault.letterText>Un gruppo di mostruose abominazioni umanoidi sta attaccando! I loro corpi sono ricoperti di spesse spine di cheratina che possono lanciare a distanza. Tuttavia, le loro masse carnose causano pochi danni a distanza ravvicinata.</GorehulkAssault.letterText>
   
