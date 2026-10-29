@@ -4,9 +4,9 @@
   <!-- EN: Dormant self-charging -->
   <SelfShutdown>Autoricarica dormiente</SelfShutdown>
   <!-- EN: Carry to recharger -->
-  <CarryToRecharger>Portare per ricaricare</CarryToRecharger>
+  <CarryToRecharger>Porta al caricatore</CarryToRecharger>
   <!-- EN: Must be carried to recharger. -->
-  <MustBeCarriedToRecharger>Deve essere trasportato per ricaricarsi.</MustBeCarriedToRecharger>
+  <MustBeCarriedToRecharger>Deve essere portato a un caricatore.</MustBeCarriedToRecharger>
   <!-- EN: Danger -->
   <Danger>Pericolo</Danger>
   <!-- EN: {0} damage -->
@@ -56,27 +56,27 @@
   <!-- EN: Control group -->
   <ControlGroup>Gruppo di controllo</ControlGroup>
   <!-- EN: Current mode -->
-  <CurrentMechWorkMode>modalità corrente</CurrentMechWorkMode>
+  <CurrentMechWorkMode>Modalità attuale</CurrentMechWorkMode>
   <!-- EN: Assigned mechs -->
   <AssignedMechs>Mech assegnati</AssignedMechs>
   <!-- EN: Tuned to -->
   <BandNodeTunedTo>Sintonizzato su</BandNodeTunedTo>
   <!-- EN: Tune to -->
-  <BandNodeTuneTo>Sintonizzati su</BandNodeTuneTo>
+  <BandNodeTuneTo>Sintonizza su</BandNodeTuneTo>
   <!-- EN: Tuning to -->
-  <BandNodeTuningTo>Sintonizzarsi su</BandNodeTuningTo>
+  <BandNodeTuningTo>Sintonizzazione su</BandNodeTuningTo>
   <!-- EN: Retune -->
-  <BandNodeRetuneTo>Risintonizzare</BandNodeRetuneTo>
+  <BandNodeRetuneTo>Risintonizza</BandNodeRetuneTo>
   <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-  <BandNodeTuningDesc>Sintonizza questo nodo della banda su un meccanista. Il completamento dell'ottimizzazione richiederà {0}.</BandNodeTuningDesc>
+  <BandNodeTuningDesc>Sintonizza questo nodo della banda su un meccanista. La sintonizzazione richiederà {0}.</BandNodeTuningDesc>
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
   <BandNodeRetuningDesc>Risintonizza questo nodo della banda su un altro meccanista. Il completamento della risintonizzazione richiederà {0}.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
   <DropThingBandwidthApparel>La rimozione di {0} modificherà la larghezza di banda di {1_labelShort} da {2} a {3}. Ciò significa che i seguenti mech non saranno più sotto controllo</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
-  <NoMechs>niente mech</NoMechs>
+  <NoMechs>nessun mech</NoMechs>
   <!-- EN: Group -->
-  <Group>gruppo</Group>
+  <Group>Gruppo</Group>
   <!-- EN: Groups -->
   <Groups>Gruppi</Groups>
   <!-- EN: Loading mech gestation resources -->
@@ -88,7 +88,7 @@
   <!-- EN: Initiating mech birth -->
   <InitMechBirth>Avvio della nascita del mech</InitMechBirth>
   <!-- EN: Mech energy -->
-  <MechEnergy>energia meccanica</MechEnergy>
+  <MechEnergy>Energia del mech</MechEnergy>
   <!-- EN: Energy -->
   <Energy>Energia</Energy>
   <!-- EN: energy -->
@@ -98,19 +98,19 @@
   <!-- EN: Mech gestation bandwidth -->
   <MechGestationBandwidthUsed>Larghezza di banda della gestazione del mech</MechGestationBandwidthUsed>
   <!-- EN: Cannot summon {0} threat -->
-  <CannotSummon>Impossibile evocare {0} minaccia</CannotSummon>
+  <CannotSummon>Impossibile evocare la minaccia {0}</CannotSummon>
   <!-- EN: {0} threat ready to summon -->
-  <ReadyToSummonThreat>{0} minaccia pronta per essere evocata</ReadyToSummonThreat>
+  <ReadyToSummonThreat>Minaccia {0} pronta per essere evocata</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
-  <Summon>Evoca {0} minaccia</Summon>
+  <Summon>Evoca la minaccia {0}</Summon>
   <!-- EN: Mechanoids disabled -->
   <MechsDisabled>Meccanoidi disabilitati</MechsDisabled>
   <!-- EN: No reachable {0} -->
-  <NoReachableBossgroupCaller>Irraggiungibile {0}</NoReachableBossgroupCaller>
+  <NoReachableBossgroupCaller>{0}: nessuno raggiungibile</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
-  <NoReservableBossgroupCaller>Non prenotabile {0}</NoReservableBossgroupCaller>
+  <NoReservableBossgroupCaller>{0}: nessuno prenotabile</NoReservableBossgroupCaller>
   <!-- EN: No powered {0} -->
-  <NoPoweredBossgroupCaller>Non alimentato {0}</NoPoweredBossgroupCaller>
+  <NoPoweredBossgroupCaller>{0}: nessuno alimentato</NoPoweredBossgroupCaller>
   <!-- EN: already used -->
   <AlreadyUsed>già usato</AlreadyUsed>
   <!-- EN: Gestating -->
