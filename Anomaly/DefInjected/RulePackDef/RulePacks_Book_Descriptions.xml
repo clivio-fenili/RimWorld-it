@@ -427,20 +427,20 @@
     <li>experiencesWithMonsters->[tellsAStoryMas] esperimenti brutali condotti su [entity] in cattività</li>
     <li>experiencesWithMonsters->[tellsAStoryFem] visioni ricorrenti in cui [vision]</li>
     <li>vision->oscure sagome sfiorano la sua mente e rubano i suoi ricordi</li>
-    <li>vision->[ANYPAWN_pronoun]la vittima è braccata da un suo doppio e non riesce a sfuggire ai suoi tormenti, ovunque vada</li>
-    <li>vision->[ANYPAWN_pronoun]la sfortunata vittima è fatta a pezzi da [entity]</li>
+    <li>vision->la vittima è braccata da un suo doppio e non riesce a sfuggire ai suoi tormenti, ovunque vada</li>
+    <li>vision->la sfortunata vittima è fatta a pezzi da [entity]</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] [findings] [objective]</li>
     <li>findings->esperimenti su</li>
     <li>findings->ricerche su</li>
     <li>objective->[maybeAdjectiveEvil]rituali messi in atto dopo un incidente che ha visto [ritual_incident]</li>
     <li>objective->scienze oscure dopo [entity_incident]</li>
-    <li>ritual_incident->[ANYPAWN_pronoun]far emergere [targetHuman] dal vuoto</li>
+    <li>ritual_incident->far emergere [targetHuman] dal vuoto</li>
     <li>targetHuman->[anAuthorDesc] una donna</li>
     <li>targetHuman->[anAuthorDesc] un uomo</li>
     <li>ritual_incident->un diluvio di sangue abbattersi per tre giorni, gettando i suoi amici nella follia</li>
     <li>ritual_incident->[entity_incident]</li>
-    <li>entity_incident->[ANYPAWN_pronoun]la perdita di [BodyPart] dopo l’attacco condotto da [entity]</li>
-    <li>entity_incident->[ANYPAWN_pronoun]il confronto con [entity]</li>
+    <li>entity_incident->la perdita di [BodyPart] dopo l’attacco condotto da [entity]</li>
+    <li>entity_incident->il confronto con [entity]</li>
     <li>specificHorrorStory->A un certo punto, l’autore evoca rituali oscuri in cui le vittime erano costrette a mutilarsi da sole con vetro rotto.</li>
     <li>specificHorrorStory->A un certo punto, la nostra protagonista assiste a un rituale in cui sagome insanguinate pronunciano strane invocazioni mentre si automutilano con schegge d’ossidiana.</li>
     <li>specificHorrorStory->Il libro include numerose illustrazioni dedicate a un “oceano nero”. Sembra trattarsi di una metafora che descrive un piano psichico sotto il dominio di un’intelligenza superiore tanto orribile quanto seducente.</li>
@@ -448,7 +448,7 @@
     <li>specificHorrorStory->Molte pagine sono dedicate alla descrizione di un’intelligenza sovrumana chiamata “Horax”. Questa entità risiederebbe in un piano adiacente alla realtà.</li>
     <li>specificHorrorStory->Un paragrafo evoca un’influenza spirituale oscura. Questa entità di un altro piano sarebbe in grado di influenzare la mente umana sincronizzandola con la propria gamma di emozioni.</li>
     <li>specificHorrorStory->Un passaggio descrive diverse intelligenze superiori di archeotecnologia, nonché la natura varia delle loro emanazioni psichiche ed emotive. Alcune di esse sono percepite come neutre, persino benefiche, mentre altre incarnano una rabbia cieca.</li>
-    <li>specificHorrorStory->[ANYPAWN_pronoun]L’autore afferma di avere la sensazione che la sua mente venga progressivamente riconfigurata sotto l’influenza psichica nefasta di un’intelligenza sovrumana.</li>
+    <li>specificHorrorStory->L’autore afferma di avere la sensazione che la sua mente venga progressivamente riconfigurata sotto l’influenza psichica nefasta di un’intelligenza sovrumana.</li>
     <li>specificHorrorStory->L’autore ammette persino di aver tentato il suicidio e di essersi salvato solo grazie all’intervento provvidenziale di qualche [PersonJob].</li>
     <li>specificHorrorStory->Il volume presenta immagini inquietanti. Vi si distingue un’entità grottesca e soprannaturale. I suoi tentacoli scuri e deformi, che serpeggiano di pagina in pagina, suscitano sia fascinazione che una vera angoscia.</li>
     <li>specificHorrorStory->Il concetto di dimensioni parallele ricorre per tutto il racconto. I protagonisti scoprono inoltre entità che esistono appena oltre il velo della percezione. Sembrano provenire da una realtà diversa, ma in contatto con la nostra, e restano sempre fuori dalla vista.</li>
