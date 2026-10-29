@@ -409,7 +409,7 @@
     <li>subject->induttori di frenesia archotech</li>
     <li>subject_story->ha lavorato come terapeuta motivazionale</li>
     <li>subject_story->ha suonato i tamburi su una galera di un mondo selvaggio</li>
-    <li>subject_story->ha studiato gli effetti di diversi archeocampi sulla coscienza umana</li>
+    <li>subject_story->ha studiato gli effetti di diversi archocampi sulla coscienza umana</li>
     <li>subject_story->ha gestito una stazione trance in un club sotterraneo di un mondo urbano</li>
     <li>subject_gerund->inducendo frenesia</li>
     <li>subject_gerund->costruendo induttori di frenesia archotech</li>
@@ -435,7 +435,7 @@
   </GhoulEnhancements.generalRules.rulesStrings>
   
   <!-- EN: ghoul infusion -->
-  <GhoulInfusion.label>infusione da ghoul</GhoulInfusion.label>
+  <GhoulInfusion.label>infusione ghoul</GhoulInfusion.label>
   <!-- EN: Perform a surgery that infuses a living person with an archotech shard, transforming them into a terrifying ghoul. Ghouls are strong melee combatants but are incapable of doing work. Ghouls will go mad if they are not fed enough raw meat. -->
   <GhoulInfusion.description>Esegui un intervento per infondere un frammento di archotech in una persona viva, trasformandola in un ghoul terrificante. I ghoul sono forti combattenti corpo a corpo, ma incapaci di lavorare e impazziscono se non ricevono abbastanza carne cruda.</GhoulInfusion.description>
   <!-- EN:
@@ -542,7 +542,7 @@
   </MetalbloodSerum.generalRules.rulesStrings>
   
   <!-- EN: mind-numb serum -->
-  <MindNumbSerum.label>siero intorpidente</MindNumbSerum.label>
+  <MindNumbSerum.label>siero desensibilizzante</MindNumbSerum.label>
   <!-- EN: Synthesize a serum that stabilizes a person's mood, preventing mental breaks. -->
   <MindNumbSerum.description>Sintetizza un siero che stabilizza l’umore dell’utilizzatore, prevenendo i crolli mentali.</MindNumbSerum.description>
   <!-- EN:
@@ -554,12 +554,12 @@
     <li>subject_gerund->synthesizing mind-numb serums</li>
   -->
   <MindNumbSerum.generalRules.rulesStrings>
-    <li>subject->siero intorpidente</li>
+    <li>subject->siero desensibilizzante</li>
     <li>subject_story->ha sabotato un'esibizione emotiva intorpidendo di nascosto il cantante principale</li>
-    <li>subject_story->ha introdotto a basse dosi siero intorpidente nella rete idrica di un manicomio</li>
-    <li>subject_story->ha distribuito siero intorpidente ai soldati più giovani prima e dopo la battaglia</li>
+    <li>subject_story->ha introdotto a basse dosi siero desensibilizzante nella rete idrica di un manicomio</li>
+    <li>subject_story->ha distribuito siero desensibilizzante ai soldati più giovani prima e dopo la battaglia</li>
     <li>subject_story->ha studiato l’uso dell’archotech per attenuare il dolore</li>
-    <li>subject_gerund->sintetizzando sieri intorpiditi</li>
+    <li>subject_gerund->sintetizzando sieri desensibilizzanti</li>
   </MindNumbSerum.generalRules.rulesStrings>
   
   <!-- EN: mutation weaponry -->
@@ -755,7 +755,7 @@
   </SerumSynthesis.generalRules.rulesStrings>
   
   <!-- EN: skip abduction -->
-  <SkipAbductionPlayer.label>teletrasporto forzato</SkipAbductionPlayer.label>
+  <SkipAbductionPlayer.label>rapimento tramite teletrasporto</SkipAbductionPlayer.label>
   <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
   <SkipAbductionPlayer.description>Compi un rituale psichico che teletrasporta una persona ostile casuale da qualsiasi parte del mondo, mettendola in coma per un breve periodo per facilitarne la cattura.</SkipAbductionPlayer.description>
   <!-- EN:
@@ -805,7 +805,7 @@
   </SleepSuppressor.generalRules.rulesStrings>
   
   <!-- EN: draw animals -->
-  <SummonAnimals.label>richiamo di mandrie</SummonAnimals.label>
+  <SummonAnimals.label>attrazione di animali</SummonAnimals.label>
   <!-- EN: Perform a psychic ritual which will draw a herd of animals. -->
   <SummonAnimals.description>Compi un rituale psichico che richiama un branco di animali.</SummonAnimals.description>
   <!-- EN:
@@ -826,7 +826,7 @@
   </SummonAnimals.generalRules.rulesStrings>
   
   <!-- EN: summon fleshbeasts -->
-  <SummonFleshbeastsPlayer.label>richiamo di abomini di carne</SummonFleshbeastsPlayer.label>
+  <SummonFleshbeastsPlayer.label>attrazione di abomini di carne</SummonFleshbeastsPlayer.label>
   <!-- EN: Perform a psychic ritual which provokes fleshbeasts to emerge from the ground near enemies, attacking anyone nearby. -->
   <SummonFleshbeastsPlayer.description>Compi un rituale psichico che spinge gli abomini di carne a emergere dal suolo vicino ai nemici, attaccando chiunque si trovi nei paraggi.</SummonFleshbeastsPlayer.description>
   <!-- EN:
@@ -874,7 +874,7 @@
   </SummonPitGate.generalRules.rulesStrings>
   
   <!-- EN: draw shamblers -->
-  <SummonShamblers.label>rituale di richiamo di zombie</SummonShamblers.label>
+  <SummonShamblers.label>attrazione di zombi</SummonShamblers.label>
   <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
   <SummonShamblers.description>Compi un rituale psichico che attira un'orda di cadaveri rianimati. Sebbene ostili, non attaccheranno direttamente la tua colonia. Possono essere catturati per essere studiati.</SummonShamblers.description>
   <!-- EN:

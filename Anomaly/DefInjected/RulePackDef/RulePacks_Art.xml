@@ -38,9 +38,9 @@
     <li>adjectiveCube->blurry</li>
   -->
   <NamerArtCubeSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAny]Cubo </li>
-    <li>r_art_name->[adjectiveCube]Cubo </li>
-    <li>r_art_name->Cubo [ConceptAny]</li>
+    <li>r_art_name->Cubo [AdjectiveAny]</li>
+    <li>r_art_name->Cubo [adjectiveCube]</li>
+    <li>r_art_name->Cubo di [ConceptAny]</li>
     <li>adjectiveCube->afflosciato</li>
     <li>adjectiveCube->informe</li>
     <li>adjectiveCube->ammaccato</li>
@@ -99,8 +99,8 @@
     <li>adjectiveUnsettling->otherworldly</li>
   -->
   <NamerArtVoidSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAngsty]scultura </li>
-    <li>r_art_name->[adjectiveUnsettling]scultura </li>
+    <li>r_art_name->Scultura [adjectiveUnsettling]</li>
+    <li>r_art_name->Scultura [adjectiveUnsettling]</li>
     <li>adjectiveUnsettling->disturbante</li>
     <li>adjectiveUnsettling->sconvolgente</li>
     <li>adjectiveUnsettling->misteriosa</li>
