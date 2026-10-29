@@ -7,13 +7,13 @@
   <Convert.description>Le guardie tenteranno di convertire il prigioniero alla loro ideoligione.</Convert.description>
   
   <!-- EN: enslave -->
-  <Enslave.label>schiavizzare</Enslave.label>
+  <Enslave.label>ridurre in schiavitù</Enslave.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
-  <Enslave.description>Le guardie minacceranno il prigioniero di ridurre la propria volontà. Una volta che non avranno più testamento, il guardiano li renderà schiavi.</Enslave.description>
+  <Enslave.description>Le guardie minacceranno il prigioniero per piegarne la volontà. Quando non ne avrà più, il guardiano lo ridurrà in schiavitù.</Enslave.description>
   
   <!-- EN: reduce will only -->
-  <ReduceWill.label>ridurre la volontà</ReduceWill.label>
+  <ReduceWill.label>solo ridurre la volontà</ReduceWill.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
-  <ReduceWill.description>Le guardie minacceranno il prigioniero di ridurre la sua volontà, ma non lo renderanno schiavo.</ReduceWill.description>
+  <ReduceWill.description>Le guardie minacceranno il prigioniero per piegarne la volontà, ma non lo ridurranno in schiavitù.</ReduceWill.description>
   
 </LanguageData>

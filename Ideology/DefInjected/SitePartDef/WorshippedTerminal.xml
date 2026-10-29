@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: worshipful village -->
-  <WorshippedTerminal.label>villaggio venerabile</WorshippedTerminal.label>
+  <WorshippedTerminal.label>villaggio devoto</WorshippedTerminal.label>
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
   <WorshippedTerminal.description>Un villaggio contenente un antico terminale venerato dalla gente del posto.</WorshippedTerminal.description>
   <!-- EN: Attacking {0}. -->
-  <WorshippedTerminal.approachingReportString>Attaccando {0}</WorshippedTerminal.approachingReportString>
+  <WorshippedTerminal.approachingReportString>Attacco a {0}.</WorshippedTerminal.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <WorshippedTerminal.approachOrderString>Investiga tu stesso {0}</WorshippedTerminal.approachOrderString>
+  <WorshippedTerminal.approachOrderString>Esplora {0}</WorshippedTerminal.approachOrderString>
   <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
   <WorshippedTerminal.arrivedLetter>Puoi restare qui per {TIMER} purché non violi le loro regole.</WorshippedTerminal.arrivedLetter>
   

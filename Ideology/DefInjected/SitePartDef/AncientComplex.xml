@@ -6,8 +6,8 @@
   <!-- EN: An ancient complex containing treasure. -->
   <AncientComplex.description>Un antico complesso contenente un tesoro.</AncientComplex.description>
   <!-- EN: Investigating {0}. -->
-  <AncientComplex.approachingReportString>Investiga tu stesso {0}</AncientComplex.approachingReportString>
+  <AncientComplex.approachingReportString>Esplorazione di {0}.</AncientComplex.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <AncientComplex.approachOrderString>Investiga tu stesso {0}</AncientComplex.approachOrderString>
+  <AncientComplex.approachOrderString>Esplora {0}</AncientComplex.approachOrderString>
   
 </LanguageData>

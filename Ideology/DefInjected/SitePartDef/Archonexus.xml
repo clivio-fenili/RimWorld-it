@@ -6,8 +6,8 @@
   <!-- EN: An ancient archotech device. Some say it is capable of invoking the power of the machine god. -->
   <Archonexus.description>Un antico dispositivo archotecnico. Alcuni dicono che sia in grado di invocare il potere del dio macchina.</Archonexus.description>
   <!-- EN: Investigating {0}. -->
-  <Archonexus.approachingReportString>Investiga tu stesso {0}</Archonexus.approachingReportString>
+  <Archonexus.approachingReportString>Esplorazione di {0}.</Archonexus.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <Archonexus.approachOrderString>Investiga tu stesso {0}</Archonexus.approachOrderString>
+  <Archonexus.approachOrderString>Esplora {0}</Archonexus.approachOrderString>
   
 </LanguageData>

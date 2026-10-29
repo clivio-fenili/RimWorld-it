@@ -6,9 +6,9 @@
   <!-- EN: An ancient complex housing a relic. -->
   <AncientAltar.description>Un antico complesso che ospita una reliquia.</AncientAltar.description>
   <!-- EN: Investigating {0}. -->
-  <AncientAltar.approachingReportString>Investiga tu stesso {0}</AncientAltar.approachingReportString>
+  <AncientAltar.approachingReportString>Esplorazione di {0}.</AncientAltar.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <AncientAltar.approachOrderString>Investiga tu stesso {0}</AncientAltar.approachOrderString>
+  <AncientAltar.approachOrderString>Esplora {0}</AncientAltar.approachOrderString>
   <!-- EN: There is an ancient structure holding a relic in this area. -->
   <AncientAltar.arrivedLetter>C'è un'antica struttura che custodisce una reliquia in questa zona.</AncientAltar.arrivedLetter>
   
