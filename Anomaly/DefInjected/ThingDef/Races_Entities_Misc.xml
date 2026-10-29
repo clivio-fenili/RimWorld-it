@@ -42,13 +42,13 @@
   <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
   <Devourer.comps.CompDevourer.digestingInspector>Digestione di {PAWN_nameDef}: {SECONDS} secondi rimanenti</Devourer.comps.CompDevourer.digestingInspector>
   <!-- EN: A devourer swallowed {PAWN_nameDef} whole! Kill the devourer before it digests {PAWN_nameDef}. -->
-  <Devourer.comps.CompDevourer.messageDigested>Un divoratore ha inghiottito {PAWN_nameDef} intero! Uccidi il divoratore prima che digerisca {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigested>
+  <Devourer.comps.CompDevourer.messageDigested>Un divoratore ha inghiottito {PAWN_nameDef} inter{PAWN_gender ? o : a : o/a}! Uccidi il divoratore prima che digerisca {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigested>
   <!-- EN: The devourer has regurgitated {PAWN_nameDef}. -->
   <Devourer.comps.CompDevourer.messageDigestionCompleted>Il divoratore ha rigurgitato {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigestionCompleted>
   <!-- EN: {PAWN_nameDef} emerged from the devourer. -->
-  <Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef} è emerso dal divoratore.</Devourer.comps.CompDevourer.messageEmerged>
+  <Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef} è emers{PAWN_gender ? o : a : o/a} dal divoratore.</Devourer.comps.CompDevourer.messageEmerged>
   <!-- EN: {PAWN_nameDef} emerged from the devourer's corpse. -->
-  <Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef} è emerso dal cadavere del divoratore.</Devourer.comps.CompDevourer.messageEmergedCorpse>
+  <Devourer.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef} è emers{PAWN_gender ? o : a : o/a} dal cadavere del divoratore.</Devourer.comps.CompDevourer.messageEmergedCorpse>
   <!-- EN: left fin -->
   <Devourer.tools.left_fin.label>pinna sinistra</Devourer.tools.left_fin.label>
   <!-- EN: fin -->
@@ -63,7 +63,7 @@
   <!-- EN: fleshmass nucleus -->
   <FleshmassNucleus.label>nucleo di carne</FleshmassNucleus.label>
   <!-- EN: The archotech core of a fleshmass heart. It is a chaotic lattice of fluid-smeared metal. Solid chunks of jagged metal appear here and there, packed with archotechnology. The whole structure slowly twists and bends under its own power.\n\nIt constantly grows meat on its surface, which occasionally erupts violently. If too much meat builds up, it will regrow into a fleshmass heart. -->
-  <FleshmassNucleus.description>Questo nucleo di archotech è l'elemento centrale del cuore di una massa di carne. È una rete caotica di metallo coperto di fluidi, con alcune protuberanze metalliche appuntite, piene di archotecnologia. L'intera struttura si contorce lentamente sotto il suo stesso potere.\n\nLa sua superficie cresce costantemente carne, che a volte esplode violentemente. Se troppa carne si accumula, essa rigenererà un cuore di massa di carne.</FleshmassNucleus.description>
+  <FleshmassNucleus.description>Questo nucleo di archotech è l'elemento centrale del cuore di una massa di carne. È una rete caotica di metallo coperto di fluidi, con alcune protuberanze metalliche appuntite, piene di archotecnologia. L'intera struttura si contorce lentamente sotto il suo stesso potere.\n\nSulla sua superficie cresce di continuo carne, che a volte erompe con violenza. Se se ne accumula troppa, il nucleo si rigenera in un cuore di massa di carne.</FleshmassNucleus.description>
   <!-- EN: The fleshmass nucleus has grown a critical mass of new flesh. It has developed into a new fleshmass heart!\n\nIn the process, the fleshmass heart has mutated and adopted a new biosignature. -->
   <FleshmassNucleus.comps.CompActivity.letterDesc>Una massa critica di carne ha ricoperto il nucleo, che è diventato un nuovo cuore di massa di carne!\n\nNel processo, il cuore ha subito una mutazione e ha adottato una nuova biosignatura.</FleshmassNucleus.comps.CompActivity.letterDesc>
   <!-- EN: Fleshmass transformation -->
@@ -102,7 +102,7 @@
   <!-- EN: nociosphere -->
   <Nociosphere.label>nociosfera</Nociosphere.label>
   <!-- EN: A dark metallic sphere covered with curved and jagged grooves. The sphere emanates sensations of pain. It hurts to be near it.\n\nThe sphere thrums with a mysterious energy. It appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity. However, if you capture it, you can decrease its activity by suppressing it. -->
-  <Nociosphere.description>Questa sfera metallica scura è ricoperta da scanalature curve e irregolari. La sfera emana sensazioni di dolore. Fa male essere vicino ad essa.\n\nLa sfera vibra con un'energia misteriosa. Sembra che la sua attività stia aumentando. Non è chiaro cosa accadrà quando raggiungerà la sua piena capacità. Tuttavia, se la catturi, puoi diminuire la sua attività sopprimendola.</Nociosphere.description>
+  <Nociosphere.description>Questa sfera metallica scura è ricoperta da scanalature curve e irregolari. La sfera emana sensazioni di dolore. Starle vicino fa male.\n\nLa sfera vibra con un'energia misteriosa. Sembra che la sua attività stia aumentando. Non è chiaro cosa accadrà quando raggiungerà la sua piena capacità. Tuttavia, se la catturi, puoi diminuire la sua attività sopprimendola.</Nociosphere.description>
   <!-- EN: The nociosphere's activity level has reached 100% and it has activated. It has begun an onslaught of pain and destruction.\n\nIt will eventually depart - if you can survive long enough. -->
   <Nociosphere.comps.CompActivity.letterDesc>La nociosfera si è attivata dopo che il suo livello di attività ha raggiunto il 100%. Ha iniziato a diffondere dolore e distruzione.\n\nAlla fine partirà, se riuscirai a sopravvivere abbastanza a lungo.</Nociosphere.comps.CompActivity.letterDesc>
   <!-- EN: Nociosphere activated -->
@@ -110,7 +110,7 @@
   <!-- EN: Nociosphere study progress -->
   <Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>Progressi nello studio della nociosfera</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.label>
   <!-- EN: {PAWN_nameDef} has learned more about the inner workings of the nociosphere. It seems to have a single purpose - to inflict pain on those around it.\n\n{PAWN_nameDef} thinks {PAWN_pronoun} may be able to weaponize the nociosphere but you must study it more first. -->
-  <Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef} ha imparato di più sul funzionamento della nociosfera. Sembra avere un solo scopo: infliggere dolore a chi si trova nei dintorni.\n\n{PAWN_nameDef} pensa che {PAWN_pronoun} possa trasformare la nociosfera in un'arma, ma bisogna prima studiarla ulteriormente.</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>
+  <Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef} ha imparato di più sul funzionamento della nociosfera. Sembra avere un solo scopo: infliggere dolore a chi si trova nei dintorni.\n\n{PAWN_nameDef} pensa di poter trasformare la nociosfera in un'arma, ma bisogna prima studiarla ulteriormente.</Nociosphere.comps.CompStudyUnlocks.studyNotes.0.text>
   <!-- EN: Nociosphere study progress -->
   <Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>Progressi nello studio della nociosfera</Nociosphere.comps.CompStudyUnlocks.studyNotes.1.label>
   <!-- EN: By studying the nociosphere, you've learned how to intentionally activate it.\n\nWhen activated, the nociosphere will teleport to a remote location of your choice and unleash a barrage of pain on anyone nearby. The nociosphere will continue to hunt down anything nearby until it is destroyed or it chooses to return. Select the nociosphere to activate it. -->
@@ -124,15 +124,15 @@
   <!-- EN: Send the nociosphere... -->
   <Nociosphere.comps.CompNociosphere.activateLabelString>Invia la nociosfera...</Nociosphere.comps.CompNociosphere.activateLabelString>
   <!-- EN: sending {0}: {1}s -->
-  <Nociosphere.comps.CompNociosphere.activatingString>invio della {0} : {1} s</Nociosphere.comps.CompNociosphere.activatingString>
+  <Nociosphere.comps.CompNociosphere.activatingString>invio della {0}: {1}s</Nociosphere.comps.CompNociosphere.activatingString>
   <!-- EN: Becoming unstable -->
-  <Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>Diventa instabile</Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>
+  <Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>Sta diventando instabile</Nociosphere.comps.CompNociosphere.becomingUnstableInspectText>
   <!-- EN: The nociosphere is departing. -->
   <Nociosphere.comps.CompNociosphere.departingMessage>La nociosfera sta partendo.</Nociosphere.comps.CompNociosphere.departingMessage>
   <!-- EN: send nociosphere -->
   <Nociosphere.comps.CompNociosphere.jobString>invia la nociosfera</Nociosphere.comps.CompNociosphere.jobString>
   <!-- EN: Nociosphere departed -->
-  <Nociosphere.comps.CompNociosphere.leftLetterLabel>Nociosfera inviata</Nociosphere.comps.CompNociosphere.leftLetterLabel>
+  <Nociosphere.comps.CompNociosphere.leftLetterLabel>Nociosfera partita</Nociosphere.comps.CompNociosphere.leftLetterLabel>
   <!-- EN: The nociosphere has disappeared, ending its onslaught.\n\nIt's unclear where the nociosphere has gone or if it will return. -->
   <Nociosphere.comps.CompNociosphere.leftLetterText>L'assalto della nociosfera è terminato quando essa è scomparsa.\n\nNon è chiaro dove sia andata o se tornerà.</Nociosphere.comps.CompNociosphere.leftLetterText>
   <!-- EN: Nociosphere onslaught cooldown -->
@@ -144,7 +144,7 @@
   <!-- EN: Unstable: cannot be suppressed -->
   <Nociosphere.comps.CompNociosphere.unstableInspectText>Instabile: soppressione impossibile</Nociosphere.comps.CompNociosphere.unstableInspectText>
   <!-- EN: Warning: the nociosphere will resist suppression in {0} days. -->
-  <Nociosphere.comps.CompNociosphere.unstableWarning>Attenzione: la nociosfera non potrà essere soppressa tra {0} giorni.</Nociosphere.comps.CompNociosphere.unstableWarning>
+  <Nociosphere.comps.CompNociosphere.unstableWarning>Attenzione: tra {0} giorni la nociosfera resisterà alla soppressione.</Nociosphere.comps.CompNociosphere.unstableWarning>
   
   <!-- EN: noctol -->
   <Noctol.label>noctol</Noctol.label>
@@ -164,14 +164,14 @@
   <!-- EN: revenant -->
   <Revenant.label>revenant</Revenant.label>
   <!-- EN: A spindly figure of desiccated skin stretched over an impossibly tall humanoid frame. The revenant's name comes from its pattern of returning to hypnotize new people each night.\n\nOutlander folklore describes an invisible spectre that captures the minds of sinners, placing them in a living hell. In the story, the victims can only be returned to life by hunting the creature as it sleeps and killing it.\n\nA hidden revenant can be revealed with disruptor flares, explosives, EMP, firefoam, or fire. -->
-  <Revenant.description>Una figura filiforme con la pelle secca che si estende su una struttura umanoide incredibilmente alta. Il nome "revenant" deriva dal suo comportamento di tornare ogni notte per ipnotizzare nuove vittime.\n\nUna leggenda straniera descrive uno spettro invisibile che cattura la mente dei peccatori, intrappolandoli in un inferno vivente. Nella storia, le vittime possono essere riportate in vita solo cacciando la creatura mentre dorme e uccidendola.\n\nUn revenant nascosto può essere rivelato con razzi distruttori, esplosivi, EMP, schiuma antincendio o fuoco.</Revenant.description>
+  <Revenant.description>Una figura filiforme con la pelle secca che si estende su una struttura umanoide incredibilmente alta. Il nome "revenant" deriva dal suo comportamento di tornare ogni notte per ipnotizzare nuove vittime.\n\nUna leggenda straniera descrive uno spettro invisibile che cattura la mente dei peccatori, intrappolandoli in un inferno vivente. Nella storia, le vittime possono essere riportate in vita solo cacciando la creatura mentre dorme e uccidendola.\n\nUn revenant nascosto può essere rivelato con razzi di disturbo, esplosivi, EMP, schiuma antincendio o fuoco.</Revenant.description>
   <!-- EN: head -->
   <Revenant.tools.head.label>testa</Revenant.tools.head.label>
   
   <!-- EN: sightstealer -->
   <Sightstealer.label>oscuratore</Sightstealer.label>
   <!-- EN: Emaciated and misshapen humanoids. Their arms end in sharp, curled claws formed from bioferrite. Sightstealers are fragile, but use psychic influence to render themselves invisible until they get close to their victims. They are known to emit haunting screams as they gather on their terrible hunts. -->
-  <Sightstealer.description>Un umanoide emaciato e deformato i cui bracci terminano in artigli affilati e ricurvi in bioferrite. Gli oscuratori sono fragili, ma usano la loro influenza psicologica per diventare invisibili finché non si avvicinano alle loro vittime. Si sa che emettono urla spettrali mentre si radunano per le loro terribili cacce.</Sightstealer.description>
+  <Sightstealer.description>Un umanoide emaciato e deformato le cui braccia terminano in artigli affilati e ricurvi in bioferrite. Gli oscuratori sono fragili, ma usano la loro influenza psichica per diventare invisibili finché non si avvicinano alle loro vittime. Si sa che emettono urla spettrali mentre si radunano per le loro terribili cacce.</Sightstealer.description>
   <!-- EN: left claw -->
   <Sightstealer.tools.left_claw.label>artiglio sinistro</Sightstealer.tools.left_claw.label>
   <!-- EN: claw -->

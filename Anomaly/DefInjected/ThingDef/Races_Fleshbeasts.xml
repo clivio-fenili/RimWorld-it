@@ -4,9 +4,9 @@
   <!-- EN: bulbfreak -->
   <Bulbfreak.label>mutazione bulbosa</Bulbfreak.label>
   <!-- EN: A horrid oozing amalgamation of many smaller fleshbeasts, all controlled by a linked nervous system. It has two large claws which it uses to tear through its victims. Bulbfreaks are often smelled before they are seen, giving off an overwhelming odor of rancid meat. They are relatively slow and easy to kill, but once they die, they explode into a horde of smaller fleshbeasts. -->
-  <Bulbfreak.description>Questo orribile amalgama che emana pus è formato da molteplici abominazioni di carne, tutte controllate da un sistema nervoso centrale. Ha due grosse artigli che usa per strappare le sue vittime. Vengono spesso annusati prima di essere visti, emettendo un odore travolgente di carne rancida. Sono relativamente lenti e facili da uccidere, ma una volta morti, esplodono in un'orda di piccole abominazioni di carne.</Bulbfreak.description>
+  <Bulbfreak.description>Orribile amalgama purulento di molti abomini di carne più piccoli, tutti controllati da un sistema nervoso condiviso. Ha due grossi artigli con cui squarcia le sue vittime. Spesso se ne sente il travolgente odore di carne rancida prima ancora di vederla. Si muove piuttosto lentamente ed è facile da uccidere, ma quando muore esplode in un'orda di abomini di carne più piccoli.</Bulbfreak.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <Bulbfreak.comps.CompInspectStringEmergence.inspectString>Emerso da {SOURCEPAWN_labelShort}.</Bulbfreak.comps.CompInspectStringEmergence.inspectString>
+  <Bulbfreak.comps.CompInspectStringEmergence.inspectString>Emersa da {SOURCEPAWN_labelShort}.</Bulbfreak.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: tentacle -->
   <Bulbfreak.tools.tentacle-0.label>tentacolo</Bulbfreak.tools.tentacle-0.label>
   <!-- EN: tentacle -->
@@ -23,9 +23,9 @@
   <!-- EN: dreadmeld -->
   <Dreadmeld.label>amalgore</Dreadmeld.label>
   <!-- EN: A gargantuan amalgamation of dozens of smaller fleshbeasts linked together by a loosely shared central nervous system. It uses its massive claws to dig tunnels through solid rock. Fleshbeast dreadmelds are rarely seen above ground, instead sheltering in caverns built from living flesh. They share a psychic connection with the flesh used to create their burrow. -->
-  <Dreadmeld.description>Un'enorme massa costituita da decine di piccole abominazioni di carne vagamente legate tra loro da un sistema nervoso centrale. I sue enormi artigli gli permettono di scavare tunnel attraverso la roccia solida. Gli amalgori sono raramente visti in superficie, preferendo nascondersi in grotte costruite di carne vivente a cui sono legati psicicamente.</Dreadmeld.description>
+  <Dreadmeld.description>Un'enorme massa costituita da decine di piccole abominazioni di carne vagamente legate tra loro da un sistema nervoso centrale. I suoi enormi artigli gli permettono di scavare tunnel attraverso la roccia solida. Gli amalgori sono raramente visti in superficie, preferendo nascondersi in grotte costruite di carne vivente a cui sono legati psicicamente.</Dreadmeld.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <Dreadmeld.comps.CompInspectStringEmergence.inspectString>A emerso da {SOURCEPAWN_labelShort}.</Dreadmeld.comps.CompInspectStringEmergence.inspectString>
+  <Dreadmeld.comps.CompInspectStringEmergence.inspectString>Emerso da {SOURCEPAWN_labelShort}.</Dreadmeld.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: Dreadmeld released -->
   <Dreadmeld.comps.CompLetterOnRevealed.label>Amalgore liberato</Dreadmeld.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered a fleshbeast dreadmeld! This mammoth creature seems to be made up of dozens of smaller fleshbeasts.\n\nIt appears to have some psychic connection to the fleshmass that supports this cavern. Killing it may destabilize the entire cave system. -->
@@ -44,7 +44,7 @@
   <!-- EN: fingerspike -->
   <Fingerspike.label>digispina</Fingerspike.label>
   <!-- EN: A fleshy dog-sized creature with a single spiked limb. Despite their short legs, fingerspikes can move remarkably fast. -->
-  <Fingerspike.description>Una creatura carnosa delle dimensioni di un cane, con un unico membro appuntito. Nonostante le loro gambe corte, le digispine si muovono sorprendentemente velocemente.</Fingerspike.description>
+  <Fingerspike.description>Una creatura carnosa delle dimensioni di un cane, con un unico membro appuntito. Nonostante le loro gambe corte, le digispine sono sorprendentemente veloci.</Fingerspike.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
   <Fingerspike.comps.CompInspectStringEmergence.inspectString>A emerso da {SOURCEPAWN_labelShort}.</Fingerspike.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: spike -->
