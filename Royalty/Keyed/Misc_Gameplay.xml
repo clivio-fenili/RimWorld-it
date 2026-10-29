@@ -104,7 +104,7 @@
   <!-- EN: no accessible altar. -->
   <RitualDisabledNoAltar>nessun altare accessibile.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
-  <RitualBestowingCeremony>Cerimonia di investitura</RitualBestowingCeremony>
+  <RitualBestowingCeremony>Cerimonia di conferimento</RitualBestowingCeremony>
   <!-- EN: No suitable location near bestower -->
   <BestowingSpotUnavailable>Nessun luogo adatto vicino al cerimoniere</BestowingSpotUnavailable>
 
@@ -139,11 +139,11 @@
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>La sala del trono di {PAWN_definite} non soddisfa i requisiti del titolo di {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Il cerimoniere si sente offeso perché la sala del trono di {PAWN_definite} non soddisfa i requisiti del titolo di {TITLE}. La cerimonia di investitura è stata annullata.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Il cerimoniere si sente offeso perché la sala del trono di {PAWN_definite} non soddisfa i requisiti del titolo di {TITLE}. La cerimonia di conferimento è stata annullata.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
-  <BestowingCeremonyLabel>cerimonia di investitura</BestowingCeremonyLabel>
+  <BestowingCeremonyLabel>cerimonia di conferimento</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>La qualità complessiva della cerimonia di investitura è stata {0}, determinata da questi fattori</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>La qualità complessiva della cerimonia di conferimento è stata {0}, determinata da questi fattori</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
   <RitualTargetAnimaTreeNoPawnsToLink>Nessun colono può legarsi all’albero dell’anima in questo momento.</RitualTargetAnimaTreeNoPawnsToLink>

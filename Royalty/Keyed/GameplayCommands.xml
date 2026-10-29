@@ -86,13 +86,13 @@
   <ChooseRoyalPermit_Desc>Apri la schermata di selezione dei permessi e scegli un nuovo permesso.</ChooseRoyalPermit_Desc>
 
   <!-- EN: Leave bestowing ceremony -->
-  <CommandLeaveBestowingCeremony>Lascia la cerimonia di investitura</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremony>Lascia la cerimonia di conferimento</CommandLeaveBestowingCeremony>
   <!-- EN: Stop participating in the bestowing ceremony. -->
-  <CommandLeaveBestowingCeremonyDesc>Interrompi la partecipazione alla cerimonia di investitura.</CommandLeaveBestowingCeremonyDesc>
+  <CommandLeaveBestowingCeremonyDesc>Interrompi la partecipazione alla cerimonia di conferimento.</CommandLeaveBestowingCeremonyDesc>
   <!-- EN: Cancel bestowing ceremony -->
-  <CommandCancelBestowingCeremony>Annulla la cerimonia di investitura</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremony>Annulla la cerimonia di conferimento</CommandCancelBestowingCeremony>
   <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
-  <CommandCancelBestowingCeremonyDesc>Termina subito la cerimonia di investitura. Il cerimoniere se ne andrà, ma presto ci sarà un'altra occasione per celebrarla.</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyDesc>Termina subito la cerimonia di conferimento. Il cerimoniere se ne andrà, ma presto ci sarà un'altra occasione per celebrarla.</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
-  <CommandCancelBestowingCeremonyConfirm>Sei sicuro di voler annullare la cerimonia di investitura?</CommandCancelBestowingCeremonyConfirm>
+  <CommandCancelBestowingCeremonyConfirm>Sei sicuro di voler annullare la cerimonia di conferimento?</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

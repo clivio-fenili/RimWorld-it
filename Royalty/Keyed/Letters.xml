@@ -88,7 +88,7 @@
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
   <LetterTitleInheritance_Base>Dato che {PAWN_nameFull} è mort{PAWN_gender ? o : a}, i suoi titoli passeranno ai suoi eredi.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>Il suo titolo di {TITLE} è stato ereditato da {HEIR_nameFull}, secondo le leggi sulla successione di {FACTION_name}. Sostituirà l'attuale titolo di {REPLACEDTITLE} dell'erede al termine di una cerimonia di investitura.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>Il suo titolo di {TITLE} è stato ereditato da {HEIR_nameFull}, secondo le leggi sulla successione di {FACTION_name}. Sostituirà l'attuale titolo di {REPLACEDTITLE} dell'erede al termine di una cerimonia di conferimento.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
   <LetterTitleInheritance_NoEffectHigherTitle>Il suo titolo di {TITLE} sarebbe stato ereditato da {HEIR_nameFull} secondo le leggi sulla successione di {FACTION_name}, ma {HEIR_pronoun} aveva già un titolo di {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
@@ -137,12 +137,12 @@
   <!-- EN: Bestowing ceremony expired -->
   <LetterLabelBestowingCeremonyExpired>La cerimonia di conferimento è scaduta</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>{TARGET_definite} non si è presentat{TARGET_gender ? o : a} alla cerimonia di investitura. La cerimonia è stata annullata.</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} non si è presentat{TARGET_gender ? o : a} alla cerimonia di conferimento. La cerimonia è stata annullata.</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: {TARGET_definite}'s title changed -->
   <LetterLabelBestowingCeremonyTitleUpdated>Il titolo di {TARGET_definite} è cambiato</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} ha ottenuto un nuovo titolo da quando la cerimonia di investitura è stata programmata. Perché l’investitura corrisponda al nuovo titolo, un’altra cerimonia verrà presto organizzata.\n\nLa nuova cerimonia di investitura includerà le ricompense di psylink per tutti i titoli che non erano ancora stati conferiti.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} ha ottenuto un nuovo titolo da quando la cerimonia di conferimento è stata programmata. Perché il conferimento corrisponda al nuovo titolo, un’altra cerimonia verrà presto organizzata.\n\nLa nuova cerimonia di conferimento includerà le ricompense di psylink per tutti i titoli che non erano ancora stati conferiti.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
   <LetterPartBestowingExtraHonor>{PAWN_labelShort} ha ricevuto {1} onore come segno di rispetto da {FACTION_name}, per aver radunato {3} spettatori.</LetterPartBestowingExtraHonor>

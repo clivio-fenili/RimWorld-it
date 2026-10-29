@@ -32,7 +32,7 @@
   <MessageBestowingInterrupted>La cerimonia di conferimento è stata interrotta.</MessageBestowingInterrupted>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>È iniziata la cerimonia di investitura di {PAWN_definite}.</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>È iniziata la cerimonia di conferimento di {PAWN_definite}.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
   <MessageMissionGetBackToShuttle>Hai sconfitto i {FACTION_pawnsPlural}! Torna sulla navetta per ripartire.</MessageMissionGetBackToShuttle>
 
