@@ -11,7 +11,7 @@
   <Mining_Disapproved.comps.3.description>Qualcuno ha minato un blocco</Mining_Disapproved.comps.3.description>
   
   <!-- EN: horrible -->
-  <Mining_Horrible.label>Terribile</Mining_Horrible.label>
+  <Mining_Horrible.label>orribile</Mining_Horrible.label>
   <!-- EN: Violating the natural earth with mining tools is a horrible act. -->
   <Mining_Horrible.description>Violare la terra naturale con strumenti minerari è un atto orribile.</Mining_Horrible.description>
   <!-- EN: Someone mined a block -->

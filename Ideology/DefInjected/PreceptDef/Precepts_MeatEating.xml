@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: abhorrent -->
-  <MeatEating_Abhorrent.label>abominevole</MeatEating_Abhorrent.label>
+  <MeatEating_Abhorrent.label>ripugnante</MeatEating_Abhorrent.label>
   <!-- EN: Eating meat of any kind is deeply evil. -->
   <MeatEating_Abhorrent.description>Mangiare carne di qualsiasi tipo è profondamente malvagio.</MeatEating_Abhorrent.description>
   
@@ -17,7 +17,7 @@
   <MeatEating_Horrible.description>Mangiare carne di qualsiasi tipo è un atto orribile.</MeatEating_Horrible.description>
   
   <!-- EN: vegetarian abhorrent -->
-  <MeatEating_NonMeat_Abhorrent.label>vegetariano abominevole</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Abhorrent.label>vegetariano ripugnante</MeatEating_NonMeat_Abhorrent.label>
   <!-- EN: Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat, eggs, milk, or other animal product. -->
   <MeatEating_NonMeat_Abhorrent.description>Chiunque sia vegetariano è profondamente carente dal punto di vista morale. Ogni pasto dovrebbe contenere un po' di carne, uova, latte o altri prodotti animali.</MeatEating_NonMeat_Abhorrent.description>
   

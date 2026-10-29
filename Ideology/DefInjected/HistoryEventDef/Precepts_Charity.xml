@@ -11,7 +11,7 @@
   <CharityFulfilled_IntroWimp.label>nobile salvato</CharityFulfilled_IntroWimp.label>
   
   <!-- EN: pod refugee saved -->
-  <CharityFulfilled_RefugeePodCrash.label>rifugiato del pod salvato</CharityFulfilled_RefugeePodCrash.label>
+  <CharityFulfilled_RefugeePodCrash.label>rifugiato della capsula salvato</CharityFulfilled_RefugeePodCrash.label>
   
   <!-- EN: crash survivors helped -->
   <CharityFulfilled_ShuttleCrashRescue.label>sopravvissuti all'incidente aiutati</CharityFulfilled_ShuttleCrashRescue.label>
@@ -41,7 +41,7 @@
   <CharityRefused_Pilgrims_Betrayed.label>pellegrini traditi</CharityRefused_Pilgrims_Betrayed.label>
   
   <!-- EN: refugee pod crash refused -->
-  <CharityRefused_RefugeePodCrash.label>rifugiato del pod rifiutato</CharityRefused_RefugeePodCrash.label>
+  <CharityRefused_RefugeePodCrash.label>rifugiato della capsula rifiutato</CharityRefused_RefugeePodCrash.label>
   
   <!-- EN: crash survivors refused -->
   <CharityRefused_ShuttleCrashRescue.label>sopravvissuti all'incidente rifiutati</CharityRefused_ShuttleCrashRescue.label>
