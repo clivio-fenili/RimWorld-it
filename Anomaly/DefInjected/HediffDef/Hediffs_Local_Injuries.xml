@@ -8,7 +8,7 @@
   <!-- EN: a digested part -->
   <Digested.labelNoun>una parte digerita</Digested.labelNoun>
   <!-- EN: digested {1} -->
-  <Digested.labelNounPretty>{1} digerito(a)(e)(i)</Digested.labelNounPretty>
+  <Digested.labelNounPretty>{1} digerit{1_gender ? o : a}</Digested.labelNounPretty>
   
   <!-- EN: energy bolt -->
   <EnergyBolt.label>dardo energetico</EnergyBolt.label>
@@ -21,11 +21,11 @@
   <!-- EN: Blasted off -->
   <EnergyBolt.injuryProps.destroyedLabel>Esploso/a</EnergyBolt.injuryProps.destroyedLabel>
   <!-- EN: Blasted out -->
-  <EnergyBolt.injuryProps.destroyedOutLabel>Imploso(a)</EnergyBolt.injuryProps.destroyedOutLabel>
+  <EnergyBolt.injuryProps.destroyedOutLabel>Perso/a</EnergyBolt.injuryProps.destroyedOutLabel>
   <!-- EN: an energy bolt wound -->
   <EnergyBolt.labelNoun>una ferita da dardo energetico</EnergyBolt.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <EnergyBolt.labelNounPretty>{0} - {1}</EnergyBolt.labelNounPretty>
+  <EnergyBolt.labelNounPretty>{0} {1_gender ? al : alla} {1}</EnergyBolt.labelNounPretty>
   
   <!-- EN: psychic burn -->
   <PsychicInjury.label>ustione psichica</PsychicInjury.label>
@@ -38,7 +38,7 @@
   <!-- EN: a psychic burn -->
   <PsychicInjury.labelNoun>un'ustione psichica</PsychicInjury.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjury.labelNounPretty>{0} - {1}</PsychicInjury.labelNounPretty>
+  <PsychicInjury.labelNounPretty>{0} {1_gender ? al : alla} {1}</PsychicInjury.labelNounPretty>
   
   <!-- EN: psychic burn -->
   <PsychicInjurySkin.label>ustione psichica</PsychicInjurySkin.label>
@@ -47,11 +47,11 @@
   <!-- EN: psychic scarring -->
   <PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice psichica</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Psychically incinerated -->
-  <PsychicInjurySkin.injuryProps.destroyedLabel>Incenerito(a) psichicamente</PsychicInjurySkin.injuryProps.destroyedLabel>
+  <PsychicInjurySkin.injuryProps.destroyedLabel>Incenerito/a psichicamente</PsychicInjurySkin.injuryProps.destroyedLabel>
   <!-- EN: a psychic burn -->
   <PsychicInjurySkin.labelNoun>un'ustione psichica</PsychicInjurySkin.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjurySkin.labelNounPretty>{0} - {1}</PsychicInjurySkin.labelNounPretty>
+  <PsychicInjurySkin.labelNounPretty>{0} {1_gender ? al : alla} {1}</PsychicInjurySkin.labelNounPretty>
   
   <!-- EN: psychic burn -->
   <PsychicInjurySolid.label>ustione psichica</PsychicInjurySolid.label>
@@ -64,6 +64,6 @@
   <!-- EN: a psychic burn -->
   <PsychicInjurySolid.labelNoun>un'ustione psichica</PsychicInjurySolid.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjurySolid.labelNounPretty>{0} - {1}</PsychicInjurySolid.labelNounPretty>
+  <PsychicInjurySolid.labelNounPretty>{0} {1_gender ? al : alla} {1}</PsychicInjurySolid.labelNounPretty>
   
 </LanguageData>
