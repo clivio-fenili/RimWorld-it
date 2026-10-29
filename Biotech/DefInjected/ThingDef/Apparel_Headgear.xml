@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: airwire headset -->
-  <Apparel_AirwireHeadset.label>cuffia con cavo aereo</Apparel_AirwireHeadset.label>
+  <Apparel_AirwireHeadset.label>cuffia senza fili</Apparel_AirwireHeadset.label>
   <!-- EN: A simple head-mounted comms computer that slightly enhances a mechanitor's control bandwidth. This allows them to control more mechs. -->
-  <Apparel_AirwireHeadset.description>Un semplice computer di comunicazione montato sulla testa che migliora leggermente la larghezza di banda di controllo di un meccanista. Ciò consente loro di controllare più mech.</Apparel_AirwireHeadset.description>
+  <Apparel_AirwireHeadset.description>Un semplice computer di comunicazione montato sulla testa che migliora leggermente la larghezza di banda di controllo di un meccanista. Così può controllare più mech.</Apparel_AirwireHeadset.description>
   
   <!-- EN: mechcommander helmet -->
-  <Apparel_ArmorHelmetMechCommander.label>Casco del mechcomandante</Apparel_ArmorHelmetMechCommander.label>
+  <Apparel_ArmorHelmetMechCommander.label>casco da comandante dei mech</Apparel_ArmorHelmetMechCommander.label>
   <!-- EN: A plasteel-weave combat helmet designed for battle mechanitors. It is embedded with computers and signal enhancers that moderately increase the wearer's maximum control bandwidth. This allows the mechanitor to control more mechs. -->
-  <Apparel_ArmorHelmetMechCommander.description>Un elmo da combattimento in tessuto di plastacciaio progettato per i meccanitori da battaglia. È integrato con computer e amplificatori di segnale che aumentano moderatamente la larghezza di banda di controllo massima di chi lo indossa. Ciò consente al meccanista di controllare più mech.</Apparel_ArmorHelmetMechCommander.description>
+  <Apparel_ArmorHelmetMechCommander.description>Un elmo da combattimento in tessuto di plastacciaio progettato per i meccanisti da battaglia. È integrato con computer e amplificatori di segnale che aumentano moderatamente la larghezza di banda di controllo massima di chi lo indossa. Ciò consente al meccanista di controllare più mech.</Apparel_ArmorHelmetMechCommander.description>
   
   <!-- EN: mechlord helmet -->
   <Apparel_ArmorHelmetMechlordHelmet.label>casco meclord</Apparel_ArmorHelmetMechlordHelmet.label>
@@ -19,7 +19,7 @@
   <!-- EN: array headset -->
   <Apparel_ArrayHeadset.label>cuffia a schiera</Apparel_ArrayHeadset.label>
   <!-- EN: A head-mounted computer and signaling array that enhances a mechanitor's control bandwidth. This allows them to control more mechs. -->
-  <Apparel_ArrayHeadset.description>Un computer montato sulla testa e un sistema di segnalazione che migliora la larghezza di banda di controllo di un meccanista. Ciò consente loro di controllare più mech.</Apparel_ArrayHeadset.description>
+  <Apparel_ArrayHeadset.description>Un computer montato sulla testa e un sistema di segnalazione che migliora la larghezza di banda di controllo di un meccanista. Così può controllare più mech.</Apparel_ArrayHeadset.description>
   
   <!-- EN: gas mask -->
   <Apparel_GasMask.label>maschera antigas</Apparel_GasMask.label>
@@ -27,7 +27,7 @@
   <Apparel_GasMask.description>Una maschera flessibile indossata sul viso con un filtro dell'aria incorporato. Riduce drasticamente l'esposizione all'inquinamento attraverso i polmoni, ma non protegge la pelle del resto del corpo.\n\nPreviene l'ingresso di gas tossici irritanti attraverso gli occhi e la bocca.</Apparel_GasMask.description>
   
   <!-- EN: integrator headset -->
-  <Apparel_IntegratorHeadset.label>cuffia integrata</Apparel_IntegratorHeadset.label>
+  <Apparel_IntegratorHeadset.label>cuffia d'integrazione</Apparel_IntegratorHeadset.label>
   <!-- EN: An advanced head-mounted computer and signaling array that dramatically enhances a mechanitor's control bandwidth. This allows the wearer to control many more mechanoids at once. -->
   <Apparel_IntegratorHeadset.description>Un computer avanzato montato sulla testa e un sistema di segnalazione che migliora notevolmente la larghezza di banda di controllo di un meccanista. Ciò consente a chi lo indossa di controllare molti più meccanoidi contemporaneamente.</Apparel_IntegratorHeadset.description>
   

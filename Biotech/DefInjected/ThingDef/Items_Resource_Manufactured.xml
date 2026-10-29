@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: tox shell -->
-  <Bullet_Shell_Tox.label>guscio tossico</Bullet_Shell_Tox.label>
+  <Bullet_Shell_Tox.label>ordigno tossico</Bullet_Shell_Tox.label>
   
   <!-- EN: deathrest capacity serum -->
   <DeathrestCapacitySerum.label>siero della capacità di riposo mortale</DeathrestCapacitySerum.label>
   <!-- EN: A serum that permanently increases the number of deathrest buildings a person can connect to during deathrest.\n\nThe serum can only be ingested by individuals with the deathrest gene. -->
   <DeathrestCapacitySerum.description>Un siero che aumenta permanentemente il numero di edifici di riposo mortale a cui una persona può connettersi durante il riposo mortale.\n\nIl siero può essere ingerito solo da individui con il gene del riposo mortale.</DeathrestCapacitySerum.description>
   <!-- EN: Ingest {0_label} -->
-  <DeathrestCapacitySerum.comps.CompUsable.useLabel>Importa {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+  <DeathrestCapacitySerum.comps.CompUsable.useLabel>Ingerisci {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
   
   <!-- EN: nano structuring chip -->
   <NanostructuringChip.label>chip di nanostrutturazione</NanostructuringChip.label>
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
-  <NanostructuringChip.description>Un microrganismo meccanoide che esegue la ricostruzione molecolare. È necessario produrre alcuni meccanoidi e attrezzature avanzati.\n\nUn meccanista può studiare questo chip per sbloccare livelli più alti di ricerca mechtech.</NanostructuringChip.description>
+  <NanostructuringChip.description>Un micro-organo meccanoide che esegue la ristrutturazione molecolare. È necessario per produrre alcuni meccanoidi e attrezzature avanzati.\n\nUn meccanista può studiare questo chip per sbloccare livelli più alti di ricerca mechtech.</NanostructuringChip.description>
   <!-- EN: Analyze the nano structuring chip. -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>Analizza il chip di nanostrutturazione.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->

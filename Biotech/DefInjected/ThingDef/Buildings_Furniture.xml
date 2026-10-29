@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: baby decoration -->
-  <BabyDecoration.label>decorazione del bambino</BabyDecoration.label>
+  <BabyDecoration.label>decorazione per neonati</BabyDecoration.label>
   <!-- EN: A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas. -->
   <BabyDecoration.description>Una decorazione per i bambini. Le decorazioni per bambini aumentano la velocità con cui i bambini soddisfano le loro esigenze di gioco quando un adulto gioca con loro. Posizionali attorno alle aree giochi dei tuoi bambini.</BabyDecoration.description>
   
   <!-- EN: baby sleeping spot -->
-  <BabySleepingSpot.label>posto dove dormire per bambini</BabySleepingSpot.label>
+  <BabySleepingSpot.label>posto letto per bambini</BabySleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should leave a baby. Not comfortable. -->
-  <BabySleepingSpot.description>Designa un punto sul terreno dove le persone dovrebbero lasciare un bambino. Non comodo.</BabySleepingSpot.description>
+  <BabySleepingSpot.description>Designa un punto sul terreno dove le persone dovrebbero lasciare un bambino. Scomodo.</BabySleepingSpot.description>
   
   <!-- EN: blackboard -->
   <Blackboard.label>lavagna</Blackboard.label>

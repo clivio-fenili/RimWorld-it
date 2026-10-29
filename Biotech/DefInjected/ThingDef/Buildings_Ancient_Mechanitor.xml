@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ancient band node -->
-  <AncientBandNode.label>nodo della fascia antica</AncientBandNode.label>
+  <AncientBandNode.label>antico nodo di banda</AncientBandNode.label>
   <!-- EN: An ancient band node. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientBandNode.description>Un antico nodo di fascia. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientBandNode.description>
+  <AncientBandNode.description>Un antico nodo di banda. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientBandNode.description>
   
   <!-- EN: ancient toxifier generator -->
-  <AncientToxifierGenerator.label>antico generatore di tossine</AncientToxifierGenerator.label>
+  <AncientToxifierGenerator.label>antico generatore di sostanze tossiche</AncientToxifierGenerator.label>
   <!-- EN: An ancient toxifier generator. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientToxifierGenerator.description>Un antico generatore di tossine. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientToxifierGenerator.description>
+  <AncientToxifierGenerator.description>Un antico generatore di sostanze tossiche. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientToxifierGenerator.description>
   
 </LanguageData>

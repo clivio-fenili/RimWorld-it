@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: control sublink (standard) -->
-  <ControlSublink.label>controllo del collegamento secondario (standard)</ControlSublink.label>
+  <ControlSublink.label>sublink di controllo (standard)</ControlSublink.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublink.description>Un impianto neurale che fornisce a un meccanista un gruppo di controllo aggiuntivo. Inoltre, il collegamento secondario aumenta leggermente la velocità di lavoro di qualsiasi meccanoide controllato dal meccanista.\n\nQuesto collegamento secondario di livello standard può solo aumentare il conteggio del gruppo di controllo fino a 3. Per andare più in alto, deve essere utilizzato un impianto di collegamento secondario di livello superiore. \n\nPuò essere autoinstallato senza intervento chirurgico.\n\nQuesto impianto può essere installato fino a 3 volte per aumentarne l'effetto.</ControlSublink.description>
+  <ControlSublink.description>Un impianto neurale che fornisce a un meccanista un gruppo di controllo aggiuntivo. Inoltre, il sublink aumenta leggermente la velocità di lavoro di qualsiasi meccanoide controllato dal meccanista.\n\nQuesto collegamento secondario di livello standard può solo aumentare il conteggio del gruppo di controllo fino a 3. Per andare più in alto, deve essere utilizzato un impianto di collegamento secondario di livello superiore. \n\nPuò essere autoinstallato senza intervento chirurgico.\n\nQuesto impianto può essere installato fino a 3 volte per aumentarne l'effetto.</ControlSublink.description>
   <!-- EN: Implant sublink -->
-  <ControlSublink.comps.CompUsableImplant.useLabel>Collegamento secondario dell'impianto</ControlSublink.comps.CompUsableImplant.useLabel>
+  <ControlSublink.comps.CompUsableImplant.useLabel>Impianta il sublink</ControlSublink.comps.CompUsableImplant.useLabel>
   
   <!-- EN: control sublink (high) -->
-  <ControlSublinkHigh.label>controllo del collegamento secondario (alto)</ControlSublinkHigh.label>
+  <ControlSublinkHigh.label>sublink di controllo (avanzato)</ControlSublinkHigh.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublinkHigh.description>Un impianto neurale che fornisce a un meccanista un gruppo di controllo aggiuntivo. Inoltre, il collegamento secondario aumenta leggermente la velocità di lavoro di qualsiasi meccanoide controllato dal meccanista.\n\nQuesto impianto di alto livello può aumentare il numero dei gruppi di controllo fino a 6.\n\nPuò essere autoinstallato senza intervento chirurgico.\n\ nQuesto impianto può essere installato fino a 3 volte per aumentarne l'effetto.</ControlSublinkHigh.description>
+  <ControlSublinkHigh.description>Un impianto neurale che fornisce a un meccanista un gruppo di controllo aggiuntivo. Inoltre, il sublink aumenta leggermente la velocità di lavoro di qualsiasi meccanoide controllato dal meccanista.\n\nQuesto impianto di alto livello può aumentare il numero dei gruppi di controllo fino a 6.\n\nPuò essere autoinstallato senza intervento chirurgico.\n\ nQuesto impianto può essere installato fino a 3 volte per aumentarne l'effetto.</ControlSublinkHigh.description>
   <!-- EN: Implant high sublink -->
-  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Collegamento secondario alto dell'impianto</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Impianta il sublink avanzato</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mech gestation processor -->
   <MechFormfeeder.label>processore di gestazione mech</MechFormfeeder.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
   <MechFormfeeder.description>Un impianto che aumenta la velocità con cui un meccanista può produrre mech in un mech gestator. Il processore ottimizza il comportamento dei meccaniti nel serbatoio di formazione del mech.\n\nQuesto impianto può essere autoinstallato allo stesso modo del mechlink.\n\nQuesto impianto può essere installato fino a 6 volte per aumentarne l'effetto.</MechFormfeeder.description>
   <!-- EN: Implant {0_label} -->
-  <MechFormfeeder.comps.CompUsableImplant.useLabel>Impianto {0_label}</MechFormfeeder.comps.CompUsableImplant.useLabel>
+  <MechFormfeeder.comps.CompUsableImplant.useLabel>Impianta {0_label}</MechFormfeeder.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mechlink -->
   <Mechlink.label>mechlink</Mechlink.label>
@@ -32,22 +32,22 @@
   <!-- EN: remote repairer -->
   <RemoteRepairer.label>riparatore remoto</RemoteRepairer.label>
   <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its range. -->
-  <RemoteRepairer.description>Un aggiornamento del mechlink che consente al meccanista di riparare i mech a distanza. L'utente si collega al meccanoide e usa il proprio cervello per guidare psichicamente i suoi meccanismi di autoriparazione.\n\nQuesto impianto può essere autoinstallato senza intervento chirurgico.\n\nQuesto impianto può essere installato fino a 3 volte per aumentare la sua portata.</RemoteRepairer.description>
+  <RemoteRepairer.description>Un aggiornamento del mechlink che consente al meccanista di riparare i mech a distanza. L'utente si collega al meccanoide e usa il proprio cervello per guidare psichicamente i meccaniti di autoriparazione.\n\nQuesto impianto può essere autoinstallato senza intervento chirurgico.\n\nQuesto impianto può essere installato fino a 3 volte per aumentare la sua portata.</RemoteRepairer.description>
   <!-- EN: Implant {0_label} -->
-  <RemoteRepairer.comps.CompUsableImplant.useLabel>Impianto {0_label}</RemoteRepairer.comps.CompUsableImplant.useLabel>
+  <RemoteRepairer.comps.CompUsableImplant.useLabel>Impianta {0_label}</RemoteRepairer.comps.CompUsableImplant.useLabel>
   
   <!-- EN: remote shielder -->
   <RemoteShielder.label>schermatore remoto</RemoteShielder.label>
   <!-- EN: An implant which allows the mechanitor to place a personal defense shield on a mech. The mechanitor must continuously focus on the mech in order to maintain the shield.\n\nPlacing a shield at a distance requires a substantial amount of focused energy. It can be used to save a mech at a critical moment.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 3 times to increase its range and shield energy. -->
   <RemoteShielder.description>Un impianto che consente al meccanista di posizionare uno scudo di difesa personale su un mech. Il meccanista deve concentrarsi continuamente sul mech per mantenere lo scudo.\n\nPosizionare uno scudo a distanza richiede una notevole quantità di energia focalizzata. Può essere utilizzato per salvare un mech in un momento critico.\n\nQuesto impianto può essere autoinstallato allo stesso modo del mechlink.\n\nQuesto impianto può essere installato fino a 3 volte per aumentare la sua portata e l'energia di scudo .</RemoteShielder.description>
   <!-- EN: Implant {0_label} -->
-  <RemoteShielder.comps.CompUsableImplant.useLabel>Impianto {0_label}</RemoteShielder.comps.CompUsableImplant.useLabel>
+  <RemoteShielder.comps.CompUsableImplant.useLabel>Impianta {0_label}</RemoteShielder.comps.CompUsableImplant.useLabel>
   
   <!-- EN: repair probe -->
   <RepairProbe.label>sonda di riparazione</RepairProbe.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can repair a mechanoid. This does not affect the overall energy needed to repair a mechanoid.\n\nThe implant allows the mechanitor to plug directly into a mechanoid while they are repairing it. This allows them to more quickly understand the mech's injuries, and better-direct the mech's self-repair mechanites to assist with the repair.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
   <RepairProbe.description>Un impianto che aumenta la velocità con cui un meccanista può riparare un meccanoide. Ciò non influisce sull'energia complessiva necessaria per riparare un meccanoide.\n\nL'impianto consente al meccanista di collegarsi direttamente a un meccanoide mentre lo sta riparando. Ciò consente loro di comprendere più rapidamente le ferite del mech e di indirizzare meglio i meccanismi di autoriparazione del mech per assistere nella riparazione.\n\nQuesto impianto può essere autoinstallato allo stesso modo del Mechlink.\n\nQuesto impianto può essere installato fino a 6 volte per aumentarne l'effetto.</RepairProbe.description>
   <!-- EN: Implant {0_label} -->
-  <RepairProbe.comps.CompUsableImplant.useLabel>Impianto {0_label}</RepairProbe.comps.CompUsableImplant.useLabel>
+  <RepairProbe.comps.CompUsableImplant.useLabel>Impianta {0_label}</RepairProbe.comps.CompUsableImplant.useLabel>
   
 </LanguageData>

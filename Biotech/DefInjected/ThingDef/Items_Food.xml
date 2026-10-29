@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: baby food -->
-  <BabyFood.label>cibo per bambini</BabyFood.label>
+  <BabyFood.label>pappa</BabyFood.label>
   <!-- EN: A bland vegetarian mash. Babies love it, but children and adults will be upset if they're forced to eat it. -->
-  <BabyFood.description>Un morbido purè vegetariano. I bambini lo adorano, ma i bambini e gli adulti si arrabbierebbero se fossero costretti a mangiarlo.</BabyFood.description>
+  <BabyFood.description>Un purè vegetariano insipido. I neonati lo adorano, ma bambini e adulti si arrabbiano se sono costretti a mangiarlo.</BabyFood.description>
   
   <!-- EN: hemogen pack -->
   <HemogenPack.label>pacchetto di emogeno</HemogenPack.label>

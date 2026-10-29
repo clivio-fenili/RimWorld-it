@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: mechanitor ship (crashing) -->
-  <ShuttleCrashing_Mechanitor.label>nave meccanista (schiantarsi)</ShuttleCrashing_Mechanitor.label>
+  <ShuttleCrashing_Mechanitor.label>nave del meccanista (in caduta)</ShuttleCrashing_Mechanitor.label>
   <!-- EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
   <ShuttleCrashing_Mechanitor.description>Una nave a corto raggio utilizzata da un meccanista per trasportare mech per viaggi in orbita bassa o planetari.</ShuttleCrashing_Mechanitor.description>
   
