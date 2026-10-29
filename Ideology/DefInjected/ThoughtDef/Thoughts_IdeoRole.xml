@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: Leader of different ideoligion -->
-  <IdeoLeaderResentmentAbhorrent.label>Leader di diverse ideoligioni</IdeoLeaderResentmentAbhorrent.label>
+  <IdeoLeaderResentmentAbhorrent.label>Leader di un'altra ideoligione</IdeoLeaderResentmentAbhorrent.label>
   <!-- EN: To accept direction from a {0} is utterly shameful and abhorrent. -->
   <IdeoLeaderResentmentAbhorrent.stages.0.description>Accettare la direzione di un {0} è assolutamente vergognoso e ripugnante.</IdeoLeaderResentmentAbhorrent.stages.0.description>
   
   <!-- EN: Leader of different ideoligion -->
-  <IdeoLeaderResentmentDisapproved.label>Leader di diverse ideoligioni</IdeoLeaderResentmentDisapproved.label>
+  <IdeoLeaderResentmentDisapproved.label>Leader di un'altra ideoligione</IdeoLeaderResentmentDisapproved.label>
   <!-- EN: It's insulting to be ordered around by a {0}. -->
   <IdeoLeaderResentmentDisapproved.stages.0.description>È offensivo ricevere ordini da un {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
   
   <!-- EN: Leader of different ideoligion -->
-  <IdeoLeaderResentmentHorrible.label>Leader di diverse ideoligioni</IdeoLeaderResentmentHorrible.label>
+  <IdeoLeaderResentmentHorrible.label>Leader di un'altra ideoligione</IdeoLeaderResentmentHorrible.label>
   <!-- EN: It's shameful to be ordered around by a {0}! -->
   <IdeoLeaderResentmentHorrible.stages.0.description>È vergognoso ricevere ordini da un {0}!</IdeoLeaderResentmentHorrible.stages.0.description>
   
   <!-- EN: Leader of different ideoligion -->
-  <IdeoLeaderResentmentStandard.label>Leader di diverse ideoligioni</IdeoLeaderResentmentStandard.label>
+  <IdeoLeaderResentmentStandard.label>Leader di un'altra ideoligione</IdeoLeaderResentmentStandard.label>
   <!-- EN: I don't like having a {0} as a leader. -->
   <IdeoLeaderResentmentStandard.stages.0.description>Non mi piace avere un {0} come leader.</IdeoLeaderResentmentStandard.stages.0.description>
   
   <!-- EN: Want {ROLE_label} apparel -->
-  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Vuoi abbigliamento {ROLE_label}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>voglio abiti da {ROLE_label}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
   <!-- EN: I want to wear apparel appropriate for my role as {ROLE_labelDef} -->
-  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Voglio indossare un abbigliamento adeguato al mio ruolo di {ROLE_labelDef}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Voglio indossare abiti adatti al mio ruolo ({ROLE_label}).</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
   
   <!-- EN: No {ROLE_label} -->
-  <IdeoRoleEmpty.stages.No.label>Nessuna {ROLE_label}</IdeoRoleEmpty.stages.No.label>
+  <IdeoRoleEmpty.stages.No.label>ruolo vacante: {ROLE_label}</IdeoRoleEmpty.stages.No.label>
   <!-- EN: {0}s must have {ROLE_labelIndef}! -->
-  <IdeoRoleEmpty.stages.No.description>{0} devono avere {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
+  <IdeoRoleEmpty.stages.No.description>Come {0}, dobbiamo avere {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
   
   <!-- EN: Lost {ROLE_label} role -->
-  <IdeoRoleLost.stages.Lost_role.label>Ruolo {ROLE_label} perso</IdeoRoleLost.stages.Lost_role.label>
+  <IdeoRoleLost.stages.Lost_role.label>perso il ruolo di {ROLE_label}</IdeoRoleLost.stages.Lost_role.label>
   <!-- EN: I lost my role as {ROLE_labelDef}. -->
-  <IdeoRoleLost.stages.Lost_role.description>Ho perso il mio ruolo di {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
+  <IdeoRoleLost.stages.Lost_role.description>Ho perso il mio ruolo ({ROLE_label}).</IdeoRoleLost.stages.Lost_role.description>
   
 </LanguageData>

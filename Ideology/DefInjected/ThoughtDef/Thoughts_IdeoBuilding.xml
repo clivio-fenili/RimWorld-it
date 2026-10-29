@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: {BUILDING_labelCap} disrespected -->
-  <IdeoBuildingDisrespected.stages.disrespected.label>{BUILDING_labelCap} mancato di rispetto</IdeoBuildingDisrespected.stages.disrespected.label>
+  <IdeoBuildingDisrespected.stages.disrespected.label>{BUILDING_labelCap}: mancanza di rispetto</IdeoBuildingDisrespected.stages.disrespected.label>
   <!-- EN: We have {BUILDING_labelIndef}, but it needs to be placed in a room that satisfies the proper requirements. -->
-  <IdeoBuildingDisrespected.stages.disrespected.description>Abbiamo {BUILDING_labelIndef}, ma deve essere collocato in una stanza che soddisfi i requisiti adeguati.</IdeoBuildingDisrespected.stages.disrespected.description>
+  <IdeoBuildingDisrespected.stages.disrespected.description>Abbiamo {BUILDING_labelIndef}, ma la stanza in cui si trova non soddisfa i requisiti.</IdeoBuildingDisrespected.stages.disrespected.description>
   
   <!-- EN: Missing {BUILDING_label} -->
   <IdeoBuildingMissing.stages.Missing.label>{BUILDING_label} mancante</IdeoBuildingMissing.stages.Missing.label>

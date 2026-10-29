@@ -17,7 +17,7 @@
   <Counselled_MoodBoost.stages.counselled_by.description>Ho ricevuto consulenza da qualcuno. Era bello essere ascoltato.</Counselled_MoodBoost.stages.counselled_by.description>
   
   <!-- EN: failed to convert {0} -->
-  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>impossibile convertire {0}</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>conversione di {0} fallita</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
   <!-- EN: I tried to convert someone and it didn't work out. Awkward. -->
   <FailedConvertAbilityInitiator.stages.failed_to_convert.description>Ho provato a convertire qualcuno e non ha funzionato. Imbarazzante.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
   
@@ -32,6 +32,6 @@
   <TendedByMedicalSpecialist.stages.tended_by.description>Ho ricevuto assistenza medica da qualcuno che detiene lo status di guaritore speciale della mia ideoligione.</TendedByMedicalSpecialist.stages.tended_by.description>
   
   <!-- EN: will diminished -->
-  <WillDiminished.stages.will_diminished.label>diminuirà</WillDiminished.stages.will_diminished.label>
+  <WillDiminished.stages.will_diminished.label>volontà indebolita</WillDiminished.stages.will_diminished.label>
   
 </LanguageData>
