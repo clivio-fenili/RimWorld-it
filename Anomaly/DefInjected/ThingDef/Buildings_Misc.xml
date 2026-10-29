@@ -188,7 +188,7 @@
   <!-- EN: Pit gate opened -->
   <PitGateSpawner.building.groundSpawnerLetterLabel>Fossa accessibile</PitGateSpawner.building.groundSpawnerLetterLabel>
   <!-- EN: The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves. -->
-  <PitGateSpawner.building.groundSpawnerLetterText>Il terreno instabile è crollato nelle profondità sottostanti, formando un enorme buco.\n\nQuesta porta della fossa rimarrà aperta finché non ne condannerai l'ingresso. Esplora la porta della fossa per trovare un modo di chiuderla dal basso e per trovare oggetti utili nelle grotte sotterranee.</PitGateSpawner.building.groundSpawnerLetterText>
+  <PitGateSpawner.building.groundSpawnerLetterText>Il terreno instabile è crollato nelle profondità sottostanti, formando un enorme buco.\n\nQuesta porta della fossa rimarrà aperta finché non ne farai crollare l'ingresso. Esplora la porta della fossa per trovare un modo di chiuderla dal basso e per trovare oggetti utili nelle grotte sotterranee.</PitGateSpawner.building.groundSpawnerLetterText>
   
   <!-- EN: proximity detector -->
   <ProximityDetector.label>rilevatore di prossimità</ProximityDetector.label>
@@ -208,12 +208,12 @@
   <!-- EN: security door -->
   <SecurityDoor.label>porta di sicurezza</SecurityDoor.label>
   <!-- EN: A heavily reinforced door. It is slow to open and requires electricity, but is very strong. It's a good choice if you want to keep something dangerous out - or in. The door requires walls on either side to function. -->
-  <SecurityDoor.description>Porte blindata rinforzata. Sebbene sia lenta da aprire e richieda elettricità, è molto resistente. È una buona scelta se vuoi impedire a qualcosa di pericoloso di entrare – o uscire. La porta necessita di muri su entrambi i lati per funzionare.</SecurityDoor.description>
+  <SecurityDoor.description>Porta blindata. Sebbene sia lenta da aprire e richieda elettricità, è molto resistente. È una buona scelta se vuoi impedire a qualcosa di pericoloso di entrare – o uscire. La porta necessita di muri su entrambi i lati per funzionare.</SecurityDoor.description>
   
   <!-- EN: shard inhibitor -->
   <ShardInhibitor.label>inibitore di frammento</ShardInhibitor.label>
   <!-- EN: A shard of dark archotechnology that resonates with psychic energy, increasing the containment strength of any holding platform or spot within its radius.\n\nThe effect does not stack. -->
-  <ShardInhibitor.description>Un frammento di archotecnologia oscura che risuona con l'energia psichica, aumentando la forza di contenimento di qualsiasi piattaforma o area di detenzione nel suo raggio d'azione.\n\nL'effetto non è cumulabile.</ShardInhibitor.description>
+  <ShardInhibitor.description>Un frammento di archotecnologia oscura che risuona con l'energia psichica, aumentando la forza di contenimento di qualsiasi piattaforma di detenzione o recinto nel suo raggio d'azione.\n\nL'effetto non è cumulabile.</ShardInhibitor.description>
   
   <!-- EN: sleep suppressor -->
   <SleepSuppressor.label>inibitore del sonno</SleepSuppressor.label>
@@ -228,7 +228,7 @@
   <!-- EN: IED deadlife trap -->
   <TrapIED_Deadlife.label>trappola di resurrezione improvvisata</TrapIED_Deadlife.label>
   <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
-  <TrapIED_Deadlife.description>Un paio di conchiglie di resurrezione collegate a un innesco che esplode al tocco o all'impatto di un proiettile. Poiché è nascosta nel terreno circostante, non può essere posizionata accanto ad altri trappole. Gli animali possono percepirle quando sono calmi.\n\nLa trappola necessita di cadaveri nelle vicinanze per essere risvegliati dalla polvere di resurrezione.</TrapIED_Deadlife.description>
+  <TrapIED_Deadlife.description>Due ordigni di polvere della morte vivente collegati a un innesco che esplode al tocco o all'impatto di un proiettile. Poiché è nascosta nel terreno circostante, non può essere posizionata accanto ad altre trappole. Gli animali possono percepirla quando sono calmi.\n\nPerché la polvere della morte vivente li rianimi, servono cadaveri nelle vicinanze.</TrapIED_Deadlife.description>
   
   <!-- EN: tactical turret -->
   <Turret_TacticalTurret.label>torretta tattica</Turret_TacticalTurret.label>
