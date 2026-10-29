@@ -64,7 +64,7 @@
   -->
   <NeuralSupercharger.generalRules.rulesStrings>
     <li>subject->supercaricatore neurale</li>
-    <li>subject_story->ha implementato supercaricatori neurali nella scuola privata di [ANYPAWN_possessive]</li>
+    <li>subject_story->ha implementato supercaricatori neurali nella sua scuola privata</li>
     <li>subject_story->ha sovralimentato i neuroni di cloni allevati per accelerare enormemente il loro sviluppo</li>
     <li>subject_story->ha tentato di vietare la sovralimentazione neurale nel corso universitario che [ANYPAWN_pronoun] insegnava</li>
     <li>subject_story->si è unito a una setta transumanista in cui la sovralimentazione neurale era obbligatoria</li>

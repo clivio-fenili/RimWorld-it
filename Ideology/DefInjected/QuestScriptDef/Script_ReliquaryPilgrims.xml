@@ -20,7 +20,7 @@
   <ReliquaryPilgrims.questContentRules.rulesStrings>
     <li>pilgrimsArrivedLetterLabel->[factionAdj] [pilgrimSingularOrPlural] arrivati</li>
     <li>pilgrimsArrivedLetterText->[questDescription]</li>
-    <li>delayedRewardLetterText->[pawns0_nameDef] ti ringrazia per aver permesso a [pawns0_objective] [andFollowers] di venerare [relic_name] il [venerateDate]. Come ricompensa, [pawns0_nameDef] ti invia quanto segue tramite capsula di atterraggio (valore totale [rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>delayedRewardLetterText->[pawns0_nameDef] ti ringrazia per aver permesso a [pawns0_nameDef] [andFollowers] di venerare [relic_name] il [venerateDate]. Come ricompensa, [pawns0_nameDef] ti invia quanto segue tramite capsula di atterraggio (valore totale [rewardsMarketValue_money]):\n\n[rewards].</li>
     <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural] [hasHave] hanno terminato di venerare [relic_name] e ora [areIs] in partenza.</li>
     <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural] [hasHave] hanno lasciato la mappa.</li>
     <li>areIs(pilgrimCount==1)->è</li>

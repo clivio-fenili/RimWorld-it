@@ -25,7 +25,7 @@
   -->
   <Guilty.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Guilty)        ->[deity0_name] violentò, uccise e rubò, e una grande colpa ricadde su [deity0_pronoun], e nel suo egoismo gettò questa colpa sul suo popolo eletto, e tutti ne furono macchiati.</li>
-    <li>episode(uses=1,tag=meme_Guilty)  ->I credenti uscirono, conquistarono, bruciarono e violentarono per mille anni, e il dolore di [deity0_name] per la loro depravazione [deity0_objective] consumò.</li>
+    <li>episode(uses=1,tag=meme_Guilty)  ->I credenti uscirono, conquistarono, bruciarono e violentarono per mille anni, e il dolore per la loro depravazione consumò [deity0_name].</li>
     <li>intro(tag=meme_Guilty)           ->I [memberNamePlural] del [place_summary] [place_name] trascurarono il loro dovere verso [deity0_name], e lasciarono che l’[altarName] nel/la [altarRoomLabel] si rovinasse.</li>
     <li>conflict(tag=meme_Guilty)        ->Un [foeLeader] prestò denaro al gruppo di [memberNamePlural], che lo spese in piaceri egoistici e dimenticò l’importanza di[memeConceptDef].</li>
     <li>founderJoin(tag=meme_Guilty)     ->Un [place_job] di nome [founderName] godeva del favore di [foeLeader]. Durante il/la [ritualName], [founder_pronoun] vide i [foeSoldiers] di [foeLeader] uccidere in segreto i [memberNamePlural], ognuno armato con un(a) [place_personalWeapon]. [founderName] comprese finalmente il concetto di[memeConceptDef], e ricevette la benedizione di [deity0_name].</li>
@@ -141,12 +141,12 @@
   -->
   <Loyalist.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Loyalist)        ->[deity0_name] consigliò alle brave persone di combattere solo contro coloro che lottavano senza una causa giusta.</li>
-    <li>episode(uses=1,tag=meme_Loyalist)  ->Seguì una guerra con gli infedeli. Uno dei credenti, [believer_nameFull], cercando un vantaggio, invitò i pagani nella terra di [deity0_name], e [deity0_name] si infuriò per il tradimento, e colpì [believer_objective] diecimila volte.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->Seguì una guerra con gli infedeli. Uno dei credenti, [believer_nameFull], cercando un vantaggio, invitò i pagani nella terra di [deity0_name], e [deity0_name] si infuriò per il tradimento, e colpì [believer_nameFull] diecimila volte.</li>
     <li>intro(tag=meme_Loyalist)           ->Una comunità [memeAdjectiveFem] nel [place_summary] [place_name] adorava [deity0_name] nel suo [altarRoomLabel], ed era ferma nella sua fede.</li>
     <li>conflict(tag=meme_Loyalist)        ->Un [foeLeader] infiltrò [foeSoldiers] come spie tra i [memberNamePlural] per dividerli.</li>
     <li>founderJoin(tag=meme_Loyalist)     ->[founderName], un [place_job] [memeAdjective], fu torturato dai [foeSoldiers], ma si rifiutò di giurare fedeltà a [foeLeader].</li>
     <li>victory(tag=meme_Loyalist)         ->Con la forza di [deity0_name], [founderName] e i [memberNamePlural] non poterono essere divisi. Sconfissero i [foeSoldiers] usando ciascuno una [place_personalWeapon] e bandirono il [foeLeader] da [place_name].</li>
-    <li>setup(tag=meme_Loyalist)           ->All'inizio, il movimento di [founderName] fu colpito da governi e religioni. [founder_pronoun] non permise mai che la rabbia [founder_objective] lo portasse a commettere atrocità come fecero altri, ma non si tirò mai indietro da una lotta.</li>
+    <li>setup(tag=meme_Loyalist)           ->All'inizio, il movimento di [founderName] fu colpito da governi e religioni. Non permise mai che la rabbia [founder_objective] portasse a commettere atrocità come fecero altri, ma non si tirò mai indietro da una lotta.</li>
     <li>story(uses=1,tag=meme_Loyalist)    ->[founderName] punì sia coloro che cercarono di danneggiare gli infedeli, sia coloro che li invitarono nella casa dei credenti.</li>
     <li>lessonIntro(tag=meme_Loyalist)         ->Vidi un [foeLeader] guadagnarsi il favore dei suoi rivali mentre lasciava morire i suoi [foeSoldiers] sul campo di battaglia. Giurai allora di non essere mai come [foeLeader_pronoun], sapendo che</li>
     <li>lesson(tag=meme_Loyalist)              ->il tuo amore per il tuo amico ha senso solo perché non ami il tuo nemico</li>
@@ -234,9 +234,9 @@
     <li>conflict(tag=meme_Supremacist)        ->Un [foeLeader] approvò una legge che proibiva ai [memberNamePlural] di salire alle classi dirigenti di [place_name].</li>
     <li>founderJoin(tag=meme_Supremacist)     ->Un guerriero di nome [founderName] usò [place_massWeapon] per distruggere un [place_community]. [deity0_name] vide la crudeltà di [founderName] e [founder_objective] consacrò come legittimo governante di tutta l’umanità.</li>
     <li>victory(tag=meme_Supremacist)         ->[founderName] distrusse la capitale di [place_name] con [place_massWeapon], uccidendo il [foeLeader]. [founder_pronoun] prese il suo posto come governante di [place_name] e dell’universo oltre.</li>
-    <li>setup(tag=meme_Supremacist)           ->[founderName] costruì un esercito che estese il suo potere e la sua gloria su tutta la terra, sottomettendo coloro che si rifiutavano di seguire[founder_objective] legittimamente sotto il suo dominio.</li>
+    <li>setup(tag=meme_Supremacist)           ->[founderName] costruì un esercito che estese il suo potere e la sua gloria su tutta la terra, sottomettendo coloro che si rifiutavano di seguir[founder_objective] legittimamente sotto il suo dominio.</li>
     <li>story(uses=1,tag=meme_Supremacist)    ->[founderName] ordinò a tutti gli stranieri di sottomettersi. Quando la prima città si rifiutò, [founder_pronoun] usò [place_massWeapon] per uccidere tutti coloro che si trovavano all’interno.</li>
-    <li>lessonIntro(tag=meme_Supremacist)         ->Guardai questo [foeLeader], con i suoi miserabili [foeSoldiers], tutto quel potere sprecato. Tentai di convincere[foeLeader_objective] che</li>
+    <li>lessonIntro(tag=meme_Supremacist)         ->Guardai questo [foeLeader], con i suoi miserabili [foeSoldiers], tutto quel potere sprecato. Tentai di convincer[foeLeader_objective] che</li>
     <li>lesson(tag=meme_Supremacist)              ->da tempo abbiamo dimostrato di avere la forza per governare legittimamente questo universo</li>
     <li>lessonReinforcement(tag=meme_Supremacist) ->Ecco perché siamo orgogliosi di esprimere la forza dei nostri cuori con i talloni dei nostri stivali.</li>
     <li>archistBasis(tag=meme_Supremacist)    ->Ci sono voluti umani superiori per creare gli archeotecnici, affinché questi potessero essere superiori a tutti.</li>

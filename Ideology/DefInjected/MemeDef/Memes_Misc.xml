@@ -1311,7 +1311,7 @@
     <li>animistFact(tag=meme_TreeConnection)     ->If a tree falls in the forest, its spirit makes a sound that all other spirits can hear.</li>
   -->
   <TreeConnection.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_TreeConnection)        ->[deity0_name] radicò gli alberi saldamente nella terra, ma li fece crescere con fermezza verso il cielo. Questa è la prima lezione di [deity0_name] per conoscere[deity0_objective].</li>
+    <li>creation(tag=meme_TreeConnection)        ->[deity0_name] radicò gli alberi saldamente nella terra, ma li fece crescere con fermezza verso il cielo. Questa è la prima lezione di [deity0_name] per conoscer[deity0_objective].</li>
     <li>episode(uses=1,tag=meme_TreeConnection)  ->Le foreste di [deity0_name] rinnovano l’aria che il suo popolo respira, offrono i rami sotto cui si riparano e sono la dispensa da cui si nutrono.</li>
     <li>intro(tag=meme_TreeConnection)           ->Quando i primi arboristi arrivarono per la prima volta a [place_summary] [place_name], crearono un boschetto sacro di [TreeType] dove poter adorare il [deity0_type] [deity0_name].</li>
     <li>conflict(tag=meme_TreeConnection)        ->Un avido [foeLeader] abbatté molte foreste per le sue fattorie e fabbriche, e i [memberNamePlural] piansero per gli alberi uccisi.</li>
