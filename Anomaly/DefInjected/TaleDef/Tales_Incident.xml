@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: death pall -->
-  <DeathPall.label>brume funeste</DeathPall.label>
+  <DeathPall.label>nebbia funesta</DeathPall.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] facing the encroaching death pall</li>
     <li>image->[PAWN_nameFull] gazing in horror as the death pall blankets the land, resurrecting the dead [circumstance_group]</li>
@@ -25,7 +25,7 @@
     <li>image->[PAWN_nameFull] guarda con orrore la nebbia funesta che invade la sua pacifica colonia trasformandola in un campo di battaglia contro i morti [circumstance_group]</li>
     <li>circumstance_phrase->e soffoca le sue preghiere disperate di salvezza</li>
     <li>circumstance_phrase->e diffonde l’odore di putrefazione e disperazione al suo passaggio</li>
-    <li>circumstance_phrase->e {pawn_gender ? lo : la : lo/la} intrappola in mezzo a un’orda di zombie</li>
+    <li>circumstance_phrase->e {PAWN_gender ? lo : la : lo/la} intrappola in mezzo a un’orda di zombie</li>
     <li>desc_sentence->Nel cuore della nebbia funesta, [PAWN_nameDef] si prepara a combattere.</li>
     <li>desc_sentence->Il terrore si impadronisce degli amici di [PAWN_nameDef] di fronte all’invasione della nebbia funesta.</li>
     <li>desc_sentence->[PAWN_nameDef] non può fare a meno di rabbrividire vedendo la nebbia funesta diffondersi.</li>
@@ -52,7 +52,7 @@
   <UnnaturalDarkness.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef] affronta l’oscurità innaturale</li>
     <li>image->[PAWN_nameFull] resta a bocca aperta guardando le tenebre impenetrabili inghiottire il mondo [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] è {pawn_gender ? circondato : circondata : circondato/a} da pilastri neri che cadono dal cielo, da cui emanano le tenebre dilaganti [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] è {PAWN_gender ? circondato : circondata : circondato/a} da pilastri neri che cadono dal cielo, da cui emanano le tenebre dilaganti [circumstance_group]</li>
     <li>image->[PAWN_nameFull] fatica a ritrovare la strada nell’oscurità opprimente, con dei noctol alle calcagna, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] osserva la marea di ombre inghiottire il mondo [circumstance_group]</li>
     <li>circumstance_phrase->mentre i suoi amici tentano disperatamente di ritrovare la sicurezza della luce</li>
