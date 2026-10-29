@@ -116,15 +116,15 @@
   <!-- EN: Gestating -->
   <Gestating>Gestazione</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
-  <Escorting>Scortando {TARGET_labelShort}.</Escorting>
+  <Escorting>Sta scortando {TARGET_labelShort}.</Escorting>
   <!-- EN: Worker -->
   <Worker>Lavoratore</Worker>
   <!-- EN: Waiting for -->
-  <WaitingFor>Aspettando</WaitingFor>
+  <WaitingFor>In attesa di</WaitingFor>
   <!-- EN: Uncontrolled -->
   <Uncontrolled>Incontrollato</Uncontrolled>
   <!-- EN: incoming {0} -->
-  <BossgroupIncoming>in arrivo {0}</BossgroupIncoming>
+  <BossgroupIncoming>{0} in arrivo</BossgroupIncoming>
 
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
@@ -136,33 +136,33 @@
   <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
   <DeathrestCapacityDesc>Ciò determina a quanti edifici di riposo mortale una persona può connettersi durante il riposo mortale. Ogni edificio riposo mortale conferisce un vantaggio specifico, quindi è meglio essere in grado di connettersi a più di essi.\n\nLa capacità di riposo mortale può essere aumentata utilizzando i sieri di riposo mortale. Questi sieri possono essere acquistati dai commercianti.</DeathrestCapacityDesc>
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
-  <PawnIsConnectedToBuildings>{PAWN_nameDef} è collegato a {CURRENT} / {MAX} (max) edifici di riposo mortale.</PawnIsConnectedToBuildings>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef} è collegat{PAWN_gender ? o : a} a {CURRENT} / {MAX} (max) edifici di riposo mortale.</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
-  <Wake>svegliati adesso</Wake>
+  <Wake>sveglia ora</Wake>
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
-  <WakeDesc>Svegliati dal riposo mortale.\n\n{PAWN_nameDef} è stato nel riposo mortale per {DURATION}.</WakeDesc>
+  <WakeDesc>Sveglia dal riposo mortale.\n\n{PAWN_nameDef} è in riposo mortale da {DURATION}.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} deve essere sottoposto a riposo mortale per almeno {TOTAL}. Svegliare {PAWN_objective} presto farà ammalare {PAWN_objective} e {PAWN_pronoun} non trarrà beneficio da alcun edificio del riposo mortale.</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} deve restare in riposo mortale per almeno {TOTAL}. Svegliarl{PAWN_gender ? o : a} prima l{PAWN_gender ? o : a} farà ammalare e non trarrà beneficio da alcun edificio del riposo mortale.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
-  <WakeExtraDesc_Safe>{PAWN_nameDef} ora può riattivarsi in sicurezza.</WakeExtraDesc_Safe>
+  <WakeExtraDesc_Safe>{PAWN_nameDef} ora può svegliarsi in sicurezza.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
-  <CannotWakeNotEnoughHemogen>Impossibile riattivare. Serve almeno {0} emogeno.</CannotWakeNotEnoughHemogen>
+  <CannotWakeNotEnoughHemogen>Impossibile svegliarsi. Serve almeno {0} di emogeno.</CannotWakeNotEnoughHemogen>
   <!-- EN: Auto-wake -->
-  <AutoWake>Riattivazione automatica</AutoWake>
+  <AutoWake>Risveglio automatico</AutoWake>
   <!-- EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
-  <AutoWakeDesc>Quando è attivo, {PAWN_nameDef} si riattiverà automaticamente una volta completato il riposo mortale di {PAWN_possessive}.\n\nMentre è disattivato, {PAWN_pronoun} continuerà il riposo mortale finché non riattivi {PAWN_objective} manualmente.</AutoWakeDesc>
+  <AutoWakeDesc>Se attivo, {PAWN_nameDef} si sveglierà automaticamente al termine del riposo mortale.\n\nSe disattivato, continuerà il riposo mortale finché non l{PAWN_gender ? o : a} svegli manualmente.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
-  <IsDeathresting>{PAWN_nameDef} sta riposando a morte.</IsDeathresting>
+  <IsDeathresting>{PAWN_nameDef} è in riposo mortale.</IsDeathresting>
   <!-- EN: cannot deathrest -->
   <CannotDeathrest>non può fare il riposo mortale</CannotDeathrest>
   <!-- EN: Start deathrest -->
   <StartDeathrest>Inizia il riposo mortale</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-  <ConfirmExitDeathrestUnderMinDays>Per completare in sicurezza il riposo mortale occorre {MINDURATION}, ma {PAWN_nameDef} lo ha fatto solo per {CURDURATION}.\n\nSvegliare {PAWN_nameDef} ora interromperebbe il {PAWN_possessive} riposo mortale, sbilanciando il {PAWN_possessive} metabolismo e facendo ammalare {PAWN_objective} per i giorni a venire.\n\nSei sicuro di voler riattivare {PAWN_objective}?</ConfirmExitDeathrestUnderMinDays>
+  <ConfirmExitDeathrestUnderMinDays>Per completare in sicurezza il riposo mortale occorre {MINDURATION}, ma {PAWN_nameDef} lo ha fatto solo per {CURDURATION}.\n\nSvegliare {PAWN_nameDef} ora interromperebbe il suo riposo mortale, sbilanciandone il metabolismo e facendol{PAWN_gender ? o : a} ammalare per i giorni a venire.\n\nSei sicuro di volerl{PAWN_gender ? o : a} svegliare?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
-  <Deathresting>riposo a morte</Deathresting>
+  <Deathresting>in riposo mortale</Deathresting>
   <!-- EN: can wake safely now. -->
-  <CanWakeSafely>ora posso svegliarmi sano e salvo.</CanWakeSafely>
+  <CanWakeSafely>ora può svegliarsi in sicurezza.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
   <DisabledByGene>Disabilitato dal gene</DisabledByGene>
   <!-- EN: {PAWN_nameDef} is in critical condition. -->
@@ -176,13 +176,13 @@
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
   <PawnShouldDeathrestNow>{PAWN_nameDef} dovrebbe entrare in riposo mortale presto per evitare l'esaurimento.</PawnShouldDeathrestNow>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
-  <AutoTakeHemogenDesc>Determina se {PAWN_nameDef} ingerirà automaticamente i pacchetti di emogeno quando l'emogeno di {PAWN_possessive} è inferiore a {MIN}.\n\nL'inserimento automatico è attualmente {ONOFF}.</AutoTakeHemogenDesc>
+  <AutoTakeHemogenDesc>Determina se {PAWN_nameDef} ingerirà automaticamente i pacchetti di emogeno quando il suo emogeno è inferiore a {MIN}.\n\nL'assunzione automatica è attualmente {ONOFF}.</AutoTakeHemogenDesc>
   <!-- EN: Consume hemogen below -->
   <ConsumeHemogenBelow>Consuma emogeno al di sotto di</ConsumeHemogenBelow>
   <!-- EN: Never consume hemogen. -->
   <NeverConsumeHemogen>Non consumare mai emogeno.</NeverConsumeHemogen>
   <!-- EN: Will kill -->
-  <WillKill>ucciderà</WillKill>
+  <WillKill>Ucciderà</WillKill>
   <!-- EN: Will cause major blood loss -->
   <WillCauseSeriousBloodloss>Provocherà una grave perdita di sangue</WillCauseSeriousBloodloss>
   <!-- EN: too small -->
@@ -198,7 +198,7 @@
   <!-- EN: Minimum is {0} to apply -->
   <MinimumNeededToApply>Il minimo è {0} perché abbia effetto</MinimumNeededToApply>
   <!-- EN: Cannot deathrest -->
-  <CannotAssignBedCannotDeathrest>non può fare il riposo mortale</CannotAssignBedCannotDeathrest>
+  <CannotAssignBedCannotDeathrest>Non può fare il riposo mortale</CannotAssignBedCannotDeathrest>
   <!-- EN: Already bound to {0_nameDef} -->
   <CannotAssignAlreadyBound>Già associato a {0_nameDef}</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
@@ -224,13 +224,13 @@
   <!-- EN: an unoccupied bed -->
   <RitualTargetChildBirth>un letto non occupato</RitualTargetChildBirth>
   <!-- EN: No appropriate bed for giving birth. -->
-  <NoAppropriateBedChildBirth>Letto non adatto al parto.</NoAppropriateBedChildBirth>
+  <NoAppropriateBedChildBirth>Nessun letto adatto al parto.</NoAppropriateBedChildBirth>
   <!-- EN: No doctor around. -->
-  <NoDoctorChildBirth>Nessun dottore in giro.</NoDoctorChildBirth>
+  <NoDoctorChildBirth>Nessun medico nei paraggi.</NoDoctorChildBirth>
   <!-- EN: Can't use this bed. -->
-  <CantUseThisBed>Non posso usare questo letto.</CantUseThisBed>
+  <CantUseThisBed>Impossibile usare questo letto.</CantUseThisBed>
   <!-- EN: Not in labor. -->
-  <NotInLabor>Non in travaglio.</NotInLabor>
+  <NotInLabor>Non è in travaglio.</NotInLabor>
   <!-- EN: labor -->
   <Labor>travaglio</Labor>
   <!-- EN: dilation -->
@@ -246,7 +246,7 @@
   <!-- EN: Pregnancy approach -->
   <PregnancyApproach>Approccio alla gravidanza</PregnancyApproach>
   <!-- EN: Click to change pregnancy approach. -->
-  <ClickToChangePregnancyApproach>Fare clic per modificare l'approccio alla gravidanza.</ClickToChangePregnancyApproach>
+  <ClickToChangePregnancyApproach>Fai clic per modificare l'approccio alla gravidanza.</ClickToChangePregnancyApproach>
   <!-- EN: Pregnancy is not possible -->
   <PregnancyNotPossible>La gravidanza non è possibile</PregnancyNotPossible>
   <!-- EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
@@ -280,7 +280,7 @@
   <!-- EN: Auto-load -->
   <GenepackAutoLoad>Caricamento automatico</GenepackAutoLoad>
   <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
-  <GenepackAutoLoadDesc>Se attivati, i trasportatori memorizzeranno automaticamente questo pacchetto genetico in una banca genetica.</GenepackAutoLoadDesc>
+  <GenepackAutoLoadDesc>Se attivo, i trasportatori memorizzeranno automaticamente questo pacchetto genetico in una banca genetica.</GenepackAutoLoadDesc>
   <!-- EN: Forced traits -->
   <ForcedTraits>Tratti forzati</ForcedTraits>
   <!-- EN: Suppressed traits -->
@@ -298,13 +298,13 @@
   <!-- EN: The total complexity of all the genes in use. -->
   <ComplexityTotalDesc>La complessità totale di tutti i geni in uso.</ComplexityTotalDesc>
   <!-- EN: metabolic efficiency -->
-  <Metabolism>Efficienza metabolica</Metabolism>
+  <Metabolism>efficienza metabolica</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismDesc>L'efficienza metabolica totale di questi geni una volta assemblati. Alta efficienza significa che una persona ha bisogno di meno cibo; una bassa efficienza significa che devono mangiare di più.</MetabolismDesc>
+  <MetabolismDesc>L'efficienza metabolica totale di questi geni una volta assemblati. Alta efficienza significa che una persona ha bisogno di meno cibo; una bassa efficienza significa che deve mangiare di più.</MetabolismDesc>
   <!-- EN: Metabolic efficiency -->
   <MetabolismTotal>Efficienza metabolica</MetabolismTotal>
   <!-- EN: The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more. -->
-  <MetabolismTotalDesc>L’efficienza metabolica totale di tutti i geni del genoma. Alta efficienza significa che una persona ha bisogno di meno cibo; una bassa efficienza significa che devono mangiare di più.</MetabolismTotalDesc>
+  <MetabolismTotalDesc>L’efficienza metabolica totale di tutti i geni del genoma. Alta efficienza significa che una persona ha bisogno di meno cibo; una bassa efficienza significa che deve mangiare di più.</MetabolismTotalDesc>
   <!-- EN: Number of genes -->
   <NumberOfGenes>Numero di geni</NumberOfGenes>
   <!-- EN: Gene price factors -->
@@ -314,13 +314,13 @@
   <!-- EN: Archite total -->
   <ArchitesTotal>Architi totali</ArchitesTotal>
   <!-- EN: Archite capsules -->
-  <ArchitesRequired>Capsule di Archite</ArchitesRequired>
+  <ArchitesRequired>Capsule di archite</ArchitesRequired>
   <!-- EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-  <ArchitesRequiredDesc>Gli Architi sono meccaniti archotecnici: dispositivi microscopici che possono operare direttamente su cellule e molecole, creati da archotech superintelligenti. Sono capaci di imprese inspiegabili e alcuni geni funzionano solo se supportati dal macchinario ultraterreno degli archotech. Gli umani non possono creare architi: li trovano solo quando un archotech ne produce alcuni per una ragione sconosciuta.</ArchitesRequiredDesc>
+  <ArchitesRequiredDesc>Gli architi sono meccaniti archotecnici: dispositivi microscopici che possono operare direttamente su cellule e molecole, creati da archotech superintelligenti. Sono capaci di imprese inspiegabili e alcuni geni funzionano solo se supportati dal macchinario ultraterreno degli archotech. Gli umani non possono creare architi: li trovano solo quando un archotech ne produce alcuni per una ragione sconosciuta.</ArchitesRequiredDesc>
   <!-- EN: Cancel xenogerm -->
   <CancelXenogerm>Annulla lo xenogerme</CancelXenogerm>
   <!-- EN: Stop all work on the current xenogerm. -->
-  <CancelXenogermDesc>Interrompere tutti i lavori sull’attuale xenogerme.</CancelXenogermDesc>
+  <CancelXenogermDesc>Interrompi tutti i lavori sull'attuale xenogerme.</CancelXenogermDesc>
   <!-- EN: Allow all genepacks -->
   <AllowAllGenepacks>Consenti tutti i pacchetti genetici</AllowAllGenepacks> 
   <!-- EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
@@ -348,7 +348,7 @@
   <!-- EN: Remove this genepack from the loading list. -->
   <RemoveFromLoadingListDesc>Rimuovi questo pacchetto genetico dalla lista di caricamento.</RemoveFromLoadingListDesc> 
   <!-- EN: Recombine -->
-  <Recombine>Ricombinare</Recombine>
+  <Recombine>Ricombina</Recombine>
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
   <RecombineDesc>Crea un nuovo xenogerme impiantabile utilizzando i dati dei pacchetti genetici nella tua libreria genetica.</RecombineDesc>
   <!-- EN: Genes -->
@@ -356,7 +356,7 @@
   <!-- EN: Order implantation -->
   <ImplantXenogerm>Ordina l'impianto</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
-  <ImplantXenogermDesc>Impiantalo in una persona per sovrascrivere parzialmente il suo codice genetico.\n\nQuesta è un'operazione chirurgica, quindi richiede un medico, un letto medico e {MEDICINEAMOUNT} di medicina.</ImplantXenogermDesc>
+  <ImplantXenogermDesc>Impiantalo in una persona per sovrascrivere parzialmente il suo codice genetico.\n\nQuesta è un'operazione chirurgica, quindi richiede un medico, un letto medico e {MEDICINEAMOUNT} unità di medicina.</ImplantXenogermDesc>
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>L'impianto di uno xenogerme metterà {PAWN_nameDef} in coma mentre lo xenogerme si integra. In media, dura {COMADURATION}. La durata del coma dipende dalle competenze mediche del medico e dalla qualità delle strutture mediche.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
@@ -366,7 +366,7 @@
   <!-- EN: Would you like to continue? -->
   <WouldYouLikeToContinue>Vuoi continuare?</WouldYouLikeToContinue>
   <!-- EN: Cancel implanting -->
-  <CancelImplanting>Annullare l'impianto</CancelImplanting>
+  <CancelImplanting>Annulla l'impianto</CancelImplanting>
   <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
   <CancelImplantingDesc>Annulla l'impianto di questo xenogerme in {PAWN_nameDef}.</CancelImplantingDesc>
   <!-- EN: Xenotype -->
@@ -378,7 +378,7 @@
   <!-- EN: Factor for genetic metabolism -->
   <FactorForMetabolism>Fattore del metabolismo genetico</FactorForMetabolism>
   <!-- EN: Progress -->
-  <Progress>progresso</Progress>
+  <Progress>Progresso</Progress>
   <!-- EN: In sunlight -->
   <InSunlight>Alla luce del sole</InSunlight>
   <!-- EN: {0_labelShort} is exposed to the sky. -->
@@ -386,15 +386,15 @@
   <!-- EN: Insert person -->
   <InsertPerson>Inserisci persona</InsertPerson>
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
-  <InsertPersonGeneExtractorDesc>Inserisci una persona nell'estrattore di geni. Il loro materiale genetico verrà estratto e utilizzato per creare un pacchetto genetico contenente una selezione casuale dei loro geni.\n\nL'estrazione del gene è dolorosa e lascerà il soggetto debole e sonnolento per un certo numero di giorni. Il processo è letale per coloro i cui geni sono attualmente in ricrescita.</InsertPersonGeneExtractorDesc>
+  <InsertPersonGeneExtractorDesc>Inserisci una persona nell'estrattore di geni. Il suo materiale genetico verrà estratto e usato per creare un pacchetto genetico con una selezione casuale dei suoi geni.\n\nL'estrazione dei geni è dolorosa e lascerà il soggetto debole e sonnolento per un certo numero di giorni. Il processo è letale per coloro i cui geni sono attualmente in ricrescita.</InsertPersonGeneExtractorDesc>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <ConfirmExtractXenogermWillKill>Attenzione: i geni di {PAWN_nameDef} stanno ricrescendo. L'estrazione dei geni {PAWN_possessive} prima che vengano ricresciuti ucciderà {PAWN_objective}.\n\nSei sicuro di voler continuare?</ConfirmExtractXenogermWillKill>
+  <ConfirmExtractXenogermWillKill>Attenzione: i geni di {PAWN_nameDef} stanno ricrescendo. Estrarli prima che siano ricresciuti l{PAWN_gender ? o : a} ucciderà.\n\nSei sicuro di voler continuare?</ConfirmExtractXenogermWillKill>
   <!-- EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
-  <GeneExtractionComplete>Estrazione del gene completata per {PAWN_nameDef}. Estratto</GeneExtractionComplete>
+  <GeneExtractionComplete>Estrazione dei geni completata per {PAWN_nameDef}. Estratto</GeneExtractionComplete>
   <!-- EN: Insert xenogerm -->
-  <InsertXenogerm>Inserire lo xenogerme</InsertXenogerm>
+  <InsertXenogerm>Inserisci lo xenogerme</InsertXenogerm>
   <!-- EN: Insert a xenogerm to apply during growth. -->
-  <InsertXenogermDesc>Inserire uno xenogerme da applicare durante la crescita.</InsertXenogermDesc>
+  <InsertXenogermDesc>Inserisci uno xenogerme da applicare durante la crescita.</InsertXenogermDesc>
   <!-- EN: Waiting for {PAWN_nameDef}. -->
   <WaitingForPawn>In attesa di {PAWN_nameDef}.</WaitingForPawn>
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
@@ -416,15 +416,15 @@
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
   <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} deve assumere {0} regolarmente per sopravvivere. Dopo {DEFICIENCYDURATION} senza {0}, {PAWN_labelShort} soffrirà di una carenza di {0}. Dopo {COMADURATION}, {PAWN_labelShort} entrerà in coma. Dopo {DEATHDURATION}, {PAWN_labelShort} morirà.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
-  <ChemicalDependency>Dipendenza {CHEMICAL_label}</ChemicalDependency>
+  <ChemicalDependency>Dipendenza da {CHEMICAL_label}</ChemicalDependency>
   <!-- EN: Xenogerm -->
   <Xenogerm>Xenogerme</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
-  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef} continuerà a riposare finché {PAWN_pronoun} avrà ferite letali.</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef} resterà in riposo mortale finché avrà ferite letali.</PawnWillKeepDeathrestingLethalInjuries>
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
-  <PawnWillKeepRegeneratingLethalInjuries>{PAWN_nameDef} rimarrà in coma rigenerativo finché {PAWN_pronoun} avrà ferite letali.</PawnWillKeepRegeneratingLethalInjuries>
+  <PawnWillKeepRegeneratingLethalInjuries>{PAWN_nameDef} rimarrà in coma rigenerativo finché avrà ferite letali.</PawnWillKeepRegeneratingLethalInjuries>
   <!-- EN: Deathrest stopped -->
-  <DeathrestPaused>Il riposo mortale si è fermato</DeathrestPaused>
+  <DeathrestPaused>Riposo mortale interrotto</DeathrestPaused>
   <!-- EN: Lethal injuries -->
   <LethalInjuries>Lesioni letali</LethalInjuries>
   <!-- EN: deathrest -->
@@ -432,20 +432,20 @@
   <!-- EN: capacity -->
   <Capacity>capacità</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
-  <MissingGeneRomanceChance>Possibilità di relazione con non {GENE}</MissingGeneRomanceChance>
+  <MissingGeneRomanceChance>Probabilità di relazione con chi non ha {GENE}</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
-  <NotInGeneBank>Non nella banca genetica</NotInGeneBank>
+  <NotInGeneBank>Non è nella banca genetica</NotInGeneBank>
 
   <!-- Child birth -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
-  <ChildBirthAlwaysHealthy_Desc>Riuniamoci per aiutare una madre a partorire. Un medico può aiutare a far nascere il bambino.</ChildBirthAlwaysHealthy_Desc>
+  <ChildBirthAlwaysHealthy_Desc>Riunisci delle persone per aiutare una madre a partorire. Un medico può aiutare a far nascere il bambino.</ChildBirthAlwaysHealthy_Desc>
   <!-- EN: until the baby is born -->
   <UntilBabyIsBorn>fino alla nascita del bambino</UntilBabyIsBorn>
 
   <!-- EN: Children want to learn from different activities at different times. -->
   <LearningDesireTooltip>I bambini vogliono imparare da attività diverse in momenti diversi.</LearningDesireTooltip>
   <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
-  <DevelopmentHealthGizmoTooltip>La salute dello sviluppo è la media del bisogno di apprendimento di un bambino dal suo ultimo compleanno.\n\nI bambini con una salute dello sviluppo più elevata avranno più opzioni durante i momenti di crescita e acquisiranno più passione per le competenze.</DevelopmentHealthGizmoTooltip>
+  <DevelopmentHealthGizmoTooltip>La salute dello sviluppo è la media del bisogno di apprendimento di un bambino dal suo ultimo compleanno.\n\nI bambini con una salute dello sviluppo più elevata avranno più opzioni durante i momenti di crescita e acquisiranno più passioni per le abilità.</DevelopmentHealthGizmoTooltip>
 
   <!-- EN: Must not be placed close to another {0_label} -->
   <MustNotBePlacedCloseToAnother>Non deve essere posizionato vicino a un'altra {0_label}</MustNotBePlacedCloseToAnother>
@@ -464,11 +464,11 @@
 
   <!-- Lactation -->
   <!-- EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
-  <LactatingAddedNutritionPerDay>Consumare un nutrimento extra di {0} al giorno per produrre latte (la velocità di produzione del latte è del {1_percentage} a causa dell'attuale livello di cibo).</LactatingAddedNutritionPerDay>
+  <LactatingAddedNutritionPerDay>Consuma {0} di nutrimento in più al giorno per produrre latte (la velocità di produzione del latte è del {1_percentage} a causa dell'attuale livello di cibo).</LactatingAddedNutritionPerDay>
   <!-- EN: Lactation is paused because milk fullness is 100% -->
-  <LactatingStoppedBecauseFull>L'allattamento viene sospeso perché la pienezza del latte è al 100%</LactatingStoppedBecauseFull>
+  <LactatingStoppedBecauseFull>La lattazione è sospesa perché il latte è al 100%</LactatingStoppedBecauseFull>
   <!-- EN: Lactation is paused due to starvation. -->
-  <LactatingStoppedBecauseHungry>L'allattamento viene sospeso a causa della fame.</LactatingStoppedBecauseHungry>
+  <LactatingStoppedBecauseHungry>La lattazione è sospesa per la fame.</LactatingStoppedBecauseHungry>
 
   <!-- Mech gestating -->
   <!-- EN: Current gestation cycle -->
@@ -478,44 +478,44 @@
   <!-- EN: Gestation cycles -->
   <GestationCycles>Cicli di gestazione</GestationCycles>
   <!-- EN: Gestating {0} -->
-  <GestatingMech>Gestazione {0}</GestatingMech>
+  <GestatingMech>Gestazione di {0}</GestatingMech>
   <!-- EN: Gestated {0} -->
-  <GestatedMech>Gestata {0}</GestatedMech>
+  <GestatedMech>Gestazione completata: {0}</GestatedMech>
   <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
   <GestatingMechRequiresMechanitor>Richiede {PAWN_nameDef} per continuare la gestazione</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>Richiede {PAWN_nameDef} per essere completato</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
-  <GestationComplete>Gestazione completa</GestationComplete>
+  <GestationComplete>Gestazione completata</GestationComplete>
   <!-- EN: Resurrecting {0} -->
-  <ResurrectingMech>Resuscitare {0}</ResurrectingMech>
+  <ResurrectingMech>Resurrezione di {0}</ResurrectingMech>
   <!-- EN: Resurrected {0} -->
-  <ResurrectedMech>{0} risorto</ResurrectedMech>
+  <ResurrectedMech>Resurrezione completata: {0}</ResurrectedMech>
 
   <!-- Carrier -->
   <!-- EN: Release {0} -->
   <MechCarrierRelease>Rilascia {0}</MechCarrierRelease>
   <!-- EN: Release a swarm of up to {0} {1}. Each {2} costs {3} {4} to build. If the parent is destroyed then all the linked {1} will die. {1} cannot be recharged and will die once their power source runs out. -->
-  <MechCarrierDesc>Libera uno sciame fino a {0} {1}. Ogni {2} costa {3} {4} per essere costruito. Se il genitore viene distrutto, tutti i {1} collegati moriranno. {1} non può essere ricaricato e morirà una volta esaurita la fonte di energia.</MechCarrierDesc>
+  <MechCarrierDesc>Libera uno sciame fino a {0} {1}. Ogni {2} costa {3} {4} per essere costruito. Se il mech che li genera viene distrutto, tutti i {1} collegati moriranno. I {1} non possono essere ricaricati e moriranno una volta esaurita la loro fonte di energia.</MechCarrierDesc>
   <!-- EN: Not enough resources -->
-  <MechCarrierNotEnoughResources>non abbastanza risorse</MechCarrierNotEnoughResources>
+  <MechCarrierNotEnoughResources>Risorse insufficienti</MechCarrierNotEnoughResources>
   <!-- EN: Autofill -->
-  <MechCarrierAutofillResources>Compilazione automatica</MechCarrierAutofillResources>
+  <MechCarrierAutofillResources>Riempimento automatico</MechCarrierAutofillResources>
   <!-- EN: Click to set the desired autofill amount. -->
-  <MechCarrierClickToSetAutofillAmount>Fare clic per impostare la quantità di riempimento automatico desiderata.</MechCarrierClickToSetAutofillAmount>
+  <MechCarrierClickToSetAutofillAmount>Fai clic per impostare la quantità di riempimento automatico desiderata.</MechCarrierClickToSetAutofillAmount>
   <!-- EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
-  <MechCarrierAutofillDesc>Questo importo di riempimento automatico determina la quantità massima di risorse che i tuoi coloni inseriranno automaticamente in questo {0}. Le risorse possono essere utilizzate per creare {1}.</MechCarrierAutofillDesc>
+  <MechCarrierAutofillDesc>La quantità di riempimento automatico determina la quantità massima di risorse che i tuoi coloni inseriranno automaticamente in {0}. Le risorse possono essere utilizzate per creare {1}.</MechCarrierAutofillDesc>
 
   <!-- Mech power cell -->
   <!-- EN: Power cell -->
   <MechPowerCell>Cella di energia</MechPowerCell>
   <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
-  <MechPowerCellTip>I monelli di guerra hanno una fonte di energia una tantum. Quando la cella di energia si esaurisce, il meccanoide muore.</MechPowerCellTip>
+  <MechPowerCellTip>I monelli di guerra hanno una fonte di energia non ricaricabile. Quando la cella di energia si esaurisce, il meccanoide muore.</MechPowerCellTip>
   
 
   <!-- Bossgroup -->
   <!-- EN: available in {0}. -->
-  <BossgroupAvailableIn>disponibile in {0}.</BossgroupAvailableIn>
+  <BossgroupAvailableIn>disponibile tra {0}.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
   <RequiresMechanitor>richiede meccanista</RequiresMechanitor>
 
@@ -542,7 +542,7 @@
   <AbilityMechFirefoampopRecharging>Firefoam pop si ricarica tra {0}</AbilityMechFirefoampopRecharging>
 
   <!-- EN: Polluted {0} -->
-  <PollutedTerrain>Inquinato {0}</PollutedTerrain>
+  <PollutedTerrain>{0} inquinato</PollutedTerrain>
 
   <!-- Growth vat -->
   <!-- EN: Biostarvation -->
@@ -550,11 +550,11 @@
   <!-- EN: One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die. -->
   <BiostarvationExplanation>Una o più vasche di crescita stanno sperimentando la biofame per mancanza di nutrimento o energia.\n\nSe la biofame raggiunge il 100%, le persone contenute moriranno.</BiostarvationExplanation>
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
-  <InsertPersonGrowthVatDesc>Inserire una persona nella vasca di crescita. Invecchieranno 20 volte più velocemente del normale.</InsertPersonGrowthVatDesc>
+  <InsertPersonGrowthVatDesc>Inserisci una persona nella vasca di crescita. Invecchierà 20 volte più velocemente del normale.</InsertPersonGrowthVatDesc>
   <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>Impiantare un embrione nella vasca di crescita. Dopo la gestazione per {0}, nella vasca verrà prodotto un bambino completamente formato, si spera in buona salute.</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>Impianta un embrione nella vasca di crescita. Dopo la gestazione per {0}, nella vasca verrà prodotto un bambino completamente formato, si spera in buona salute.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
-  <ImplantEmbryo>Inserire l'embrione</ImplantEmbryo>
+  <ImplantEmbryo>Inserisci l'embrione</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->
   <CannotInsertEmbryo>Impossibile inserire l'embrione</CannotInsertEmbryo>
   <!-- EN: Already contains embryo. -->
@@ -570,7 +570,7 @@
   <!-- EN: Person selected -->
   <PersonSelected>Persona selezionata</PersonSelected>
   <!-- EN: No non-biostarving people of acceptable age. To enter the growth vat, the person must be below {0} years old and not currently biostarving. -->
-  <NoPawnsCanEnterGrowthVat>Nessuna persona non affamata di età accettabile. Per entrare nella vasca di crescita, la persona deve avere meno di {0} anni e non essere attualmente affamata.</NoPawnsCanEnterGrowthVat>
+  <NoPawnsCanEnterGrowthVat>Nessuna persona di età adatta e non in biofame. Per entrare nella vasca di crescita, la persona deve avere meno di {0} anni e non essere in biofame.</NoPawnsCanEnterGrowthVat>
   <!-- EN: Aging speed -->
   <AgingSpeed>Velocità di invecchiamento</AgingSpeed>
 
@@ -582,9 +582,9 @@
   <!-- EN: indoors -->
   <DissolutionRateIndoors>al chiuso</DissolutionRateIndoors>
   <!-- EN: raining -->
-  <DissolutionRain>pioggia</DissolutionRain>
+  <DissolutionRain>sotto la pioggia</DissolutionRain>
   <!-- EN: One wastepack dissolves every {0} -->
-  <DissolvesEvery>Un pacco di rifiuti si dissolve ogni {0}</DissolvesEvery>
+  <DissolvesEvery>Un contenitore di rifiuti tossici si dissolve ogni {0}</DissolvesEvery>
   <!-- EN: Frozen (won't dissolve). -->
   <DissolutionFrozen>Congelato (non si dissolve).</DissolutionFrozen>
 
@@ -600,7 +600,7 @@
   <!-- EN: Produces -->
   <SubcoreScannerProduces>Produce</SubcoreScannerProduces>
   <!-- EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the scanner. -->
-  <SubcoreScannerStartDesc>Una volta riempito il {0} con gli ingredienti richiesti, {1}, seleziona un colono e fai clic con il pulsante destro del mouse su {0} o su una persona a terra per avviare lo scanner.</SubcoreScannerStartDesc>
+  <SubcoreScannerStartDesc>Una volta riempito {0} con gli ingredienti richiesti, {1}, seleziona un colono e fai clic con il pulsante destro del mouse su {0} o su una persona a terra per avviare lo scanner.</SubcoreScannerStartDesc>
   <!-- EN: Completes in -->
   <SubcoreScannerCompletesIn>Completa tra</SubcoreScannerCompletesIn>
   <!-- EN: Waiting for occupant -->
@@ -612,9 +612,9 @@
   <!-- EN: Has {0} -->
   <SubcoreScannerPawnHasSickness>Ha {0}</SubcoreScannerPawnHasSickness>
   <!-- EN: Babies are not allowed -->
-  <SubcoreScannerBabyNotAllowed>I bambini non sono ammessi</SubcoreScannerBabyNotAllowed>
+  <SubcoreScannerBabyNotAllowed>I neonati non sono ammessi</SubcoreScannerBabyNotAllowed>
   <!-- EN: Insert a person into the {0}. -->
-  <InsertPersonSubcoreScannerDesc>Inserisci una persona nel {0}.</InsertPersonSubcoreScannerDesc>
+  <InsertPersonSubcoreScannerDesc>Inserisci una persona in {0}.</InsertPersonSubcoreScannerDesc>
 
   <!-- EN: Duration (hours) -->
   <DurationHours>Durata (ore)</DurationHours>
@@ -629,9 +629,9 @@
   <!-- EN: children -->
   <Children>bambini</Children>
   <!-- EN: baby -->
-  <Baby>bambino</Baby>
+  <Baby>neonato</Baby>
   <!-- EN: babies -->
-  <Babies>bambini</Babies>
+  <Babies>neonati</Babies>
   <!-- EN: feral child -->
   <FeralChild>bambino selvaggio</FeralChild>
   <!-- EN: Wearable by -->
@@ -644,13 +644,13 @@
 
   <!-- Mech resurrection -->
   <!-- EN: Mech resurrection charges -->
-  <MechResurrectionCharges>Cariche di resurrezione dei Mech</MechResurrectionCharges>
+  <MechResurrectionCharges>Cariche di resurrezione dei mech</MechResurrectionCharges>
 
   <!-- Mechs -->
   <!-- EN: Mech stun pulse on death -->
   <MechStunPulseWarning>Impulso stordente del mech alla morte</MechStunPulseWarning>
   <!-- EN: {PAWN_nameDef} is in self-shutdown from low energy. -->
-  <IsLowEnergySelfShutdown>{PAWN_nameDef} è in modalità di spegnimento automatico per basso consumo energetico.</IsLowEnergySelfShutdown>
+  <IsLowEnergySelfShutdown>{PAWN_nameDef} è in spegnimento automatico per energia insufficiente.</IsLowEnergySelfShutdown>
   
   <!-- Pollution -->
   <!-- EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->
@@ -668,9 +668,9 @@
   <!-- EN: Nearby pollution -->
   <TilePollutionNearby>Inquinamento nelle vicinanze</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
-  <NearbyPollutionTip>La somma dei livelli di inquinamento di tutte le tessere entro un raggio di {0} tessere. All'aumentare della distanza da questa casella, il contributo all'inquinamento diminuisce:\n\n{1}\n\nMaggiore è l'inquinamento nelle vicinanze, maggiore è la possibilità che si verifichi smog acido.</NearbyPollutionTip>
+  <NearbyPollutionTip>La somma dei livelli di inquinamento di tutte le tessere entro un raggio di {0} tessere. All'aumentare della distanza da questa tessera, il contributo all'inquinamento diminuisce:\n\n{1}\n\nMaggiore è l'inquinamento nelle vicinanze, maggiore è la possibilità che si verifichi smog acido.</NearbyPollutionTip>
   <!-- EN: This tile will have acidic smog every {0} days on average. -->
-  <NoxiousHazeInterval>Questa casella avrà in media smog acido ogni {0} giorni.</NoxiousHazeInterval>
+  <NoxiousHazeInterval>Questa tessera avrà in media smog acido ogni {0} giorni.</NoxiousHazeInterval>
   <!-- EN: This tile will never have acidic smog. -->
   <NoxiousHazeNeverOccurring>Questa tessera non avrà mai smog acido.</NoxiousHazeNeverOccurring>
   <!-- EN: tiles away -->
@@ -682,7 +682,7 @@
   <!-- EN: Can absorb pollution from nearby terrain -->
   <CanAbsorbPollution>Può assorbire l'inquinamento dal terreno vicino</CanAbsorbPollution>
   <!-- EN: Absorbing pollution: Next in {0} -->
-  <AbsorbingPollutionNext>Assorbire l'inquinamento: il prossimo tra {0}</AbsorbingPollutionNext>
+  <AbsorbingPollutionNext>Assorbimento dell'inquinamento: il prossimo tra {0}</AbsorbingPollutionNext>
   <!-- EN: How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain. -->
   <TerrainPollutionTip>Quanto è inquinato il terreno su questa tessera.\n\nL'esposizione al terreno inquinato provoca un accumulo di sostanze tossiche che possono portare alla morte. La maggior parte delle colture non possono vivere su terreni inquinati.</TerrainPollutionTip>
 
@@ -700,13 +700,13 @@
   <!-- EN: ova extracted recently -->
   <SurgeryDisableReasonOvumExtracted>ovuli estratti recentemente</SurgeryDisableReasonOvumExtracted>
   <!-- EN: Fertilize -->
-  <Fertilize>Fertilizzare</Fertilize>
+  <Fertilize>Feconda</Fertilize>
   <!-- EN: Fertilize {0_label} -->
-  <FertilizeThing>Fertilizza {0_label}</FertilizeThing>
+  <FertilizeThing>Feconda {0_label}</FertilizeThing>
   <!-- EN: Cannot fertilize -->
-  <FertilizeCannotFloatOption>Impossibile concimare</FertilizeCannotFloatOption>
+  <FertilizeCannotFloatOption>Impossibile fecondare</FertilizeCannotFloatOption>
   <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
-  <FertilizeGizmoDescription>Scegli un uomo per fecondare questo ovulo per creare un embrione. L'embrione può quindi essere impiantato nella madre per iniziare una gravidanza o in una vasca di crescita. I genitori del bambino biologico risultante saranno la donna che ha fornito l'ovulo e l'uomo che lo ha fecondato.</FertilizeGizmoDescription>
+  <FertilizeGizmoDescription>Scegli un uomo per fecondare questo ovulo per creare un embrione. L'embrione può quindi essere impiantato nella madre per iniziare una gravidanza o in una vasca di crescita. I genitori biologici del bambino saranno la donna che ha fornito l'ovulo e l'uomo che lo ha fecondato.</FertilizeGizmoDescription>
   <!-- EN: Cancel fertilization by {0} -->
   <FertilizeCancel>Annulla la fecondazione da parte di {0}</FertilizeCancel>
   <!-- EN: sterile -->
@@ -727,31 +727,31 @@
   <!-- EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
   <ImplantDescription>Impianta questo embrione in una madre surrogata per iniziare una gravidanza.</ImplantDescription>
   <!-- EN: Insert in growth vat -->
-  <InsertGrowthVatLabel>Inserire nella vasca di crescita</InsertGrowthVatLabel>
+  <InsertGrowthVatLabel>Inserisci nella vasca di crescita</InsertGrowthVatLabel>
 
   <!-- EN: Cannot implant -->
   <ImplantCannotFloatOption>Impossibile impiantare</ImplantCannotFloatOption>
   <!-- EN: No woman can be a surrogate mother. -->
   <ImplantDisabledNoWomen>Nessuna donna può essere una madre surrogata.</ImplantDisabledNoWomen>
   <!-- EN: No available growth vats. -->
-  <ImplantDisabledNoVats>Vasche di crescita non disponibili.</ImplantDisabledNoVats>
+  <ImplantDisabledNoVats>Nessuna vasca di crescita disponibile.</ImplantDisabledNoVats>
   <!-- EN: Implant {0} -->
-  <ImplantSurgeryLabel>Impianto {0}</ImplantSurgeryLabel>
+  <ImplantSurgeryLabel>Impianta {0}</ImplantSurgeryLabel>
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
   <ImplantSurgeryConfirm>La probabilità di successo dell'impianto per {0} in {1} è {2}.\n\nLa probabilità di successo dell'impianto dipende dalla fertilità della madre surrogata. Sarà inferiore se la madre è troppo vecchia o troppo giovane.</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
-  <ImplantEmbryoCancelVat>Espellere il {0} dalla vasca di crescita in questo momento lo distruggerà prima che si formi un bambino.\n\nVuoi continuare?</ImplantEmbryoCancelVat>
+  <ImplantEmbryoCancelVat>Espellere {0} dalla vasca di crescita in questo momento lo distruggerà prima che si formi un bambino.\n\nVuoi continuare?</ImplantEmbryoCancelVat>
   <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
   <ImplantFailedMessage>L'impianto di {0} in {1} non è riuscito.</ImplantFailedMessage>
   <!-- EN: Cancel embryo insertion -->
-  <ImplantEmbryoCancel>Annullare l'inserimento dell'embrione</ImplantEmbryoCancel>
+  <ImplantEmbryoCancel>Annulla l'inserimento dell'embrione</ImplantEmbryoCancel>
   <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
-  <EmbryoEjectedFromGrowthVat>Il {0} è stato espulso da una vasca di crescita e distrutto.</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVat>{0} è stato espulso da una vasca di crescita e distrutto.</EmbryoEjectedFromGrowthVat>
   <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
-  <EmbryoEjectedFromGrowthVatBiostarvation>Il {0} è stato distrutto in una vasca di crescita a causa della biofame.</EmbryoEjectedFromGrowthVatBiostarvation>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} è stato distrutto in una vasca di crescita a causa della biofame.</EmbryoEjectedFromGrowthVatBiostarvation>
 
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
-  <IvfPregnancyLetterText>{0} è rimasta incinta con successo grazie all'impianto di embrioni!</IvfPregnancyLetterText>
+  <IvfPregnancyLetterText>{0} è rimasta incinta grazie all'impianto dell'embrione!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>Il bambino avrà la composizione genetica di {0} e {1}.</IvfPregnancyLetterParents>
 
