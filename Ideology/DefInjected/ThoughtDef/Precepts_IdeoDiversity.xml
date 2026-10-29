@@ -44,7 +44,7 @@
   <!-- EN: Non-{ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>Ambiente non in stile {ADJECTIVE}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>
   <!-- EN: I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->
-  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni sull'{ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni {ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
   <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>pensieri uniformi</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
@@ -65,7 +65,7 @@
   <IdeoDiversity_Approved.stages.diverse_thoughts-2.description>Quasi tutti gli altri qui hanno convinzioni diverse. È il segno di una comunità sana.</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
   
   <!-- EN: {ADJECTIVE} surroundings -->
-  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>{ADJECTIVE} ambiente</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>ambiente {ADJECTIVE}</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
   <!-- EN: My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better. -->
   <IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>L'ambiente in cui mi trovo è molto {ADJECTIVE}. Va bene, ma un ambiente diversificato sarebbe meglio.</IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>
   <!-- EN: Non-{ADJECTIVE} surroundings -->
@@ -101,12 +101,12 @@
   <!-- EN: Non-{ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>Ambiente non in stile {ADJECTIVE}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>
   <!-- EN: I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->
-  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni sull'{ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni {ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
   <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>pensieri uniformi</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
   <!-- EN: Our community is free of foolishness, as it should be. -->
-  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>La nostra comunità è libera da stupidità, come dovrebbe essere.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>La nostra comunità è libera dalla stupidità, come dovrebbe essere.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
   
   <!-- EN: diverse thoughts -->
   <IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>pensieri diversi</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
@@ -122,7 +122,7 @@
   <IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>Quasi tutti gli altri qui hanno convinzioni diverse. Sono così orgoglioso di far parte di una comunità del genere.</IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>
   
   <!-- EN: {ADJECTIVE} surroundings -->
-  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>{ADJECTIVE} ambiente</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>ambiente {ADJECTIVE}</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>
   <!-- EN: My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better. -->
   <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>L'ambiente in cui mi trovo è molto {ADJECTIVE}. Va bene, ma un ambiente diversificato sarebbe meglio.</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>
   <!-- EN: Non-{ADJECTIVE} surroundings -->
@@ -158,12 +158,12 @@
   <!-- EN: Non-{ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>Ambiente non in stile {ADJECTIVE}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>
   <!-- EN: I am surrounded by constructions that do not match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->
-  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni sull'{ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni che non corrispondono agli stili che riflettono le mie convinzioni {ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
   
   <!-- EN: uniform thoughts -->
   <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>pensieri uniformi</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
   <!-- EN: Our community is free of filthy delusions, as it should be. -->
-  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>La nostra comunità è libera da sporche delusioni, come dovrebbe essere.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>La nostra comunità è libera da sporche illusioni, come dovrebbe essere.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
   
   <!-- EN: diverse thoughts -->
   <IdeoDiversity_Respected.stages.diverse_thoughts-0.label>pensieri diversi</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
@@ -179,7 +179,7 @@
   <IdeoDiversity_Respected.stages.diverse_thoughts-2.description>Quasi tutti gli altri qui hanno convinzioni diverse. È un segno importante di una comunità sana.</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
   
   <!-- EN: {ADJECTIVE} surroundings -->
-  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>{ADJECTIVE} ambiente</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>ambiente {ADJECTIVE}</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>
   <!-- EN: My surroundings are very {ADJECTIVE}. That's fine, but a diverse environment would be better. -->
   <IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>L'ambiente in cui mi trovo è molto {ADJECTIVE}. Va bene, ma un ambiente diversificato sarebbe meglio.</IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>
   <!-- EN: Non-{ADJECTIVE} surroundings -->
@@ -194,6 +194,6 @@
   <!-- EN: Non-{ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>Ambiente non in stile {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>
   <!-- EN: I am surrounded by non-{ADJECTIVE} constructions. That's fine, but I'd prefer being in a more {ADJECTIVE} environment with constructions that match style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->
-  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni non {ADJECTIVE}. Va bene, ma preferirei essere in un ambiente più {ADJECTIVE} con costruzioni che corrispondono agli stili che riflettono le mie convinzioni su {ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>Sono circondato da costruzioni non {ADJECTIVE}. Va bene, ma preferirei essere in un ambiente più {ADJECTIVE} con costruzioni che corrispondono agli stili che riflettono le mie convinzioni {ADJECTIVE}. Le mie convinzioni si riflettono in questi stili: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
   
 </LanguageData>
