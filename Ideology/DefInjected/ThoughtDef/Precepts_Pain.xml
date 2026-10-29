@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: minor pain -->
-  <Pain_Idealized.stages.minor_pain.label>dolore minore</Pain_Idealized.stages.minor_pain.label>
+  <Pain_Idealized.stages.minor_pain.label>dolore lieve</Pain_Idealized.stages.minor_pain.label>
   <!-- EN: The pain grounds me. I appreciate it. -->
-  <Pain_Idealized.stages.minor_pain.description>Il dolore mi motiva. Lo apprezzo.</Pain_Idealized.stages.minor_pain.description>
+  <Pain_Idealized.stages.minor_pain.description>Il dolore mi riporta con i piedi per terra. Lo apprezzo.</Pain_Idealized.stages.minor_pain.description>
   <!-- EN: serious pain -->
   <Pain_Idealized.stages.serious_pain.label>dolore grave</Pain_Idealized.stages.serious_pain.label>
   <!-- EN: The pain cleanses me. I like it. -->
@@ -16,6 +16,6 @@
   <!-- EN: mind-shattering pain -->
   <Pain_Idealized.stages.mindshattering_pain.label>dolore sconvolgente</Pain_Idealized.stages.mindshattering_pain.label>
   <!-- EN: The pain makes me sublime! I wish to become it! -->
-  <Pain_Idealized.stages.mindshattering_pain.description>Il dolore mi rende sublime! Desidero diventarlo!</Pain_Idealized.stages.mindshattering_pain.description>
+  <Pain_Idealized.stages.mindshattering_pain.description>Il dolore mi rende sublime! Voglio diventare dolore!</Pain_Idealized.stages.mindshattering_pain.description>
   
 </LanguageData>

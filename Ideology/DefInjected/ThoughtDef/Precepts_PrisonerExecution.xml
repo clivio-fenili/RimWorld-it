@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: justified execution of colonist -->
-  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>esecuzione giustificata del colono</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>esecuzione giustificata di un colono</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
   <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>Un colono colpevole è stato giustiziato. Era giustificato, ma comunque triste.</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
@@ -12,13 +12,13 @@
   <!-- EN: colonist executed -->
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>colono giustiziato</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>
   <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
-  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>Un colono è stato ucciso a sangue freddo. Sembrava un po' malvagio.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>Un colono è stato ucciso a sangue freddo. Mi è sembrata una cosa un po' malvagia.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
-  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>prelievo di organi da parte dei coloni</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>colono morto per prelievo di organi</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>Un colono è morto perché qualcuno gli ha prelevato parti del corpo. È orribile.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
   <!-- EN: colonist ripscanned -->
-  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>colono scansionato</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>colono passato al ripscanner</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
   <!-- EN: A colonist died in our ripscanner, their brain burned to ash to feed the machine. It's horrifying. -->
   <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>Un colono è morto nel nostro ripscanner, il suo cervello è stato ridotto in cenere per alimentare la macchina. È orribile.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>
   
@@ -33,13 +33,13 @@
   <!-- EN: someone was executed -->
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>qualcuno è stato giustiziato</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
-  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>Un prigioniero o un ospite è stato ucciso a sangue freddo. Sembrava un po' malvagio.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>Un prigioniero o un ospite è stato ucciso a sangue freddo. Mi è sembrata una cosa un po' malvagia.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
-  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>qualcuno è stato assassinato d'organo</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>qualcuno ucciso per gli organi</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>Un prigioniero o un ospite è morto perché la colonia ne ha prelevato parti del corpo. È orribile.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>
   <!-- EN: someone was ripscanned -->
-  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>qualcuno è stato scansionato</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>qualcuno passato al ripscanner</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
   <!-- EN: A prisoner died in our ripscanner, their brain burned to ash to feed the machine. It's horrifying. -->
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>Un prigioniero è morto nel nostro ripscanner, il suo cervello è stato ridotto in cenere per alimentare la macchina. È orribile.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
   
@@ -68,20 +68,20 @@
   <!-- EN: guilty prisoner executed -->
   <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>prigioniero colpevole giustiziato</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>
   <!-- EN: We executed a guilty prisoner. Justice has been served! -->
-  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>Abbiamo giustiziato un prigioniero colpevole. Giustizia è stata servita!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>Abbiamo giustiziato un prigioniero colpevole. Giustizia è fatta!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
   
   <!-- EN: executed guilty prisoner -->
   <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>prigioniero colpevole giustiziato</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
   <!-- EN: I executed a guilty prisoner. Justice has been served! -->
-  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>Ho giustiziato un prigioniero colpevole. Giustizia è stata servita!</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>Ho giustiziato un prigioniero colpevole. Giustizia è fatta!</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
   
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>giustiziato prigioniero innocente</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>prigioniero innocente giustiziato</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
   <!-- EN: I had to execute an innocent prisoner. It's a horrible offense against my beliefs. -->
   <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>Ho dovuto giustiziare un prigioniero innocente. È un'offesa orribile contro le mie convinzioni.</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>
   
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>giustiziato prigioniero innocente</ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>
+  <ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>prigioniero innocente giustiziato</ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>
   
   <!-- EN: execution -->
   <Execution_Know_Respected_Mood.stages.execution.label>esecuzione</Execution_Know_Respected_Mood.stages.execution.label>
@@ -92,9 +92,9 @@
   <GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>responsabile della morte di un prigioniero</GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
   
   <!-- EN: guilty prisoner died (responsible) -->
-  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>detenuto colpevole morto (responsabile)</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>morto un prigioniero colpevole (responsabile)</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>
   <!-- EN: I caused the death of a guilty prisoner. Let justice be served. -->
-  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>Ho causato la morte di un prigioniero colpevole. Lasciamo che sia fatta giustizia.</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>Ho causato la morte di un prigioniero colpevole. Che giustizia sia fatta.</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>
   
   <!-- EN: innocent prisoner died (responsible) -->
   <InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>morto un prigioniero innocente (responsabile)</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>
@@ -104,7 +104,7 @@
   <!-- EN: innocent prisoner died (responsible) -->
   <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>morto un prigioniero innocente (responsabile)</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>
   <!-- EN: I was responsible for the death of a prisoner. Am I not a terrible person? -->
-  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>Sono stato responsabile della morte di un prigioniero. Non sono una persona terribile?</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>
+  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>Sono stato responsabile della morte di un prigioniero. Sono forse una persona terribile?</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>
   
   <!-- EN: responsible for the death of a prisoner -->
   <InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>responsabile della morte di un prigioniero</InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>
@@ -120,13 +120,13 @@
   <!-- EN: no execution -->
   <NoRecentExecution.stages.no_execution.label>nessuna esecuzione</NoRecentExecution.stages.no_execution.label>
   <!-- EN: It has been too long since we executed a prisoner. Are we so weak as to take no life? -->
-  <NoRecentExecution.stages.no_execution.description>È passato troppo tempo dall'ultima volta che abbiamo giustiziato un prigioniero. Siamo così deboli da non togliere la vita?</NoRecentExecution.stages.no_execution.description>
+  <NoRecentExecution.stages.no_execution.description>È passato troppo tempo dall'ultima volta che abbiamo giustiziato un prigioniero. Siamo così deboli da non togliere nemmeno una vita?</NoRecentExecution.stages.no_execution.description>
   
   <!-- EN: responsible for the death of a prisoner -->
   <PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>responsabile della morte di un prigioniero</PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
   
   <!-- EN: prisoner died (responsible) -->
-  <PrisonerDied_Respected.stages.prisoner_died_responsible.label>detenuto morto (responsabile)</PrisonerDied_Respected.stages.prisoner_died_responsible.label>
+  <PrisonerDied_Respected.stages.prisoner_died_responsible.label>morto un prigioniero (responsabile)</PrisonerDied_Respected.stages.prisoner_died_responsible.label>
   <!-- EN: I was responsible for the death of a prisoner! Now they'll all respect me. -->
   <PrisonerDied_Respected.stages.prisoner_died_responsible.description>Sono stato responsabile della morte di un prigioniero! Adesso mi rispetteranno tutti.</PrisonerDied_Respected.stages.prisoner_died_responsible.description>
   
