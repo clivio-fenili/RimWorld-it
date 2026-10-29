@@ -7,7 +7,7 @@
   <!-- EN: fleshbulb -->
   <Fleshbulb.label>bulbo di carne</Fleshbulb.label>
   <!-- EN: A bulbous mass of flesh. These fleshbeast organs store and refine nutrients for surrounding fleshmass. The chemical process generates a soft bioluminescent glow. -->
-  <Fleshbulb.description>Massa di carne bulbosa. Questi organi estratti dalle abominazioni di carne immagazzinano e raffinano i nutrienti per la massa di carne circostante. Il processo chimico genera una debole bioluminescenza.</Fleshbulb.description>
+  <Fleshbulb.description>Massa di carne bulbosa. Questi organi estratti dagli abomini di carne immagazzinano e raffinano i nutrienti per la massa di carne circostante. Il processo chimico genera una debole bioluminescenza.</Fleshbulb.description>
   
   <!-- EN: fleshmass -->
   <Fleshmass.label>massa di carne</Fleshmass.label>
@@ -22,7 +22,7 @@
   <!-- EN: fleshmass heart -->
   <FleshmassHeart.label>cuore di massa di carne</FleshmassHeart.label>
   <!-- EN: The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass. -->
-  <FleshmassHeart.description>Organo principale di un'infestazione di massa di carne. Dopo aver raccolto abbastanza risorse tramite le sue radici, il cuore diffonde la massa di carne che si propaga come un cancro e continua a crescere finché c'è materiale da consumare.\n\nOltre a generare abominazioni di carne per difendersi, il cuore fa crescere anche organi difensivi chiamati sputatori, in grado di lanciare acido a lunga distanza.\n\nCon una capacità di rigenerazione ultrarapida, il cuore è quasi invulnerabile. Può essere ucciso solo analizzando campioni prelevati direttamente dai fasci nervosi che si formano nella sua massa in crescita.</FleshmassHeart.description>
+  <FleshmassHeart.description>Organo principale di un'infestazione di massa di carne. Dopo aver raccolto abbastanza risorse tramite le sue radici, il cuore diffonde la massa di carne che si propaga come un cancro e continua a crescere finché c'è materiale da consumare.\n\nOltre a generare abomini di carne per difendersi, il cuore fa crescere anche organi difensivi chiamati sputatori, in grado di lanciare acido a lunga distanza.\n\nCon una capacità di rigenerazione ultrarapida, il cuore è quasi invulnerabile. Può essere ucciso solo analizzando campioni prelevati direttamente dai fasci nervosi che si formano nella sua massa in crescita.</FleshmassHeart.description>
   <!-- EN: Use electrical pulses to induce a tachycardiac overload and kill the fleshmass heart. -->
   <FleshmassHeart.comps.CompDestroyHeart.activateDescString>Genera impulsi elettrici per provocare un sovraccarico tachicardico e uccidere il cuore della massa di carne.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
   <!-- EN: Induce tachycardiac death... -->

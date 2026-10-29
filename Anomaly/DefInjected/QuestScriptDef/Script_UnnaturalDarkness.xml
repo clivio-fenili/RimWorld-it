@@ -11,7 +11,7 @@
   -->
   <UnnaturalDarkness.questContentRules.rulesStrings>
     <li>initialPhaseLetterLabel->Cielo che si oscura</li>
-    <li>initialPhaseLetterText->Il cielo si sta oscurando. Presto sarà difficile vedere ciò che non è direttamente illuminato da lampade o torce.\n\nCostruisci aree ben illuminate per sopravvivere. Crea razzi dirompenti per esplorare l'oscurità.</li>
+    <li>initialPhaseLetterText->Il cielo si sta oscurando. Presto sarà difficile vedere ciò che non è direttamente illuminato da lampade o torce.\n\nCostruisci aree ben illuminate per sopravvivere. Crea razzi di disturbo per esplorare l'oscurità.</li>
     <li>mainPhaseLetterLabel->Oscurità innaturale</li>
     <li>mainPhaseLetterText->Un'oscurità innaturale sta calando. Creature disumane si muovono ai margini della luce.\n\nPiloni di metallo oleoso e frastagliato stanno piovendo dal cielo. Sono orribili da guardare, ma contengono sicuramente tecnologia preziosa. Raggiungili costruendo percorsi illuminati, e distruggili per porre fine a questo incubo.\n\nIn alternativa, se riuscirai a sopravvivere abbastanza a lungo, l'oscurità si dissiperà da sola.</li>
     <li>darknessLiftedLetterLabel->L’oscurità si dirada</li>

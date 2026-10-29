@@ -18,7 +18,7 @@
   <!-- EN: Fleshmass operation -->
   <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>Operazione sulla massa di carne</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
   <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass lung has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere il polmone di massa di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un’abominazione di carne!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere il polmone di massa di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un abominio di carne!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
   <!-- EN: a fleshmass lung -->
   <FleshmassLung.labelNoun>un polmone di massa di carne</FleshmassLung.labelNoun>
   
@@ -29,7 +29,7 @@
   <!-- EN: Fleshmass operation -->
   <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>Operazione sulla massa di carne</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
   <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass stomach has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere lo stomaco di massa di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un’abominazione di carne!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere lo stomaco di massa di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un abominio di carne!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
   <!-- EN: a fleshmass stomach -->
   <FleshmassStomach.labelNoun>uno stomaco di massa di carne</FleshmassStomach.labelNoun>
   
@@ -42,7 +42,7 @@
   <!-- EN: Fleshmass operation -->
   <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>Operazione sulla massa di carne</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>
   <!-- EN: Attempting to remove {PAWN_nameDef}'s flesh whip has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere la frusta di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un’abominazione di carne!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere la frusta di carne di {PAWN_nameDef}, la massa contorta ha reagito attaccando. Si è staccata da {PAWN_nameDef} ed è diventata un abominio di carne!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
   <!-- EN: a flesh whip -->
   <FleshWhip.labelNoun>una frusta di carne</FleshWhip.labelNoun>
   
@@ -75,11 +75,11 @@
   <!-- EN: flesh tentacle -->
   <Tentacle.label>tentacolo di carne</Tentacle.label>
   <!-- EN: A fleshy, muscled tentacle resembling a partial transformation into a fleshbeast. The tentacle is excellent at manipulation.\n\nThe flesh tentacle has its own neural structures and may become dangerous if removed. -->
-  <Tentacle.description>Un tentacolo carnoso e muscoloso, simile a una trasformazione parziale in abominazione di carne. È eccellente per la manipolazione.\n\nDotato di strutture neurali proprie, può diventare pericoloso se rimosso.</Tentacle.description>
+  <Tentacle.description>Un tentacolo carnoso e muscoloso, simile a una trasformazione parziale in abominio di carne. È eccellente per la manipolazione.\n\nDotato di strutture neurali proprie, può diventare pericoloso se rimosso.</Tentacle.description>
   <!-- EN: Fleshmass operation -->
   <Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>Operazione sulla massa di carne</Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>
   <!-- EN: Attempting to remove {PAWN_nameDef}'s tentacle has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere il tentacolo di {PAWN_nameDef}, la massa di carne si è ribellata e ha attaccato. Si è staccata da {PAWN_nameDef} ed è diventata un’abominazione di carne!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>Nel tentativo di rimuovere il tentacolo di {PAWN_nameDef}, la massa di carne si è ribellata e ha attaccato. Si è staccata da {PAWN_nameDef} ed è diventata un abominio di carne!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
   <!-- EN: a flesh tentacle -->
   <Tentacle.labelNoun>un tentacolo di carne</Tentacle.labelNoun>
   

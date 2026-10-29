@@ -40,7 +40,7 @@
   <!-- EN: {PAWN_nameDef} hypnotized -->
   <LetterLabelPawnHypnotized>{PAWN_nameDef} {PAWN_gender ? ipnotizzato : ipnotizzata : ipnotizzato(a)}</LetterLabelPawnHypnotized>
   <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
-  <LetterPawnHypnotized>Un revenant ha ipnotizzato {PAWN_nameDef}, che ora vaneggia su visioni e idee da incubo.\n\nUccidere il revenant interromperà l’ipnosi.\n\nIl revenant utilizza poteri psichici per distorcere la percezione di chi lo circonda e rendersi invisibile. Tuttavia, può essere tracciato seguendo le tracce nere che lascia. Può essere smascherato colpendolo con armi esplosive, schiuma ignifuga, EMP, fuoco o razzi dirompenti.\n\nSe non viene eliminato, continuerà a ipnotizzare nuove vittime.</LetterPawnHypnotized>
+  <LetterPawnHypnotized>Un revenant ha ipnotizzato {PAWN_nameDef}, che ora vaneggia su visioni e idee da incubo.\n\nUccidere il revenant interromperà l’ipnosi.\n\nIl revenant utilizza poteri psichici per distorcere la percezione di chi lo circonda e rendersi invisibile. Tuttavia, può essere tracciato seguendo le tracce nere che lascia. Può essere smascherato colpendolo con armi esplosive, schiuma ignifuga, EMP, fuoco o razzi di disturbo.\n\nSe non viene eliminato, continuerà a ipnotizzare nuove vittime.</LetterPawnHypnotized>
   <!-- EN: Revenant flesh chunk -->
   <LetterRevenantFleshChunkLabel>Frammento di carne di revenant</LetterRevenantFleshChunkLabel>
   <!-- EN: The wounded revenant left behind a piece of itself. You can analyze this flesh chunk to learn how to track the revenant. -->
@@ -74,9 +74,9 @@
 
   <!-- Death Pall -->
   <!-- EN: Death pall clearing -->
-  <LetterLabelDeathPallEnded>Dissipazione del velo mortale</LetterLabelDeathPallEnded> 
+  <LetterLabelDeathPallEnded>Dissipazione della nebbia funesta</LetterLabelDeathPallEnded> 
   <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
-  <LetterDeathPallEnded>Il velo mortale si sta dissipando. I cadaveri che ha rianimato torneranno presto al loro stato naturale.</LetterDeathPallEnded>
+  <LetterDeathPallEnded>La nebbia funesta si sta dissipando. I cadaveri che ha rianimato torneranno presto al loro stato naturale.</LetterDeathPallEnded>
   
   <!-- Pit Gate -->
   <!-- EN: Pit gate closing -->
@@ -281,7 +281,7 @@
   <!-- EN: Capture -->
   <CaptureEntity>Cattura</CaptureEntity>
   <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
-  <CaptureEntityDesc>Cattura {0_definite}. Deve essere contenut{0_gender ? o : a : o/a} su una piattaforma di detenzione prima di poter essere studiato/a.</CaptureEntityDesc>
+  <CaptureEntityDesc>Cattura {0_definite}. Deve essere contenut{0_gender ? o : a : o/a} su una piattaforma di contenimento prima di poter essere studiato/a.</CaptureEntityDesc>
   <!-- EN: Cancel capture -->
   <CancelCapture>Annulla la cattura</CancelCapture>
   <!-- EN: Cancel capturing {0_definite}. -->
@@ -289,21 +289,21 @@
   <!-- EN: ready to study -->
   <ReadyToStudy>pronto/a per lo studio</ReadyToStudy>
   <!-- EN: No active anomaly research project selected for {0} knowledge category. -->
-  <NoActiveResearchProject>Nessun progetto attivo di ricerca sulle anomalie selezionato per la categoria di conoscenze {0}.</NoActiveResearchProject>
+  <NoActiveResearchProject>Nessun progetto attivo di ricerca sull'Anomalia selezionato per la categoria di conoscenze {0}.</NoActiveResearchProject>
   <!-- EN: Capturable -->
   <Capturable>Catturabile</Capturable>
   <!-- EN: Must be captured in a holding platform. -->
-  <RequiresHoldingPlatform>Si cattura su una piattaforma di detenzione.</RequiresHoldingPlatform>
+  <RequiresHoldingPlatform>Si cattura su una piattaforma di contenimento.</RequiresHoldingPlatform>
   <!-- EN: Choose a location for the nociosphere to teleport to. -->
   <ChooseNociosphereDest>Scegli dove teletrasportare la nociosfera.</ChooseNociosphereDest>
   <!-- EN: Transfer {0_definite} -->
   <TransferEntity>Trasferisci {0_definite}</TransferEntity>
   <!-- EN: Transfer the contained entity to another holding platform. -->
-  <TransferEntityDesc>Trasferisci l'entità contenuta su un'altra piattaforma di detenzione.</TransferEntityDesc>
+  <TransferEntityDesc>Trasferisci l'entità contenuta su un'altra piattaforma di contenimento.</TransferEntityDesc>
   <!-- EN: Cancel transfer -->
   <CancelTransfer>Annulla trasferimento</CancelTransfer>
   <!-- EN: Cancel transferring this entity to another holding platform. -->
-  <CancelTransferDesc>Annulla il trasferimento di questa entità a un'altra piattaforma di detenzione.</CancelTransferDesc>
+  <CancelTransferDesc>Annulla il trasferimento di questa entità a un'altra piattaforma di contenimento.</CancelTransferDesc>
   
   <!-- Metalhorrors -->
   <!-- EN: Emerged from -->
@@ -488,7 +488,7 @@
   <SpitterReadyToSpit>Pronto a sputare acido.</SpitterReadyToSpit>
 
   <!-- EN: Active fleshmass. May birth fleshbeasts if destroyed. -->
-  <ActiveFleshmassInspect>Massa di carne attiva. Potrebbe generare abominazioni di carne se distrutta.</ActiveFleshmassInspect>
+  <ActiveFleshmassInspect>Massa di carne attiva. Potrebbe generare abomini di carne se distrutta.</ActiveFleshmassInspect>
 
   <!-- Misc -->
   <!-- EN: Flesh tentacle attack -->
@@ -697,7 +697,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>Nessun colono disponibile.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>La superficie metallica scura del monolito è calda al tatto, e {PAWN_nameDef} pensa di sentire un leggero ronzio provenire dall'interno. Le linee sulla superficie impolverata sembrano contorcersi in schemi inquietanti.\n\n{PAWN_nameDef} si concentra sulle forme per cercare di comprenderne il significato.\n\nIl ronzio si intensifica. Le forme iniziano a scorrere nella visione di {PAWN_nameDef}, ma la superficie non cambia. Un potere si sta srotolando nello spazio vuoto intorno. Una forma nera si sta formando nella sua mente.\n\nL'Anomalia si sta risvegliando...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>La superficie metallica scura del monolite è calda al tatto, e {PAWN_nameDef} pensa di sentire un leggero ronzio provenire dall'interno. Le linee sulla superficie impolverata sembrano contorcersi in schemi inquietanti.\n\n{PAWN_nameDef} si concentra sulle forme per cercare di comprenderne il significato.\n\nIl ronzio si intensifica. Le forme iniziano a scorrere nella visione di {PAWN_nameDef}, ma la superficie non cambia. Un potere si sta srotolando nello spazio vuoto intorno. Una forma nera si sta formando nella sua mente.\n\nL'Anomalia si sta risvegliando...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>Continua a concentrarti sull'Anomalia</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -707,11 +707,11 @@
   <!-- EN: View Anomaly research -->
   <VoidMonolithViewResearch>Vedi la ricerca sull'Anomalia</VoidMonolithViewResearch>
   <!-- EN: Current monolith level -->
-  <CurrentMonolithLevel>Livello attuale del monolito</CurrentMonolithLevel>
+  <CurrentMonolithLevel>Livello attuale del monolite</CurrentMonolithLevel>
   <!-- EN: Send a colonist to investigate this. -->
   <VoidMonolithUndiscovered>Invia un colono a indagare.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
-  <VoidMonolithRequiredEntityCategory>Per far avanzare il monolito al livello successivo, devi scoprire {0} entità di livello {1}.</VoidMonolithRequiredEntityCategory>
+  <VoidMonolithRequiredEntityCategory>Per far avanzare il monolite al livello successivo, devi scoprire {0} entità di livello {1}.</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
   <DiscoveredCount>Scoperte: {0}</DiscoveredCount>
   <!-- EN: Required entities discovered. -->
@@ -721,7 +721,7 @@
   <!-- EN: Undiscovered entities -->
   <VoidMonolithRequiresDiscoveryShort>Entità non scoperte</VoidMonolithRequiresDiscoveryShort>
   <!-- EN: Must discover {0} more {1} monolith entities. -->
-  <VoidMonolithRequiresCategory>Devi scoprire altre {0} entità {1} del monolito.</VoidMonolithRequiresCategory>
+  <VoidMonolithRequiresCategory>Devi scoprire altre {0} entità {1} del monolite.</VoidMonolithRequiresCategory>
   <!-- EN: Disturbing vision -->
   <VoidMonolithVisionLabel>Visione inquietante</VoidMonolithVisionLabel>
   <!-- EN: {PAWN_nameDef} has had a strange dream. In it, {PAWN_pronoun} saw a black shape, unfurling in space and time, growing and consuming. The shape originated from a nearby crumbled monolith.\n\nUpon waking from the vision, {PAWN_nameDef} feels strangely drawn to the monolith. It calls to {PAWN_objective}. -->
@@ -816,7 +816,7 @@
   <!-- EN: Toggle bioferrite unloading -->
   <BioferriteHarvesterToggleUnloading>Attiva/disattiva scarico bioferrite</BioferriteHarvesterToggleUnloading>
   <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
-  <BioferriteHarvesterToggleUnloadingDesc>Se attivo, i coloni scaricheranno automaticamente la bioferrite quando il raccoglitore sarà pieno.</BioferriteHarvesterToggleUnloadingDesc>
+  <BioferriteHarvesterToggleUnloadingDesc>Se attivo, i coloni scaricheranno automaticamente la bioferrite quando l'estrattore sarà pieno.</BioferriteHarvesterToggleUnloadingDesc>
   
   <!-- Proximity detector -->
   <!-- EN: Invisible creature detected. -->

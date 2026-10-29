@@ -11,7 +11,7 @@
   <BloodRain.letterText>Gocce di un fluido denso simile al sangue hanno cominciato a cadere dal cielo.\n\nChiunque ne venga colpito prova una rabbia crescente che potenzia gli attacchi corpo a corpo, ma che alla fine si trasformerà in furia omicida. Gli animali esposti diventeranno infine cacciatori di uomini. L'intensità dell'effetto varia da individuo a individuo in base ai tratti, alla sensibilità psichica e ad altri fattori casuali.</BloodRain.letterText>
   
   <!-- EN: death pall resurrection -->
-  <DeathPall.label>bruma funesta di resurrezione</DeathPall.label>
+  <DeathPall.label>nebbia funesta</DeathPall.label>
   <!-- EN: The dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
   <DeathPall.description>I morti si rialzeranno! Brucia, seppellisci, distruggi o sposta i cadaveri all'interno per impedire che risorgano.</DeathPall.description>
   <!-- EN: A death-gray cloud has descended on the area.\n\nThe cloud is made of microscopic self-powered archites created by some unknown superintelligence. Where they land on dead flesh, they will enter the body and reanimate it to create a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->

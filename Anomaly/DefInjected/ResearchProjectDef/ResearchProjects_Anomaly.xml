@@ -322,7 +322,7 @@
   </DeathRefusal.generalRules.rulesStrings>
   
   <!-- EN: disruptor flares -->
-  <DisruptorFlares.label>razzi disgregatori</DisruptorFlares.label>
+  <DisruptorFlares.label>razzi di disturbo</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
   <DisruptorFlares.description>Costruisci pacchetti di razzi a base di bioferrite che rivelano creature invisibili e illuminano un'area.</DisruptorFlares.description>
   <!-- EN:
@@ -851,9 +851,9 @@
   </SummonFleshbeastsPlayer.generalRules.rulesStrings>
   
   <!-- EN: provoke pit gate -->
-  <SummonPitGate.label>apertura di un varco nel suolo</SummonPitGate.label>
+  <SummonPitGate.label>apertura di una fossa</SummonPitGate.label>
   <!-- EN: Perform a psychic ritual which causes underground fleshbeasts to open up a massive hole in the ground. The hole leads down to a fleshbeast-infested cavern which can be explored for resources. -->
-  <SummonPitGate.description>Compi un rituale psichico che induce gli abomini di carne sotterranei ad aprire un enorme varco nel suolo. Il buco conduce a una caverna infestata, esplorabile per ottenere risorse.</SummonPitGate.description>
+  <SummonPitGate.description>Compi un rituale psichico che induce gli abomini di carne sotterranei ad aprire un'enorme fossa. Il buco conduce a una caverna infestata, esplorabile per ottenere risorse.</SummonPitGate.description>
   <!-- EN:
     <li>subject->pit gate invocation</li>
     <li>subject_story->researched fleshmeld infestations</li>
@@ -864,13 +864,13 @@
     <li>subject_gerund->summoning a pit gate</li>
   -->
   <SummonPitGate.generalRules.rulesStrings>
-    <li>subject->apertura di un varco nel suolo</li>
+    <li>subject->apertura di una fossa</li>
     <li>subject_story->ha studiato infestazioni da fusione della carne</li>
     <li>subject_story->ha raccolto racconti su organismi gestaltici</li>
     <li>subject_story->ha gestito la biblioteca di una scuola-culto su un mondo morto</li>
     <li>subject_story->ha officiato in un rituale di sprofondamento</li>
-    <li>subject_gerund->compiendo un rituale per aprire un varco nel suolo</li>
-    <li>subject_gerund->richiamando un varco nel suolo</li>
+    <li>subject_gerund->compiendo un rituale per aprire una fossa</li>
+    <li>subject_gerund->richiamando una fossa</li>
   </SummonPitGate.generalRules.rulesStrings>
   
   <!-- EN: draw shamblers -->

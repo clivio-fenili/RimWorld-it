@@ -170,9 +170,9 @@
   <DeathRefusalSickness.description>Effetti collaterali del rifiuto della morte. Questa persona è tornata dalla morte.</DeathRefusalSickness.description>
   
   <!-- EN: disruptor flash -->
-  <DisruptorFlash.label>flash distruttore</DisruptorFlash.label>
+  <DisruptorFlash.label>lampo di disturbo</DisruptorFlash.label>
   <!-- EN: The initial psychic burst from a disruptor flare has left this creature dazed. -->
-  <DisruptorFlash.description>Lo scoppio psichico iniziale di un bagliore distruttore ha stordito questa creatura.</DisruptorFlash.description>
+  <DisruptorFlash.description>Lo scoppio psichico iniziale di un lampo di disturbo ha stordito questa creatura.</DisruptorFlash.description>
   
   <!-- EN: duplicate sickness -->
   <DuplicateSickness.label>malattia da duplicazione</DuplicateSickness.label>
@@ -307,7 +307,7 @@
   <!-- EN: revenant hypnosis -->
   <RevenantHypnosis.label>ipnosi del revenant</RevenantHypnosis.label>
   <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire. -->
-  <RevenantHypnosis.description>Questa persona è stata ipnotizzata da un revenant e ne è ancora legata. Farfuglia di creature da incubo con lo sguardo fisso su orrori invisibili.\n\nDopo aver ipnotizzato la vittima, il revenant entra in ibernazione da qualche parte sulla stessa mappa.\n\nUccidere il revenant interrompe l’ipnosi. Un revenant nascosto può essere rivelato con razzi disturbatori, esplosivi, impulsi EMP, schiuma antincendio o fuoco.</RevenantHypnosis.description>
+  <RevenantHypnosis.description>Questa persona è stata ipnotizzata da un revenant e ne è ancora legata. Farfuglia di creature da incubo con lo sguardo fisso su orrori invisibili.\n\nDopo aver ipnotizzato la vittima, il revenant entra in ibernazione da qualche parte sulla stessa mappa.\n\nUccidere il revenant interrompe l’ipnosi. Un revenant nascosto può essere rivelato con razzi di disturbo, esplosivi, impulsi EMP, schiuma antincendio o fuoco.</RevenantHypnosis.description>
   
   <!-- EN: shard holder -->
   <ShardHolder.label>portatore di frammenti</ShardHolder.label>

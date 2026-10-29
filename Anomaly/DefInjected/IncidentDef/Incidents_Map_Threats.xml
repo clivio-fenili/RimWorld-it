@@ -19,9 +19,9 @@
   <DevourerWaterAssault.letterText>Un’orda di mostri enormi dalle fauci spalancate sta attaccando!\n\nLe loro mascelle sono abbastanza grandi da ingoiare un essere umano intero. Tenetevi alla larga!</DevourerWaterAssault.letterText>
   
   <!-- EN: fleshbeast attack -->
-  <FleshbeastAttack.label>attacco di abominazione di carne</FleshbeastAttack.label>
+  <FleshbeastAttack.label>attacco di abomini di carne</FleshbeastAttack.label>
   <!-- EN: fleshbeast attack -->
-  <FleshbeastAttack.letterLabel>attacco di abominazione di carne</FleshbeastAttack.letterLabel>
+  <FleshbeastAttack.letterLabel>attacco di abomini di carne</FleshbeastAttack.letterLabel>
   <!-- EN: The ground seems to be giving way. The sounds of writhing flesh and cracking bones can be heard from below. -->
   <FleshbeastAttack.letterText>Il terreno sembra cedere. Dal sottosuolo provengono rumori di ossa che si spezzano e carne che si contorce.</FleshbeastAttack.letterText>
   <!-- EN: Several sinkholes have started appearing. The sounds of writhing flesh and cracking bones can be heard from below. -->
@@ -77,6 +77,6 @@
   <!-- EN: Shamblers approach -->
   <SmallShamblerSwarm.letterLabel>Zombi in avvicinamento</SmallShamblerSwarm.letterLabel>
   <!-- EN: A small group of {0} shambling corpses is approaching. The inhuman force that animates them is fading, so they will collapse within a day.\n\nIf you can capture one, you can study it for anomaly knowledge. Otherwise, they might not notice you if you leave them alone. -->
-  <SmallShamblerSwarm.letterText>Un piccolo gruppo di {0} zombi si sta avvicinando. La forza inumana che li anima si sta esaurendo, quindi crolleranno entro un giorno.\n\nSe riesci a catturarne uno, potrai studiarlo per ottenere conoscenze sulle Anomalie. Altrimenti, potrebbero non accorgersi della tua presenza se li lasci in pace.</SmallShamblerSwarm.letterText>
+  <SmallShamblerSwarm.letterText>Un piccolo gruppo di {0} zombi si sta avvicinando. La forza inumana che li anima si sta esaurendo, quindi crolleranno entro un giorno.\n\nSe riesci a catturarne uno, potrai studiarlo per ottenere conoscenze sull'Anomalia. Altrimenti, potrebbero non accorgersi della tua presenza se li lasci in pace.</SmallShamblerSwarm.letterText>
   
 </LanguageData>

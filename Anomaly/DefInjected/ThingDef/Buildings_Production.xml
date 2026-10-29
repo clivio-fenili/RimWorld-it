@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: bioferrite harvester -->
-  <BioferriteHarvester.label>raccoglitore di bioferrite</BioferriteHarvester.label>
+  <BioferriteHarvester.label>estrattore di bioferrite</BioferriteHarvester.label>
   <!-- EN: When placed near a holding platform, this device draws biomass from the held entity and converts it to bioferrite. The harvester creates more bioferrite than manual extraction.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester; however, each harvester can connect to multiple platforms. -->
-  <BioferriteHarvester.description>Quando posizionato vicino a una piattaforma di detenzione, questo dispositivo preleva biomassa dall'entità contenuta e la converte in bioferrite. Il raccoglitore produce più bioferrite dell'estrazione manuale.\n\nIn generale, entità più grandi producono più bioferrite. Tuttavia, per la maggior parte delle creature, il processo causa un enorme disagio, rendendo l'entità più difficile da contenere.\n\nOgni piattaforma di detenzione può supportare un solo raccoglitore, ma ogni raccoglitore può essere collegato a più piattaforme.</BioferriteHarvester.description>
+  <BioferriteHarvester.description>Quando posizionato vicino a una piattaforma di contenimento, questo dispositivo preleva biomassa dall'entità contenuta e la converte in bioferrite. L'estrattore produce più bioferrite dell'estrazione manuale.\n\nIn generale, entità più grandi producono più bioferrite. Tuttavia, per la maggior parte delle creature, il processo causa un enorme disagio, rendendo l'entità più difficile da contenere.\n\nOgni piattaforma di contenimento può supportare un solo estrattore, ma ogni estrattore può essere collegato a più piattaforme.</BioferriteHarvester.description>
   
   <!-- EN: bioferrite shaper -->
   <BioferriteShaper.label>modellatore di bioferrite</BioferriteShaper.label>

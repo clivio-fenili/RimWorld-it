@@ -86,9 +86,9 @@
   <Meat_Twisted.description>Pezzetti di muscoli e cartilagini contorti, gonfiati da escrescenze tumorali. Questi strani brandelli di carne devono provenire da una creatura orribile.</Meat_Twisted.description>
   
   <!-- EN: monolith fragment -->
-  <MonolithFragment.label>frammento di monolito</MonolithFragment.label>
+  <MonolithFragment.label>frammento di monolite</MonolithFragment.label>
   <!-- EN: A broken-off fragment of the void monolith. It can be studied to learn more about void phenomena. -->
-  <MonolithFragment.description>Frammento spezzato del monolito del vuoto. Può essere studiato per saperne di più sui fenomeni del vuoto.</MonolithFragment.description>
+  <MonolithFragment.description>Frammento spezzato del monolite del vuoto. Può essere studiato per saperne di più sui fenomeni del vuoto.</MonolithFragment.description>
   
   <!-- EN: revenant flesh chunk -->
   <RevenantFleshChunk.label>pezzo di carne di revenant</RevenantFleshChunk.label>
@@ -122,11 +122,11 @@
   <!-- EN: revenant spine -->
   <RevenantSpine.label>colonna vertebrale di revenant</RevenantSpine.label>
   <!-- EN: An articulated spine-like object from a dead revenant. It is a chaotic mesh of sharpened metal spokes, twisted into a warped cage. The material appears to be rough-cast black iron smeared in a dark, slippery fluid. Anyone who peers too closely inside its jagged form is left with a skull-splitting headache.\n\nYou can destroy the spine to permanently kill the revenant.\n\nAlternatively, you can secure it on a holding platform and wait for the revenant to re-emerge, so you can study the captured entity. -->
-  <RevenantSpine.description>Un oggetto articolato simile a una colonna vertebrale, estratto da un revenant morto. È una rete caotica di raggi metallici affilati, intrecciati in una gabbia distorta. Il materiale sembra ferro nero grezzo ricoperto di un fluido scuro e scivoloso. Chiunque guardi troppo da vicino dentro la sua forma frastagliata sarà colpito da un forte mal di testa.\n\nPuoi distruggere la colonna vertebrale per uccidere definitivamente il revenant.\n\nIn alternativa, puoi fissarla su una piattaforma di detenzione e aspettare che il revenant emerga di nuovo per poter studiare l'entità catturata.</RevenantSpine.description>
+  <RevenantSpine.description>Un oggetto articolato simile a una colonna vertebrale, estratto da un revenant morto. È una rete caotica di raggi metallici affilati, intrecciati in una gabbia distorta. Il materiale sembra ferro nero grezzo ricoperto di un fluido scuro e scivoloso. Chiunque guardi troppo da vicino dentro la sua forma frastagliata sarà colpito da un forte mal di testa.\n\nPuoi distruggere la colonna vertebrale per uccidere definitivamente il revenant.\n\nIn alternativa, puoi fissarla su una piattaforma di contenimento e aspettare che il revenant emerga di nuovo per poter studiare l'entità catturata.</RevenantSpine.description>
   <!-- EN: Revenant reformed -->
   <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>Revenant ricomposto</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterLabel>
   <!-- EN: After {PAWN_nameDef} chained the revenant spine to a holding platform, the revenant re-emerged.\n\nWhen killed, a revenant's body dissolves, leaving behind only its archotechnological spine. This cage of slick iron waits for a chance to grow a new body. -->
-  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>Dopo che {PAWN_nameDef} ha incatenato la colonna vertebrale di revenant a una piattaforma di detenzione, il revenant è riemerso.\n\nQuando un revenant muore, il suo corpo si dissolve, lasciando solo la sua colonna vertebrale archotecnologica. Questa gabbia di ferro scivoloso aspetta solo l'occasione di generare un nuovo corpo.</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>
+  <RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>Dopo che {PAWN_nameDef} ha incatenato la colonna vertebrale di revenant a una piattaforma di contenimento, il revenant è riemerso.\n\nQuando un revenant muore, il suo corpo si dissolve, lasciando solo la sua colonna vertebrale archotecnologica. Questa gabbia di ferro scivoloso aspetta solo l'occasione di generare un nuovo corpo.</RevenantSpine.comps.CompHoldingPlatformTarget.capturedLetterText>
   <!-- EN: Smash {0_label} -->
   <RevenantSpine.comps.CompUsable.useLabel>Distruggi {0_label}</RevenantSpine.comps.CompUsable.useLabel>
   <!-- EN: {PAWN_nameDef} smashed the revenant spine. It dissolved to reveal a shard of dark archotechnology. -->

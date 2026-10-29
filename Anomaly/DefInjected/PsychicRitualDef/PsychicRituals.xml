@@ -105,9 +105,9 @@
   <SummonFleshbeastsPlayer.outcomeDescription>Un rituale di qualità superiore attirerà più abomini di carne.</SummonFleshbeastsPlayer.outcomeDescription>
   
   <!-- EN: provoke pit gate -->
-  <SummonPitGate.label>attivazione del cancello della fossa</SummonPitGate.label>
+  <SummonPitGate.label>attivazione della fossa</SummonPitGate.label>
   <!-- EN: Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources. -->
-  <SummonPitGate.description>Usa un impulso psichico per provocare abomini di carne sotterranei ad aprire un enorme cancello nel terreno. Il cratere conduce a una caverna infestata che può essere esplorata per risorse.</SummonPitGate.description>
+  <SummonPitGate.description>Usa un impulso psichico per provocare abomini di carne sotterranei ad aprire un enorme cancello nel terreno. La fossa conduce a una caverna infestata che può essere esplorata per risorse.</SummonPitGate.description>
   <!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
   <SummonPitGate.outcomeDescription>Un rituale di maggiore qualità attirerà più abomini di carne. Possono essere catturati e studiati, o macellati per carne deforme.</SummonPitGate.outcomeDescription>
   

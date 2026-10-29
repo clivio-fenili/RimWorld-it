@@ -42,9 +42,9 @@
   <AlertMeatHungerDescAppended>Potrebbero attaccare se non vengono nutriti presto. Procuragli della carne.</AlertMeatHungerDescAppended>
   
   <!-- EN: Pit gate opening -->
-  <AlertEmergingPitGate>Apertura di un cratere</AlertEmergingPitGate>
+  <AlertEmergingPitGate>Apertura di una fossa</AlertEmergingPitGate>
   <!-- EN: The ground is collapsing in on itself. A pit gate will soon form. -->
-  <AlertEmergingPitGateDesc>Il terreno sta collassando su sé stesso. Presto si formerà un cratere.</AlertEmergingPitGateDesc>
+  <AlertEmergingPitGateDesc>Il terreno sta collassando su sé stesso. Presto si formerà una fossa.</AlertEmergingPitGateDesc>
 
   <!-- EN: Insufficient containment -->
   <Alert_InsufficientContainment>Contenimento insufficiente</Alert_InsufficientContainment>

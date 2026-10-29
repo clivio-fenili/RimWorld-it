@@ -124,7 +124,7 @@
   <!-- EN: Structures activated -->
   <VoidAwakeningStageTwoStructuresActivatedLabel>Strutture attivate</VoidAwakeningStageTwoStructuresActivatedLabel>
   <!-- EN: As the second structure is activated, the darkness begins to intensify. An unnatural darkness will soon descend. Make sure your colony is prepared. Stockpile resources, build lights, craft disruptor flares, and reinforce defenses. Only those in the light will be safe.\n\nMore twisted structures will appear soon. -->
-  <VoidAwakeningStageOneStructuresActivatedText>Con l'attivazione della seconda struttura, l’oscurità inizia a intensificarsi. Un’oscurità innaturale sta per calare. Assicurati che la colonia sia pronta: accumula risorse, costruisci luci, crea razzi disturbatori e rinforza le difese. Solo chi rimarrà nella luce sarà al sicuro.\n\nPresto appariranno altre strutture contorte.</VoidAwakeningStageOneStructuresActivatedText>
+  <VoidAwakeningStageOneStructuresActivatedText>Con l'attivazione della seconda struttura, l’oscurità inizia a intensificarsi. Un’oscurità innaturale sta per calare. Assicurati che la colonia sia pronta: accumula risorse, costruisci luci, crea razzi di disturbo e rinforza le difese. Solo chi rimarrà nella luce sarà al sicuro.\n\nPresto appariranno altre strutture contorte.</VoidAwakeningStageOneStructuresActivatedText>
   <!-- EN: All void structures have been activated. The space around the void monolith has begun to shimmer. Get ready. -->
   <VoidAwakeningStageTwoStructuresActivatedText>Tutte le strutture del vuoto sono state attivate. Lo spazio attorno al monolite del vuoto comincia a scintillare. Preparatevi.</VoidAwakeningStageTwoStructuresActivatedText> 
   <!-- EN: {STUDIER_nameDef} teleported -->

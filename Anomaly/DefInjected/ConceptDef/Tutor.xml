@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: anomaly research -->
-  <AnomalyResearch.label>ricerca sulle Anomalie</AnomalyResearch.label>
+  <AnomalyResearch.label>ricerca sull'Anomalia</AnomalyResearch.label>
   <!-- EN: You must advance Anomaly research by studying unnatural entities.\n\nThere are two types of Anomaly research: BASIC and ADVANCED. Basic research projects progress when you study any entity; advanced projects only progress when you study advanced entities.\n\nYou can have a basic and an advanced project active at the same time. If no advanced project is active, advanced research will contribute to a basic project instead. -->
-  <AnomalyResearch.helpText>Devi far progredire la ricerca sulle Anomalie studiando entità innaturali.\n\nEsistono due tipi di ricerca sulle Anomalie: BASE e AVANZATA. I progetti base progrediscono studiando qualsiasi entità; quelli avanzati solo con entità avanzate.\n\nPuoi avere attivi contemporaneamente un progetto base e uno avanzato. Se non c'è un progetto avanzato attivo, la ricerca avanzata contribuirà a quello base.</AnomalyResearch.helpText>
+  <AnomalyResearch.helpText>Devi far progredire la ricerca sull'Anomalia studiando entità innaturali.\n\nEsistono due tipi di ricerca sull'Anomalia: BASE e AVANZATA. I progetti base progrediscono studiando qualsiasi entità; quelli avanzati solo con entità avanzate.\n\nPuoi avere attivi contemporaneamente un progetto base e uno avanzato. Se non c'è un progetto avanzato attivo, la ricerca avanzata contribuirà a quello base.</AnomalyResearch.helpText>
   
   <!-- EN: capturing entities -->
   <CapturingEntities.label>cattura di entità</CapturingEntities.label>
   <!-- EN: When an entity is downed but alive, you can CAPTURE it. To capture, select a colonist, right-click on the entity, and select 'Capture'. You'll need an empty holding platform or spot.\n\nOnce the entity has been brought to the holding platform, you can study it to gain Anomaly research.\n\nTend an injured entity's wounds to make sure it survives. -->
-  <CapturingEntities.helpText>Quando un'entità è a terra ma ancora viva, puoi CATTURARLA. Per farlo, seleziona un colono, clicca con il tasto destro sull'entità e scegli "Cattura". Avrai bisogno di una piattaforma di detenzione o un recinto libero.\n\nUna volta portata sulla piattaforma, potrai studiarla per ottenere ricerca sulle Anomalie.\n\nCura le ferite dell'entità per assicurarti che sopravviva.</CapturingEntities.helpText>
+  <CapturingEntities.helpText>Quando un'entità è a terra ma ancora viva, puoi CATTURARLA. Per farlo, seleziona un colono, clicca con il tasto destro sull'entità e scegli "Cattura". Avrai bisogno di una piattaforma di contenimento o un recinto libero.\n\nUna volta portata sulla piattaforma, potrai studiarla per ottenere ricerca sull'Anomalia.\n\nCura le ferite dell'entità per assicurarti che sopravviva.</CapturingEntities.helpText>
   
   <!-- EN: ghouls -->
   <ColonyGhouls.label>ghoul</ColonyGhouls.label>
@@ -24,12 +24,12 @@
   <!-- EN: entity codex -->
   <EntityCodex.label>codex delle entità</EntityCodex.label>
   <!-- EN: Use the entity codex to track which entities you've discovered.\n\nDiscovering new entities will reveal hidden Anomaly research projects. Once enough entities have been discovered, you can increase the void monolith's level.\n\nOpen the entity codex using the entity codex icon in the lower right of the screen. -->
-  <EntityCodex.helpText>Usa il codex delle entità per monitorare quelle che hai scoperto.\n\nScoprire nuove entità sbloccherà progetti nascosti di ricerca sulle Anomalie. Dopo averne scoperte abbastanza, potrai aumentare il livello del monolite del vuoto.\n\nApri il codex cliccando sull'icona corrispondente in basso a destra dello schermo.</EntityCodex.helpText>
+  <EntityCodex.helpText>Usa il codex delle entità per monitorare quelle che hai scoperto.\n\nScoprire nuove entità sbloccherà progetti nascosti di ricerca sull'Anomalia. Dopo averne scoperte abbastanza, potrai aumentare il livello del monolite del vuoto.\n\nApri il codex cliccando sull'icona corrispondente in basso a destra dello schermo.</EntityCodex.helpText>
   
   <!-- EN: studying entities -->
   <StudyingEntities.label>studio delle entità</StudyingEntities.label>
   <!-- EN: Colonists assigned to 'Dark study' work will STUDY diverse entities including creatures and structures.\n\nStudy structures like the void monolith by selecting it and toggling the 'Study' option. Some entities must be captured to a holding platform or spot before they can be studied.\n\nStudying advances Anomaly research projects. Open the 'Research' tab, then select the 'Anomaly' sub-tab to view Anomaly research projects. -->
-  <StudyingEntities.helpText>I coloni assegnati al lavoro «studi occulti» STUDIERANNO entità diverse, comprese creature e strutture.\n\nPer studiare strutture come il monolite del vuoto, selezionalo e attiva l'opzione "Studia". Alcune entità devono essere catturate e poste in contenimento prima di poter essere studiate.\n\nLo studio fa progredire i progetti di ricerca sulle Anomalie. Apri la scheda "Ricerca" e seleziona la sottoscheda "Anomalia" per visualizzare i progetti.</StudyingEntities.helpText>
+  <StudyingEntities.helpText>I coloni assegnati al lavoro «studi occulti» STUDIERANNO entità diverse, comprese creature e strutture.\n\nPer studiare strutture come il monolite del vuoto, selezionalo e attiva l'opzione "Studia". Alcune entità devono essere catturate e poste in contenimento prima di poter essere studiate.\n\nLo studio fa progredire i progetti di ricerca sull'Anomalia. Apri la scheda "Ricerca" e seleziona la sottoscheda "Anomalia" per visualizzare i progetti.</StudyingEntities.helpText>
   
   <!-- EN: suppressing entities -->
   <SuppressingEntities.label>soppressione delle entità</SuppressingEntities.label>
@@ -39,6 +39,6 @@
   <!-- EN: void provocation -->
   <VoidProvocation.label>provocazione del vuoto</VoidProvocation.label>
   <!-- EN: Use the void provocation psychic ritual to discover and capture new entities.\n\nDiscovering entities will let you advance the void monolith to higher levels, and unlock new research projects. Capturing more entities will let you complete Anomaly research projects faster.\n\nPlace a psychic ritual spot in order to perform the void provocation ritual. -->
-  <VoidProvocation.helpText>Utilizza il rituale psichico di provocazione del vuoto per scoprire e catturare nuove entità.\n\nScoprire entità ti permetterà di aumentare il livello del monolite del vuoto e sbloccare nuovi progetti di ricerca. Catturarne di più velocizzerà il completamento della ricerca sulle Anomalie.\n\nPosiziona un punto rituale psichico per eseguire il rituale di provocazione del vuoto.</VoidProvocation.helpText>
+  <VoidProvocation.helpText>Utilizza il rituale psichico di provocazione del vuoto per scoprire e catturare nuove entità.\n\nScoprire entità ti permetterà di aumentare il livello del monolite del vuoto e sbloccare nuovi progetti di ricerca. Catturarne di più velocizzerà il completamento della ricerca sull'Anomalia.\n\nPosiziona un punto rituale psichico per eseguire il rituale di provocazione del vuoto.</VoidProvocation.helpText>
   
 </LanguageData>
