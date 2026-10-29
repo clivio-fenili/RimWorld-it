@@ -23,9 +23,9 @@
   </SecurityDoor.generalRules.rulesStrings>
   
   <!-- EN: turret pack -->
-  <TurretPack.label>pacchetto torretta</TurretPack.label>
+  <TurretPack.label>zaino torretta</TurretPack.label>
   <!-- EN: Build a wearable pack that allows the user to deploy a battery-powered turret. -->
-  <TurretPack.description>Costruisci un pacchetto indossabile che consente di dispiegare una torretta alimentata a batteria.</TurretPack.description>
+  <TurretPack.description>Costruisci uno zaino indossabile che consente di dispiegare una torretta alimentata a batteria.</TurretPack.description>
   <!-- EN:
     <li>subject->deployable turrets</li>
     <li>subject_story->defended a feralworld castle from assault</li>
