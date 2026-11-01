@@ -293,10 +293,10 @@
     <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
     <li>style_clause->l'opera è permeata dall'idea di [ConceptAny] ed è realizzata in stile [artstyle_adj]</li>
     <li>style_clause->l'opera è realizzata in stile [artstyle_adj]</li>
-    <li>style_clause->lo stile [artstyle_adj] della scena centrale contrasta con la rappresentazione [artstyle_adj] dello sfondo</li>
-    <li>style_clause->l'opera ha una sensazione [artstyle_adj] e una struttura [composition]</li>
+    <li>style_clause->lo stile [artstyle_adj] della scena centrale contrasta con lo stile [artstyle_adj] dello sfondo</li>
+    <li>style_clause->l'opera ha un tono [artstyle_adj] e una struttura [composition]</li>
     <li>style_clause->la composizione complessiva è [composition]</li>
-    <li>style_clause->lo stile è [artstyle_adj] con elementi [artstyle_adj]</li>
+    <li>style_clause->lo stile è [artstyle_adj], con richiami allo stile [artstyle_adj]</li>
     <li>style_clause->l'immagine in qualche modo esprime sia [ConceptAny] che [ConceptAny]</li>
     <li>style_clause->l'immagine mette in contrasto [ConceptAny] con [ConceptAny]</li>
     <li>style_clause->la struttura [composition] dell'immagine quasi contrasta con il suo stile [artstyle_adj]</li>
@@ -310,7 +310,7 @@
     <li>symbolizes->ricorda all'osservatore</li>
     <li>symbolizes->trasmette le emozioni di</li>
     <li>symbolizes->fa pensare l'osservatore a</li>
-    <li>symbolizes->rappresenta il/la [dell'artista]</li>
+    <li>symbolizes->esprime, nelle intenzioni dell'artista,</li>
     <li>symbolizes->suggerisce il concetto di</li>
     <li>depicts->raffigura</li>
     <li>depicts->mostra</li>
@@ -321,7 +321,7 @@
     <li>depicts->ha la forma di</li>
     <li>depiction->raffigurazione</li>
     <li>depiction->immagine</li>
-    <li>depiction->ritratto</li>
+    <li>depiction->effigie</li>
     <li>depiction->rappresentazione</li>
     <li>depiction->illustrazione</li>
     <li>depiction->opera</li>

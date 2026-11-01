@@ -7,8 +7,8 @@
     <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_Furniture.rulePack.rulesStrings>
-    <li>physical_description_root->Questo mobile è inciso con un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Questo mobile porta un [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Questo mobile è inciso con una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Questo mobile porta una [depiction] di [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Un'incisione su questo mobile [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
   
@@ -19,9 +19,9 @@
     <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
-    <li>physical_description_root->Il sarcofago è inciso con un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Il sarcofago porta un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Il sarcofago è inciso con un [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Il sarcofago è inciso con una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Il sarcofago porta una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Il sarcofago è inciso con una [depiction] di [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Un'incisione su questo sarcofago [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
@@ -36,12 +36,12 @@
   -->
   <ArtDescription_Sculpture.rulePack.rulesStrings>
     <li>physical_description_root->Questa [sculpture] [depicts] [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Questa [sculpture] porta un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Su questa [sculpture] c'è un [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Questa [sculpture] porta una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Su questa [sculpture] c'è una [depiction] di [image]. [desc_sentence_group]</li>
     <li>sculpture->scultura</li>
     <li>sculpture->opera</li>
-    <li>sculpture->pezzo</li>
-    <li>sculpture->intaglio</li>
+    <li>sculpture->creazione</li>
+    <li>sculpture->figura intagliata</li>
   </ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
@@ -50,8 +50,8 @@
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponGun.rulePack.rulesStrings>
-    <li>physical_description_root->Quest'arma è incisa con un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Quest'arma porta un [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Quest'arma è incisa con una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Quest'arma porta una [depiction] di [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Un'incisione su quest'arma [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponGun.rulePack.rulesStrings>
   
@@ -61,8 +61,8 @@
     <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponMelee.rulePack.rulesStrings>
-    <li>physical_description_root->Quest'arma è incisa con un [depiction] di [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Quest'arma porta un [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Quest'arma è incisa con una [depiction] di [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Quest'arma porta una [depiction] di [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Un'incisione su quest'arma [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponMelee.rulePack.rulesStrings>
   
