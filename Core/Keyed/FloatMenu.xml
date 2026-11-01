@@ -6,7 +6,7 @@
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Impossibile usare ({0})</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Impossibile usare (tempesta solare)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Impossibile usare (EMP)</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>Impossibile usare (niente corrente)</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
@@ -50,7 +50,7 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>non può attaccare sé stesso</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>non può attaccare una fazione alleata</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>non può attaccare un membro della propria fazione</CannotAttackSameFactionMember>
   <!-- EN: Incapable of firefighting. -->
   <IncapableOfFirefighting>Incapace di combattere gli incendi.</IncapableOfFirefighting>
 
@@ -105,11 +105,11 @@
   <!-- EN: no usable food -->
   <NoUsableFood>nessun cibo utilizzabile</NoUsableFood>
   <!-- EN: not enough food -->
-  <NoFood>niente cibo</NoFood>
+  <NoFood>cibo insufficiente</NoFood>
   <!-- EN: no food matching restrictions -->
   <NoFoodMatchingRestrictions>nessun cibo conforme alle restrizioni</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
-  <NoIngredient>No {0_label}</NoIngredient>
+  <NoIngredient>Niente {0_label}</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>sotto i requisiti di {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
@@ -121,13 +121,13 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>animale occupato</CantInteractAnimalBusy>
   <!-- EN: no allowed reachable pens -->
-  <CantRopeAnimalNoUsableReachablePens>recinti raggiungibili non consentiti</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoUsableReachablePens>nessun recinto consentito e raggiungibile</CantRopeAnimalNoUsableReachablePens>
   <!-- EN: no enclosed pens -->
   <CantRopeAnimalNoEnclosedPens>non ci sono recinti chiusi</CantRopeAnimalNoEnclosedPens>
   <!-- EN: no allowed pens -->
-  <CantRopeAnimalNoAllowedPens>recinti non consentiti</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoAllowedPens>nessun recinto consentito</CantRopeAnimalNoAllowedPens>
   <!-- EN: no reachable pens -->
-  <CantRopeAnimalNoReachablePens>recinti non raggiungibili</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalNoReachablePens>nessun recinto raggiungibile</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
   <CantRopeAnimalCantTouch>non si può toccare</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
@@ -157,11 +157,11 @@
   <!-- EN: not ready for surgery -->
   <NotSurgeryReady>non pronto per intervento</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>abilità incapace</SkillDisabled>
+  <SkillDisabled>abilità disattivata</SkillDisabled>
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>troppo luminoso</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>senza soffitto</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>senza tetto</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>incapace di smantellamento</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
@@ -169,15 +169,15 @@
   <!-- EN: tree marked for extraction -->
   <TreeMarkedForExtraction>albero segnato per l'estrazione</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
-  <AngersFaction>irrita fazione</AngersFaction>
+  <AngersFaction>irrita la fazione</AngersFaction>
   <!-- EN: no body part -->
   <InstallImplantNoBodyPart>nessuna parte del corpo</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>non un colono</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>non è un colono</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>già installato</InstallImplantAlreadyInstalled>
   <!-- EN: requires an existing {0} -->
-  <InstallImplantHediffRequired>richiede una {0} esistente</InstallImplantHediffRequired>
+  <InstallImplantHediffRequired>richiede: {0} già presente</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>livello massimo</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
@@ -187,7 +187,7 @@
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Aggiorna {0} al livello {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>violazione dell'alleanza con la fazione</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>violazione: membro della propria fazione</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>trasportato da {0_labelShort}</BeingCarriedBy>
   <!-- EN: full -->
@@ -209,7 +209,7 @@
   <!-- EN: Arrest {0} -->
   <Arrest>Arresta {0}</Arrest>
   <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
-  <TryToArrest>Prova ad arrestare {1_label} ({2} chance)</TryToArrest>
+  <TryToArrest>Prova ad arrestare {1_label} ({2} di probabilità)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Non può arrestare</CannotArrest>
   <!-- EN: {0} chance of arrest -->
@@ -291,7 +291,7 @@
   <!-- EN: Equip {0} -->
   <Equip>Equipaggia {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(lottatore sarà scontento)</EquipWarningBrawler>
+  <EquipWarningBrawler>(il lottatore sarà scontento)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Non può equipaggiare {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
@@ -321,7 +321,7 @@
   <!-- EN: Full -->
   <ReloadFull>Pieno</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>Troppi pochi</ReloadNotEnough>
+  <ReloadNotEnough>Troppo pochi</ReloadNotEnough>
   <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
   <ReloadCannotCarryEnough>Non è possibile trasportare abbastanza {AMMO_label} per ricaricare 1 carica.</ReloadCannotCarryEnough>
   
@@ -435,7 +435,7 @@
   <CannotOpen>Non può aprire {0_label}</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Entra {0}</EnterMap>
+  <EnterMap>Entra in {0}</EnterMap>
   <!-- EN: Visit {0} -->
   <VisitSettlement>Visita {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
@@ -482,9 +482,9 @@
   <MissingTitleAbility>privo del titolo necessario</MissingTitleAbility>
 
   <!-- EN: Will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>Non può dare priorità (non {0} mai)</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Non può dare priorità (non farà mai: {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>Non {0} mai</WillNever>
+  <WillNever>non farà mai: {0}</WillNever>
 
   <!-- EN: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Non può dare priorità (non assegnato a {0})</CannotPrioritizeNotAssignedToWorkType>

@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Salvataggio automatico</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Tre di voi si risvegliano nelle loro bare criptosonno tra il suono delle sirene e del metallo che si squarcia. Riuscite a malapena a raggiungere le capsule di salvataggio prima che la nave vada in pezzi.\n\nQualche tempo dopo, atterrate su questo mondo sconosciuto dell'orlo esterno.\n\nMentre intorno a voi si schiantano i pezzi dell'astronave distrutta, iniziate a pensare a come sopravvivere.</GameStartDialog>
+  <GameStartDialog>Vi risvegliate in tre nelle vostre bare criptosonno, tra il suono delle sirene e del metallo che si squarcia. Riuscite a malapena a raggiungere le capsule di salvataggio prima che la nave vada in pezzi.\n\nQualche tempo dopo, atterrate su questo mondo sconosciuto dell'orlo esterno.\n\nMentre intorno a voi si schiantano i pezzi dell'astronave distrutta, iniziate a pensare a come sopravvivere.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Colonia</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
@@ -37,7 +37,7 @@
   <!-- EN: No -->
   <No>No</No>
   <!-- EN: No {0} -->
-  <NoSubject>No {0}</NoSubject>
+  <NoSubject>Niente {0}</NoSubject>
   <!-- EN: new -->
   <New>nuovo</New>
   <!-- EN: Gender -->
@@ -116,7 +116,7 @@
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Carne cruda. Può essere cucinata in un pasto o mangiata cruda.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Carne cruda. Se necessario, può essere cucinata in un pasto o mangiata cruda. Decisamente poco appetitoso.</MeatInsectDesc>
+  <MeatInsectDesc>Carne cruda. Se necessario, può essere cucinata in un pasto o mangiata cruda. Decisamente poco appetitosa.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Carne cruda. Può essere cucinata in un pasto o mangiata cruda, sebbene la maggior parte delle persone detesti l'idea.</MeatHumanDesc>
 
@@ -175,7 +175,7 @@
   <CouplesRoom>{2} di {PAWN1_labelShort} e {PAWN2_labelShort}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>Importante per questo tipo di camera.</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Importante per questo tipo di stanza.</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
   <DeepResourceRemaining>{COUNT} {RESOURCE_label} presenti qui sottoterra.</DeepResourceRemaining>
@@ -198,7 +198,7 @@
   <East>Est</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>applicando schemi tecnici ({0})</ApplyingTechprint>
+  <ApplyingTechprint>applicare uno schema tecnico ({0})</ApplyingTechprint>
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->

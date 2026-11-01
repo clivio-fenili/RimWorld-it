@@ -14,7 +14,7 @@
   <!-- EN: Accept -->
   <Accept>Accetta</Accept>
   <!-- EN: Cancel -->
-  <Cancel>Cancella</Cancel>
+  <Cancel>Annulla</Cancel>
   <!-- EN: Reset -->
   <Reset>Azzera</Reset>
   <!-- EN: Reset all -->
@@ -40,7 +40,7 @@
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Dal momento che questa è una copia priva di DRM, puoi installare il gioco due volte in due cartelle diverse, per poter giocare sia alla vecchia che alla nuova versione.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>Se desideri continuare con la vecchia versione puoi optare per usare la funzionalità "Beta" di Steam.\n\n  1. Nella libreria di Steam, clicca destro su RimWorld.\n  2. Clicca su Proprietà.\n  3. Clicca sulla scheda "Beta".\n  4. Seleziona la versione che desideri dal menù a discesa.\n\nLe vecchie versioni saranno probabilmente rimosse dalla lista: vogliamo solo evitare di interrompere partite in corso.\n\nConsidera che se i modders aggiornano le loro mod alla nuova versione del gioco, queste probabilmente smetteranno di funzionare sulla vecchia. Per evitare questo puoi disattivare gli aggiornamenti automatici.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Se desideri continuare con la vecchia versione puoi optare per usare la funzionalità "Beta" di Steam.\n\n 1. Nella libreria di Steam, clicca destro su RimWorld.\n 2. Clicca su Proprietà.\n 3. Clicca sulla scheda "Beta".\n 4. Seleziona la versione che desideri dal menù a discesa.</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
   <GameUpdatedToNewVersionSteamController>Se si desidera continuare con la vecchia versione, è possibile accedere alla funzione "Beta" di Steam.</GameUpdatedToNewVersionSteamController>
   
@@ -136,7 +136,7 @@
   <!-- EN: Load anyway -->
   <LoadAnyway>Carica comunque</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Carica mods dal salvataggio</ChangeLoadedMods>
+  <ChangeLoadedMods>Carica la lista delle mod dal salvataggio</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Alcune mod non sono disponibili e devono essere installate</MissingMods>
   <!-- EN: Official content -->
@@ -174,7 +174,7 @@
   <!-- EN: Please enter a valid name. -->
   <NameIsInvalid>Scegli un nome valido.</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>Nome è già in uso.</NameIsInUse>
+  <NameIsInUse>Il nome è già in uso.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>La zona è ora chiamata {0}.</ZoneGainsName>
   
@@ -238,7 +238,7 @@
 
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
-  <ConfirmResetLearningHelper>Siete sicuri di voler resettare l'aiuto all'apprendimento?\n\nTutte le registrazioni dei concetti appresi saranno cancellate e il sistema insegnerà tutto da capo.</ConfirmResetLearningHelper>
+  <ConfirmResetLearningHelper>Sei sicuro di voler azzerare l'aiuto all'apprendimento?\n\nTutte le registrazioni dei concetti appresi saranno cancellate e il sistema insegnerà tutto da capo.</ConfirmResetLearningHelper>
 
   <!-- Backstory translation restart dialog -->
   <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
@@ -298,7 +298,7 @@
   <!-- EN: Infinite -->
   <Infinite>Infinito</Infinite>
   <!-- EN: Allowed {0} skill -->
-  <AllowedSkillRange>{0} abilità permessa:</AllowedSkillRange>
+  <AllowedSkillRange>Abilità di {0} consentita</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>incompatibile</IncompatibleLower>
   <!-- EN: Any worker -->
@@ -357,7 +357,7 @@
   <!-- EN: Armor penetration -->
   <ArmorPenetration>Penetrazione armatura</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>La penetrazione armatura è la quantità di armatura che quest'arma ignorerà ogni volta che colpisce il bersaglio.\n\nSe la penetrazione armature è maggiore dell'armatura del bersaglio, considera come se il bersaglio fosse senza armatura. Altrimenti, la penetrazione armatura viene sottratta dall'armatura del bersaglio.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>La penetrazione armatura è la quantità di armatura che quest'arma ignorerà ogni volta che colpisce il bersaglio.\n\nSe la penetrazione armatura è maggiore dell'armatura del bersaglio, è come se il bersaglio fosse senza armatura. Altrimenti, la penetrazione armatura viene sottratta dall'armatura del bersaglio.</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
   <BuildingDamageFactor>Fattore di danno all'edificio</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
@@ -375,9 +375,9 @@
   <!-- EN: Burst shot count -->
   <BurstShotCount>Numero di colpi singola raffica</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Tempo di ricarica</WarmupTime>
+  <WarmupTime>Tempo di preparazione</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Tempo di ricarica in mischia</MeleeWarmupTime>
+  <MeleeWarmupTime>Tempo di preparazione in mischia</MeleeWarmupTime>
   <!-- EN: Aiming time -->
   <RangedWarmupTime>Tempo di mira</RangedWarmupTime>
   <!-- EN: Cooldown -->
@@ -397,11 +397,11 @@
   <!-- EN: Stopping power -->
   <StoppingPower>Forza di arresto</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>I colpi di quest'arma faranno barcollare i bersagli, rallentando i loro movimenti per diversi secondi. I bersagli con una taglia del corpo superiore alla forza di arresto non saranno affetti.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>I colpi di quest'arma faranno barcollare i bersagli, rallentando i loro movimenti per diversi secondi.\n\nI bersagli con una taglia del corpo superiore alla forza di arresto non ne risentiranno.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Possibilità colpo diretto</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>Portata fallimento</MissRadius>
+  <MissRadius>Raggio di dispersione</MissRadius>
   <!-- EN: Grows wild -->
   <GrowsWild>Cresce spontaneamente</GrowsWild>
   <!-- EN: Harvestable -->
@@ -475,9 +475,9 @@
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Le creature più feroci sono naturalmente più difficili da addomesticare, addestrare e gestire.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Tempo di recupero dell'addestramento</TrainingDecayInterval>
+  <TrainingDecayInterval>Intervallo di decadimento dell'addestramento</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
-  <TamenessWillNotDecay>Non smetterà mai di essere addomesticata.</TamenessWillNotDecay>
+  <TamenessWillNotDecay>La mansuetudine non decadrà mai per gli animali poco selvatici.</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
   <TamenessWillNotDecayFenceBlocked>La mansuetudine non decadrà mai per gli animali che possono essere tenuti dietro un recinto.</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
@@ -485,27 +485,27 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>Varie</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>Farmaco</Chemical>
+  <Chemical>Principio attivo</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>Alto guadagno per dose</HighGain>
+  <HighGain>Sballo per dose</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>Alto tasso di decadenza</HighFallRate>
+  <HighFallRate>Calo dello sballo</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>Alta durata per dose</HighDuration>
+  <HighDuration>Durata dello sballo per dose</HighDuration>
   <!-- EN: Tolerance gain per dose -->
   <ToleranceGain>Tolleranza guadagnata per dose</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>Tolleranza per tasso di decadenza</ToleranceFallRate>
+  <ToleranceFallRate>Calo della tolleranza</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>Tolleranza minima per dipendenza</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval for adults -->
-  <SafeDoseInterval>Intervallo sicuro della dose</SafeDoseInterval>
+  <SafeDoseInterval>Intervallo sicuro tra le dosi (adulti)</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
   <AgeXToY>età {0}-{1}</AgeXToY>
   <!-- EN: age {0}+ -->
   <AgePlus>età {0}+</AgePlus>
   <!-- EN: New addiction chance -->
-  <Addictiveness>Dipendenza</Addictiveness>
+  <Addictiveness>Probabilità di dipendenza</Addictiveness>
   <!-- EN: Addiction initial severity -->
   <AddictionSeverityInitial>Grado di dipendenza iniziale</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
@@ -513,7 +513,7 @@
   <!-- EN: Addiction need fill per dose -->
   <AddictionNeedOffset>Grado di soddisfazione della dipendenza per dose</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>Tasso di decaduta per la dipendenza</AddictionNeedFallRate>
+  <AddictionNeedFallRate>Calo del bisogno della dipendenza</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
   <AddictionNeedDoseInterval>Intervallo di dose richiesta per la dipendenza</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
@@ -521,7 +521,7 @@
   <!-- EN: Addiction cost -->
   <AddictionCost>Costo della dipendenza</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Probabilità di un overdose casuale</RandomODChance>
+  <RandomODChance>Probabilità di un'overdose casuale</RandomODChance>
   <!-- EN: Always safe -->
   <AlwaysSafe>Sempre al sicuro</AlwaysSafe>
   <!-- EN: Never safe -->
@@ -557,7 +557,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Probabilità di vendetta</HarmedRevengeChance>
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <HarmedRevengeChanceExplanation>La probabilità che questa creatura cerchi vendetta dopo essere stata ferita da un aggressore a distanza di fucile.\n\nQuesta probabilità aumenta se l'aggressore è più vicino. Se attaccato a brevissima distanza, la probabilità è tre volte maggiore.\n\nQuesta probabilità viene applicate ogni volta che il danno viene inflitto, per cui armi più lente e dai danni più elevati sono meno portate ad innescarla.\n\nPer ridurre la possibilità che una creatura cerchi vendetta, attaccala da lunga distanza con un'arma a bassa cadenza di fuoco.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>La probabilità che questa creatura attacchi quando viene ferita.\n\nQuesta probabilità aumenta fino a tre volte se l'aggressore è più vicino.\n\nLa probabilità si applica ogni volta che la creatura subisce danni: per questo le armi più lente e dai danni più elevati hanno meno probabilità di provocarla durante la caccia.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Probabilità vendetta su addomesticamento fallito</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -603,7 +603,7 @@
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>I tipi di meditazione che questo oggetto offre. Una persona in meditazione può concentrarsi su questo oggetto per aumentare il guadagno di psyfocus, ma solo se è in grado di utilizzare uno dei suoi tipi di meditazione. Ogni persona può usare diversi tipi di meditazione a seconda del proprio passato, tratti, posizione sociale e così via.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>Può utilizzare {0} tipi di concentrazione perché</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Può usare il tipo di meditazione {0} perché</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
   <MeditationFocusObjects>{0} oggetti di meditazione</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
@@ -623,7 +623,7 @@
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
-  <PositiveBuysNegativeSells>Positivo acquisti.\nNegativo vendi.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>Numeri positivi: compri.\nNumeri negativi: vendi.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>Prezzo che paghi per acquistare.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
@@ -689,11 +689,11 @@
   <!-- EN: Joins as colonist -->
   <JoinsAsColonist>Si unisce come colono</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>Se acquistata, questa persona si unirà alla vostra colonia come schiavo.</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Se acquistata, questa persona si unirà alla tua colonia come schiavo.</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>Se acquistata, questa persona si unirà alla vostra colonia come colono.</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>Se acquistata, questa persona si unirà alla tua colonia come colono.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>Bonus per il commercio di farmaci</TradingDrugsBonus>
+  <TradingDrugsBonus>Bonus per il commercio di droghe</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>minimo</minimum>
   <!-- EN: Final price -->
@@ -749,13 +749,13 @@
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>Il punto di uscita scelto ({0}) è inaccessibile.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>Impossibile trovare un punto valido di rifornimento. Verifica che il punto di uscita scelto ({0}) sia accessibile.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>Impossibile trovare un punto di raccolta valido. Verifica che il punto di uscita scelto ({0}) sia accessibile.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Attenzione: Alcuni dei coloni assegnati non sono in grado di raggiungere il punto di uscita ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
-  <CaravanRoamerCannotReachSpots>{1_labelShort} non riesce a raggiungere il punto di imballaggio o il luogo di uscita quando è guidato da uno qualsiasi dei coloni assegnati.</CaravanRoamerCannotReachSpots>
+  <CaravanRoamerCannotReachSpots>{1_labelShort} non riesce a raggiungere il punto di raccolta o il punto di uscita quando è guidato da uno qualsiasi dei coloni assegnati.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>Nessuno dei coloni assegnati è in grado di raggiungere il {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>Nessuno dei coloni assegnati è in grado di raggiungere {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
   <CaravanItemIsUnreachableMulti>Nessuno dei coloni assegnati è in grado di raggiungere {0} {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
@@ -771,7 +771,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Illimitato</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Il numero indicativo di giorni prima che almeno una persona o animale resti senza cibo.\n\n Specie diverse hanno diete diverse, per cui qualcuno potrebbe restare senza cibo prima degli altri. Questo valore è calcolato più accuratamente dopo che il percorso viene stabilito.\n\nInfluenzato da:\n - Tipo e quantità di cibo trasportato\n - Membri della carovana e loro diete\n - Tasso di procacciamento\n - Possibilità di pascolo degli animali\n - Tempo prima che il cibo marcisca\n - Il caldo fa marcire il cibo più velocemente</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Il numero indicativo di giorni prima che almeno una persona o animale resti senza cibo. Specie diverse hanno diete diverse, per cui qualcuno potrebbe restare senza cibo prima degli altri. Questo valore è calcolato più accuratamente dopo che il percorso viene stabilito.\n\nInfluenzato da:\n - Inventario attuale dei membri\n - Tipo e quantità di cibo trasportato\n - Membri della carovana e loro diete\n - Tasso di procacciamento\n - Possibilità di pascolo degli animali\n - Tempo prima che il cibo marcisca\n - Il caldo fa marcire il cibo più velocemente</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(viene presa in considerazione solo la prima tappa)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -975,7 +975,7 @@
   <!-- EN: Apparel policy -->
   <ApparelPolicy>Politica sull'abbigliamento</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
-  <OutfitInUse>Vestiario utilizzato da {0}.</OutfitInUse>
+  <OutfitInUse>La politica sull'abbigliamento è usata da {0}.</OutfitInUse>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
@@ -985,9 +985,9 @@
   <!-- EN: Drug policy -->
   <DrugPolicy>Politica sulle droghe</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Questa politica sulle droghe è in uso da {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Questa politica sulle droghe è usata da {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Questa limitazione sul cibo è in uso da {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Questa limitazione sul cibo è usata da {0}.</FoodRestrictionInUse>
   <!-- EN: Add drug... -->
   <AddDrug>Aggiungi droga...</AddDrug>
   <!-- EN: Drug -->
@@ -1009,7 +1009,7 @@
   <!-- EN: Every {0} days -->
   <EveryDays>Ogni {0} giorni</EveryDays>
   <!-- EN: Any -->
-  <NoDrugUseRequirement>Chiunque</NoDrugUseRequirement>
+  <NoDrugUseRequirement>Qualsiasi</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
   <DeleteDrugTooltip>Elimina questa droga.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
@@ -1021,11 +1021,11 @@
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
   <JoyThresholdColumnDesc>I coloni consumeranno questa droga solo se il loro desiderio di svago è al di sotto di questa soglia.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>La quantità extra di droga che vien prelevata per il consumo, al fine di evitare di dover ritornare al deposito ogni volta.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>La quantità extra di droga che viene prelevata per il consumo, al fine di evitare di dover ritornare al deposito ogni volta.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>Per le dipendenze\n\nUtilizzare questa droga per rispondere ai bisogni di astinenze esistenti.\n\nAnche se disattivato, alcuni personaggi con tratti specifici, o crolli mentali, potrebbero consumare comunque la droga.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Per le dipendenze\n\nUsa questa droga per soddisfare dipendenze già esistenti.\n\nAnche se disattivato, alcuni personaggi con tratti specifici, o in preda a un crollo mentale, potrebbero consumare comunque la droga.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>Per uso ricreativo\n\nUtilizzare questa droga a fini ricreativi e sociali.\n\nAnche se disattivato, alcuni personaggi con tratti specifici, o crolli mentali, potrebbero consumare comunque la droga.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>Per uso ricreativo\n\nUsa questa droga a fini ricreativi e sociali.\n\nAnche se disattivato, alcuni personaggi con tratti specifici, o in preda a un crollo mentale, potrebbero consumare comunque la droga.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Pianificata\n\nUtilizzare questa droga secondo un calendario definito, quando si verificano determinate condizioni.</DrugUsageTipScheduled>
 
@@ -1145,7 +1145,7 @@
   <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} morirà quasi sicuramente.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} porterà i seguenti oggetti con {1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} porterà con sé i seguenti oggetti:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Tutti i coloni avranno i seguenti pensieri:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
@@ -1159,7 +1159,7 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
-  <ConfirmSettleNearFactionBase>Dal momento che questo luogo è a meno di {0} caselle dalla base di un'altra fazione, penseranno che stai invadendo la loro terra e le relazioni con la loro fazione peggioreranno ogni {1} giorni.\n\nFondare comunque qui?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Dal momento che questo luogo è a meno di {0} caselle dalla base di un'altra fazione, penseranno che stai invadendo la loro terra e le relazioni con la loro fazione peggioreranno ogni {1} giorni.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
@@ -1193,9 +1193,9 @@
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Nessuna linea di tiro al bersaglio.</AbilityCannotHitTarget>
   <!-- EN: Target is out of range. -->
-  <AbilityOutOfRange>L'obiettivo è fuori portata.</AbilityOutOfRange>
+  <AbilityOutOfRange>Il bersaglio è fuori portata.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>Impossibile raggiungere l'obbiettivo.</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>Impossibile raggiungere il bersaglio.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>Non abbastanza spazio libero.</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
@@ -1203,7 +1203,7 @@
   <!-- EN: Must target a walkable area. -->
   <AbilityUnwalkable>Deve avere come bersaglio un'area percorribile.</AbilityUnwalkable>
   <!-- EN: Must target an unroofed area. -->
-  <AbilityRoofed>Deve avere come bersaglio un'area non protetta.</AbilityRoofed>
+  <AbilityRoofed>Deve avere come bersaglio un'area senza tetto.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>{0_labelShort} ha un crollo mentale.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
@@ -1223,11 +1223,11 @@
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
   <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} non ha ferite curabili.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} è il sesso sbagliato per {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} non è del sesso giusto per {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
   <AbilityCantApplyTooYoung>{0_labelShort} è troppo giovane.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->
-  <AbilityCantApplyOnBaby> Non può prendere di mira un bambino.</AbilityCantApplyOnBaby>
+  <AbilityCantApplyOnBaby>Non può prendere di mira un neonato.</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Costo di Psyfocus per intensità del crollo mentale</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
@@ -1263,7 +1263,7 @@
   <!-- EN: Need ally at target for navigation -->
   <AbilityNeedAllyToSkip>Hai bisogno di alleato sul bersaglio per la navigazione</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip>Nessun blocco da saltare.</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>Nessun detrito da teletrasportare.</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
   <PsychicLoveInduceIn>Induce l'amore psichico in</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
@@ -1344,7 +1344,7 @@
   <!-- EN: no beds allowed -->
   <RoomRequirementNoBeds>nessun letto ammesso</RoomRequirementNoBeds>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>Grandezza della stanza: {0} caselle</RoomRequirementArea>
+  <RoomRequirementArea>superficie della stanza: {0} caselle</RoomRequirementArea>
   <!-- EN: room impressiveness -->
   <RoomRequirementImpressiveness>imponenza della stanza</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
@@ -1367,7 +1367,7 @@
   <CollapseAllCategories>Chiudi tutto</CollapseAllCategories>
 
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>Il colorante può essere coltivato dalla tintoria o acquistato dai commercianti.</TooltipDyeExplanation>
+  <TooltipDyeExplanation>Il colorante si ricava dalla tinctoria coltivata o si compra dai commercianti.</TooltipDyeExplanation>
 
   <!-- EN: Zoom range {0} -->
   <ZoomRange>Intervallo di zoom {0}</ZoomRange>
@@ -1388,7 +1388,7 @@
   <!-- EN: sat -->
   <Saturation>Saturazione</Saturation>
   <!-- EN: value -->
-  <ColorValue>colore</ColorValue>
+  <ColorValue>luminosità</ColorValue>
   <!-- EN: darklight -->
   <Darklight>luce scura</Darklight>
   <!-- EN: not darklight -->

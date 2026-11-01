@@ -58,9 +58,9 @@
   <!-- EN: Born: {0} -->
   <Born>Nato: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Età cronologica: {0} anni, {1} quadri, {2} giorni</AgeChronological>
+  <AgeChronological>Età cronologica: {0} anni, {1} quadrum, {2} giorni</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Età biologica: {0} anni, {1} quadri, {2} giorni</AgeBiological>
+  <AgeBiological>Età biologica: {0} anni, {1} quadrum, {2} giorni</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
@@ -68,9 +68,9 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0} anni</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>1 quadro</Period1Quadrum>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>{0} quadri</PeriodQuadrums>
+  <PeriodQuadrums>{0} quadrum</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>1 giorno</Period1Day>
   <!-- EN: {0} days -->

@@ -137,15 +137,15 @@
   <!-- EN: Texture compression -->
   <TextureCompression>Compressione texture</TextureCompression>
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
-  <TextureCompression_Tooltip>Disattivare la compressione delle texture consumerà molta più memoria video, ma renderà le texture leggermente migliori nelle aree dettagliate. Disattivatela solo se siete certi di avere molta memoria video disponibile.\n\nSi noti che l’uso di alcune mod può consumare molta più memoria video, quindi potrebbe essere necessario attivarla se si aggiungono determinate mod.</TextureCompression_Tooltip>
+  <TextureCompression_Tooltip>Disattivare la compressione delle texture consumerà molta più memoria video, ma renderà le texture leggermente migliori nelle aree dettagliate. Disattivala solo se sei certo di avere molta memoria video disponibile.\n\nTieni presente che alcune mod consumano molta più memoria video, quindi potrebbe essere necessario riattivarla se ne aggiungi.</TextureCompression_Tooltip>
   <!-- EN: Smooth camera jumps -->
   <SmoothCameraJumps>Movimenti fluidi della telecamera</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
   <SmoothCameraJumpsDesc>Se abilitata, la telecamera effettuerà una panoramica rapida quando si mette a fuoco una nuova posizione. Se disabilitata, la telecamera salterà istantaneamente.</SmoothCameraJumpsDesc>
   <!-- EN: Gravship cutscenes -->
-  <GravshipCutscenes>Filmati di decollo/atterraggio dei vascelli gravitazionali</GravshipCutscenes>
+  <GravshipCutscenes>Filmati di decollo/atterraggio delle navi gravitazionali</GravshipCutscenes>
   <!-- EN: When disabled, gravships will take off and land instantly. -->
-  <GravshipCutscenesDesc>Se disabilitati, i vascelli gravitazionali decolleranno e atterreranno istantaneamente.</GravshipCutscenesDesc>
+  <GravshipCutscenesDesc>Se disabilitati, le navi gravitazionali decolleranno e atterreranno istantaneamente.</GravshipCutscenesDesc>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->

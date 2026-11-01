@@ -13,14 +13,14 @@
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>Attiva</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>Accendi/spegni</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>Attiva.</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>Accendi o spegni.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Imposta attivazione</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Ordina accensione/spegnimento</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Imposta questa cosa perché sia attivata. Un colono arriverà presto per attivare l'interruttore.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Ordina di accendere o spegnere questo oggetto. Un colono arriverà presto per azionare l'interruttore.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Riconnetti</CommandTryReconnectLabel>
@@ -174,7 +174,7 @@
   <CommandAllowSowDesc>Quando disattivato, i coloni non semineranno mai piante in questa zona. Tuttavia potranno ancora raccogliere.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>Consente il taglio</CommandAllowCut>
+  <CommandAllowCut>Autorizza taglio</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
   <CommandAllowCutDesc>Quando è disattivato, i coloni non taglieranno mai le piante in questa zona. Semineranno comunque nuove piante negli spazi già vuoti e raccoglieranno le piante che corrispondono al tipo di pianta della zona di crescita.</CommandAllowCutDesc>
   
@@ -471,7 +471,7 @@
   <!-- EN: Fulfill trade offer -->
   <CommandFulfillTradeOffer>Concludi offerta commerciale</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>Soddisfa la richiesta di merci della colonia e richiedi la tua ricompensa.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>Soddisfa la richiesta di merci dell'insediamento e riscuoti la ricompensa.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>La carovana deve avere {0} per concludere questa offerta commerciale.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
@@ -507,7 +507,7 @@
   <!-- EN: Unload all -->
   <CommandUnload>Svuota tutto</CommandUnload>
   <!-- EN: Eject all contents from the {0}. -->
-  <CommandUnloadDesc>Scarica tutto il contenuto dal {0}.</CommandUnloadDesc>
+  <CommandUnloadDesc>Scarica tutto il contenuto: {0}.</CommandUnloadDesc>
 
   <!-- Launch group -->
   <!-- EN: Launch -->
@@ -517,11 +517,11 @@
   <!-- EN: Must be loaded first. -->
   <CommandLaunchGroupFailNotLoaded>Devi prima caricare tutto.</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Alcune capsule di trasporto di questo gruppo non sono collegate ad un porto di rifornimento.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Alcune capsule di trasporto di questo gruppo non sono collegate a una porta di rifornimento.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
-  <CommandLaunchGroupFailUnderRoof>Alcuni lanciacapsule sono sotto una copertura.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Un tetto blocca il lancio.</CommandLaunchGroupFailUnderRoof>
   <!-- EN: Not enough fuel to launch. -->
-  <CommandLaunchGroupFailNoFuel>Alcuni lanciacapsule in questo gruppo non hanno carburante.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>Carburante insufficiente per il lancio.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Over mass capacity. -->
   <CommandLaunchGroupFailOverMassCapacity>Oltre la capacità di carico.</CommandLaunchGroupFailOverMassCapacity>
   <!-- EN: On cooldown. -->
@@ -531,9 +531,9 @@
 
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>Carica gruppo di {0} POD</CommandLoadTransporter>
+  <CommandLoadTransporter>Carica gruppo di lancio ({0})</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>Imposta i pod selezionati come gruppo di lancio. Apre la finestra di caricamento così puoi decidere chi e cosa caricare all’interno.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Imposta i trasporti selezionati come gruppo di lancio. Apre la finestra di caricamento così puoi decidere chi e cosa caricare all’interno.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>La capsula di trasporto non è collegata a una porta di rifornimento.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
@@ -617,7 +617,7 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>Respingi</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Congeda</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
   <CommandShuttleDismissDesc>Scarica tutto il contenuto e manda via la navetta.</CommandShuttleDismissDesc>
 
@@ -633,7 +633,7 @@
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>Cancella</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Annulla</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
   <CommandCancelMonumentMarkerDesc>Rimuovi definitivamente questo indicatore del monumento.</CommandCancelMonumentMarkerDesc>
 
@@ -645,13 +645,13 @@
   <!-- EN: Open linked quest -->
   <CommandOpenLinkedQuest>Apri missione corrispondente</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>Apri missione corrispondente nella scheda quest.</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Apri la missione corrispondente nella scheda Missioni.</CommandOpenLinkedQuestDesc>
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>Posiziona {0_nameDef}</CommandDropPawn>
+  <CommandDropPawn>Lascia {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>Posiziona la persona trasportata.</CommandDropPawnDesc>
+  <CommandDropPawnDesc>Lascia la persona trasportata.</CommandDropPawnDesc>
   <!-- EN: Select {0_nameDef} -->
   <CommandSelectCarriedPawn>Seleziona {0_nameDef}</CommandSelectCarriedPawn>
   <!-- EN: Select the creature being carried. -->
@@ -679,9 +679,9 @@
 
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>Prendi farmaco...</TakeDrug>
+  <TakeDrug>Assumi droga...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>Scegli un farmaco dall'inventario da ingerire immediatamente.</TakeDrugDesc>
+  <TakeDrugDesc>Scegli una droga dall'inventario da assumere subito.</TakeDrugDesc>
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
@@ -696,7 +696,7 @@
   <CommandLeaveLastParticipant>Questo è l'ultimo partecipante del {RITUAL_labelDef}.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>Cancella {RITUAL_label}</CommandCancelRitual>
+  <CommandCancelRitual>Annulla {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
   <CommandCancelRitualDesc>Termina immediatamente il {RITUAL_labelDef}. Puoi riavviare l'evento più tardi.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
@@ -722,9 +722,9 @@
   <!-- EN: {0} buildings -->
   <NumBuildings>{0} edifici</NumBuildings>
   <!-- EN: Stores -->
-  <StoresThings>Depositi</StoresThings>
+  <StoresThings>Conserva</StoresThings>
   <!-- EN: Select all linked -->
-  <SelectAllLinked>Seleziona tutti i collegamenti</SelectAllLinked>
+  <SelectAllLinked>Seleziona tutti gli edifici collegati</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
   <SelectAllLinkedDesc>Selezionare tutti gli edifici di stoccaggio collegati a questo.</SelectAllLinkedDesc>
 

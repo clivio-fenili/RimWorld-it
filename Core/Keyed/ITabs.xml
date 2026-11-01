@@ -9,7 +9,7 @@
   <!-- EN: Bio -->
   <TabCharacter>Biografia</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Training</TabTraining>
+  <TabTraining>Addestramento</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>Prigionieri</TabPrisoner>
   <!-- EN: Guest -->
@@ -63,7 +63,7 @@
   <!-- EN: Add bill -->
   <AddBill>Aggiungi ordine</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>La ricetta {0} richiede le seguenti competenze. Nessuno dei tuoi coloni possiede queste competenze, pertanto nessuno eseguirà questo compito.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>La ricetta {0} richiede le abilità seguenti. Nessuno dei tuoi coloni le possiede, pertanto nessuno eseguirà questo ordine.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>Abilità minima</MinimumSkill>
   <!-- EN: SUSPENDED -->
@@ -99,9 +99,9 @@
   <!-- EN: {0} base resistance -->
   <RecruitmentResistanceFromPawnKind>{0} resistenza di base</RecruitmentResistanceFromPawnKind>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>Incremento reputazione se rilasciato</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>Buona volontà se rilasciato</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>Il miglioramento delle relazioni che otterrai dalla fazione del prigioniero se lo rilasci. Ciò è influenzato dall'identità, dalla salute e dalle condizioni mentali del prigioniero.</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>La buona volontà che otterrai dalla fazione del prigioniero se lo rilasci. Dipende dall'identità, dalla salute e dalle condizioni mentali del prigioniero.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
   <PrisonBreakMTBDays>Intervallo tra evasioni</PrisonBreakMTBDays>
   <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
@@ -133,9 +133,9 @@
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>Considerato colpevole</ConsideredGuiltyNoTimer>
   <!-- EN: Last resistance reduction -->
-  <LastRecruitment>Riduzione dell'ultima resistenza</LastRecruitment>
+  <LastRecruitment>Ultima riduzione della resistenza</LastRecruitment>
   <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
-  <LastRecruitmentDescription>La resistenza di {0_nameDef} è stata ridotta di {1} quando {0_pronoun} è stato reclutato per l'ultima volta.</LastRecruitmentDescription>
+  <LastRecruitmentDescription>Di quanto si è ridotta la resistenza di {0_nameDef} ({1}) all'ultimo tentativo di reclutamento.</LastRecruitmentDescription>
   <!-- EN: Opinion of recruiter -->
   <OpinionOfRecruiter>Opinione del reclutatore</OpinionOfRecruiter>
   <!-- EN: Recruiter negotiation ability -->
@@ -156,7 +156,7 @@
   <!-- EN: Efficiency -->
   <Efficiency>Efficienza</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Efficienza parziale</PartEfficiency>
+  <PartEfficiency>Efficienza della parte</PartEfficiency>
   <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Efficienza parte del corpo</BodyPartEfficiency>
   <!-- EN: Gone -->
@@ -190,11 +190,11 @@
   <!-- EN: Bleeding -->
   <BleedingRate>Emorragia</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>morto in {0}</TimeToDeath>
+  <TimeToDeath>morte tra {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>nessun pericolo immediato</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>Visuale generale</HealthOverview>
+  <HealthOverview>Panoramica</HealthOverview>
   <!-- EN: Operations -->
   <MedicalOperationsShort>Operazioni</MedicalOperationsShort>
   <!-- EN: Modifications -->
@@ -212,7 +212,7 @@
   <!-- EN: social interactions -->
   <SocialInteractionsLower>interazioni sociali</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>Livello fame</HungerRate>
+  <HungerRate>Velocità della fame</HungerRate>
   <!-- EN: Food consumption -->
   <FoodConsumption>Consumo di cibo</FoodConsumption>
   <!-- EN: Tiredness -->
@@ -226,7 +226,7 @@
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <AllowSelfTendTip>{0} con l'automedicazione abilitata si curerà automaticamente sul posto con un'efficienza pari a {1} rispetto alla normale.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
-  <DeathIn>morte in {0}</DeathIn>
+  <DeathIn>morte tra {0}</DeathIn>
   <!-- EN: Allow medicine -->
   <AllowMedicine>Medicine perm.</AllowMedicine>
   <!-- EN: What type of medicine can be given to this person. -->
@@ -327,17 +327,17 @@
   <!-- EN: Gathering animals (waiting) -->
   <FormingCaravanStatus_GatheringAnimals_Pause>Raccolta degli animali (in attesa)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>Radunamento oggetti</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Raccolta degli oggetti</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>Radunamento oggetti (attesa)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Raccolta degli oggetti (in attesa)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>Radunamento persone abbattute</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Raccolta delle persone abbattute</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Radunamento persone abbattute (attesa)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Raccolta delle persone abbattute (in attesa)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Partenza</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>Partenza (attesa)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Partenza (in attesa)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>Attesa</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
@@ -351,7 +351,7 @@
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>animali da soma</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>mentalmente rovinato</InMentalStateCountLower>
+  <InMentalStateCountLower>in crollo mentale</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
@@ -363,11 +363,11 @@
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't receive notifications about dismissed quests. -->
-  <DismissQuest>Rifiuta questa missione e spostala nella scheda storica.\n\nLa missione può essere ripristinata in qualsiasi momento. Gli effetti e i tempi di scadenza procederanno normalmente. Non riceverai notifiche sulle missioni respinte.</DismissQuest>
+  <DismissQuest>Ignora questa missione e spostala nella scheda storica.\n\nPuoi ripristinarla in qualsiasi momento. Gli effetti e i tempi di scadenza procederanno normalmente. Non riceverai notifiche sulle missioni ignorate.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
   <UnDismissQuest>Ripristina la missione.\n\nLa missione verrà riportata alla scheda disponibile/attiva e le notifiche verranno riattivate.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>Questa missione è qui perché è stata rifiutata.\n\nÈ possibile annullare la sua dismissione fino alla scadenza.</QuestDismissed>
+  <QuestDismissed>Questa missione è qui perché è stata ignorata.\n\nPuoi ripristinarla fino alla scadenza.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>Elimina questa missione e rimuovila dall'elenco delle missioni per sempre.</DeleteQuest>
 
@@ -393,9 +393,9 @@
   <!-- EN: nutrition -->
   <PenFoodTab_Nutrition_Unit>nutrizione</PenFoodTab_Nutrition_Unit>
   <!-- EN: per day -->
-  <PenFoodTab_NutritionPerDay_Unit>per giorno</PenFoodTab_NutritionPerDay_Unit>
+  <PenFoodTab_NutritionPerDay_Unit>al giorno</PenFoodTab_NutritionPerDay_Unit>
   <!-- EN: Force display animal... -->
-  <PenFoodTab_AddAnimal>Forza la scheda degli animali...</PenFoodTab_AddAnimal>
+  <PenFoodTab_AddAnimal>Mostra anche l'animale...</PenFoodTab_AddAnimal>
 
   <!-- EN: Nutrition growth -->
   <PenFoodTab_NaturalNutritionGrowthRate>Crescita nutrizionale</PenFoodTab_NaturalNutritionGrowthRate>
@@ -417,9 +417,9 @@
   <!-- EN: Daily consumption per {ANIMALDEF_label} -->
   <PenFoodTab_NutritionConsumedPerDay>Consumo giornaliero per {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
   <!-- EN: each {CONSUMEDAMOUNT} -->
-  <PenFoodTab_NutritionConsumedEachAnimalLabel>ogni {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>ciascuno {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
   <!-- EN: Count that could be supported with no other animals in the pen -->
-  <PenFoodTab_AnimalTypeAnimalCapacity>Conteggio che potrebbe essere sostenuto senza altri animali nel recinto</PenFoodTab_AnimalTypeAnimalCapacity>
+  <PenFoodTab_AnimalTypeAnimalCapacity>Numero di capi sostenibili senza altri animali nel recinto</PenFoodTab_AnimalTypeAnimalCapacity>
 
   <!-- EN: Edible now -->
   <PenFoodTab_EdibleNow>Commestibile ora</PenFoodTab_EdibleNow>

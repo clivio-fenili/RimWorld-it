@@ -89,7 +89,7 @@
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Salva e termina</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>Ripristino delle fazioni</ResetFactions>
+  <ResetFactions>Azzera le fazioni</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Copertura globo</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -111,11 +111,11 @@
   <!-- EN: High -->
   <PlanetTemperature_High>Alta</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>Scarso</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Scarsa</PlanetPopulation_Low>
   <!-- EN: Normal -->
   <PlanetPopulation_Normal>Normale</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>Affollato</PlanetPopulation_High>
+  <PlanetPopulation_High>Affollata</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Seme</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -173,9 +173,9 @@
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
   <ModReorderConflict_MustLoadBefore>Impossibile spostare {0}: Deve essere caricato prima di {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Annulla sottoscrizione</Unsubscribe>
+  <Unsubscribe>Annulla iscrizione</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe? -->
-  <ConfirmUnsubscribe>Sei sicuro di voler annullare la sottoscrizione?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Sei sicuro di voler annullare l'iscrizione?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribeFrom>Sei sicuro di voler annullare l'iscrizione a {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
@@ -191,9 +191,9 @@
   <!-- EN: Disable -->
   <Disable>Disabilita</Disable>
   <!-- EN: Get mods from... -->
-  <GetMods>Ottenere mod da...</GetMods>
+  <GetMods>Trova mod su...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>Cancellati da...</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Annulla iscrizione da...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
   <SaveLoadList>Salva/carica l'elenco...</SaveLoadList>
   <!-- EN: Save mod list -->
@@ -257,7 +257,7 @@
   <!-- EN: This must be loaded before: {0}. -->
   <ModMustLoadBefore>Questo deve essere caricato prima di: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>Questo deve essere caricato dopo di: {0}.</ModMustLoadAfter>
+  <ModMustLoadAfter>Questo deve essere caricato dopo: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
   <ModDependsOn>Dipende da: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
@@ -279,7 +279,7 @@
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Questa mod è stata creata per una versione più recente di RimWorld e probabilmente non funzionerà correttamente.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>La mod necessita di una versione di riferimento correttamente formattata in About.xml. Come questa: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>{0}</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
   <MessageModNeedsWellFormattedPackageId>La mod ha bisogno di un 'packageId' unico e correttamente formattato in 'About.xml'. Deve soddisfare i seguenti requisiti:\n\n  - Solo caratteri alfanumerici e punti.\n  - Nessuno spazio.\n  - Almeno un punto.\n  - Nessun punto ripetuto di seguito, né all'inizio né alla fine.\n  - Massimo 60 caratteri.\n  - Non può contenere la parola "Ludeon".\n\nPer esempio:\nNomeAutore.NomeMod\nNomeAutore.NomeMod.Specifica</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
@@ -297,7 +297,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Ordine versione non valido: 'default' deve essere definito per primo.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>L'utilizzo di "default" nelle cartelle di caricamento è deprecato. Definire le cartelle per ogni versione utilizzando i tags "v...".</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>L'utilizzo di "default" nelle cartelle di caricamento è deprecato. Definisci le cartelle per ogni versione con i tag "v...".</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>La versione {0} è definita nelle cartelle di caricamento, ma non è elencata in "supportedVersions" di About.xml della mod.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
@@ -341,7 +341,7 @@
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Può essere aggiornato sul Workshop, dal momento che sei l'autore.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
-  <ScenarioChangedSavePrompt>Questo scenario è stato modificato.\n\nSi desidera salvarlo prima di procedere?</ScenarioChangedSavePrompt>
+  <ScenarioChangedSavePrompt>Questo scenario è stato modificato.\n\nVuoi salvarlo prima di procedere?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -361,7 +361,7 @@
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>Puoi salvare e caricare il gioco in qualsiasi momento.\n\nQuesta è una buona scelta se stai ancora imparando a giocare, se si adatta al tuo stile di gioco personale, se stai usando mod che potrebbero compromettere la tua partita o se hai intenzione di auto-imporre la modalità Ironman.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Puoi salvare solo quando esci dal gioco.\n\nDal momento che RimWorld è un generatore di storie, fintanto che rimane anche una sola persona il gioco non è finito... è parte della storia. Il gioco è pensato per permettere di riprendersi dopo le perdite.\n\nInscenare queste situazioni terribili rende una storia sia una tragedia che un trionfo. È il modo in cui RimWorld è stato pensato per essere giocato.\n\nC'è un motivo se Luke Skywalker non è uscito e ha ricaricato quando la sua famiglia è stata uccisa... cadere e rialzarsi è drammatico.</PermadeathModeInfo>
+  <PermadeathModeInfo>Puoi salvare solo quando esci dal gioco.\n\nDal momento che RimWorld è un generatore di storie, fintanto che rimane anche una sola persona il gioco non è finito... è parte della storia. Il gioco è pensato per permettere di riprendersi dopo le perdite.\n\nGiocare fino in fondo queste situazioni terribili dà vita a una storia fatta di tragedia e di trionfo. È il modo in cui RimWorld è stato pensato per essere giocato.\n\nC'è un motivo se Luke Skywalker non è uscito e ha ricaricato quando la sua famiglia è stata uccisa... cadere e rialzarsi è drammatico.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>Narratore e stile di gioco possono essere sempre cambiati.</CanChangeStorytellerSettingsDuringPlay>
 
@@ -413,7 +413,7 @@
   <!-- EN: Adjust the amount of materials produced when mining. -->
   <Difficulty_MineYieldFactor_Info>Regola la quantità di materiali prodotti durante l'estrazione mineraria.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Resa del banco da macellaio</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Resa della macellazione</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
   <Difficulty_ButcherYieldFactor_Info>Regola la quantità di materiali prodotti durante la macellazione. Ciò include carne, cuoio e scarti prodotti dalla triturazione dei meccanoidi.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
@@ -433,7 +433,7 @@
   <!-- EN: Adjust the cost of rearming turrets. -->
   <Difficulty_MaintenanceCostFactor_Info>Regola il costo del riarmo delle torrette.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>Probabilità di intossicazione da scaria</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>Probabilità di putrefazione da scaria</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
   <Difficulty_ScariaRotChance_Info>La probabilità che un cadavere marcisca immediatamente dopo la morte, se la creatura ha la malattia della scaria.\n\nNota: le impostazioni predefinite sono progettate per bilanciare esattamente l'aumento del numero di animali alle difficoltà più elevate, in modo che tutti i giocatori ottengano le stesse ricompense di carne.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
@@ -446,7 +446,7 @@
   <!-- EN: Colonist mood -->
   <Difficulty_ColonistMoodOffset_Label>Umore dei coloni</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>Un offset permanente dell'umore applicato a ogni colono e prigioniero. I coloni hanno uno stato d'animo di base del 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>Un modificatore permanente dell'umore applicato a ogni colono e prigioniero. I coloni hanno un umore di base del 50%.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
   <Difficulty_FoodPoisonChanceFactor_Label>Possibilità di intossicazione alimentare</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
@@ -486,7 +486,7 @@
   <!-- EN: Map generation natural hives -->
   <Difficulty_AllowCaveHives_Label>Mappe con generazione di alveari naturali</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>Alveari di insetti dormienti possono generarsi nelle caverne naturali.\n\nQuesta impostazione si applica solo alla generazione di mappe e non influisce sugli insetti attivi che possono entrare nei tunnel durante il gioco.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Alveari di insetti dormienti possono generarsi nelle caverne naturali.\n\nQuesta impostazione si applica solo alla generazione delle mappe e non influisce sugli insetti attivi che possono arrivare scavando durante la partita.</Difficulty_AllowCaveHives_Info>
   <!-- EN: Add unwavering prisoners -->
   <Difficulty_UnwaveringPrisoners_Label>Aggiungi prigionieri incrollabili</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
@@ -501,11 +501,11 @@
   <!-- EN: Player can build traps -->
   <Difficulty_AllowTraps_Label>Costruzione di trappole</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>Il giocatore può costruire trappole come trappole a punta e trappole IED.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Il giocatore può costruire trappole come le trappole a spuntoni e le mine.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
   <Difficulty_AllowTurrets_Label>Costruzione di torrette</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Il giocatore può costruire torrette statiche come mini-torrette, torrette a cannone automatico e torrette per proiettili all'uranio.\n\nPuoi comunque usare le torrette catturate anche se questa opzione è disabilitata.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Il giocatore può costruire torrette fisse come le torrette con mini mitragliatore, con cannone automatico e a proiettili di uranio.\n\nPuoi comunque usare le torrette catturate anche se questa opzione è disabilitata.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
   <Difficulty_AllowMortars_Label>Costruzione di mortai</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
@@ -528,7 +528,7 @@
   <!-- EN: Wealth-independent progress mode -->
   <Difficulty_FixedWealthMode_Label>Modalità di avanzamento indipendente dalla ricchezza</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>Gioca in una modalità di progresso indipendente dalla ricchezza.\n\nIn modalità normale, il narratore scala le minacce in base al numero dei coloni, alla ricchezza dei giocatori e ad una varietà di altri fattori. La modalità indipendente dalla ricchezza rimuove il fattore di ricchezza e lo sostituisce con una curva di avanzamento fissa basata sul tempo. Il tempo viene calcolato dalla fondazione di ogni colonia.\n\nQuesto è consigliato solo a chi cerca una sfida di abilità rigorosa. In modalità indipendente dalla ricchezza, potrebbe essere quasi impossibile recuperare da gravi perdite a meno che non si trovi una nuova colonia. È anche possibile andare troppo avanti rispetto alla curva e trovare il gioco troppo facile.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Gioca in una modalità di progresso indipendente dalla ricchezza.\n\nIn modalità normale, il narratore scala le minacce in base al numero dei coloni, alla ricchezza del giocatore e a vari altri fattori. La modalità indipendente dalla ricchezza rimuove il fattore della ricchezza e lo sostituisce con una curva di avanzamento fissa basata sul tempo. Il tempo viene calcolato dalla fondazione di ogni colonia.\n\nÈ consigliata solo a chi cerca una sfida di abilità rigorosa. In modalità indipendente dalla ricchezza, potrebbe essere quasi impossibile riprendersi da gravi perdite, a meno di fondare un nuovo insediamento. È anche possibile andare troppo avanti rispetto alla curva e trovare il gioco troppo facile.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
   <Difficulty_FixedWealthTimeFactor_Label>Anni fino a massimo livello di minacce</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
@@ -537,9 +537,9 @@
   <!-- EN: Ideology -->
   <DifficultyIdeologySection>Ideologia</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>Aumento della conversione a basso impatto</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Label>Aumento della conversione con pochi coloni</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>Con un solo colono dell'ideologia di partenza del giocatore, la possibilità di conversione alla sua ideologia è moltiplicata per questa quantità. I tentativi di conversione contro di loro hanno un impatto diviso per questa quantità.\n\nCon due coloni dell'ideologia di partenza del giocatore, l'effetto è dimezzato.\n\nCon tre o più coloni dell'ideologia di partenza del giocatore è nulla.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>Con un solo colono dell'ideoligione di partenza del giocatore, la probabilità di conversione alla sua ideoligione è moltiplicata per questo valore, e i tentativi di convertirlo hanno un impatto diviso per lo stesso valore.\n\nCon due coloni dell'ideoligione di partenza, l'effetto è dimezzato.\n\nCon tre o più coloni dell'ideoligione di partenza, non ha effetto.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
@@ -557,13 +557,13 @@
   <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Non puoi atterrare su montagne inaccessibili.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>{0} hanno già una base qui.</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} hanno già una base lì.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>Hai già una base qui.</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Hai già una base lì.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
   <TileOccupied>Questa casella è occupata.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Le colonie non possono essere direttamente adiacenti una all'altra.</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Gli insediamenti non possono essere direttamente adiacenti l'uno all'altro.</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>Bioma</Biome>
   <!-- EN: Terrain -->
@@ -599,7 +599,7 @@
   <!-- EN: Faction base -->
   <FactionBase>Base fazione</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Tipo roccia</StoneTypesHere>
+  <StoneTypesHere>Tipi di roccia</StoneTypesHere>
   <!-- EN: Time zone -->
   <TimeZone>Fuso orario</TimeZone>
   <!-- EN: Movement difficulty -->
@@ -669,7 +669,7 @@
   <!-- EN: none -->
   <NoneLower>nessuna</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Maturità</Adulthood>
+  <Adulthood>Età adulta</Adulthood>
   <!-- EN: Childhood -->
   <Childhood>Infanzia</Childhood>
   <!-- EN: male -->
@@ -697,7 +697,7 @@
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Lasciati indietro</StartingPawnsLeftBehind>
   <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
-  <GuiltyDesc>Questo colono è considerato colpevole. È possibile bandirlo, giustiziarlo o arrestarlo liberamente, e gli altri non saranno disturbati.\n\nLa colpa scade in</GuiltyDesc>
+  <GuiltyDesc>Questa persona è considerata colpevole. Puoi esiliarla, giustiziarla o arrestarla senza che gli altri se la prendano.\n\nLa colpa scade tra</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -740,7 +740,7 @@
   <!-- EN: Best skill -->
   <BestSkillLabel>Migliore abilità</BestSkillLabel>
   <!-- EN: {PAWN_nameDef}'s best stat -->
-  <BestSkillLetterLabel>Migliore statistica di {PAWN_nameDef}</BestSkillLetterLabel>
+  <BestSkillLetterLabel>Migliore abilità di {PAWN_nameDef}</BestSkillLetterLabel>
   <!-- EN: skill level {0} -->
   <BestSkillInfoLevel>livello abilità {0}</BestSkillInfoLevel>
 
@@ -752,7 +752,7 @@
   <!-- EN: max {0} -->
   <MaxFactionsForType>massimo {0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>Selezionare le fazioni nel mondo. È possibile selezionare fino a {0} fazioni in totale.</FactionSelectionDesc>
+  <FactionSelectionDesc>Scegli le fazioni del mondo. Puoi selezionarne fino a {0} in totale.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
   <FactionDisabledContentWarning>Disattivare {0} significa ridurre la varietà delle missioni e altri contenuti.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
@@ -762,6 +762,6 @@
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Senza altre fazioni, le incursioni, il commercio e le missioni non si svolgeranno normalmente.</FactionsDisabledWarning>
   <!-- EN: Cannot be removed for this scenario. -->
-  <FactionRemovalDisabled>Non può essere rimosso per questo scenario.</FactionRemovalDisabled>
+  <FactionRemovalDisabled>Non può essere rimossa in questo scenario.</FactionRemovalDisabled>
 
 </LanguageData>

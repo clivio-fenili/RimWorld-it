@@ -21,17 +21,17 @@
   <ScenPart_StartingResearchFinished>Comincia con la ricerca: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
-  <ScenPart_ArriveInDropPods>Arriva in capsule di salvataggio.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Arriva in capsule di trasporto.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>L'attributo "{0}" sarà universalmente moltiplicato per {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>La statistica "{0}" sarà moltiplicata ovunque per {1}.</ScenPart_StatFactor>
   
   <!-- EN: Select -->
   <ScenPart_SelectQuestDef>Seleziona</ScenPart_SelectQuestDef>
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
-  <ScenPart_PawnsHaveHediff>{0} ha {1} di probabilità di iniziare con {2}.</ScenPart_PawnsHaveHediff>
+  <ScenPart_PawnsHaveHediff>{0} hanno {1} di probabilità di iniziare con {2}.</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
   <ConfigurableSeverity>gravità: {0}</ConfigurableSeverity>
 
@@ -41,11 +41,11 @@
   <ConfigurableLevel>livello: {0}</ConfigurableLevel>
 
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
-  <ScenPart_PawnsHaveTrait>{0} ha {1} di probabilità di cominciare con il tratto: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_PawnsHaveTrait>{0} hanno {1} di probabilità di cominciare con il tratto: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>I personaggi e le creature esplodono alla morte ({0}, raggio {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} have a {1} chance to start naked. -->
-  <ScenPart_PawnsAreNaked>{0} ha {1} di probabilità di iniziare nudo.</ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsAreNaked>{0} hanno {1} di probabilità di iniziare nudi.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
@@ -88,7 +88,7 @@
   <!-- EN: Settings -->
   <ScenPart_PlanetLayerSettings>Impostazioni</ScenPart_PlanetLayerSettings>
   <!-- EN: Use settings def -->
-  <ScenPart_PlanetLayerSettings_UseDef>Usa impostazioni predefinite</ScenPart_PlanetLayerSettings_UseDef>
+  <ScenPart_PlanetLayerSettings_UseDef>Usa una definizione di impostazioni</ScenPart_PlanetLayerSettings_UseDef>
   <!-- EN: Select -->
   <ScenPart_PlanetLayerSettings_SelectDef>Seleziona</ScenPart_PlanetLayerSettings_SelectDef>
   <!-- EN: Position -->
