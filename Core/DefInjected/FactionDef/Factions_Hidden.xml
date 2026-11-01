@@ -30,16 +30,16 @@
   <AncientsHostile.pawnsPlural>antichi</AncientsHostile.pawnsPlural>
   
   <!-- EN: insect geneline -->
-  <Insect.label>insetti</Insect.label>
+  <Insect.label>linea genetica degli insetti</Insect.label>
   <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
-  <Insect.description>Insetti solitamente aggressivi ed invadenti.</Insect.description>
+  <Insect.description>Queste gigantesche creature simili a insetti vivono sottoterra e risalgono scavando per attaccare quando sono attirate dai rumori o dai segnali dei feromoni. Originarie del pianeta Sorne, sono state catturate, modificate geneticamente e allevate in vasca da imprenditori interstellari per usarle come armi. Non è chiaro chi abbia portato gli insetti di Sorne su questo pianeta, ma sono qui e pericolosi come sempre.</Insect.description>
   <!-- EN: Sorne Geneline -->
   <Insect.fixedName>Sorne Geneline</Insect.fixedName>
   <!-- EN: leader -->
   <Insect.leaderTitle>re</Insect.leaderTitle>
   <Insect.leaderTitleFemale>regina</Insect.leaderTitleFemale>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Insect.messageDefendersAttacking>{0} da {1} stanno attaccando il tuo {2}.</Insect.messageDefendersAttacking>
+  <Insect.messageDefendersAttacking>{0} da {1} stanno attaccando i tuoi {2}.</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>insetto</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -48,12 +48,12 @@
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>alveare meccanoide</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
-  <Mechanoid.description>Un alveare di antiche macchine autoreplicanti.</Mechanoid.description>
+  <Mechanoid.description>Macchine assassine di origine sconosciuta. Nascosti in strutture antiche, sotto cumuli di polvere o sul fondo dell'oceano, i meccanoidi possono mantenersi da soli per migliaia di anni. Questo gruppo di mech sembra avere uno scopo comune, ma agisce senza un vero coordinamento. Gli studiosi locali li ritengono armi autonome rimaste da un'antica guerra; le leggende tribali li descrivono come i servi demoniaci di un dio addormentato.</Mechanoid.description>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>coordinatore</Mechanoid.leaderTitle>
   <Mechanoid.leaderTitleFemale>coordinatrice</Mechanoid.leaderTitleFemale>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Mechanoid.messageDefendersAttacking>{0} da {1} stanno attaccando il tuo {2}.</Mechanoid.messageDefendersAttacking>
+  <Mechanoid.messageDefendersAttacking>{0} da {1} stanno attaccando i tuoi {2}.</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>meccanoide</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->

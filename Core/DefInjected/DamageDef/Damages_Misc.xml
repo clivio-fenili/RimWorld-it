@@ -4,12 +4,12 @@
   <!-- EN: acid burn -->
   <AcidBurn.label>ustione da acido</AcidBurn.label>
   <!-- EN: {0} has burned to death. -->
-  <AcidBurn.deathMessage>{0} sei morto bruciato.</AcidBurn.deathMessage>
+  <AcidBurn.deathMessage>{0} è {PAWN_gender ? morto : morta} per le ustioni da acido.</AcidBurn.deathMessage>
   
   <!-- EN: beam -->
-  <Beam.label>trave</Beam.label>
+  <Beam.label>raggio</Beam.label>
   <!-- EN: {0} has been beamed to death. -->
-  <Beam.deathMessage>{0} sei stato teletrasportato a morte.</Beam.deathMessage>
+  <Beam.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa} da un raggio.</Beam.deathMessage>
   
   <!-- EN: bomb -->
   <Bomb.label>bomba</Bomb.label>
@@ -29,17 +29,17 @@
   <!-- EN: deterioration -->
   <Deterioration.label>deterioramento</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa}.</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
   <Extinguish.label>spegnimento</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa}.</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</Extinguish.deathMessage>
   
   <!-- EN: mining -->
   <Mining.label>estrazione</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa}.</Mining.deathMessage>
+  <Mining.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</Mining.deathMessage>
   
   <!-- EN: nerve -->
   <Nerve.label>nervo</Nerve.label>
@@ -49,26 +49,26 @@
   <!-- EN: nerve stun -->
   <NerveStun.label>stordimento nervoso</NerveStun.label>
   <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>{0} è {PAWN_gender ? "stato" : "stata"} {PAWN_gender ? "ucciso" : "uccisa"}.</NerveStun.deathMessage>
+  <NerveStun.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</NerveStun.deathMessage>
   
   <!-- EN: rotting -->
   <Rotting.label>putrefazione</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa}.</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</Rotting.deathMessage>
   
   <!-- EN: smoke -->
   <Smoke.label>fumo</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa}.</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa}.</Smoke.deathMessage>
   
   <!-- EN: thump -->
   <Thump.label>colpo</Thump.label>
   <!-- EN: {0} has been shot to death. -->
-  <Thump.deathMessage>{0} è {PAWN_gender ? stato : stata } {PAWN_gender ? ucciso : uccisa} da un proiettile.</Thump.deathMessage>
+  <Thump.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? ucciso : uccisa} da un proiettile.</Thump.deathMessage>
   
   <!-- EN: vaporize -->
   <Vaporize.label>vaporizzare</Vaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->
-  <Vaporize.deathMessage>{0} è stato vaporizzato dal calore estremo.</Vaporize.deathMessage>
+  <Vaporize.deathMessage>{0} è {PAWN_gender ? stato : stata} {PAWN_gender ? vaporizzato : vaporizzata} dal calore estremo.</Vaporize.deathMessage>
   
 </LanguageData>

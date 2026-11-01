@@ -20,7 +20,7 @@
   <Structure_BlueSky.label>blu cielo</Structure_BlueSky.label>
   
   <!-- EN: subtle blue -->
-  <Structure_BlueSubtle.label>blu sottile</Structure_BlueSubtle.label>
+  <Structure_BlueSubtle.label>blu tenue</Structure_BlueSubtle.label>
   
   <!-- EN: dark brown -->
   <Structure_BrownDark.label>marrone scuro</Structure_BrownDark.label>
@@ -35,7 +35,7 @@
   <Structure_BrownLight.label>marrone chiaro</Structure_BrownLight.label>
   
   <!-- EN: subtle brown -->
-  <Structure_BrownSubtle.label>marrone sottile</Structure_BrownSubtle.label>
+  <Structure_BrownSubtle.label>marrone tenue</Structure_BrownSubtle.label>
   
   <!-- EN: wood brown -->
   <Structure_BrownWood.label>marrone legno</Structure_BrownWood.label>
@@ -95,7 +95,7 @@
   <Structure_IndigoLight.label>indaco chiaro</Structure_IndigoLight.label>
   
   <!-- EN: pale lime -->
-  <Structure_LimePale.label>calce pallida</Structure_LimePale.label>
+  <Structure_LimePale.label>lime pallido</Structure_LimePale.label>
   
   <!-- EN: limestone -->
   <Structure_Limestone.label>calcare</Structure_Limestone.label>
@@ -104,19 +104,19 @@
   <Structure_Magenta.label>magenta</Structure_Magenta.label>
   
   <!-- EN: subtle magenta -->
-  <Structure_MagentaSubtle.label>magenta sottile</Structure_MagentaSubtle.label>
+  <Structure_MagentaSubtle.label>magenta tenue</Structure_MagentaSubtle.label>
   
   <!-- EN: marble -->
   <Structure_Marble.label>marmo</Structure_Marble.label>
   
   <!-- EN: marine -->
-  <Structure_Marine.label>marino</Structure_Marine.label>
+  <Structure_Marine.label>blu marino</Structure_Marine.label>
   
   <!-- EN: moss -->
   <Structure_Moss.label>muschio</Structure_Moss.label>
   
   <!-- EN: bright moss -->
-  <Structure_MossBright.label>muschio luminoso</Structure_MossBright.label>
+  <Structure_MossBright.label>muschio brillante</Structure_MossBright.label>
   
   <!-- EN: mustard -->
   <Structure_Mustard.label>senape</Structure_Mustard.label>
@@ -146,10 +146,10 @@
   <Structure_PurpleDeep.label>viola profondo</Structure_PurpleDeep.label>
   
   <!-- EN: muted purple -->
-  <Structure_PurpleMuted.label>viola tenue</Structure_PurpleMuted.label>
+  <Structure_PurpleMuted.label>viola smorzato</Structure_PurpleMuted.label>
   
   <!-- EN: subtle purple -->
-  <Structure_PurpleSubtle.label>viola sottile</Structure_PurpleSubtle.label>
+  <Structure_PurpleSubtle.label>viola tenue</Structure_PurpleSubtle.label>
   
   <!-- EN: red -->
   <Structure_Red.label>rosso</Structure_Red.label>
@@ -158,7 +158,7 @@
   <Structure_RedPastel.label>rosso pastello</Structure_RedPastel.label>
   
   <!-- EN: subtle red -->
-  <Structure_RedSubtle.label>rosso sottile</Structure_RedSubtle.label>
+  <Structure_RedSubtle.label>rosso tenue</Structure_RedSubtle.label>
   
   <!-- EN: sage -->
   <Structure_Sage.label>salvia</Structure_Sage.label>
@@ -182,7 +182,7 @@
   <Structure_Viridian.label>viridiano</Structure_Viridian.label>
   
   <!-- EN: subtle viridian -->
-  <Structure_ViridianSubtle.label>viridiano sottile</Structure_ViridianSubtle.label>
+  <Structure_ViridianSubtle.label>viridiano tenue</Structure_ViridianSubtle.label>
   
   <!-- EN: white -->
   <Structure_White.label>bianco</Structure_White.label>

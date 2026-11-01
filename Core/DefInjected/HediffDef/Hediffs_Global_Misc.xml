@@ -6,7 +6,7 @@
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
   <Anesthetic.description>Farmaci per dormire. L'anestesia rende le creature incoscienti.</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>svanendo</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>in esaurimento</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
   <Anesthetic.stages.woozy.label>stordito</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
@@ -56,7 +56,7 @@
   <!-- EN: drug overdose -->
   <DrugOverdose.label>overdose</DrugOverdose.label>
   <!-- EN: Generalized toxic effects due to over-concentration of drugs in the bloodstream. -->
-  <DrugOverdose.description>Effetti tossici generalizzati dovuti all'eccessiva concentrazione di farmaci nel flusso sanguigno.</DrugOverdose.description>
+  <DrugOverdose.description>Effetti tossici generalizzati dovuti all'eccessiva concentrazione di droghe nel flusso sanguigno.</DrugOverdose.description>
   <!-- EN: Overdose: {0} -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is overdosing! -->
@@ -149,7 +149,7 @@
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
   <ToxicBuildup.description>Veleno nel flusso sanguigno. Può provenire da varie fonti, incluse tossine ambientali, morsi velenosi o armi avvelenate.\n\nAd alte dosi, l'accumulo di sostanze tossiche è letale. Anche a basse dosi, può provocare tumori.\n\nSe una creatura muore con accumulo tossico, c'è la possibilità che non possa essere mangiata. Più alto è l'accumulo tossico, maggiore è la probabilità.</ToxicBuildup.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
-  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} mostra i primi segni di accumulo tossico. Tieni {PAWN_objective} lontano dalle fonti di tossine.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} mostra i primi segni di accumulo tossico. Tienil{PAWN_gender ? o:a} lontan{PAWN_gender ? o:a} dalle fonti di tossine.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>iniziale</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->

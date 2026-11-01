@@ -9,7 +9,7 @@
   <PlayerColony.leaderTitle>capo</PlayerColony.leaderTitle>
   <PlayerColony.leaderTitleFemale>capo</PlayerColony.leaderTitleFemale>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <PlayerColony.messageDefendersAttacking>{0} da {1} stanno attaccando il tuo {2}.</PlayerColony.messageDefendersAttacking>
+  <PlayerColony.messageDefendersAttacking>{0} da {1} stanno attaccando i tuoi {2}.</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>colono</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -23,7 +23,7 @@
   <PlayerTribe.leaderTitle>capo</PlayerTribe.leaderTitle>
   <PlayerTribe.leaderTitleFemale>capo</PlayerTribe.leaderTitleFemale>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <PlayerTribe.messageDefendersAttacking>{0} da {1} stanno attaccando il tuo {2}.</PlayerTribe.messageDefendersAttacking>
+  <PlayerTribe.messageDefendersAttacking>{0} da {1} stanno attaccando i tuoi {2}.</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>indigeno</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

@@ -11,12 +11,12 @@
   <Eyes.label>occhi</Eyes.label>
   
   <!-- EN: feet -->
-  <Feet.label>piede</Feet.label>
+  <Feet.label>piedi</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>artiglio anteriore sinistro</FrontLeftClaws.label>
+  <FrontLeftClaws.label>artigli anteriori sinistri</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>artiglio</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>artigli</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
   <FrontLeftLeg.label>gamba anteriore sinistra</FrontLeftLeg.label>
@@ -29,9 +29,9 @@
   <FrontLeftPaw.labelShort>zampa</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>artiglio anteriore destro</FrontRightClaws.label>
+  <FrontRightClaws.label>artigli anteriori destri</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>artiglio</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>artigli</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
   <FrontRightLeg.label>gamba anteriore destra</FrontRightLeg.label>
@@ -108,7 +108,7 @@
   <TuskAttackTool.label>zanne</TuskAttackTool.label>
   
   <!-- EN: upper head -->
-  <UpperHead.label>capo</UpperHead.label>
+  <UpperHead.label>parte superiore della testa</UpperHead.label>
   
   <!-- EN: utility slot -->
   <Waist.label>slot di utilità</Waist.label>

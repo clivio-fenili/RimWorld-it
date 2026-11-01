@@ -26,7 +26,7 @@
   <!-- EN: left thumb -->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>pollice sinistro</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>spalla destra</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>spalla meccanica destra</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
   <!-- EN: right arm -->
   <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>braccio destro</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
   <!-- EN: right hand -->

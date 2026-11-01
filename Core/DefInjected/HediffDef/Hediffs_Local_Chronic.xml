@@ -100,9 +100,9 @@
   <!-- EN: organ decay -->
   <OrganDecay.label>degenerazione d'organo</OrganDecay.label>
   <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
-  <OrganDecay.description>Malattia degenerativa incurabile che colpisce un singolo organo. La causa può essere batterica o virale. La malattia sembra insorgere casualmente da una fonte naturale sconosciuta; non è direttamente contagiosa tra le persone.\n\nQuesto organo perderà lentamente funzionalità fino a morire completamente. Sostituirlo con un organo bionico o naturale.</OrganDecay.description>
+  <OrganDecay.description>Malattia degenerativa incurabile che colpisce un singolo organo. La causa può essere batterica o virale. La malattia sembra insorgere casualmente da una fonte naturale sconosciuta; non è direttamente contagiosa tra le persone.\n\nQuesto organo perderà lentamente funzionalità fino a morire completamente. Sostituiscilo con un organo bionico o naturale.</OrganDecay.description>
   <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
-  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>Il {1} di {PAWN_labelShort} è stato distrutto dalla degenerazione d'organo.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}: {1} distrutto dalla degenerazione d'organo.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
   <!-- EN: minor -->
   <OrganDecay.stages.minor.label>leggera</OrganDecay.stages.minor.label>
   <!-- EN: moderate -->

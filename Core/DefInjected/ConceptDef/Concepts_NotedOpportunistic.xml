@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>Gli animali non attaccano le porte</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Gli animali attaccano le porte</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Gli animali sanguinari generalmente non attaccano porte o torrette inattive.\n\nPuoi fuggire da loro rifugiandoti all'interno o dietro un muro. Loro però ti aspetteranno fuori.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Gli animali cacciatori di uomini attaccheranno le porte se vedono uno dei tuoi coloni attraversarle. Attaccheranno anche le torrette inattive.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Scheda ORDINI</BillsTab.label>
@@ -14,7 +14,7 @@
   <!-- EN: books -->
   <Books.label>libri</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
-  <Books.helpText>I coloni leggono libri per svago, per acquisire abilità, per sbloccare ricerche e altro ancora. Puoi vedere gli effetti specifici di un libro selezionandolo e aprendo la scheda "Dettagli".\n\nPer scegliere cosa leggeranno i coloni, apri la scheda ASSEGNA e configura le POLITICHE DI LETTURA.\n\nConserva i libri nelle librerie per migliorare passivamente il lavoro intellettuale e di lettura svolto nelle vicinanze e aumentare la bellezza della libreria. Le librerie aumentano passivamente la velocità di ricerca, l'XP ottenuta dalla lettura e lo svago ricavato dalla lettura nella stessa stanza.</Books.helpText>
+  <Books.helpText>I coloni leggono libri per svago, per acquisire abilità, per sbloccare ricerche e altro ancora. Puoi vedere gli effetti specifici di un libro selezionandolo e aprendo la scheda "Dettagli".\n\nPer scegliere cosa leggeranno i coloni, apri la scheda ASSEGNAZIONI e configura le POLITICHE DI LETTURA.\n\nConserva i libri nelle librerie per migliorare passivamente il lavoro intellettuale e di lettura svolto nelle vicinanze e aumentare la bellezza della libreria. Le librerie aumentano passivamente la velocità di ricerca, l'XP ottenuta dalla lettura e lo svago ricavato dalla lettura nella stessa stanza.</Books.helpText>
   
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Costruire un faro orbitale commerciale</BuildOrbitalTradeBeacon.label>
@@ -34,7 +34,7 @@
   <DoorOpenSpeed.helpText>Le porte si aprono a velocità diverse a seconda di cosa sono fatte.\n\nAttenzione: le porte di pietra si aprono molto lentamente. Chiunque debba attraversarle sarà sensibilmente rallentato.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>Mobilizzazione per il combattimento</Drafting.label>
+  <Drafting.label>Mobilitazione per il combattimento</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
   <Drafting.helpText>Per controllare direttamente un colono in combattimento mobilitalo selezionandolo e premendo il tasto MOBILITA.\n\nUn colono mobilitato farà solo quello che gli ordinerai e può solo compiere azioni di combattimento. Quelli armati le useranno quando possibile.\n\nNon lasciare mobilitati i coloni per sempre: moriranno di fame e diventeranno infelici.</Drafting.helpText>
   
@@ -49,16 +49,16 @@
   <DrugBurning.helpText>Le droghe possono essere utili, ma possono anche portare a dannose dipendenze.\n\nSe vuoi evitare droghe nella tua colonia hai la possibilità di bruciarle ad un falò.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>Regole sulla droga</DrugPolicies.label>
+  <DrugPolicies.label>Politiche sulle droghe</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Puoi determinare il consumo di droghe dei coloni secondo un programma specifico. Ad esempio, puoi fare in modo che assumano regolarmente farmaci anti-malaria o che bevano una birra al giorno per essere allegri.\n\nApri la scheda ASSEGNAZIONI e premi il pulsante 'Gestisci regole droga'. Crea una nuova regola sulla droga. Adesso puoi assegnare questa regola ai coloni.\n\nI coloni possono ancora assumere droghe fuori regola. Puoi dire loro cosa fare, ma loro seguono anche i propri bisogni!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>Puoi far assumere ai coloni droghe specifiche secondo un programma. Ad esempio, puoi fare in modo che assumano regolarmente farmaci che bloccano le infezioni, o che bevano una birra al giorno per restare allegri.\n\nApri la scheda ASSEGNAZIONI e premi il pulsante 'Gestisci politiche sulle droghe'. Crea una nuova politica sulle droghe. Poi puoi assegnarla ai coloni.\n\nI coloni possono comunque assumere droghe non previste dalla loro politica. Puoi dire loro cosa fare, ma seguono anche i propri desideri!</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>Posizionamento combattenti</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpText>Clicca con il tasto destro e trascina per far formare una linea ai tuoi combattenti arruolati.\n\nSparpagliati: i bersagli raggruppati sono facili da colpire!</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpText>Clicca con il tasto destro e trascina per far formare una linea ai tuoi combattenti mobilitati.\n\nSparpagliati: i bersagli raggruppati sono facili da colpire!</GroupGotoHereDragging.helpText>
   <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpTextController>Tieni premuto il grilletto sinistro e trascina per far formare una linea ai tuoi combattenti arruolati.\n\nSparpagliati: i bersagli raggruppati sono facili da colpire!</GroupGotoHereDragging.helpTextController>
+  <GroupGotoHereDragging.helpTextController>Tieni premuto il grilletto sinistro e trascina per far formare una linea ai tuoi combattenti mobilitati.\n\nSparpagliati: i bersagli raggruppati sono facili da colpire!</GroupGotoHereDragging.helpTextController>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Interazione con i mercanti</InteractingWithTraders.label>
@@ -72,19 +72,19 @@
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>Per comunicare seleziona un colono e fai clic con il destro sulla console di comunicazione.</OpeningComms.helpText>
   <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
-  <OpeningComms.helpTextController>Per cominucare seleziona un colono e premi il grilletto sinistro sulla console di comunicazione</OpeningComms.helpTextController>
+  <OpeningComms.helpTextController>Per comunicare seleziona un colono e premi il grilletto sinistro sulla console di comunicazione.</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Scheda PRIGIONIERO</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Guarda nella scheda PRIGIONIERO di un detenuto per impostare come dovrà essere trattato.\n\nPuoi impostare se dovranno essere reclutati, ignorati o giustiziati, se dovranno mangiare e che tipo di cure mediche dovranno ricevere.\n\nI coloni con il ruolo di Guardiano interagiranno con il detenuto.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Guarda nella scheda PRIGIONIERO di un detenuto per impostare come dovrà essere trattato.\n\nPuoi impostare se dovrà essere reclutato, ignorato o giustiziato, e che tipo di cure mediche riceverà. Le restrizioni sul cibo si impostano nella sua scheda della salute.\n\nI coloni assegnati al lavoro di Guardiano interagiranno con il detenuto.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>Accodamento ordini</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
   <QueueOrders.helpText>Nel dare comandi ai coloni, puoi accodare più ordini tenendo premuto "shift". Questo funziona anche nel dare lavori a coloni non mobilitati.</QueueOrders.helpText>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpTextController>Nel dare comandi ai coloni, puoi accodare più ordini tenendo premuto {Key:QueueOrder}. Questo funziona anche nel dare lavori a coloni non mobilitanti.</QueueOrders.helpTextController>
+  <QueueOrders.helpTextController>Nel dare comandi ai coloni, puoi accodare più ordini tenendo premuto {Key:QueueOrder}. Questo funziona anche nel dare lavori a coloni non mobilitati.</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Riorganizzare carovane</ReformCaravan.label>
@@ -106,7 +106,7 @@
   <!-- EN: Shelves -->
   <Shelves.label>Scaffali</Shelves.label>
   <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
-  <Shelves.helpText>Gli scaffali immagazzinano tre volte di più rispetto al terreno vuoto. Inoltre, gli oggetti sugli scaffali non si deteriorano mai e non compromettono la bellezza dell'ambiente circostante.\n\nÈ possibile collegare gli scaffali in gruppi e configurarli come un'unica struttura. Per prima cosa, selezionare due o più scaffali, quindi fare clic su 'Collega impostazioni di archiviazione'.</Shelves.helpText>
+  <Shelves.helpText>Gli scaffali contengono tre volte di più rispetto al terreno vuoto. Inoltre, gli oggetti sugli scaffali non si deteriorano mai e non compromettono la bellezza dell'ambiente circostante.\n\nPuoi collegare gli scaffali in gruppi e configurarli come un'unica struttura. Seleziona due o più scaffali, poi clicca su 'Collega impostazioni'.</Shelves.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Scudi energetici</ShieldBelts.label>

@@ -14,7 +14,7 @@
   <Bowlcut.label>a scodella</Bowlcut.label>
   
   <!-- EN: braided knot -->
-  <BraidedKnot.label>raccolti</BraidedKnot.label>
+  <BraidedKnot.label>nodo intrecciato</BraidedKnot.label>
   
   <!-- EN: bravo -->
   <Bravo.label>bravo</Bravo.label>
@@ -41,7 +41,7 @@
   <Elder.label>da anziano</Elder.label>
   
   <!-- EN: fancy bun -->
-  <FancyBun.label>raccolti</FancyBun.label>
+  <FancyBun.label>chignon elegante</FancyBun.label>
   
   <!-- EN: firestarter -->
   <Firestarter.label>colorati</Firestarter.label>
@@ -59,7 +59,7 @@
   <GreasySwoop.label>laccati</GreasySwoop.label>
   
   <!-- EN: junkie -->
-  <Junkie.label>mossi</Junkie.label>
+  <Junkie.label>da tossico</Junkie.label>
   
   <!-- EN: keeper -->
   <Keeper.label>ricci</Keeper.label>
@@ -83,13 +83,13 @@
   <Mop.label>caschetto</Mop.label>
   
   <!-- EN: pigtails -->
-  <Pigtails.label>treccia</Pigtails.label>
+  <Pigtails.label>codini</Pigtails.label>
   
   <!-- EN: ponytails -->
   <Ponytails.label>coda di cavallo</Ponytails.label>
   
   <!-- EN: primal -->
-  <Primal.label>iniziali</Primal.label>
+  <Primal.label>primitivi</Primal.label>
   
   <!-- EN: princess -->
   <Princess.label>principessa</Princess.label>
@@ -101,7 +101,7 @@
   <Recruit.label>da soldato</Recruit.label>
   
   <!-- EN: revolt -->
-  <Revolt.label>mossi</Revolt.label>
+  <Revolt.label>ribelli</Revolt.label>
   
   <!-- EN: rockstar -->
   <Rockstar.label>da rockstar</Rockstar.label>

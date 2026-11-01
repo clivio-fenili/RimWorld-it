@@ -16,9 +16,9 @@
   <SmokeleafHigh.labelNoun>uno sballo da smokeleaf</SmokeleafHigh.labelNoun>
   
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>tolleranza allo sballo da smokeleaf</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>tolleranza allo smokeleaf</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
-  <SmokeleafTolerance.description>Una tolleranza accumulata da smokeleaf. Più severa è questa tolleranza, più smokeleaf ci vuole per ottenere lo stesso effetto.</SmokeleafTolerance.description>
+  <SmokeleafTolerance.description>Una tolleranza accumulata allo smokeleaf. Più è alta questa tolleranza, più smokeleaf ci vuole per ottenere lo stesso effetto.</SmokeleafTolerance.description>
   <!-- EN: small -->
   <SmokeleafTolerance.stages.small.label>leggera</SmokeleafTolerance.stages.small.label>
   <!-- EN: large -->
