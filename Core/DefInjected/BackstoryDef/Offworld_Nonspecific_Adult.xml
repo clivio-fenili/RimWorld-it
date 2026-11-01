@@ -273,14 +273,14 @@
   <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
   <Mathematician6.description>[PAWN_nameDef] si occupava di ricerca matematica presso un’università.\n\nTrascorreva gran parte del tempo libero immerso nelle simulazioni di tiro, anche se veniva spesso preso in giro dagli altri giocatori per la sua mira pessima.</Mathematician6.description>
   <!-- EN: mathematician -->
-  <Mathematician6.title>professore di matematica</Mathematician6.title>
+  <Mathematician6.title>matematico</Mathematician6.title>
   <Mathematician6.titleFemale>professoressa di matematica</Mathematician6.titleFemale>
   <!-- EN: math prof -->
-  <Mathematician6.titleShort>matematico</Mathematician6.titleShort>
+  <Mathematician6.titleShort>prof</Mathematician6.titleShort>
   <Mathematician6.titleShortFemale>matematica</Mathematician6.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
-  <Model99.description>[PAWN_nameDef] lavorava come modello per abiti e gioielli per sponsor, ed è stato anche usato come modello fisico per personaggi nelle simulazioni di realtà virtuale.</Model99.description>
+  <Model99.description>[PAWN_nameDef] posava come modello di abiti e gioielli per la pubblicità, e fu usato anche come modello fisico per i personaggi delle simulazioni di realtà virtuale.</Model99.description>
   <!-- EN: model -->
   <Model99.title>modello</Model99.title>
   <Model99.titleFemale>modella</Model99.titleFemale>
@@ -325,7 +325,7 @@
   <QuarryWorker29.titleShortFemale>operaia della cava</QuarryWorker29.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
-  <Rancher43.description>[PAWN_nameDef] possedeva e gestiva un ranch di successo dove allevava animali per carne e lana.\n\nSi rifiutava di fare qualunque lavoro stupido che poteva pagare qualcun altro per fare al posto suo.</Rancher43.description>
+  <Rancher43.description>[PAWN_nameDef] possedeva e gestiva un ranch di successo dove allevava animali per carne e lana.\n\nSi rifiutava di fare qualunque lavoro manuale per cui potesse pagare qualcun altro.</Rancher43.description>
   <!-- EN: rancher -->
   <Rancher43.title>mandriano</Rancher43.title>
   <Rancher43.titleFemale>mandriana</Rancher43.titleFemale>
