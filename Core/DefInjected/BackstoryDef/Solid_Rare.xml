@@ -9,7 +9,7 @@
   <CynapseCustomAdulthood.titleShort>eremita</CynapseCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] time disassembling and reassembling electronic devices in order to figure out how they function. [PAWN_nameDef] became so preoccupied with [PAWN_possessive] tinkering that [PAWN_pronoun] forgot to develop social relationships with other humans. -->
-  <CynapseCustomChildhood.description>[PAWN_nameDef] trascorreva la maggior parte del tempo smontando e rimontando dispositivi elettronici per capirne il funzionamento. Era così preso dal suo armeggiare che si dimenticò di costruire rapporti sociali con altri esseri umani.</CynapseCustomChildhood.description>
+  <CynapseCustomChildhood.description>[PAWN_nameDef] trascorreva la maggior parte del tempo smontando e rimontando dispositivi elettronici per capirne il funzionamento. Era così pres{PAWN_gender ? o:a} dal suo armeggiare che si dimenticò di costruire rapporti sociali con altri esseri umani.</CynapseCustomChildhood.description>
   <!-- EN: tinkerer -->
   <CynapseCustomChildhood.title>armeggiatore</CynapseCustomChildhood.title>
   <!-- EN: tinkerer -->
@@ -58,7 +58,7 @@
   <LiamCustomChildhood.titleShort>dipendente</LiamCustomChildhood.titleShort>
   
   <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
-  <MateCustomAdulthood.description>Dopo essere stat{PAWN_gender ? o:a} licenziat{PAWN_gender ? o:a} da una megacorporazione interplanetaria, [PAWN_nameDef] trascorse diversi anni disilluso e in lotta con la dipendenza da alcol.\n\nFinì a fare musica di strada su un cargo spaziale, suonando una chitarra malconcia e intrattenendo l’equipaggio con blues e canzoni popolari del passato remoto.</MateCustomAdulthood.description>
+  <MateCustomAdulthood.description>Dopo essere stat{PAWN_gender ? o:a} licenziat{PAWN_gender ? o:a} da una megacorporazione interplanetaria, [PAWN_nameDef] trascorse diversi anni disillus{PAWN_gender ? o:a} e in lotta con la dipendenza da alcol.\n\nFinì a fare musica di strada su un cargo spaziale, suonando una chitarra malconcia e intrattenendo l’equipaggio con blues e canzoni popolari del passato remoto.</MateCustomAdulthood.description>
   <!-- EN: busker -->
   <MateCustomAdulthood.title>musicista di strada</MateCustomAdulthood.title>
   <!-- EN: busker -->
@@ -93,7 +93,7 @@
   <OskarCustomAdulthood.titleShort>modder</OskarCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-  <OskarCustomChildhood.description>[PAWN_nameDef] nacque ai confini oscuri di un urbworld in rotazione sincrona. Dopo una lite, il padre lo vendette a un signore distrettuale come artista schiavo.\n\nCostrett{PAWN_gender ? o:a} a creare arte per evitare punizioni, si chiuse in sé stess{PAWN_gender ? o:a} e non riuscì più a legarsi agli altri.</OskarCustomChildhood.description>
+  <OskarCustomChildhood.description>[PAWN_nameDef] nacque ai confini oscuri di un urbworld in rotazione sincrona. Dopo una lite, il padre {PAWN_gender ? lo:la} vendette a un signore distrettuale come artista schiav{PAWN_gender ? o:a}.\n\nCostrett{PAWN_gender ? o:a} a creare arte per evitare punizioni, si chiuse in sé stess{PAWN_gender ? o:a} e non riuscì più a legarsi agli altri.</OskarCustomChildhood.description>
   <!-- EN: art slave -->
   <OskarCustomChildhood.title>artista schiavo</OskarCustomChildhood.title>
   <!-- EN: artist -->

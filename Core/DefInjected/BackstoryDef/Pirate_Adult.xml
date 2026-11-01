@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
-  <Assassin20.description>[PAWN_nameDef] era {PAWN_gender ? un:una} assassino professionista. [PAWN_pronoun] era fredd{PAWN_gender ? o:a}, calcolat{PAWN_gender ? ore:rice} e ci guadagnava bene. In questo mestiere, la totale mancanza di empatia era un vantaggio.</Assassin20.description>
+  <Assassin20.description>[PAWN_nameDef] era {PAWN_gender ? un assassino:un'assassina} professionista. [PAWN_pronoun] era fredd{PAWN_gender ? o:a}, calcolat{PAWN_gender ? ore:rice} e ci guadagnava bene. In questo mestiere, la totale mancanza di empatia era un vantaggio.</Assassin20.description>
   <!-- EN: assassin -->
   <Assassin20.title>assassino</Assassin20.title>
   <Assassin20.titleFemale>assassina</Assassin20.titleFemale>

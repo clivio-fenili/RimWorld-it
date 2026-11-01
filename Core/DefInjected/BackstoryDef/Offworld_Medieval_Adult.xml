@@ -9,14 +9,14 @@
   <Blacksmith72.titleShort>fabbro</Blacksmith72.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
-  <Herbalist54.description>[PAWN_nameDef] viveva nella foresta vicino a un villaggio. Sebbene molti degli abitanti avessero paura di [PAWN_objective], i malati andavano comunque da [PAWN_objective] per comprare unguenti e impacchi preparati con le erbe che coltivava nel suo giardino. [PAWN_pronoun] era felice di aiutarli — a patto che pagassero.</Herbalist54.description>
+  <Herbalist54.description>[PAWN_nameDef] viveva nella foresta vicino a un villaggio. Sebbene molti degli abitanti avessero paura di {PAWN_gender ? lui:lei}, i malati andavano comunque da {PAWN_gender ? lui:lei} per comprare unguenti e impacchi preparati con le erbe che coltivava nel suo giardino. [PAWN_pronoun] era felice di aiutarli — a patto che pagassero.</Herbalist54.description>
   <!-- EN: herbalist -->
   <Herbalist54.title>erborista</Herbalist54.title>
   <!-- EN: herbalist -->
   <Herbalist54.titleShort>erborista</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-  <MedievalDoctor40.description>[PAWN_nameDef] lavorava come medico su un pianeta medievale. [PAWN_pronoun] era fermamente convint{PAWN_gender ? o:a} che la maggior parte dei mali si potesse curare con un piccolo salasso.\n\n[PAWN_pronoun] era anche un maestro dell’anestesia, avendo sviluppato una tecnica speciale che prevedeva un forte colpo sulla testa.</MedievalDoctor40.description>
+  <MedievalDoctor40.description>[PAWN_nameDef] lavorava come medico su un pianeta medievale. [PAWN_pronoun] era fermamente convint{PAWN_gender ? o:a} che la maggior parte dei mali si potesse curare con un piccolo salasso.\n\n[PAWN_pronoun] era anche {PAWN_gender ? un maestro:una maestra} dell’anestesia, avendo sviluppato una tecnica speciale che prevedeva un forte colpo sulla testa.</MedievalDoctor40.description>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>dottore medievale</MedievalDoctor40.title>
   <!-- EN: quack -->

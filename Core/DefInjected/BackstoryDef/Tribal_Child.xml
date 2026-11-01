@@ -58,7 +58,7 @@
   <FireKeeper44.titleShort>custode del fuoco</FireKeeper44.titleShort>
   
   <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
-  <Herder19.description>[PAWN_nameDef] si occupava delle mandrie di muffalo, proteggendole dai predatori e curando gli animali malati. Era un lavoro tranquillo, ma [PAWN_pronoun] amava stare lontano dalla gente.</Herder19.description>
+  <Herder19.description>[PAWN_nameDef] si occupava delle mandrie di muffalo, proteggendole dai predatori e curando gli animali malati. Era un lavoro tranquillo, ma [PAWN_pronoun] amava stare lontan{PAWN_gender ? o:a} dalla gente.</Herder19.description>
   <!-- EN: herder -->
   <Herder19.title>pastore</Herder19.title>
   <!-- EN: herder -->
@@ -67,9 +67,9 @@
   <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
   <Hideaway7.description>I genitori iperprotettivi di [PAWN_nameDef] {PAWN_gender ? lo:la} incoraggiarono a restare a casa quasi ogni giorno. Sebbene avesse molto tempo per leggere e dedicarsi ad attività manuali, [PAWN_pronoun] non sviluppò mai normali abilità sociali.</Hideaway7.description>
   <!-- EN: hideaway -->
-  <Hideaway7.title>rifugio</Hideaway7.title>
+  <Hideaway7.title>rintanato</Hideaway7.title>
   <!-- EN: hideaway -->
-  <Hideaway7.titleShort>rifugio</Hideaway7.titleShort>
+  <Hideaway7.titleShort>rintanato</Hideaway7.titleShort>
   
   <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
   <ReclusiveChild81.description>[PAWN_nameDef] imparò a parlare solo verso i cinque anni. Anche dopo, preferiva restare in disparte.\n\nCon grande disappunto dei suoi tutori, prese l'abitudine di scomparire per settimane vivendo nelle terre selvagge.</ReclusiveChild81.description>
@@ -81,7 +81,7 @@
   <ReclusiveChild81.titleShortFemale>solitaria</ReclusiveChild81.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
-  <Scavenger22.description>[PAWN_nameDef] trascorse l'infanzia a evitare le fatiche quotidiane per andare a scavare tra relitti e rovine in cerca di tesori. La sua naturale curiosità lo mise spesso nei guai, ma lo portò anche a molte scoperte interessanti.</Scavenger22.description>
+  <Scavenger22.description>[PAWN_nameDef] trascorse l'infanzia a evitare le fatiche quotidiane per andare a scavare tra relitti e rovine in cerca di tesori. La sua naturale curiosità {PAWN_gender ? lo:la} mise spesso nei guai, ma {PAWN_gender ? lo:la} portò anche a molte scoperte interessanti.</Scavenger22.description>
   <!-- EN: scavenger -->
   <Scavenger22.title>rovistatore</Scavenger22.title>
   <Scavenger22.titleFemale>rovistatrice</Scavenger22.titleFemale>

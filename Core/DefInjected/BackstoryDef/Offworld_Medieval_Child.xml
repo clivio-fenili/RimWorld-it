@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
-  <ConventChild16.description>Figlio di una relazione illecita, [PAWN_nameDef] fu cresciut{PAWN_gender ? o:a} da asceti in un convento medievale. [PAWN_pronoun] imparò il valore del duro lavoro e della sottomissione, ma gli venne insegnato che la tecnologia è eresia e la violenza è immorale.</ConventChild16.description>
+  <ConventChild16.description>Figli{PAWN_gender ? o:a} di una relazione illecita, [PAWN_nameDef] fu cresciut{PAWN_gender ? o:a} da asceti in un convento medievale. [PAWN_pronoun] imparò il valore del duro lavoro e della sottomissione, ma {PAWN_gender ? gli:le} venne insegnato che la tecnologia è eresia e la violenza è immorale.</ConventChild16.description>
   <!-- EN: convent child -->
   <ConventChild16.title>bambino del monastero</ConventChild16.title>
   <ConventChild16.titleFemale>bambina del monastero</ConventChild16.titleFemale>

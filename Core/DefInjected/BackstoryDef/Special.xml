@@ -2,49 +2,49 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
-  <Child27.description>[PAWN_nameDef] è un bambino. La storia della sua infanzia è ancora in fase di scrittura.</Child27.description>
+  <Child27.description>[PAWN_nameDef] è {PAWN_gender ? un bambino:una bambina}. La storia della sua infanzia è ancora in fase di scrittura.</Child27.description>
   <!-- EN: child -->
   <Child27.title>bambino</Child27.title>
   <!-- EN: child -->
   <Child27.titleShort>bambino</Child27.titleShort>
   
   <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
-  <ChildTribal.description>[PAWN_nameDef] è un bambino. La storia della sua infanzia è ancora in fase di scrittura.</ChildTribal.description>
+  <ChildTribal.description>[PAWN_nameDef] è {PAWN_gender ? un bambino:una bambina}. La storia della sua infanzia è ancora in fase di scrittura.</ChildTribal.description>
   <!-- EN: child -->
   <ChildTribal.title>bambino</ChildTribal.title>
   <!-- EN: child -->
   <ChildTribal.titleShort>bambino</ChildTribal.titleShort>
   
   <!-- EN: [PAWN_nameDef] became an adult in our colony. [PAWN_possessive] story is still being written. -->
-  <Colonist97.description>[PAWN_nameDef] è diventato adulto nella nostra colonia. La sua storia è ancora in fase di scrittura.</Colonist97.description>
+  <Colonist97.description>[PAWN_nameDef] è diventat{PAWN_gender ? o:a} adult{PAWN_gender ? o:a} nella nostra colonia. La sua storia è ancora in fase di scrittura.</Colonist97.description>
   <!-- EN: colonist -->
   <Colonist97.title>colono</Colonist97.title>
   <!-- EN: colonist -->
   <Colonist97.titleShort>colono</Colonist97.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in our colony. -->
-  <ColonyChild59.description>[PAWN_nameDef] è cresciuto nella nostra colonia.</ColonyChild59.description>
+  <ColonyChild59.description>[PAWN_nameDef] è cresciut{PAWN_gender ? o:a} nella nostra colonia.</ColonyChild59.description>
   <!-- EN: colony child -->
   <ColonyChild59.title>bambino della colonia</ColonyChild59.title>
   <!-- EN: colonist -->
   <ColonyChild59.titleShort>colono</ColonyChild59.titleShort>
   
   <!-- EN: [PAWN_nameDef] is a baby. [PAWN_possessive] life revolves around milk and naps. -->
-  <Newborn79.description>[PAWN_nameDef] è un neonato. La sua vita ruota intorno al latte e ai sonnellini.</Newborn79.description>
+  <Newborn79.description>[PAWN_nameDef] è {PAWN_gender ? un neonato:una neonata}. La sua vita ruota intorno al latte e ai sonnellini.</Newborn79.description>
   <!-- EN: newborn -->
   <Newborn79.title>neonato</Newborn79.title>
   <!-- EN: newborn -->
   <Newborn79.titleShort>neonato</Newborn79.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in our tribe. -->
-  <TribeChild19.description>[PAWN_nameDef] è cresciuto nella nostra tribù.</TribeChild19.description>
+  <TribeChild19.description>[PAWN_nameDef] è cresciut{PAWN_gender ? o:a} nella nostra tribù.</TribeChild19.description>
   <!-- EN: tribe child -->
   <TribeChild19.title>bambino della tribù</TribeChild19.title>
   <!-- EN: tribal -->
   <TribeChild19.titleShort>tribale</TribeChild19.titleShort>
   
   <!-- EN: [PAWN_nameDef] became an adult in our tribe. [PAWN_possessive] story is still being written. -->
-  <TribeMember57.description>[PAWN_nameDef] è diventato un adulto nella nostra tribù. La sua storia è ancora in fase di scrittura.</TribeMember57.description>
+  <TribeMember57.description>[PAWN_nameDef] è diventat{PAWN_gender ? o:a} adult{PAWN_gender ? o:a} nella nostra tribù. La sua storia è ancora in fase di scrittura.</TribeMember57.description>
   <!-- EN: tribe member -->
   <TribeMember57.title>membro della tribù</TribeMember57.title>
   <!-- EN: tribal -->

@@ -11,7 +11,7 @@
   <Castaway57.titleShortFemale>naufraga</Castaway57.titleShortFemale>
   
   <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
-  <CaveworldIlluminator95.description>Tra gli abitanti dei tunnel, chi possedeva una vista acuta come quella di [PAWN_nameDef] era venerato come un saggio. [PAWN_pronoun] guidava la strada, segnando i punti di scavo con funghi bioluminescenti e avvertendo gli altri dei pericoli in arrivo.</CaveworldIlluminator95.description>
+  <CaveworldIlluminator95.description>Tra gli abitanti dei tunnel, chi possedeva una vista acuta come quella di [PAWN_nameDef] era venerato come un saggio. [PAWN_pronoun] faceva strada, segnando i punti di scavo con funghi bioluminescenti e avvertendo gli altri dei pericoli in arrivo.</CaveworldIlluminator95.description>
   <!-- EN: caveworld illuminator -->
   <CaveworldIlluminator95.title>illuminatore del mondo sotterraneo</CaveworldIlluminator95.title>
   <CaveworldIlluminator95.titleFemale>illuminatrice del mondo sotterraneo</CaveworldIlluminator95.titleFemale>
@@ -52,7 +52,7 @@
   <HumanComputer83.titleShort>computer</HumanComputer83.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
-  <JoywireArtist8.description>[PAWN_nameDef] lavorava in un laboratorio di una ecumenopoli sviluppando software joywire all’avanguardia per massimizzare il piacere dell’utente.\n\nQuando il governo locale impose dure restrizioni alla produzione, [PAWN_pronoun] iniziò a vendere i propri prodotti nel mercato nero.</JoywireArtist8.description>
+  <JoywireArtist8.description>[PAWN_nameDef] lavorava in un laboratorio di una ecumenopoli sviluppando software joywire all’avanguardia per massimizzare il piacere dell’utente.\n\nQuando il governo locale impose dure restrizioni alla produzione, [PAWN_pronoun] iniziò a vendere i propri prodotti al mercato nero.</JoywireArtist8.description>
   <!-- EN: joywire artist -->
   <JoywireArtist8.title>artista di joywire</JoywireArtist8.title>
   <!-- EN: joywirer -->
@@ -81,7 +81,7 @@
   <Sheriff52.titleShort>sceriffo</Sheriff52.titleShort>
   
   <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
-  <SpaceTactician28.description>[PAWN_nameDef] si unì alla marina spaziale in un sistema instabile, afflitto da guerre interplanetarie su larga scala. [PAWN_pronoun] si dimostrò strateg{PAWN_gender ? o:a} brillante e divenne abil{PAWN_gender ? e:a} nel comandare unità da combattimento con grande efficacia.</SpaceTactician28.description>
+  <SpaceTactician28.description>[PAWN_nameDef] si unì alla marina spaziale in un sistema instabile, afflitto da guerre interplanetarie su larga scala. [PAWN_pronoun] si dimostrò strateg{PAWN_gender ? a:a} brillante e divenne abile nel comandare unità da combattimento con grande efficacia.</SpaceTactician28.description>
   <!-- EN: space tactician -->
   <SpaceTactician28.title>tattico spaziale</SpaceTactician28.title>
   <!-- EN: tactician -->

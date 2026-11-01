@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
-  <ChildSpy47.description>I bambini sono presunti innocenti, il che li rende spie eccellenti. [PAWN_nameDef] venne addestrat{PAWN_gender ? o:a} nell’arte dell’infiltrazione quando era solo un{PAWN_gender ? o:a} piccol{PAWN_gender ? o:a} bambin{PAWN_gender ? o:a}.\n\nGli anni trascorsi sotto copertura {PAWN_gender ? gli:le} fornirono esperienza nella manipolazione sociale e nell’inganno, ma [PAWN_pronoun] non ebbe mai un’istruzione normale.</ChildSpy47.description>
+  <ChildSpy47.description>I bambini sono presunti innocenti, il che li rende spie eccellenti. [PAWN_nameDef] venne addestrat{PAWN_gender ? o:a} nell’arte dell’infiltrazione quando era solo {PAWN_gender ? un bambino:una bambina}.\n\nGli anni trascorsi sotto copertura {PAWN_gender ? gli:le} fornirono esperienza nella manipolazione sociale e nell’inganno, ma [PAWN_pronoun] non ebbe mai un’istruzione normale.</ChildSpy47.description>
   <!-- EN: child spy -->
   <ChildSpy47.title>spia bambino</ChildSpy47.title>
   <ChildSpy47.titleFemale>spia bambina</ChildSpy47.titleFemale>
@@ -10,14 +10,14 @@
   <ChildSpy47.titleShort>spia</ChildSpy47.titleShort>
   
   <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-  <ChildStar74.description>[PAWN_nameDef] era ben not{PAWN_gender ? o:a} in tutto il suo mondo natale come attor{PAWN_gender ? e:ice} bambin{PAWN_gender ? o:a} in film e programmi televisivi. La sua fama {PAWN_gender ? lo:la} mise in contatto con molte persone diverse, ma tendeva anche a ostacolare la sua istruzione.</ChildStar74.description>
+  <ChildStar74.description>[PAWN_nameDef] era ben not{PAWN_gender ? o:a} in tutto il suo mondo natale come att{PAWN_gender ? ore:rice} bambin{PAWN_gender ? o:a} in film e programmi televisivi. La sua fama {PAWN_gender ? lo:la} mise in contatto con molte persone diverse, ma tendeva anche a ostacolare la sua istruzione.</ChildStar74.description>
   <!-- EN: child star -->
   <ChildStar74.title>baby star</ChildStar74.title>
   <!-- EN: star -->
   <ChildStar74.titleShort>star</ChildStar74.titleShort>
   
   <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-  <ComaChild93.description>Un incidente durante l’infanzia fece cadere [PAWN_nameDef] in coma. [PAWN_pronoun] non si svegliò fino a quando non fu quasi adult{PAWN_gender ? o:a}. Il suo corpo non si riprese mai dagli anni di inattività, ma la gente tende a provare pietà per [PAWN_objective] quando sente la sua storia.</ComaChild93.description>
+  <ComaChild93.description>Un incidente durante l’infanzia fece cadere [PAWN_nameDef] in coma. [PAWN_pronoun] non si svegliò fino a quando non fu quasi adult{PAWN_gender ? o:a}. Il suo corpo non si riprese mai dagli anni di inattività, ma la gente tende a provare pietà per {PAWN_gender ? lui:lei} quando sente la sua storia.</ComaChild93.description>
   <!-- EN: coma child -->
   <ComaChild93.title>bambino comatoso</ComaChild93.title>
   <ComaChild93.titleFemale>bambina comatosa</ComaChild93.titleFemale>
@@ -58,7 +58,7 @@
   <MusicalKid86.titleShort>musicista</MusicalKid86.titleShort>
   
   <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
-  <Mute34.description>[PAWN_nameDef] fu segnato profondamente da un evento traumatico nella prima infanzia. Per molti anni si rifiutò di parlare con le persone, preferendo la compagnia dei numerosi animali domestici di casa.</Mute34.description>
+  <Mute34.description>[PAWN_nameDef] fu segnat{PAWN_gender ? o:a} profondamente da un evento traumatico nella prima infanzia. Per molti anni si rifiutò di parlare con le persone, preferendo la compagnia dei numerosi animali domestici di casa.</Mute34.description>
   <!-- EN: mute -->
   <Mute34.title>muto</Mute34.title>
   <Mute34.titleFemale>muta</Mute34.titleFemale>
@@ -67,11 +67,11 @@
   <Mute34.titleShortFemale>muta</Mute34.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
-  <OrganFarm67.description>[PAWN_nameDef] crebbe come fabbricatore di organi in un contesto illegale sotterraneo. Il suo corpo venne usato per far crescere impianti organici destinati a mercenari feriti. Sebbene quell’infanzia l’abbia perseguitat{PAWN_gender ? o:a}, gli ha anche dato una comprensione unica della biologia umana.</OrganFarm67.description>
+  <OrganFarm67.description>[PAWN_nameDef] crebbe in una fattoria di organi illegale e sotterranea. Il suo corpo veniva usato per far crescere impianti organici destinati a mercenari feriti. Quell’infanzia {PAWN_gender ? lo:la} perseguita ancora, ma {PAWN_gender ? gli:le} ha anche dato una comprensione unica della biologia umana.</OrganFarm67.description>
   <!-- EN: organ farm -->
-  <OrganFarm67.title>fabbricatore di organi</OrganFarm67.title>
+  <OrganFarm67.title>fattoria di organi</OrganFarm67.title>
   <!-- EN: organ farm -->
-  <OrganFarm67.titleShort>fabbricatore di organi</OrganFarm67.titleShort>
+  <OrganFarm67.titleShort>fattoria di organi</OrganFarm67.titleShort>
   
   <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
   <Pyromaniac18.description>Fin da piccol{PAWN_gender ? o:a}, [PAWN_nameDef] nutriva un’ossessione malsana per il fuoco. Dava fuoco a mucchi di rifiuti, rimanendo così affascinat{PAWN_gender ? o:a} dalle fiamme che finiva per bruciarsi senza rendersene conto.\n\nUn giorno, giocando con dei fiammiferi, incendiò accidentalmente la propria casa.</Pyromaniac18.description>
@@ -81,7 +81,7 @@
   <Pyromaniac18.titleShort>piromane</Pyromaniac18.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
-  <ShopKid36.description>La madre di [PAWN_nameDef] era spesso malata, e spettò a [PAWN_objective] gestire il negozio, unica fonte di sostentamento. [PAWN_pronoun] imparò qualcosa sugli artefatti esotici che vendeva, ma molto di più sull’arte della negoziazione.</ShopKid36.description>
+  <ShopKid36.description>La madre di [PAWN_nameDef] era spesso malata, e toccò a {PAWN_gender ? lui:lei} gestire il negozio, unica fonte di sostentamento. [PAWN_pronoun] imparò qualcosa sugli artefatti esotici che vendeva, ma molto di più sull’arte della negoziazione.</ShopKid36.description>
   <!-- EN: shop kid -->
   <ShopKid36.title>garzone</ShopKid36.title>
   <!-- EN: shopkid -->
@@ -96,7 +96,7 @@
   <SicklyChild55.titleShort>paziente</SicklyChild55.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
-  <StoryWriter67.description>Da bambin{PAWN_gender ? o:a}, [PAWN_nameDef] era dipendent{PAWN_gender ? e:a} dalla lettura. Passava le giornate in biblioteca con il naso nei libri. Quando i tagli al bilancio portarono alla chiusura della biblioteca, [PAWN_nameDef] ne fu devastat{PAWN_gender ? o:a}.\n\nDecise allora di colmare quel vuoto scrivendo le proprie storie.</StoryWriter67.description>
+  <StoryWriter67.description>Da bambin{PAWN_gender ? o:a}, [PAWN_nameDef] era dipendente dalla lettura. Passava le giornate in biblioteca con il naso nei libri. Quando i tagli al bilancio portarono alla chiusura della biblioteca, [PAWN_nameDef] ne fu devastat{PAWN_gender ? o:a}.\n\nDecise allora di colmare quel vuoto scrivendo le proprie storie.</StoryWriter67.description>
   <!-- EN: story writer -->
   <StoryWriter67.title>scrittore di storie</StoryWriter67.title>
   <StoryWriter67.titleFemale>scrittrice di storie</StoryWriter67.titleFemale>
@@ -112,7 +112,7 @@
   <VatgrownSoldier8.titleShort>artificiale</VatgrownSoldier8.titleShort>
   
   <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
-  <WarRefugee51.description>La guerra scoppiò nella terra di [PAWN_nameDef] quando [PAWN_pronoun] era ancora in fasce. I suoi genitori fuggirono con [PAWN_objective], cercando sicurezza ovunque potessero trovarla. I suoi primi ricordi sono legati all’addestramento per imparare a difendersi.\n\nLa violenza e la distruzione a cui assistette {PAWN_gender ? lo:la} segnarono per la vita.</WarRefugee51.description>
+  <WarRefugee51.description>La guerra scoppiò nella terra di [PAWN_nameDef] quando [PAWN_pronoun] era ancora in fasce. I suoi genitori fuggirono con {PAWN_gender ? lui:lei}, cercando sicurezza ovunque potessero trovarla. I suoi primi ricordi sono legati all’addestramento per imparare a difendersi.\n\nLa violenza e la distruzione a cui assistette {PAWN_gender ? lo:la} segnarono per la vita.</WarRefugee51.description>
   <!-- EN: war refugee -->
   <WarRefugee51.title>rifugiato di guerra</WarRefugee51.title>
   <WarRefugee51.titleFemale>rifugiata di guerra</WarRefugee51.titleFemale>

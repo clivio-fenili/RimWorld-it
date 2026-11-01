@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] designed the construction of buildings. On [PAWN_possessive] glitterworld home, the technical aspect of architecture was handled by an AI, whilst the labour was done by robots. This freed [PAWN_objective] up to push the artistic limits of his craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty. -->
-  <Architect28.description>[PAWN_nameDef] progettò la costruzione di edifici. Sul suo mondo splendente, gli aspetti tecnici dell'architettura erano gestiti da un'IA, mentre il lavoro manuale era svolto da robot. Questo liberava [PAWN_objective] per spingersi oltre nei limiti artistici della sua arte, ma significava anche che [PAWN_pronoun] non doveva mai sporcarsi le mani.</Architect28.description>
+  <Architect28.description>[PAWN_nameDef] progettava edifici. Sul suo mondo splendente, gli aspetti tecnici dell'architettura erano gestiti da un'IA, mentre il lavoro manuale era svolto da robot. Questo {PAWN_gender ? gli:le} lasciava la libertà di spingersi oltre i limiti artistici del mestiere, ma significava anche che [PAWN_pronoun] non doveva mai sporcarsi le mani.</Architect28.description>
   <!-- EN: architect -->
   <Architect28.title>architetto</Architect28.title>
   <!-- EN: architect -->
@@ -25,7 +25,7 @@
   <CharityWorker36.titleShort>altruista</CharityWorker36.titleShort>
   
   <!-- EN: [PAWN_nameDef] found it easy to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to cause others pain. -->
-  <GlitterworldEmpath26.description>[PAWN_nameDef] trovava naturale entrare in empatia con gli altri e mediare i conflitti. [PAWN_pronoun] fu selezionat{PAWN_gender ? o:a} per formarsi come empatic{PAWN_gender ? o:a}. L'addestramento rafforzò le sue doti naturali, ma rese [PAWN_pronoun] incapace di causare sofferenza ad altri.</GlitterworldEmpath26.description>
+  <GlitterworldEmpath26.description>[PAWN_nameDef] trovava naturale entrare in empatia con gli altri e mediare i conflitti. [PAWN_pronoun] fu selezionat{PAWN_gender ? o:a} per formarsi come empatic{PAWN_gender ? o:a}. L'addestramento rafforzò le sue doti naturali, ma {PAWN_gender ? lo:la} rese incapace di far soffrire gli altri.</GlitterworldEmpath26.description>
   <!-- EN: glitterworld empath -->
   <GlitterworldEmpath26.title>empatico del mondo splendente</GlitterworldEmpath26.title>
   <GlitterworldEmpath26.titleFemale>empatica del mondo splendente</GlitterworldEmpath26.titleFemale>
