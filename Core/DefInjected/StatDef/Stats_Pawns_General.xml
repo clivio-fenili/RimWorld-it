@@ -20,12 +20,12 @@
   <CarryingCapacity.description>La quantità di cose che questa creatura può trasportare nelle sue mani, bocca o in altro modo. È diverso dalla capacità di trasportare carichi su lunghi viaggi attraverso il mondo.</CarryingCapacity.description>
   
   <!-- EN: max comfortable temperature -->
-  <ComfyTemperatureMax.label>Massima temperatura di comfort</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>massima temperatura di comfort</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Al di sopra di questa temperatura il personaggio sarà infelice. Molto al di sopra di questa temperatura soffrirà di colpo di calore ed infine morirà.</ComfyTemperatureMax.description>
   
   <!-- EN: min comfortable temperature -->
-  <ComfyTemperatureMin.label>Minima temperatura di comfort</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>minima temperatura di comfort</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Al di sotto di questa temperatura il personaggio sarà infelice. Molto al di sotto di questa temperatura soffrirà di ipotermia e congelamento ed infine morirà.</ComfyTemperatureMin.description>
   
@@ -42,14 +42,14 @@
   <EatingSpeed.description>Un moltiplicatore alla velocità con cui si mangia.</EatingSpeed.description>
   
   <!-- EN: EMP resistance -->
-  <EMPResistance.label>Resistenza EMP</EMPResistance.label>
+  <EMPResistance.label>resistenza EMP</EMPResistance.label>
   <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>Questo meccanoide è dotato di speciali filamenti di schermatura e dissipazione degli urti che riducono l'effetto del danno EMP di questa percentuale. Ciò riduce la durata degli stordimenti causati dall'EMP.</EMPResistance.description>
+  <EMPResistance.description>Questo meccanoide è dotato di speciali filamenti di schermatura e dissipazione delle scariche che riducono l'effetto del danno EMP di questa percentuale. Ciò riduce la durata degli stordimenti causati dall'EMP.</EMPResistance.description>
   
   <!-- EN: filth rate -->
   <FilthRate.label>tasso produzione sporco</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
-  <FilthRate.description>Quanto sporco produce questa creatura. È meglio tenere gli animali che producono sporco all'aperto o su paglia, dove lo sporco non sarà un problema.</FilthRate.description>
+  <FilthRate.description>Quanto sporco produce questa creatura.\n\nÈ meglio tenere gli animali che producono sporco all'aperto o su stuoie di paglia, dove lo sporco non sarà un problema.</FilthRate.description>
   
   <!-- EN: flight cooldown -->
   <FlightCooldown.label>tempo recupero volo</FlightCooldown.label>
@@ -86,7 +86,7 @@
   <!-- EN: leather amount -->
   <LeatherAmount.label>quantità pelle</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
-  <LeatherAmount.description>La quantità di pelle ottenibile macellando questa creatura.</LeatherAmount.description>
+  <LeatherAmount.description>La quantità di pelle ottenibile macellando questa creatura. Il valore si riduce se la creatura non viene macellata in modo pulito o se era ferita quando è stata uccisa.</LeatherAmount.description>
   
   <!-- EN: lifespan factor -->
   <LifespanFactor.label>fattore longevità</LifespanFactor.label>
@@ -108,7 +108,7 @@
   <!-- EN: meat amount -->
   <MeatAmount.label>quantità carne</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
-  <MeatAmount.description>La quantità di carne ottenibile macellando questa creatura.</MeatAmount.description>
+  <MeatAmount.description>La quantità di carne ottenibile macellando questa creatura. Il valore si riduce se la creatura non viene macellata in modo pulito o se era ferita quando è stata uccisa.</MeatAmount.description>
   
   <!-- EN: meditation psyfocus gain -->
   <MeditationFocusGain.label>guadagno psyfocus da meditazione</MeditationFocusGain.label>
@@ -156,7 +156,7 @@
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>sensibilità psichica</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
-  <PsychicSensitivity.description>Le persone più sensibili soffrono maggiormente dagli effetti psichici negativi e beneficiano maggiormente da quelli positivi. Una maggiore sensibilità psichica aumenta anche il limite di calore neurale.</PsychicSensitivity.description>
+  <PsychicSensitivity.description>Le persone più sensibili soffrono maggiormente per gli effetti psichici negativi e beneficiano maggiormente di quelli positivi. Una maggiore sensibilità psichica aumenta anche il limite di calore neurale.</PsychicSensitivity.description>
   
   <!-- EN: sleep fall rate -->
   <RestFallRateFactor.label>tasso calo riposo</RestFallRateFactor.label>

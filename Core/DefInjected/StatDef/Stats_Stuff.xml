@@ -34,6 +34,6 @@
   <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
   <StuffPower_Insulation_Heat.description>Quanto un indumento fatto di questo materiale migliora la temperatura massima di comfort di uno che lo indossa.</StuffPower_Insulation_Heat.description>
   <!-- EN: Insulation - Heat (material factor) -->
-  <StuffPower_Insulation_Heat.labelForFullStatList>Isolazione - Caldo (fattore materiale)</StuffPower_Insulation_Heat.labelForFullStatList>
+  <StuffPower_Insulation_Heat.labelForFullStatList>Isolamento - Caldo (fattore materiale)</StuffPower_Insulation_Heat.labelForFullStatList>
   
 </LanguageData>

@@ -29,7 +29,7 @@
   <!-- EN: deep drilling speed -->
   <DeepDrillingSpeed.label>velocità perforazione profonda</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>La velocità alla quale questa persona utilizza un trapano profondo per estrarre risorse sotterranee.</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>La velocità alla quale questa persona utilizza una trivella di profondità per estrarre risorse sotterranee.</DeepDrillingSpeed.description>
   
   <!-- EN: drug crop harvest yield -->
   <DrugHarvestYield.label>rendimento raccolta colture da droga</DrugHarvestYield.label>
@@ -39,7 +39,7 @@
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>probabilità successo riparazione</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>La probabilità che questa persona abbia successo nel riparare una struttura guasta usando un componente. Un fallimento implica spreco di tempo e risorse. Nota che questo si applica nel riparare guasti, che è diverso dal riparare danni.</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>La probabilità che questa persona abbia successo nel riparare una struttura guasta usando un componente.\n\nUn fallimento implica spreco di tempo e risorse.\nNota che questo vale solo per la riparazione dei guasti, che è diversa dalla riparazione dei danni.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hacking speed -->
   <HackingSpeed.label>velocità hacking</HackingSpeed.label>
@@ -59,12 +59,12 @@
   <!-- EN: mining speed -->
   <MiningSpeed.label>velocità estrazione</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>La velocità alla quale questa persona scava pareti di roccia e trivella per risorse sotterranee.</MiningSpeed.description>
+  <MiningSpeed.description>La velocità alla quale questa persona scava le pareti.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>rendimento estrazione</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
-  <MiningYield.description>La percentuale di risorse minerali che un minatore produrrà. Questo si applica sia agli scavi nella roccia che alle trivellazioni di profondità. Non influenza la velocità di produzione di pezzi di pietra.</MiningYield.description>
+  <MiningYield.description>La percentuale di risorse minerali che un minatore produrrà.\n\nQuesto si applica sia agli scavi nella roccia che alle trivellazioni di profondità.\nNon influenza la velocità di produzione di pezzi di roccia delle trivelle di profondità.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>rendimento raccolta agricola</PlantHarvestYield.label>
@@ -96,6 +96,6 @@
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>Un moltiplicatore alla velocità del personaggio nel compiere qualsiasi tipo di lavoro.</WorkSpeedGlobal.description>
   <!-- EN: Offset from mechanitor -->
-  <WorkSpeedGlobal.parts.2.label>modifica da mechanitor</WorkSpeedGlobal.parts.2.label>
+  <WorkSpeedGlobal.parts.2.label>Modifica dal meccanista</WorkSpeedGlobal.parts.2.label>
   
 </LanguageData>

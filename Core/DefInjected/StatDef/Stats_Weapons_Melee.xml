@@ -9,7 +9,7 @@
   <!-- EN: melee armor penetration -->
   <MeleeWeapon_AverageArmorPenetration.label>penetrazione armatura in mischia</MeleeWeapon_AverageArmorPenetration.label>
   <!-- EN: Average armor penetration in melee combat. -->
-  <MeleeWeapon_AverageArmorPenetration.description>Penetrazione dell'armatura nel combattimento in mischia.</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_AverageArmorPenetration.description>Penetrazione media dell'armatura nel combattimento in mischia.</MeleeWeapon_AverageArmorPenetration.description>
   
   <!-- EN: melee damage per second -->
   <MeleeWeapon_AverageDPS.label>danno al secondo in mischia</MeleeWeapon_AverageDPS.label>

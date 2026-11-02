@@ -39,7 +39,7 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>probabilità intossicazione alimentare</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>La probabilità che questo personaggio avveleni inavvertitamente un pasto che cucina. L'intossicazione alimentare indebolisce temporaneamente chiunque colpisca.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>La probabilità che questo personaggio avveleni inavvertitamente un pasto che cucina.\n\nChiunque mangi un pasto avvelenato sarà temporaneamente debilitato da dolore, debolezza e vomito.</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
   <FoodPoisonChance.labelForFullStatList>probabilità intossicazione alimentare (probabilità di contaminare un pasto)</FoodPoisonChance.labelForFullStatList>
   

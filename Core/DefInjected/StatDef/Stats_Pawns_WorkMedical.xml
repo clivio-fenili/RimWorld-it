@@ -14,7 +14,7 @@
   <!-- EN: medical tend quality -->
   <MedicalTendQuality.label>qualità cura</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
-  <MedicalTendQuality.description>La qualità di base della cura fornita quando si trattano ferite e malattie. La qualità reale della cura sarà anche influenzata da fattori come medicina usata, strutture, pulizia della stanza, fortuna e così via.</MedicalTendQuality.description>
+  <MedicalTendQuality.description>La qualità di base della cura fornita quando si trattano ferite e malattie.\n\nLa qualità reale della cura sarà anche influenzata da fattori come medicina usata, strutture, fortuna e così via.</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
   <MedicalTendSpeed.label>velocità cura</MedicalTendSpeed.label>
