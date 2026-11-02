@@ -23,9 +23,9 @@
   <!-- EN: caribou -->
   <Caribou.labelPlural>caribù</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>Vitello di caribù</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.label>vitello di caribù</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>Vitelli di caribù</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>vitelli di caribù</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: cow -->
   <Cow.label>mucca</Cow.label>
@@ -98,9 +98,9 @@
   <Horse.lifeStages.foal.labelPlural>puledri</Horse.lifeStages.foal.labelPlural>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>Muffalo</Muffalo.label>
+  <Muffalo.label>muffalo</Muffalo.label>
   <!-- EN: muffalo -->
-  <Muffalo.labelPlural>Muffali</Muffalo.labelPlural>
+  <Muffalo.labelPlural>muffalo</Muffalo.labelPlural>
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>vitello di muffalo</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->

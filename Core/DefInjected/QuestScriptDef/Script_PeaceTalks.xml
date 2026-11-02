@@ -13,7 +13,7 @@
   -->
   <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
     <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] di [faction_name], ci ha inviato un messaggio. [faction_leader_pronoun] vuole parlare con noi in un luogo vicino.\n\nPotrebbe essere una grande opportunità per migliorare le relazioni con la loro fazione e ricevere doni, ma attenzione: un negoziatore scarso può causare più danni che benefici e potrebbe persino farli arrabbiare.[extraLeaderPart][favorRewardDetails]</li>
-    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nTrattati di pace riusciti possono far guadagnare al tuo negoziatore una piccola quantità di [faction_royalFavorLabel] personale con [faction_name].</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nColloqui di pace riusciti possono far guadagnare al tuo negoziatore una piccola quantità di [faction_royalFavorLabel] personale con [faction_name].</li>
     <li>favorRewardDetails-></li>
     <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
     <li>extraLeaderPart-></li>
@@ -40,16 +40,16 @@
     <li>questName->[peaceTalks] con [faction_leader_nameDef]</li>
     <li>questName->[peaceTalks_def]</li>
     <li>questName->[peaceTalks]</li>
-    <li>peaceTalks->Trattati di pace</li>
+    <li>peaceTalks->Colloqui di pace</li>
     <li>peaceTalks->Diplomazia</li>
     <li>peaceTalks->Incontro</li>
-    <li>peaceTalks_def->i Trattati di pace</li>
+    <li>peaceTalks_def->i Colloqui di pace</li>
     <li>peaceTalks_def->la Diplomazia</li>
     <li>peaceTalks_def->l'Incontro</li>
   </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Missione scaduta: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>L'offerta di trattati di pace con [faction_name] è scaduta. Hai fallito la missione [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>L'offerta di colloqui di pace con [faction_name] è scaduta. Hai fallito la missione [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

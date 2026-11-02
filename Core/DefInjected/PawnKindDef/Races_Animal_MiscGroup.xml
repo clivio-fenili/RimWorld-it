@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>alfabetiere</Alphabeaver.label>
+  <Alphabeaver.label>alfacastoro</Alphabeaver.label>
   <Alphabeaver.labelPlural>alfabetieri</Alphabeaver.labelPlural>
   <Alphabeaver.lifeStages.0.label>giovane alfabetiere</Alphabeaver.lifeStages.0.label>
   <Alphabeaver.lifeStages.0.labelPlural>giovani alfabetieri</Alphabeaver.lifeStages.0.labelPlural>
@@ -17,9 +17,9 @@
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.labelPlural>Thrumbli</Thrumbo.labelPlural>
   <!-- EN: thrumbo calf -->
-  <Thrumbo.lifeStages.thrumbo_calf.label>vitello thrumbo</Thrumbo.lifeStages.thrumbo_calf.label>
+  <Thrumbo.lifeStages.thrumbo_calf.label>vitello di thrumbo</Thrumbo.lifeStages.thrumbo_calf.label>
   <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>vitelli thrumbo</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>vitelli di thrumbo</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   
   <!-- EN: tortoise -->
   <Tortoise.label>tartaruga</Tortoise.label>

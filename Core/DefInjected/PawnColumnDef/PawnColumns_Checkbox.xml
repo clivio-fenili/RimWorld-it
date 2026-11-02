@@ -8,7 +8,7 @@
   <FollowFieldwork.headerTip>Segue il padrone mentre fa lavori sul campo (caccia o addomestica animali).</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
-  <Hunt.headerTip>Marca animali da cacciare.</Hunt.headerTip>
+  <Hunt.headerTip>Marca gli animali che i tuoi cacciatori devono cacciare.\n\nSolo i cacciatori con armi a distanza adatte parteciperanno alla caccia.</Hunt.headerTip>
   
   <!-- EN: Release to wild -->
   <ReleaseAnimalToWild.headerTip>Rilascio in natura</ReleaseAnimalToWild.headerTip>

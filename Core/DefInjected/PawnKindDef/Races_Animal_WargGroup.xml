@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: warg -->
-  <Warg.label>mannaro</Warg.label>
+  <Warg.label>warg</Warg.label>
   <Warg.labelPlural>mannari</Warg.labelPlural>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>cucciolo di mannaro</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.label>cucciolo di warg</Warg.lifeStages.warg_puppy.label>
   <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>cuccioli di mannaro</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>cuccioli di warg</Warg.lifeStages.warg_puppy.labelPlural>
   
 </LanguageData>

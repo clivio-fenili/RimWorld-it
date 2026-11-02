@@ -4,12 +4,12 @@
   <!-- EN: recruit -->
   <AttemptRecruit.label>recluta</AttemptRecruit.label>
   <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
-  <AttemptRecruit.description>I sorveglianti cercheranno di reclutare il prigioniero. Se il prigioniero ha ancora resistenza, i sorveglianti parleranno con lui per ridurla.</AttemptRecruit.description>
+  <AttemptRecruit.description>I guardiani cercheranno di reclutare il prigioniero. Se il prigioniero ha ancora resistenza, i guardiani parleranno con lui per ridurla.</AttemptRecruit.description>
   
   <!-- EN: execute -->
   <Execution.label>giustizia</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
-  <Execution.description>Un sorvegliante giustizierà il prigioniero sul posto tramite esecuzione. Questo può influenzare l’umore degli altri prigionieri e dei coloni.</Execution.description>
+  <Execution.description>Un guardiano giustizierà il prigioniero sul posto con un taglio. Questo può influenzare l’umore degli altri prigionieri e dei coloni.</Execution.description>
   
   <!-- EN: maintain only -->
   <MaintainOnly.label>solo mantenimento</MaintainOnly.label>
@@ -18,13 +18,13 @@
   
   
   <!-- EN: reduce resistance only -->
-  <ReduceResistance.label>rompi il ghiaccio</ReduceResistance.label>
+  <ReduceResistance.label>solo riduzione resistenza</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
-  <ReduceResistance.description>Se il prigioniero ha ancora resistenza, i sorveglianti parleranno con lui per ridurla. Non verrà fatto nessun tentativo di reclutamento.</ReduceResistance.description>
+  <ReduceResistance.description>Se il prigioniero ha ancora resistenza, i guardiani parleranno con lui per ridurla. Non verrà fatto nessun tentativo di reclutamento.</ReduceResistance.description>
   
   <!-- EN: release -->
   <Release.label>libera</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>Un sorvegliante libererà il prigioniero.</Release.description>
+  <Release.description>Un guardiano libererà il prigioniero.</Release.description>
   
 </LanguageData>

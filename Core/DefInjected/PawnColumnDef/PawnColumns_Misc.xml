@@ -14,10 +14,10 @@
   <Carry.label>trasporto</Carry.label>
   
   <!-- EN: drug policy -->
-  <DrugPolicy.label>regola droga</DrugPolicy.label>
+  <DrugPolicy.label>politica sulle droghe</DrugPolicy.label>
   
   <!-- EN: food policy -->
-  <FoodRestriction.label>limitazioni cibo</FoodRestriction.label>
+  <FoodRestriction.label>politica alimentare</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
   <HostilityResponse.headerTip>Risposta a ostilità</HostilityResponse.headerTip>
@@ -44,9 +44,9 @@
   <MedicalCare.headerTip>Cure mediche</MedicalCare.headerTip>
   
   <!-- EN: apparel policy -->
-  <Outfit.label>vestiario corrente</Outfit.label>
+  <Outfit.label>politica sull'abbigliamento</Outfit.label>
   
   <!-- EN: reading policy -->
-  <Reading.label>regola lettura</Reading.label>
+  <Reading.label>politica di lettura</Reading.label>
   
 </LanguageData>

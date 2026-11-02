@@ -35,9 +35,9 @@
     <li>questName->Vendita a [settlement_label]</li>
     <li>questName->Rifornimenti per [settlement_label]</li>
     <li>questName->Uno scambio [special]</li>
-    <li>special->Speciale</li>
-    <li>special->Unico</li>
-    <li>special->Non tradizionale</li>
+    <li>special->speciale</li>
+    <li>special->unico</li>
+    <li>special->non tradizionale</li>
     <li>trade->Commercio</li>
     <li>trade->Scambio</li>
     <li>trade->Affare</li>
