@@ -21,13 +21,13 @@
   -->
   <Animals.generalRules.rulesStrings>
     <li>subject->animali</li>
-    <li>subject->pastore</li>
+    <li>subject->pastorizia</li>
     <li>subject->addomesticamento</li>
     <li>subject->bestiame</li>
     <li>subject->allevamento</li>
     <li>subject->zoologia</li>
     <li>subject->allevamento</li>
-    <li>subject->pastore</li>
+    <li>subject->pastorizia</li>
     <li>subject->domesticazione</li>
     <li>subject->fauna</li>
     <li>subject->fauna selvatica</li>
@@ -103,7 +103,7 @@
   <!-- EN: cooking -->
   <Cooking.label>cucina</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Cucinare pasti partendo da ingredienti semplici rapidamente e senza intossicare accidentalmente il cibo.</Cooking.description>
+  <Cooking.description>Cucinare pasti partendo da ingredienti crudi, rapidamente e senza causare intossicazioni alimentari.</Cooking.description>
   <!-- EN:
     <li>subject->cooking</li>
     <li>subject->food</li>
@@ -122,7 +122,7 @@
   <Cooking.generalRules.rulesStrings>
     <li>subject->cucina</li>
     <li>subject->cibo</li>
-    <li>subject->forno</li>
+    <li>subject->panificazione</li>
     <li>subject->cucina</li>
     <li>subject->ricette</li>
     <li>subject->gastronomia</li>
@@ -156,7 +156,7 @@
     <li>subject->artigianato</li>
     <li>subject->assemblaggio</li>
     <li>subject->manifattura</li>
-    <li>subject->fatto a mano</li>
+    <li>subject->lavorazione a mano</li>
     <li>subject->fabbricazione</li>
     <li>subject->produzione</li>
     <li>subject->maestria artigiana</li>

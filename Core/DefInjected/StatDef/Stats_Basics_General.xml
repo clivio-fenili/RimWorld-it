@@ -29,7 +29,7 @@
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>tasso di deterioramento</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
-  <DeteriorationRate.description>La velocità alla quale questo oggetto si deteriora quando lasciato all'esterno, in punti danno medi al giorno. La velocità di deterioramento è anche influenzata da fattori come tempo, tetti, ricadute tossiche, inquinamento o l'essere lasciati in acque basse.</DeteriorationRate.description>
+  <DeteriorationRate.description>La velocità alla quale questo oggetto si deteriora quando viene lasciato all'esterno, in punti salute medi persi al giorno.\n\nLa velocità di deterioramento è influenzata anche da fattori come il meteo, i tetti, le ricadute tossiche, l'inquinamento o l'essere lasciato in acque basse.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / giorno</DeteriorationRate.formatString>
   
@@ -51,7 +51,7 @@
   <MarketValue.description>Il valore di mercato di un oggetto. Il prezzo reale di vendita sarà influenzato dall'abilità di negoziazione, dal livello di relazione e da altri fattori simili.</MarketValue.description>
   
   <!-- EN: market value ignoring hitpoints -->
-  <MarketValueIgnoreHp.label>valore di mercato ignorando gli hitpoint</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>valore di mercato ignorando i punti salute</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>massa</Mass.label>
@@ -73,10 +73,10 @@
   <!-- EN: honor value -->
   <RoyalFavorValue.label>valore d'onore</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>La quantità di onore che il tuo commerciante guadagnerà per averlo dato a un riscattatore di tributi.</RoyalFavorValue.description>
+  <RoyalFavorValue.description>La quantità di onore che il tuo commerciante guadagnerà per averlo dato a un esattore di tributi.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
-  <SellPriceFactor.label>modificatore prezzo di vendita</SellPriceFactor.label>
+  <SellPriceFactor.label>moltiplicatore prezzo di vendita</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
   <SellPriceFactor.description>Un moltiplicatore del prezzo a cui puoi vendere gli oggetti.</SellPriceFactor.description>
   
@@ -88,7 +88,7 @@
   <ShootingAccuracyTurret.labelForFullStatList>precisione di tiro (torrette)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
-  <WorkToMake.label>lavoro per costruire</WorkToMake.label>
+  <WorkToMake.label>lavoro per realizzare</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
   <WorkToMake.description>La quantità di lavoro necessaria per realizzare un oggetto, una volta ottenuti tutti i materiali.</WorkToMake.description>
   

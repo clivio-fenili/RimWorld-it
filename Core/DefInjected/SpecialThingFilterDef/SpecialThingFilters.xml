@@ -7,7 +7,7 @@
   <AllowAdultOnlyApparel.description>Consente abiti che possono essere indossati solo dagli adulti.</AllowAdultOnlyApparel.description>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>consente abiti biocodificato</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>consente abiti biocodificati</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
   <AllowBiocodedWeapons.label>consente armi biocodificate</AllowBiocodedWeapons.label>
@@ -84,12 +84,12 @@
   <AllowChildOnlyApparel.description>Consente abiti che possono essere indossati solo dai bambini.</AllowChildOnlyApparel.description>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>consente corpi coloni</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>consente corpi di coloni</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Consente i corpi morti dei coloni.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>consente corpi stranieri</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>consente corpi di stranieri</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Consente i corpi morti di stranieri e nemici.</AllowCorpsesStranger.description>
   
@@ -124,7 +124,7 @@
   <AllowMaleGender.description>Consente individui di genere maschile.</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>consente abiti non biocodificato</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>consente abiti non biocodificati</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
   <AllowNonBiocodedWeapons.label>consente armi non biocodificate</AllowNonBiocodedWeapons.label>
@@ -147,7 +147,7 @@
   <AllowNonSmeltableWeapons.label>consente armi non riciclabili</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
-  <AllowPlantFood.label>consente concime</AllowPlantFood.label>
+  <AllowPlantFood.label>consente cibo vegetale grezzo</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
   <AllowPlantFood.description>Consente cibo che è qualitativamente equivalente a piante non raccolte, come il fieno.</AllowPlantFood.description>
   

@@ -9,7 +9,7 @@
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>velocità apertura porta</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>La velocità alla quale la porta si apre. Porte lente rallenteranno chiunque le usi.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>La velocità alla quale la porta si apre quando non è alimentata.\n\nPorte lente rallenteranno chiunque le usi.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>fattore velocità acquisizione immunità</ImmunityGainSpeedFactor.label>
@@ -40,17 +40,17 @@
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Pulizia stanza</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   <!-- EN: Reading bonus -->
-  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>bonus lettura</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>Bonus lettura</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
   
   <!-- EN: reading bonus -->
   <RoomReadingBonus.label>bonus lettura stanza</RoomReadingBonus.label>
   <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
   <RoomReadingBonus.description>Fornisce un bonus alla velocità di ricerca, all'XP ottenuto leggendo e al divertimento guadagnato leggendo nella stessa stanza della libreria. Questo valore aumenta posizionando più libri e di qualità superiore nella libreria.</RoomReadingBonus.description>
   <!-- EN: Reading bonus -->
-  <RoomReadingBonus.parts.Reading_bonus.customLabel>bonus lettura</RoomReadingBonus.parts.Reading_bonus.customLabel>
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>Bonus lettura</RoomReadingBonus.parts.Reading_bonus.customLabel>
   
   <!-- EN: surgery success chance factor -->
-  <SurgerySuccessChanceFactor.label>probabilità successo chirurgia</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>fattore probabilità successo chirurgia</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
   <SurgerySuccessChanceFactor.description>Un moltiplicatore alla probabilità che un intervento abbia successo quando effettuato qui. La probabilità di successo dell'intervento chirurgico è influenzata anche da molti altri fattori, inclusa l'abilità del chirurgo e i farmaci usati.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
