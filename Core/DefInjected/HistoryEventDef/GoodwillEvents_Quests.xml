@@ -8,19 +8,19 @@
   <FailedToKeepLodgersHappy.label>non è riuscito a rendere felici gli ospiti</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>ha perso la navetta</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>un membro ha perso la navetta</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>costruzione di un monumento scaduto</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>costruzione del monumento scaduta</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>costruzione di un monumento abbandonato</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>costruzione del monumento abbandonata</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
   <MonumentDestroyed.label>monumento distrutto</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
-  <QuestGoodwillReward.label>missioni completate</QuestGoodwillReward.label>
+  <QuestGoodwillReward.label>missione completata</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
   <QuestPawnArrested.label>membro arrestato</QuestPawnArrested.label>
@@ -29,15 +29,15 @@
   <QuestPawnLost.label>membro perso in colonia</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>prigioniero prestato in schiavitù</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>prigioniero prestato reso schiavo</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>reclutato il prigioniero prestato</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>prigioniero prestato reclutato</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>comandante della navetta mancante</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>il comandante della navetta ha perso la navetta</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>guardie della navetta mancanti</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>le guardie della navetta hanno perso la navetta</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

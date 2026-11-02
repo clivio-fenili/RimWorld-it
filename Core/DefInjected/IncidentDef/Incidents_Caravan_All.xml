@@ -9,7 +9,7 @@
   <Ambush.letterText>{0} è caduta in un'imboscata tesa da {1} di {2}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>richiesta di riscatto</CaravanDemand.label>
+  <CaravanDemand.label>richiesta alla carovana</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>incontro carovana</CaravanMeeting.label>

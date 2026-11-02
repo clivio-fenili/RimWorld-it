@@ -22,7 +22,7 @@
   <!-- EN: Man in black -->
   <StrangerInBlackJoin.letterLabel>Uomo in nero</StrangerInBlackJoin.letterLabel>
   <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
-  <StrangerInBlackJoin.letterText>Percependo un problema, è arrivato un misterioso [PAWN_kind].\n\nSarà in grado di rimettere le cose a posto da queste parti?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterText>Percependo dei guai, è arrivat{PAWN_gender ? o : a} {PAWN_gender ? un misterioso : una misteriosa} [PAWN_kind].\n\nRiuscirà a rimettere le cose a posto da queste parti?</StrangerInBlackJoin.letterText>
   
   <!-- EN: trader caravan arrival -->
   <TraderCaravanArrival.label>arrivo di carovana commerciale</TraderCaravanArrival.label>

@@ -14,7 +14,7 @@
   <BeatFire.reportString>spegne incendio.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
-  <Carried.reportString>Fa qualcosa</Carried.reportString>
+  <Carried.reportString>Fa qualcosa.</Carried.reportString>
   
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>Fa qualcosa.</CastAbilityOnThing.reportString>
@@ -29,7 +29,7 @@
   <CastAbilityOnWorldTile.reportString>Fa qualcosa.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>Fa qualcosa</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>Fa qualcosa.</CastAbilityTouch.reportString>
   
   <!-- EN: Doing something. -->
   <CastJump.reportString>Fa qualcosa.</CastJump.reportString>
@@ -38,10 +38,10 @@
   <ClearSnow.reportString>spazza la neve.</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToBed.reportString>consegna di TargetA.</DeliverToBed.reportString>
+  <DeliverToBed.reportString>consegna TargetA.</DeliverToBed.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToCell.reportString>consegna di TargetA.</DeliverToCell.reportString>
+  <DeliverToCell.reportString>consegna TargetA.</DeliverToCell.reportString>
   
   <!-- EN: dismissing trader. -->
   <DismissTrader.reportString>congeda il mercante.</DismissTrader.reportString>
@@ -53,7 +53,7 @@
   <EjectFuel.reportString>estrae carburante da TargetA.</EjectFuel.reportString>
   
   <!-- EN: emptying TargetA. -->
-  <EmptyThingContainer.reportString>svuotamento di TargetA.</EmptyThingContainer.reportString>
+  <EmptyThingContainer.reportString>svuota TargetA.</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>entra nella bara criptosonno.</EnterCryptosleepCasket.reportString>
@@ -122,7 +122,7 @@
   <HaulToTransporter.reportString>trasporta TargetA.</HaulToTransporter.reportString>
   
   <!-- EN: idling. -->
-  <IdleWhileDespawned.reportString>inattivo.</IdleWhileDespawned.reportString>
+  <IdleWhileDespawned.reportString>resta inattivo.</IdleWhileDespawned.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>incendia TargetA.</Ignite.reportString>

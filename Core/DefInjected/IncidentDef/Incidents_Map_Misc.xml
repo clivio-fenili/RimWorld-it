@@ -9,7 +9,7 @@
   <!-- EN: Ambrosia sprout -->
   <AmbrosiaSprout.letterLabel>Fioritura di ambrosia</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>Nelle vicinanze è spuntato un misterioso cespuglio di ambrosia! Se aspetti che la pianta cresca, potrai raccogliere i delicati, gustosi e leggermente assuefacenti frutti.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Nelle vicinanze è spuntato un boschetto di misteriosi cespugli di ambrosia! Se aspetti che le piante crescano, potrai raccoglierne i frutti deliziosi, piacevoli e leggermente assuefacenti.</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>ondata di freddo</ColdSnap.label>
@@ -88,7 +88,7 @@
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>arrivo di selvaggio</WildManWandersIn.label>
   <!-- EN: {0} wanders in -->
-  <WildManWandersIn.letterLabel>Arrivo di {PAWN_kind}</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>Arrivo di {0}</WildManWandersIn.letterLabel>
   <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
   <WildManWandersIn.letterText>Una persona che vive tra gli animali è arrivata nell'area. {PAWN_pronoun} si chiama {0}.\n\nPuoi provare ad addomesticarl{PAWN_gender ? o:a} o arrestarl{PAWN_gender ? o:a}.</WildManWandersIn.letterText>
   

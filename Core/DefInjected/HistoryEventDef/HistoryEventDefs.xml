@@ -11,13 +11,13 @@
   <AdministeredRecreationalDrug.label>farmaco ricreativo somministrato</AdministeredRecreationalDrug.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat.label>mangiava carne umana</AteHumanMeat.label>
+  <AteHumanMeat.label>carne umana mangiata</AteHumanMeat.label>
   
   <!-- EN: build building -->
   <BuildSpecificDef.label>costruzione edificio</BuildSpecificDef.label>
   
   <!-- EN: joiner refused -->
-  <CharityRefused_ThreatReward_Joiner.label>falegname rifiutato</CharityRefused_ThreatReward_Joiner.label>
+  <CharityRefused_ThreatReward_Joiner.label>nuovo membro rifiutato</CharityRefused_ThreatReward_Joiner.label>
   
   <!-- EN: cut tree -->
   <CutTree.label>albero tagliato</CutTree.label>
@@ -35,7 +35,7 @@
   <IngestedRecreationalDrug.label>farmaco ricreativo usato</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic.label>protesi installate</InstalledProsthetic.label>
+  <InstalledProsthetic.label>protesi installata</InstalledProsthetic.label>
   
   <!-- EN: mined -->
   <Mined.label>estratto</Mined.label>

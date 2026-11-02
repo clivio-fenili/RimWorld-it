@@ -15,11 +15,11 @@
   <DeepDrillInfestation.letterText>Le vibrazioni provenienti dalle tue trivelle di profondità hanno disturbato alcuni insetti del sottosuolo. Adesso stanno scavando verso la superficie in cerca di vendetta!\n\nAttento: gli insetti sono stati disturbati e cercheranno di distruggere la tua base.</DeepDrillInfestation.letterText>
   
   <!-- EN: ship part crash (defoliator) -->
-  <DefoliatorShipPartCrash.label>schianto pezzo di una nave (deforestazione)</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.label>schianto di parte di astronave (defoliatore)</DefoliatorShipPartCrash.label>
   <!-- EN: Defoliator ship -->
-  <DefoliatorShipPartCrash.letterLabel>Nave da deforestazione</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterLabel>Astronave defoliatrice</DefoliatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <DefoliatorShipPartCrash.letterText>Un grosso pezzo di un'antica nave si è schiantato nelle vicinanze.\n\nLa sua misteriosa influenza ucciderà tutte le piante in un cerchio in espansione attorno a sé.\n\nDistruggila il prima possibile. Ma attenzione: probabilmente si difenderà.</DefoliatorShipPartCrash.letterText>
+  <DefoliatorShipPartCrash.letterText>Un grosso pezzo di un'antica nave si è schiantato nelle vicinanze.\n\nLa sua misteriosa influenza ucciderà tutte le piante in un cerchio in espansione attorno a sé.\n\nDistruggilo il prima possibile. Ma attenzione: probabilmente si difenderà.</DefoliatorShipPartCrash.letterText>
   
   <!-- EN: infestation -->
   <Infestation.label>infestazione</Infestation.label>
@@ -32,11 +32,11 @@
   <ManhunterPack.label>branco sanguinario</ManhunterPack.label>
   
   <!-- EN: ship part crash (psychic) -->
-  <PsychicEmanatorShipPartCrash.label>pezzo di astronave (psichico)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.label>schianto di parte di astronave (psichica)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->
   <PsychicEmanatorShipPartCrash.letterLabel>Astronave psichica</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>Un grosso pezzo di un'antica astronave si è schiantato nelle vicinanze.\n\nI tuoi coloni possono percepirlo nel profondo delle loro menti, esortate a compiere atti indicibili. Deve contenere a bordo una IA dotata di abilità di proiezione psichica. E questa IA non è pacifica.\n\nDistruggila il prima possibile. Ma attento: probabilmente cercherà di difendersi.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>Un grosso pezzo di un'antica astronave si è schiantato nelle vicinanze.\n\nI tuoi coloni lo sentono in fondo alla mente, mentre li esorta a compiere atti indicibili. Deve avere a bordo una personalità artificiale capace di proiezione psichica. E questa personalità non è amichevole.\n\nDistruggilo il prima possibile. Ma attento: probabilmente cercherà di difendersi.</PsychicEmanatorShipPartCrash.letterText>
   
   <!-- EN: enemy raid -->
   <RaidEnemy.label>raid nemico</RaidEnemy.label>
