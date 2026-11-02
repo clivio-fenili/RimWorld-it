@@ -22,7 +22,6 @@ agricoltore
 agricoltore disciplinato
 aiutante del mondo sotterraneo
 aiutante medico
-albero bruciato
 albero del drago
 albero di cacao
 alce
@@ -251,7 +250,6 @@ boomrat adulto femmina
 boomrat adulto maschio
 boomrat femmina
 boomrat maschio
-bordo
 borseggiatore
 boss
 boss criminale
@@ -319,7 +317,6 @@ capitano ammutinato
 capitano di nave da guerra
 capitano mercenario
 capitano pirata
-capo
 capo arciere
 capo berserker
 capo della banda
@@ -341,7 +338,6 @@ caribù adulto femmina
 caribù adulto maschio
 caribù femmina
 caribù maschio
-caricatore
 carovaniere
 carpentiere
 carpentiere fuorilegge
@@ -360,10 +356,10 @@ cavaliere delle stelle
 cavaliere in dromedario
 cavaliere medievale
 cavallo
-cavi elettrici impermeabili
 cavo elettrico
 cavo elettrico (costruzione)
 cavo elettrico (progetto)
+cavo elettrico impermeabile
 cecchino
 cecchino da ricognizione
 cecchino dei boschi
@@ -373,6 +369,7 @@ cemento (progetto)
 centipede
 centrocampista
 ceppo
+ceppo bruciato
 cerbiatto
 cerchio per ferro di cavallo
 cerimoniere reale
@@ -611,8 +608,8 @@ decoratore
 deforestatore
 delinquente
 demolitore
-dente
 dente di leone
+denti
 dentista
 dentista sanguinario
 designer
@@ -1053,7 +1050,7 @@ ingegnere rinnegato
 ingegnere statale
 innesca fumogeno
 innesco
-innesco fallito
+innesco alla scoperta
 inquisitore
 inquisitore imperiale
 insediamento
@@ -1062,7 +1059,6 @@ insediamento distrutto
 insegnante
 inserviente
 inserviente dell'astronave
-insetti
 insetto
 intagliatore
 intelaiatore
@@ -1146,6 +1142,7 @@ letto reale (progetto)
 lettore psichico
 liane
 libero pensatore
+linea genetica degli insetti
 linguista
 lord
 lord dei campi
@@ -1249,7 +1246,7 @@ mercante spaziale
 mercenario
 mercenario artigliere
 mercenario cecchino
-mercenario d'elite
+mercenario d'élite
 mercenario pesante
 mercenario squartatore
 messaggero
@@ -1334,6 +1331,7 @@ nido
 ninja
 nobile pupillo
 nobile spodestato
+nodo meccanoide
 nomade
 nomade medievale
 nomade vendicativo
@@ -1374,7 +1372,6 @@ orso polare femmina
 orso polare maschio
 osteologo
 ottimista
-pacco incompleto
 pacco low-shield
 padrino
 padrone
@@ -1391,8 +1388,10 @@ pappone urbano
 paramedico
 parquet (costruzione)
 parquet (progetto)
+parte superiore della testa
 pasto buono
 pasto prelibato
+pasto semplice
 pastore
 pastore di tartarughe
 patate
@@ -1438,6 +1437,7 @@ piccolo santuario della natura
 piccolo spelopede
 piccolo spelopede femmina
 piccolo spelopede maschio
+piedi
 pilota
 pilota da corsa spaziale
 pilota di astronavi
@@ -1539,8 +1539,8 @@ puma adulto maschio
 puma femmina
 puma maschio
 punk
-puntamento del bombardamento orbitale
-puntamento del raggio orbitale
+puntatore del bombardamento orbitale
+puntatore del raggio orbitale
 puntatore mech cluster orbitale
 punto di lavoro
 punto di lavoro (costruzione)
@@ -1689,7 +1689,6 @@ scommettitore
 segnale di azione - imboscata
 segnale di azione - lettera
 selvaggio
-semplice pasto
 sensibilizzatore psichico
 sensitivo
 sensitivo ecclesiale
@@ -1743,6 +1742,7 @@ sopravvissuto del mondo ghiacciato
 sopravvissuto indesiderato
 sorvegliante
 sorvegliante della stazione
+spolverino
 squartanavi
 squillo
 stallone
@@ -1869,7 +1869,7 @@ uovo di tartaruga (fec.)
 uranio
 usa e getta
 ustionato
-vagabondo
+vagabondaggio
 vagabondo del deserto
 vagabondo sanguinario
 vaso di fiori
@@ -1909,6 +1909,7 @@ warg adulto femmina
 warg adulto maschio
 warg femmina
 warg maschio
+zaino incompleto
 zanne affilate
 zanne velenifere
 zanne velenose
@@ -1959,9 +1960,6 @@ scacciabestie
 scaffale
 scaffale (costruzione)
 scaffale (progetto)
-scafo della nave
-scafo della nave (costruzione)
-scafo della nave (progetto)
 scagnozzo
 scagnozzo mafioso
 scanner minerario a lungo raggio

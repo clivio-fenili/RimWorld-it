@@ -38,6 +38,7 @@ arma incompleta
 armaiola
 armaiola bambina
 armatura a piastre
+armatura avanzata incompleta
 armatura catafratta
 armatura catafratta di prestigio
 armatura da granatiere
@@ -45,8 +46,9 @@ armatura da marine di prestigio
 armatura da ricognizione
 armatura da ricognizione di prestigio
 armatura della fenice
-armatura incompleta
+armatura metallica incompleta
 armatura pesante
+armatura semplice incompleta
 armatura-locusta
 arpa
 arrampicatrice politica
@@ -143,7 +145,7 @@ benedetta
 betulla
 bifolca
 bifolca medievale
-bile umana
+bile cadaverica
 biognomologa
 biologa
 birra
@@ -364,11 +366,11 @@ fuggitiva
 galeotta
 gallina
 gallina adulta
+gamba anteriore destra
+gamba anteriore sinistra
 gamba archotech
 gamba bionica
-gamba destra anteriore
 gamba protesica
-gamba sinistra anteriore
 gatta
 gatta adulta
 gattara
@@ -480,7 +482,6 @@ lampada (verde) (progetto)
 lampada solare
 lampada solare (costruzione)
 lampada solare (progetto)
-lampada tenebrosa
 lana di alpaca
 lana di bisonte
 lana di megabradipo
@@ -562,6 +563,9 @@ mina ad antimateria (progetto)
 mina emp
 mina emp (costruzione)
 mina emp (progetto)
+mina estinguente
+mina estinguente (costruzione)
+mina estinguente (progetto)
 mina fumogena
 mina incendiaria
 minatrice
@@ -970,6 +974,9 @@ tramoggia (progetto)
 trappola a spuntoni
 trascurata
 traumatizzata
+trave strutturale della nave
+trave strutturale della nave (costruzione)
+trave strutturale della nave (progetto)
 tribù civile
 tribù feroce
 tribù selvaggia
