@@ -65,10 +65,10 @@
   <InstallBionicTongue.jobString>Installa lingua bionica.</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>installa death acidifier</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>installa acidificatore letale</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>Installa un death acidifier.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Installa un acidificatore letale.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>Installa un death acidifier.</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Installa acidificatore letale.</InstallDeathAcidifier.jobString>
   
 </LanguageData>

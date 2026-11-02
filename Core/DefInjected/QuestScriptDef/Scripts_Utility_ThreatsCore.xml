@@ -5,8 +5,8 @@
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
     <rulesStrings>
       <li>root(priority=1,sitePart==ClimateAdjuster)->c'è (*Threat)una macchina regolatrice del clima(/Threat) che sta modificando la temperatura regionale di [temperatureOffset]</li>
-      <li>root(priority=1,sitePart==PsychicDroner)->c'è (*Threat)una macchina dronatore psichico(/Threat) sintonizzata sul genere [affectedGender]</li>
-      <li>root(priority=1,sitePart==PsychicSuppressor)->c'è (*Threat)una macchina soppressore psichico(/Threat) sintonizzata sul genere [affectedGender]</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->c'è (*Threat)un drone psichico(/Threat) sintonizzato sul genere [affectedGender]</li>
+      <li>root(priority=1,sitePart==PsychicSuppressor)->c'è (*Threat)un soppressore psichico(/Threat) sintonizzato sul genere [affectedGender]</li>
       <li>root(priority=1,sitePart==WeatherController)->c'è (*Threat)una macchina che controlla il meteo(/Threat) che forza il clima dell'intera regione su [weather_label]</li>
       <li>root(priority=1,sitePart==SmokeSpewer)->c'è (*Threat)una macchina che emette fumo(/Threat) che diffonde fumo su tutta la regione</li>
       <li>root(priority=1,sitePart==SunBlocker)->c'è (*Threat)una macchina oscuratrice solare(/Threat) che oscura l'intera regione</li>
@@ -15,14 +15,14 @@
       <li>root(priority=1,sitePart==RaidSource)->c'è una zona militare presidiata da (*Threat)[enemiesCount] [enemiesLabel](/Threat) che lancerà incursioni contro di te ogni [mtbDays]</li>
       <li>root(priority=1,sitePart==Outpost)->c'è un avamposto nemico nel sito difeso da (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li>
       <li>root(priority=1,sitePart==BanditCamp)->c'è un campo di banditi nel sito difeso da (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li>
-      <li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)un [kindLabel] predatore d'uomini(/Threat) che si aggira nelle vicinanze</li>
-      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] [kindLabel] predatori d'uomini(/Threat) che si aggirano nelle vicinanze</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)un mechanoide(/Threat) sta dormendo nelle vicinanze</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoidi(/Threat) stanno dormendo nelle vicinanze</li>
+      <li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)un [kindLabel] cacciatore di uomini(/Threat) si aggira nelle vicinanze</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] [kindLabel] cacciatori di uomini(/Threat) si aggirano nelle vicinanze</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)un meccanoide(/Threat) sta dormendo nelle vicinanze</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] meccanoidi(/Threat) stanno dormendo nelle vicinanze</li>
       <li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) difendono il sito</li>
       <li>root(priority=1,sitePart==AmbushEdge)->(*Threat)una forza nemica(/Threat) sta aspettando di tendere un'imboscata a chiunque si avvicini</li>
       <li>root(priority=1,sitePart==AmbushHidden)->(*Threat)una forza nemica(/Threat) sta aspettando di tendere un'imboscata a chiunque si avvicini</li>
-      <li>root(priority=1,sitePart==MechCluster)->c'è (*Threat)un gruppo di strutture mechanoidi ostili(/Threat)</li>
+      <li>root(priority=1,sitePart==MechCluster)->c'è (*Threat)un gruppo di strutture meccanoidi ostili(/Threat)</li>
       <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->potrebbe esserci una (*Threat)minaccia sconosciuta(/Threat)</li>
       <li>root->c'è un [label]</li>
     </rulesStrings>
@@ -32,7 +32,7 @@
     <li>threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats]</li>
   -->
   <Util_MechCluster.questDescriptionRules.rulesStrings>
-    <li>threatDescription->Un gruppo di mechanoidi atterrerà in [map_definite] contenente:\n\n[allThreats]</li>
+    <li>threatDescription->In [map_definite] atterrerà un gruppo di meccanoidi composto da:\n\n[allThreats]</li>
   </Util_MechCluster.questDescriptionRules.rulesStrings>
   
   <!-- EN:

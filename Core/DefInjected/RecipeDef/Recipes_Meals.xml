@@ -11,45 +11,45 @@
   <CookMealFine.jobString>Cucina pasto buono.</CookMealFine.jobString>
   
   <!-- EN: cook carnivore fine meal -->
-  <CookMealFine_Meat.label>prepara pasto raffinato a base di carne</CookMealFine_Meat.label>
+  <CookMealFine_Meat.label>prepara pasto buono di carne</CookMealFine_Meat.label>
   <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
-  <CookMealFine_Meat.description>Prepara un pasto raffinato utilizzando solo ingredienti di origine animale.</CookMealFine_Meat.description>
+  <CookMealFine_Meat.description>Prepara un pasto buono utilizzando solo ingredienti di origine animale.</CookMealFine_Meat.description>
   <!-- EN: Cooking carnivore fine meal. -->
-  <CookMealFine_Meat.jobString>Preparando pasto raffinato a base di carne.</CookMealFine_Meat.jobString>
+  <CookMealFine_Meat.jobString>Prepara pasto buono di carne.</CookMealFine_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal -->
-  <CookMealFine_Veg.label>prepara pasto raffinato vegetariano</CookMealFine_Veg.label>
+  <CookMealFine_Veg.label>prepara pasto buono vegetariano</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
-  <CookMealFine_Veg.description>Prepara un pasto raffinato utilizzando solo ingredienti vegetali.</CookMealFine_Veg.description>
+  <CookMealFine_Veg.description>Prepara un pasto buono utilizzando solo ingredienti vegetali.</CookMealFine_Veg.description>
   <!-- EN: vegetarian ingredients -->
   <CookMealFine_Veg.ingredients.0.filter.customSummary>ingredienti vegetali</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian fine meal. -->
-  <CookMealFine_Veg.jobString>Preparando pasto raffinato vegetariano.</CookMealFine_Veg.jobString>
+  <CookMealFine_Veg.jobString>Prepara pasto buono vegetariano.</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
   <CookMealFineBulk.label>cucina pasto buono x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
-  <CookMealFineBulk.description>Cucina 4 pasti un po' complessi utilizzando una combinazione di carne e ingredienti vegetali.</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Cucina 4 pasti un po' complessi utilizzando una combinazione di carne e ingredienti vegetali. Parte degli ingredienti viene sprecata per ottenere una migliore esperienza gastronomica.</CookMealFineBulk.description>
   <!-- EN: protein -->
   <CookMealFineBulk.ingredients.0.filter.customSummary>proteine</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>Cucina 4 pasti buoni.</CookMealFineBulk.jobString>
   
   <!-- EN: cook carnivore fine meal x4 -->
-  <CookMealFineBulk_Meat.label>prepara 4 pasti raffinati a base di carne</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.label>prepara 4 pasti buoni di carne</CookMealFineBulk_Meat.label>
   <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Meat.description>Prepara 4 pasti raffinati utilizzando solo ingredienti di origine animale. Parte degli ingredienti viene sprecata per ottenere una migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.description>Prepara 4 pasti buoni utilizzando solo ingredienti di origine animale. Parte degli ingredienti viene sprecata per ottenere una migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealFineBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore fine meals. -->
-  <CookMealFineBulk_Meat.jobString>Preparando 4 pasti raffinati a base di carne.</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Meat.jobString>Prepara 4 pasti buoni di carne.</CookMealFineBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal x4 -->
-  <CookMealFineBulk_Veg.label>prepara 4 pasti raffinati vegetariani</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.label>prepara 4 pasti buoni vegetariani</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Veg.description>Prepara 4 pasti raffinati utilizzando solo ingredienti vegetali. Parte degli ingredienti viene sprecata per ottenere una migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.description>Prepara 4 pasti buoni utilizzando solo ingredienti vegetali. Parte degli ingredienti viene sprecata per ottenere una migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealFineBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
   <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>ingredienti vegetali</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
-  <CookMealFineBulk_Veg.jobString>Preparando 4 pasti raffinati vegetariani.</CookMealFineBulk_Veg.jobString>
+  <CookMealFineBulk_Veg.jobString>Prepara 4 pasti buoni vegetariani.</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>cucina pasto prelibato</CookMealLavish.label>
@@ -61,20 +61,20 @@
   <CookMealLavish.jobString>Cucina pasto prelibato.</CookMealLavish.jobString>
   
   <!-- EN: cook carnivore lavish meal -->
-  <CookMealLavish_Meat.label>prepara pasto sontuoso a base di carne</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.label>prepara pasto prelibato di carne</CookMealLavish_Meat.label>
   <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavish_Meat.description>Prepara un pasto sontuoso utilizzando solo ingredienti di origine animale. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.description>Prepara un pasto prelibato utilizzando solo ingredienti di origine animale. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealLavish_Meat.description>
   <!-- EN: Cooking carnivore lavish meal. -->
-  <CookMealLavish_Meat.jobString>Preparando pasto sontuoso a base di carne.</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Meat.jobString>Prepara pasto prelibato di carne.</CookMealLavish_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal -->
-  <CookMealLavish_Veg.label>prepara pasto sontuoso vegetariano</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.label>prepara pasto prelibato vegetariano</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavish_Veg.description>Prepara un pasto sontuoso utilizzando solo ingredienti vegetali. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.description>Prepara un pasto prelibato utilizzando solo ingredienti vegetali. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealLavish_Veg.description>
   <!-- EN: vegetarian ingredients -->
   <CookMealLavish_Veg.ingredients.0.filter.customSummary>ingredienti vegetali</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian lavish meal. -->
-  <CookMealLavish_Veg.jobString>Preparando pasto sontuoso vegetariano.</CookMealLavish_Veg.jobString>
+  <CookMealLavish_Veg.jobString>Prepara pasto prelibato vegetariano.</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
   <CookMealLavishBulk.label>cucina pasto prelibato x4</CookMealLavishBulk.label>
@@ -86,20 +86,20 @@
   <CookMealLavishBulk.jobString>Cucina 4 pasti prelibati.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook carnivore lavish meal x4 -->
-  <CookMealLavishBulk_Meat.label>prepara 4 pasti sontuosi a base di carne</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.label>prepara 4 pasti prelibati di carne</CookMealLavishBulk_Meat.label>
   <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Meat.description>Prepara 4 pasti sontuosi utilizzando solo ingredienti di origine animale. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.description>Prepara 4 pasti prelibati utilizzando solo ingredienti di origine animale. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo carne comporta inefficienze aggiuntive.</CookMealLavishBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore lavish meals. -->
-  <CookMealLavishBulk_Meat.jobString>Preparando 4 pasti sontuosi a base di carne.</CookMealLavishBulk_Meat.jobString>
+  <CookMealLavishBulk_Meat.jobString>Prepara 4 pasti prelibati di carne.</CookMealLavishBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal x4 -->
-  <CookMealLavishBulk_Veg.label>prepara 4 pasti sontuosi vegetariani</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.label>prepara 4 pasti prelibati vegetariani</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Veg.description>Prepara 4 pasti sontuosi utilizzando solo ingredienti vegetali. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.description>Prepara 4 pasti prelibati utilizzando solo ingredienti vegetali. Gran parte degli ingredienti viene sprecata per offrire la migliore esperienza gastronomica: creare sapori vari usando solo piante comporta inefficienze aggiuntive.</CookMealLavishBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
   <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>ingredienti vegetali</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
-  <CookMealLavishBulk_Veg.jobString>Preparando 4 pasti sontuosi vegetariani.</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Veg.jobString>Prepara 4 pasti prelibati vegetariani.</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>cucina pasto semplice</CookMealSimple.label>

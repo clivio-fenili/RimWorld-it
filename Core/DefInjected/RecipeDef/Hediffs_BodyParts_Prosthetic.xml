@@ -51,10 +51,10 @@
   <InstallSimpleProstheticLeg.jobString>Installa gamba protesica.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>rimuovi antidolorifico.</RemovePainstopper.label>
+  <RemovePainstopper.label>rimuovi painstopper</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>Rimuovi l'antidolorifico.</RemovePainstopper.description>
+  <RemovePainstopper.description>Rimuovi il painstopper.</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>Rimuove l'antidolorifico.</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>Rimuove painstopper.</RemovePainstopper.jobString>
   
 </LanguageData>

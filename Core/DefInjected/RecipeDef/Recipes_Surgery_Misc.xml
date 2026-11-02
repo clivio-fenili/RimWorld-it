@@ -4,7 +4,7 @@
   <!-- EN: anesthetize -->
   <Anesthetize.label>anestetizza</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>Fai perdere i sensi ad una creatura somministrando un anestetico generico.</Anesthetize.description>
+  <Anesthetize.description>Fai perdere i sensi a una creatura somministrando un anestetico generale.</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
   <Anesthetize.jobString>Anestetizza.</Anesthetize.jobString>
   
