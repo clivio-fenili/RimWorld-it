@@ -64,7 +64,7 @@
   <!-- EN: iguana egg (fert.) -->
   <EggIguanaFertilized.label>uovo di iguana (fec.)</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
-  <EggIguanaFertilized.description>Un uovo di iguana fecondato. Se andrà tutto bene dovrebbe schiudersi in un piccolo iguana. Può essere mangiato crudo, ma è molto meglio cotto.</EggIguanaFertilized.description>
+  <EggIguanaFertilized.description>Un uovo di iguana fecondato. Se andrà tutto bene dovrebbe schiudersi in una piccola iguana. Può essere mangiato crudo, ma è molto meglio cotto.</EggIguanaFertilized.description>
   
   <!-- EN: iguana egg (unfert.) -->
   <EggIguanaUnfertilized.label>uovo di iguana (non fec.)</EggIguanaUnfertilized.label>
@@ -104,12 +104,12 @@
   <!-- EN: insect jelly -->
   <InsectJelly.label>gelatina d'insetto</InsectJelly.label>
   <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food. -->
-  <InsectJelly.description>Gelatina conservata e usata come cibo da insetti giganti. È morbida, calorica e soddisfa il bisogno di svago di chi la consuma. Grazie alle sue proprietà biologiche uniche, può nutrire quasi ogni creatura e non marcisce mai.</InsectJelly.description>
+  <InsectJelly.description>Gelatina conservata e usata come cibo da insetti giganti. È morbida, calorica e soddisfa il bisogno di svago di chi la consuma. Grazie alle sue proprietà biologiche uniche, può nutrire quasi ogni creatura e non marcisce mai.\n\nStranamente, la sua consistenza e il suo equilibrio di nutrienti ne fanno un cibo ideale per i neonati.</InsectJelly.description>
   
   <!-- EN: milk -->
   <Milk.label>latte</Milk.label>
   <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
-  <Milk.description>Latte di un animale.</Milk.description>
+  <Milk.description>Latte di un animale.\n\nIl latte può essere dato ai neonati umani.</Milk.description>
   
   <!-- EN: skull -->
   <Skull.label>cranio</Skull.label>

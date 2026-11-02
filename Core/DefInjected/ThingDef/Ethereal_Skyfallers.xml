@@ -20,7 +20,7 @@
   <FlyerLeaving.label>creatura volante in partenza</FlyerLeaving.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteCraterIncoming.label>cratere meteorico (in arrivo)</MeteoriteCraterIncoming.label>
+  <MeteoriteCraterIncoming.label>meteorite (in arrivo)</MeteoriteCraterIncoming.label>
   
   <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>meteorite (in arrivo)</MeteoriteIncoming.label>
@@ -29,7 +29,7 @@
   <ShipChunkIncoming.label>rottame di astronave (in arrivo)</ShipChunkIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming_SmallExplosion.label>piccola esplosione (in arrivo)</ShipChunkIncoming_SmallExplosion.label>
+  <ShipChunkIncoming_SmallExplosion.label>rottame di astronave (in arrivo)</ShipChunkIncoming_SmallExplosion.label>
   
   <!-- EN: shuttle (crashing) -->
   <ShuttleCrashing.label>navetta in caduta</ShuttleCrashing.label>

@@ -9,7 +9,7 @@
   <!-- EN: autodoor -->
   <Autodoor.label>porta automatica</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>Separa stanze. L'automatismo permette alle persone di attraversare la porta senza essere rallentati.</Autodoor.description>
+  <Autodoor.description>Separa stanze. L'automatismo permette alle persone di attraversare la porta senza essere rallentate.</Autodoor.description>
   
   <!-- EN: column -->
   <Column.label>colonna</Column.label>
@@ -39,6 +39,6 @@
   <!-- EN: wall -->
   <Wall.label>muro</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>Un muro impenetrabile. Capace di sostenere una copertura.</Wall.description>
+  <Wall.description>Un muro invalicabile. Capace di sostenere un tetto.</Wall.description>
   
 </LanguageData>

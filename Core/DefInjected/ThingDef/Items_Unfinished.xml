@@ -16,7 +16,7 @@
   <UnfinishedApparel.description>Un pezzo incompiuto di un abito.</UnfinishedApparel.description>
   
   <!-- EN: unfinished simple armor -->
-  <UnfinishedArmor.label>armatura incompleta</UnfinishedArmor.label>
+  <UnfinishedArmor.label>armatura semplice incompleta</UnfinishedArmor.label>
   <!-- EN: An unfinished piece of simple armor. -->
   <UnfinishedArmor.description>Un pezzo incompiuto di un'armatura.</UnfinishedArmor.description>
   
@@ -51,14 +51,14 @@
   <UnfinishedMask.description>Una maschera incompiuta.</UnfinishedMask.description>
   
   <!-- EN: unfinished metal armor -->
-  <UnfinishedMetallicTechArmor.label>armatura incompleta</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>armatura metallica incompleta</UnfinishedMetallicTechArmor.label>
   <!-- EN: An unfinished piece of metal armor. -->
   <UnfinishedMetallicTechArmor.description>Un pezzo incompiuto di un'armatura metallica.</UnfinishedMetallicTechArmor.description>
   
   <!-- EN: unfinished pack -->
-  <UnfinishedPack.label>pacco incompleto</UnfinishedPack.label>
+  <UnfinishedPack.label>zaino incompleto</UnfinishedPack.label>
   <!-- EN: An unfinished piece of a pack. -->
-  <UnfinishedPack.description>Un pezzo incompiuto di un pacco.</UnfinishedPack.description>
+  <UnfinishedPack.description>Un pezzo incompiuto di uno zaino.</UnfinishedPack.description>
   
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>scultura incompleta</UnfinishedSculpture.label>
@@ -66,7 +66,7 @@
   <UnfinishedSculpture.description>Una scultura incompiuta.</UnfinishedSculpture.description>
   
   <!-- EN: unfinished advanced armor -->
-  <UnfinishedTechArmor.label>armatura incompleta</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>armatura avanzata incompleta</UnfinishedTechArmor.label>
   <!-- EN: An unfinished piece of high-tech armor. -->
   <UnfinishedTechArmor.description>Un pezzo incompiuto di un'armatura high-tech.</UnfinishedTechArmor.description>
   

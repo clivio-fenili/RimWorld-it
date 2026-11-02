@@ -42,7 +42,7 @@
   <MealNutrientPaste.description>Una miscela sintetica di proteine, carboidrati, vitamine, amminoacidi e minerali. Tutto ciò di cui il corpo ha bisogno ed assolutamente disgustante.</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>semplice pasto</MealSimple.label>
+  <MealSimple.label>pasto semplice</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
   <MealSimple.description>Un semplice pasto cucinato rapidamente da un ingrediente principale.</MealSimple.description>
   

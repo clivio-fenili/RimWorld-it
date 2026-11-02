@@ -4,7 +4,7 @@
   <!-- EN: campfire -->
   <Campfire.label>falò</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>Cuoce i pasti e produce calore e si consuma dopo qualche giorno. Come tutte le fonti di calore, deve essere posizionata all'interno così che possa riscaldare uno spazio chiuso. Rialimentabile.</Campfire.description>
+  <Campfire.description>Cuoce i pasti, produce calore e si consuma dopo qualche giorno. Come tutte le fonti di calore, deve essere posizionato all'interno così che possa riscaldare uno spazio chiuso. Rialimentabile.</Campfire.description>
   
   <!-- EN: cooler -->
   <Cooler.label>refrigeratore</Cooler.label>

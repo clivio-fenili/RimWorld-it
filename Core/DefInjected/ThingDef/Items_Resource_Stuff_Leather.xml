@@ -44,7 +44,7 @@
   <!-- EN: guinea pig fur -->
   <Leather_GuineaPig.label>pelliccia di porcellino d'India</Leather_GuineaPig.label>
   <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
-  <Leather_GuineaPig.description>Fogli di pelliccia di porcellino d'India. Sono delicati, ma lussuosi</Leather_GuineaPig.description>
+  <Leather_GuineaPig.description>Fogli di pelliccia di porcellino d'India. Sono delicati, ma lussuosi.</Leather_GuineaPig.description>
   
   <!-- EN: heavy fur -->
   <Leather_Heavy.label>pelliccia pesante</Leather_Heavy.label>
@@ -99,6 +99,6 @@
   <!-- EN: wolfskin -->
   <Leather_Wolf.label>pelle di lupo</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>Una soffice pelliccia recuperata da un lupo. E' difficile da perforare ed isola bene dal freddo.</Leather_Wolf.description>
+  <Leather_Wolf.description>Una soffice pelliccia recuperata da una creatura simile al lupo. E' difficile da perforare ed isola bene dal freddo.</Leather_Wolf.description>
   
 </LanguageData>

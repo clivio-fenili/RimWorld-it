@@ -65,7 +65,7 @@
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>lana di alpaca</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
-  <WoolAlpaca.description>La lana straordinariamente morbida di un alpaca. È molto calda.</WoolAlpaca.description>
+  <WoolAlpaca.description>La lana straordinariamente morbida di un alpaca. È calda, protegge bene dal caldo ed è molto pregiata.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
   <WoolBison.label>lana di bisonte</WoolBison.label>
@@ -75,7 +75,7 @@
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>lana di megabradipo</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>Anche se piuttosto grezza, le lunghe fibre rendono la lana di megabradipo molto resistente. È straordinariamente calda.</WoolMegasloth.description>
+  <WoolMegasloth.description>Anche se piuttosto grezza, la lana di megabradipo è molto resistente grazie alle sue lunghe fibre. È straordinariamente calda.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>lana di muffalo</WoolMuffalo.label>

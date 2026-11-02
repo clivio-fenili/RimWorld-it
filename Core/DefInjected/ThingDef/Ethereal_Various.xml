@@ -29,7 +29,7 @@
   <TriggerContainerEmptied.label>contenitore di innesco svuotato</TriggerContainerEmptied.label>
   
   <!-- EN: trigger unfogged -->
-  <TriggerUnfogged.label>innesco fallito</TriggerUnfogged.label>
+  <TriggerUnfogged.label>innesco alla scoperta</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
