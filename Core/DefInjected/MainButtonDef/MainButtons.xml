@@ -24,7 +24,7 @@
   <!-- EN: history -->
   <History.label>storia</History.label>
   <!-- EN: Review historical records. -->
-  <History.description>Visualizza i dati storici</History.description>
+  <History.description>Visualizza i dati storici.</History.description>
   
   <!-- EN: inspect -->
   <Inspect.label>ispeziona</Inspect.label>
@@ -47,7 +47,7 @@
   <!-- EN: schedule -->
   <Schedule.label>programma le attività</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Schedule.description>Programmare le attività dei coloni in determinate ore del giorno e impostare le aree consentite.</Schedule.description>
+  <Schedule.description>Programma le attività dei coloni in determinate ore del giorno e imposta le aree consentite.</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>fauna</Wildlife.label>
@@ -62,6 +62,6 @@
   <!-- EN: world -->
   <World.label>mondo</World.label>
   <!-- EN: Examine the world map, form, and manage caravans. -->
-  <World.description>Esamina la mappa del mondo e gestisce carovane.</World.description>
+  <World.description>Esamina la mappa del mondo, forma e gestisce le carovane.</World.description>
   
 </LanguageData>

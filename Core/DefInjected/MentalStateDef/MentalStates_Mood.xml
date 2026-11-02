@@ -50,9 +50,9 @@
   <Binging_Food.recoveryMessage>{0} ha cessato di ingozzarsi di cibo.</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
-  <CorpseObsession.label>necrofilia</CorpseObsession.label>
+  <CorpseObsession.label>ossessione per i cadaveri</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
-  <CorpseObsession.baseInspectLine>Stato mentale: Necrofilia</CorpseObsession.baseInspectLine>
+  <CorpseObsession.baseInspectLine>Stato mentale: Ossessione per i cadaveri</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
   <CorpseObsession.beginLetter>{0} è partit{PAWN_gender ? o:a} di testa ed ha iniziato ad essere ossessionat{PAWN_gender ? o:a} dai cadaveri.\n\n[PAWN_pronoun] sta per disseppellire un cadavere e portarlo in mostra davanti a tutti.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
@@ -72,7 +72,7 @@
   <!-- EN: Mental state: Given up and leaving -->
   <GiveUpExit.baseInspectLine>Stato mentale: Mollare e andarsene</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>{0} ha mollato questa comunità.\n\n[PAWN_pronoun] ha deciso di andarsene e cominciare una vita migliore da un'altra parte. Puoi provare ad arrestarl{PAWN_gender ? o:a} quando andrà via. Comunque, un giorno potresti rivederl{PAWN_gender ? o:a} di nuovo.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>{0} ha mollato questa comunità.\n\n[PAWN_pronoun] ha deciso di andarsene e cominciare una vita migliore da un'altra parte. Puoi provare ad arrestarl{PAWN_gender ? o:a} quando andrà via. Altrimenti, un giorno potresti rivederl{PAWN_gender ? o:a}.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
   <GiveUpExit.beginLetterLabel>rinunciato</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
@@ -90,11 +90,11 @@
   <!-- EN: inducing prisoner to escape -->
   <Jailbreaker.label>indurre prigionieri alla fuga</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
-  <Jailbreaker.baseInspectLine>Stato mentale: Evaso</Jailbreaker.baseInspectLine>
+  <Jailbreaker.baseInspectLine>Stato mentale: Istigatore di evasioni</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
   <Jailbreaker.beginLetter>{0} ha avuto un crollo mentale e sta per indurre i prigionieri a fuggire.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
-  <Jailbreaker.beginLetterLabel>evaso</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetterLabel>istigatore di evasioni</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
   <Jailbreaker.recoveryMessage>{0} non sta più inducendo i prigionieri a fuggire.</Jailbreaker.recoveryMessage>
   
@@ -103,7 +103,7 @@
   <!-- EN: Mental state: Murderous rage -->
   <MurderousRage.baseInspectLine>Stato mentale: Rabbia omicida</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>{0} ha deviato verso una rabbia omicida.\n\n[PAWN_pronoun] ha deciso di uccidere {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>{0} è in preda ad una rabbia omicida.\n\n[PAWN_pronoun] ha deciso di uccidere {1}.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
   <MurderousRage.recoveryMessage>{0} non è più in preda ad una rabbia omicida.</MurderousRage.recoveryMessage>
   
@@ -112,7 +112,7 @@
   <!-- EN: Mental state: Sadistic rage -->
   <SadisticRage.baseInspectLine>Stato mentale: Rabbia sadica</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>{0} ha deviato verso una rabbia sadica.\n\n[PAWN_pronoun] sta per sfogare la sua collera sui prigionieri.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>{0} è in preda ad una rabbia sadica.\n\n[PAWN_pronoun] sta per sfogare la sua collera sui prigionieri.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
   <SadisticRage.recoveryMessage>{0} non è più in preda ad una rabbia sadica.</SadisticRage.recoveryMessage>
   
@@ -139,7 +139,7 @@
   <!-- EN: Mental state: Insulting spree against {0} -->
   <TargetedInsultingSpree.baseInspectLine>Stato mentale: Insulto compulsivo verso {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} ha riversato la sua rabbia verso {1}.\n\n[PAWN_pronoun] seguirà {1}, urlando insulti.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} ha rivolto la sua rabbia contro {1}.\n\n[PAWN_pronoun] seguirà {1}, urlando insulti.</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
   <TargetedTantrum.label>scatto d'ira</TargetedTantrum.label>

@@ -14,7 +14,7 @@
   <Capture.reportString>cattura TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnDrafted.reportString>trasporta TargetA</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>trasporta TargetA.</CarryDownedPawnDrafted.reportString>
   
   <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>trasporta TargetA.</CarryDownedPawnToExit.reportString>
@@ -23,10 +23,10 @@
   <CarryDownedPawnToPortal.reportString>trasporta TargetA.</CarryDownedPawnToPortal.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>trasporta TargetA a bara criptosonno.</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>trasporta TargetA alla bara criptosonno.</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>trasporta TargetA a bara criptosonno.</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>trasporta TargetA alla bara criptosonno.</CarryToCryptosleepCasketDrafted.reportString>
   
   <!-- EN: arresting TargetA. -->
   <CarryToPrisonerBedDrafted.reportString>arresta TargetA.</CarryToPrisonerBedDrafted.reportString>
@@ -56,16 +56,16 @@
   <EscortPrisonerToBed.reportString>scorta prigioniero TargetA.</EscortPrisonerToBed.reportString>
   
   <!-- EN: extracting skull from TargetA. -->
-  <ExtractSkull.reportString>estrazione del cranio da TargetA.</ExtractSkull.reportString>
+  <ExtractSkull.reportString>estrae il cranio da TargetA.</ExtractSkull.reportString>
   
   <!-- EN: extracting TargetA. -->
-  <ExtractTree.reportString>estrazione di TargetA.</ExtractTree.reportString>
+  <ExtractTree.reportString>estrae TargetA.</ExtractTree.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>nutre TargetB con TargetA.</FeedPatient.reportString>
   
   <!-- EN: filling in TargetA. -->
-  <FillIn.reportString>sta riempiendo TargetA.</FillIn.reportString>
+  <FillIn.reportString>riempie TargetA.</FillIn.reportString>
   
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>costruisce TargetA.</FinishFrame.reportString>
@@ -74,7 +74,7 @@
   <FixBrokenDownBuilding.reportString>sostituisce componenti rotti presso TargetA.</FixBrokenDownBuilding.reportString>
   
   <!-- EN: executing TargetA. -->
-  <GuiltyColonistExecution.reportString>esecuzione del TargetA.</GuiltyColonistExecution.reportString>
+  <GuiltyColonistExecution.reportString>giustizia TargetA.</GuiltyColonistExecution.reportString>
   
   <!-- EN: hacking TargetA. -->
   <Hack.reportString>hackerare TargetA.</Hack.reportString>
@@ -107,7 +107,7 @@
   <OperateDeepDrill.reportString>esegue perforazioni presso TargetA.</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>scansiona presso TargetA.</OperateScanner.reportString>
+  <OperateScanner.reportString>esegue scansioni presso TargetA.</OperateScanner.reportString>
   
   <!-- EN: painting TargetA. -->
   <PaintBuilding.reportString>dipinge TargetA.</PaintBuilding.reportString>
@@ -152,13 +152,13 @@
   <Repair.reportString>ripara TargetA.</Repair.reportString>
   
   <!-- EN: replanting TargetA. -->
-  <Replant.reportString>ripiantando TargetA.</Replant.reportString>
+  <Replant.reportString>ripianta TargetA.</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>salva TargetA.</Rescue.reportString>
   
   <!-- EN: researching. -->
-  <Research.reportString>ricerca.</Research.reportString>
+  <Research.reportString>fa ricerca.</Research.reportString>
   
   <!-- EN: leading TargetA to hitching spot. -->
   <RopeRoamerToHitchingPost.reportString>conduce TargetA al punto di aggancio.</RopeRoamerToHitchingPost.reportString>

@@ -62,10 +62,10 @@
   <Dev_ToggleDevPalette.label>mostra la tavolozza di sviluppo</Dev_ToggleDevPalette.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>mostra modalità dio</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>attiva / disattiva modalità dio</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
-  <MapDolly_Down.label>va giù</MapDolly_Down.label>
+  <MapDolly_Down.label>vai giù</MapDolly_Down.label>
   
   <!-- EN: dolly left -->
   <MapDolly_Left.label>vai a sinistra</MapDolly_Left.label>
@@ -134,10 +134,10 @@
   <PreviousColonist.label>colono precedente</PreviousColonist.label>
   
   <!-- EN: queue order -->
-  <QueueOrder.label>ordine di attesa</QueueOrder.label>
+  <QueueOrder.label>accoda ordine</QueueOrder.label>
   
   <!-- EN: select next in cell -->
-  <SelectNextInCell.label>seleziona cella successiva</SelectNextInCell.label>
+  <SelectNextInCell.label>seleziona il successivo nella cella</SelectNextInCell.label>
   
   <!-- EN: show cell inspector -->
   <ShowCellInspector.label>mostra ispezione celle</ShowCellInspector.label>

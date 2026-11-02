@@ -203,7 +203,7 @@
   <TakeBeerOutOfFermentingBarrel.reportString>imbottiglia birra.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>porta TargetA all'inventario.</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>porta TargetA nell'inventario.</TakeCountToInventory.reportString>
   
   <!-- EN: grabbing TargetA from TargetB. -->
   <TakeFromOtherInventory.reportString>prende TargetA da TargetB.</TakeFromOtherInventory.reportString>
@@ -248,7 +248,7 @@
   <Wait.reportString>aspetta.</Wait.reportString>
   
   <!-- EN: sleeping. -->
-  <Wait_Asleep.reportString>dorme</Wait_Asleep.reportString>
+  <Wait_Asleep.reportString>dorme.</Wait_Asleep.reportString>
   
   <!-- EN: sleeping. -->
   <Wait_AsleepDormancy.reportString>dorme in stato di dormienza.</Wait_AsleepDormancy.reportString>

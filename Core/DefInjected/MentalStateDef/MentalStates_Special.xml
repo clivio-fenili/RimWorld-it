@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: aggression judgement scramble -->
-  <BerserkMechanoid.label>aggressione giudizio strapazzo</BerserkMechanoid.label>
+  <BerserkMechanoid.label>giudizio sull'aggressività stravolto</BerserkMechanoid.label>
   <!-- EN: Aggression judgment scrambled -->
   <BerserkMechanoid.baseInspectLine>Giudizio sull'aggressività stravolto</BerserkMechanoid.baseInspectLine>
   
@@ -41,9 +41,9 @@
   <PanicFlee.recoveryMessage>{0} non fugge più in preda al panico.</PanicFlee.recoveryMessage>
   
   <!-- EN: roaming -->
-  <Roaming.label>Vagabondo</Roaming.label>
+  <Roaming.label>vagabondaggio</Roaming.label>
   <!-- EN: Mental state: Roaming -->
-  <Roaming.baseInspectLine>Stato mentale: Vagabondo</Roaming.baseInspectLine>
+  <Roaming.baseInspectLine>Stato mentale: Vagabondaggio</Roaming.baseInspectLine>
   
   <!-- EN: social fighting -->
   <SocialFighting.label>rissa</SocialFighting.label>
