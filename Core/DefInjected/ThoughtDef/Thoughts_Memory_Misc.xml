@@ -70,7 +70,7 @@
   <!-- EN: freed from slavery -->
   <FreedFromSlavery.stages.freed_from_slavery.label>liberato dalla schiavitù</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>Sono stato liberato dalla schiavitù. Sono così grato!</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>Sono stat{PAWN_gender ? o:a} liberat{PAWN_gender ? o:a} dalla schiavitù. Sono così grat{PAWN_gender ? o:a}!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
   <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>prelievo organi sanguinoso</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
@@ -129,7 +129,7 @@
   <!-- EN: nuzzled -->
   <Nuzzled.stages.nuzzled-1.label>coccolato</Nuzzled.stages.nuzzled-1.label>
   <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
-  <Nuzzled.stages.nuzzled-1.description>È così dolce, affettuoso e amorevole... Mi sento appagato e rinfrancato.</Nuzzled.stages.nuzzled-1.description>
+  <Nuzzled.stages.nuzzled-1.description>È così dolce, affettuoso e amorevole... Mi sento appagat{PAWN_gender ? o:a} e rinfrancat{PAWN_gender ? o:a}.</Nuzzled.stages.nuzzled-1.description>
   
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>notato cadavere</ObservedLayingCorpse.stages.observed_corpse.label>
@@ -164,7 +164,7 @@
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>salvato</Rescued.stages.rescued.label>
   <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
-  <Rescued.stages.rescued.description>Sono stato salvato! Ho quasi pensato che fosse finita per me là dietro. Sono così grat{PAWN_gender ? o:a}.</Rescued.stages.rescued.description>
+  <Rescued.stages.rescued.description>Sono stat{PAWN_gender ? o:a} salvat{PAWN_gender ? o:a}! Per un momento ho pensato che fosse finita per me. Sono così grat{PAWN_gender ? o:a}.</Rescued.stages.rescued.description>
   
   <!-- EN: rescued {0} -->
   <RescuedRelative.stages.rescued.label>salvato {0}</RescuedRelative.stages.rescued.label>
@@ -174,7 +174,7 @@
   <!-- EN: disturbed sleep -->
   <SleepDisturbed.stages.disturbed_sleep.label>sonno disturbato</SleepDisturbed.stages.disturbed_sleep.label>
   <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
-  <SleepDisturbed.stages.disturbed_sleep.description>Sono stato disturbat{PAWN_gender ? o:a} nel sonno da persone che si muovevano vicino. Una stanza privata risolverebbe tutto questo.</SleepDisturbed.stages.disturbed_sleep.description>
+  <SleepDisturbed.stages.disturbed_sleep.description>Sono stat{PAWN_gender ? o:a} disturbat{PAWN_gender ? o:a} nel sonno da persone che si muovevano vicino. Una stanza privata risolverebbe tutto questo.</SleepDisturbed.stages.disturbed_sleep.description>
   
   <!-- EN: slept in the cold -->
   <SleptInCold.stages.slept_in_the_cold.label>dormito al freddo</SleptInCold.stages.slept_in_the_cold.label>
@@ -199,7 +199,7 @@
   <!-- EN: soaking wet -->
   <SoakingWet.stages.soaking_wet.label>bagnato fradicio</SoakingWet.stages.soaking_wet.label>
   <!-- EN: I'm soaking wet. -->
-  <SoakingWet.stages.soaking_wet.description>Sono bagnato fradicio.</SoakingWet.stages.soaking_wet.description>
+  <SoakingWet.stages.soaking_wet.description>Sono bagnat{PAWN_gender ? o:a} fradici{PAWN_gender ? o:a}.</SoakingWet.stages.soaking_wet.description>
   
   <!-- EN: eager to travel -->
   <TravelAnticipation.stages.eager_to_travel.label>impaziente di partire</TravelAnticipation.stages.eager_to_travel.label>
@@ -218,7 +218,7 @@
   <!-- EN: witnessed ally's death -->
   <WitnessedDeathAlly.stages.witnessed_allys_death.label>assistito alla morte di un alleato</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Ho visto morire uno dei miei. Un attimo prima era vivo, quello dopo non più.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Ho visto morire uno dei miei. Un attimo prima era in vita, quello dopo non più.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   
   <!-- EN: witnessed death with bloodlust -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>assistito a morte sanguinosa</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>

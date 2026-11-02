@@ -27,9 +27,9 @@
   <MyBrotherLost.stages.my_brother_lost.description>Mio fratello si è perso. Spero che un giorno tornerà da noi.</MyBrotherLost.stages.my_brother_lost.description>
   
   <!-- EN: my cousin {0} lost -->
-  <MyCousinLost.stages.my_cousin_lost.label>mi{PAWN_gender ? o : a} cugin{PAWN_gender ? o : a} {0} pers{PAWN_gender ? o : a}</MyCousinLost.stages.my_cousin_lost.label>
+  <MyCousinLost.stages.my_cousin_lost.label>mi{1_gender ? o : a} cugin{1_gender ? o : a} {0} pers{1_gender ? o : a}</MyCousinLost.stages.my_cousin_lost.label>
   <!-- EN: My cousin has gone lost. -->
-  <MyCousinLost.stages.my_cousin_lost.description>{PAWN_gender ? Il : La} mi{PAWN_gender ? o : a} cugin{PAWN_gender ? o : a} si è pers{PAWN_gender ? o : a}.</MyCousinLost.stages.my_cousin_lost.description>
+  <MyCousinLost.stages.my_cousin_lost.description>{OTHERPAWN_gender ? Il : La} mi{OTHERPAWN_gender ? o : a} cugin{OTHERPAWN_gender ? o : a} si è pers{OTHERPAWN_gender ? o : a}.</MyCousinLost.stages.my_cousin_lost.description>
   
   <!-- EN: my daughter {0} lost -->
   <MyDaughterLost.stages.my_daughter_lost.label>mia figlia {0} persa</MyDaughterLost.stages.my_daughter_lost.label>
@@ -52,19 +52,19 @@
   <MyFianceLost.stages.my_fiance_lost.description>Mio fidanzato si è perso. Spero che un giorno tornerà da noi.</MyFianceLost.stages.my_fiance_lost.description>
   
   <!-- EN: my grandchild {0} lost -->
-  <MyGrandchildLost.stages.my_grandchild_lost.label>mi{PAWN_gender ? o : a} nipote {0} pers{PAWN_gender ? o : a}</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <MyGrandchildLost.stages.my_grandchild_lost.label>mi{1_gender ? o : a} nipote {0} pers{1_gender ? o : a}</MyGrandchildLost.stages.my_grandchild_lost.label>
   <!-- EN: My grandchild has gone lost. I hope they will get back to us someday. -->
-  <MyGrandchildLost.stages.my_grandchild_lost.description>{PAWN_gender ? Il : La} mi{PAWN_gender ? o : a} nipote si è pers{PAWN_gender ? o : a}. Spero che un giorno tornerà da noi.</MyGrandchildLost.stages.my_grandchild_lost.description>
+  <MyGrandchildLost.stages.my_grandchild_lost.description>{OTHERPAWN_gender ? Il : La} mi{OTHERPAWN_gender ? o : a} nipote si è pers{OTHERPAWN_gender ? o : a}. Spero che un giorno tornerà da noi.</MyGrandchildLost.stages.my_grandchild_lost.description>
   
   <!-- EN: my grandparent {0} lost -->
-  <MyGrandparentLost.stages.my_grandparent_lost.label>mi{PAWN_gender ? o : a} nonn{PAWN_gender ? o : a} {0} pers{PAWN_gender ? o : a}</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <MyGrandparentLost.stages.my_grandparent_lost.label>mi{1_gender ? o : a} nonn{1_gender ? o : a} {0} pers{1_gender ? o : a}</MyGrandparentLost.stages.my_grandparent_lost.label>
   <!-- EN: My grandparent has gone lost. -->
-  <MyGrandparentLost.stages.my_grandparent_lost.description>{PAWN_gender ? Il : La} mi{PAWN_gender ? o : a} nonn{PAWN_gender ? o : a} si è pers{PAWN_gender ? o : a}.</MyGrandparentLost.stages.my_grandparent_lost.description>
+  <MyGrandparentLost.stages.my_grandparent_lost.description>{OTHERPAWN_gender ? Il : La} mi{OTHERPAWN_gender ? o : a} nonn{OTHERPAWN_gender ? o : a} si è pers{OTHERPAWN_gender ? o : a}.</MyGrandparentLost.stages.my_grandparent_lost.description>
   
   <!-- EN: my half-sibling {0} lost -->
-  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>mi{PAWN_gender ? o : a} {PAWN_gender ? fratellastro : sorellastra} {0} pers{PAWN_gender ? o : a}</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>mi{1_gender ? o : a} {1_gender ? fratellastro : sorellastra} {0} pers{1_gender ? o : a}</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
   <!-- EN: My half-sibling has gone lost. -->
-  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>{PAWN_gender ? Il : La} mi{PAWN_gender ? o : a} {PAWN_gender ? fratellastro : sorellastra} si è pers{PAWN_gender ? o : a}.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>{OTHERPAWN_gender ? Il : La} mi{OTHERPAWN_gender ? o : a} {OTHERPAWN_gender ? fratellastro : sorellastra} si è pers{OTHERPAWN_gender ? o : a}.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
   
   <!-- EN: my husband {0} lost -->
   <MyHusbandLost.stages.my_husband_lost.label>mio marito {0} perso</MyHusbandLost.stages.my_husband_lost.label>
@@ -72,14 +72,14 @@
   <MyHusbandLost.stages.my_husband_lost.description>Mio marito si è perso. Spero che un giorno tornerà da noi.</MyHusbandLost.stages.my_husband_lost.description>
   
   <!-- EN: my kin {0} lost -->
-  <MyKinLost.stages.my_kin_lost.label>mio parente {0} perso</MyKinLost.stages.my_kin_lost.label>
+  <MyKinLost.stages.my_kin_lost.label>{1_gender ? mio : mia} parente {0} pers{1_gender ? o : a}</MyKinLost.stages.my_kin_lost.label>
   <!-- EN: My kin has gone lost. -->
-  <MyKinLost.stages.my_kin_lost.description>Un mio parente si è perso.</MyKinLost.stages.my_kin_lost.description>
+  <MyKinLost.stages.my_kin_lost.description>{OTHERPAWN_gender ? Un mio parente si è perso : Una mia parente si è persa}.</MyKinLost.stages.my_kin_lost.description>
   
   <!-- EN: my lover {0} lost -->
-  <MyLoverLost.stages.my_lover_lost.label>mi{PAWN_gender ? o : a} amat{PAWN_gender ? o : a} {0} pers{PAWN_gender ? o : a}</MyLoverLost.stages.my_lover_lost.label>
+  <MyLoverLost.stages.my_lover_lost.label>mi{1_gender ? o : a} amat{1_gender ? o : a} {0} pers{1_gender ? o : a}</MyLoverLost.stages.my_lover_lost.label>
   <!-- EN: My lover has gone lost. I hope he will get back to us someday. -->
-  <MyLoverLost.stages.my_lover_lost.description>{PAWN_gender ? Il : La} mi{PAWN_gender ? o : a} amat{PAWN_gender ? o : a} si è pers{PAWN_gender ? o : a}. Spero che un giorno tornerà da noi.</MyLoverLost.stages.my_lover_lost.description>
+  <MyLoverLost.stages.my_lover_lost.description>{OTHERPAWN_gender ? Il : La} mi{OTHERPAWN_gender ? o : a} amat{OTHERPAWN_gender ? o : a} si è pers{OTHERPAWN_gender ? o : a}. Spero che un giorno tornerà da noi.</MyLoverLost.stages.my_lover_lost.description>
   
   <!-- EN: my mother {0} lost -->
   <MyMotherLost.stages.my_mother_lost.label>mia madre {0} persa</MyMotherLost.stages.my_mother_lost.label>
@@ -117,12 +117,12 @@
   <MyWifeLost.stages.my_wife_lost.description>Mia moglie si è persa. Spero che un giorno tornerà da noi.</MyWifeLost.stages.my_wife_lost.description>
   
   <!-- EN: my rival {0} lost -->
-  <PawnWithBadOpinionLost.stages.my_rival_lost.label>mio rivale {0} perso</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>{1_gender ? mio : mia} rivale {0} pers{1_gender ? o : a}</PawnWithBadOpinionLost.stages.my_rival_lost.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionLost.stages.my_rival_lost.description>Gli sta bene. Almeno c'è un po' di giustizia in questo mondo.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>{OTHERPAWN_gender ? Gli : Le} sta bene. Almeno c'è un po' di giustizia in questo mondo.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
   
   <!-- EN: my friend {0} lost -->
-  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>mio amico {0} perso</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>{1_gender ? mio amico : mia amica} {0} pers{1_gender ? o : a}</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
   <!-- EN: Such a wonderful person, lost. The universe gets darker every day. -->
   <PawnWithGoodOpinionLost.stages.my_friend_lost.description>Una persona così meravigliosa, persa. L'universo diventa ogni giorno più oscuro.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
   

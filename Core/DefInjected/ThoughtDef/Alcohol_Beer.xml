@@ -4,7 +4,7 @@
   <!-- EN: alcohol withdrawal -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.label>astinenza da alcol</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
   <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Sono frastornato. Mi fa schifo tutto. Continuo a pensare a bere.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Ho i tremori. Tutto mi fa saltare i nervi. Continuo a pensare a bere.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
   
   <!-- EN: mild hangover -->
   <Hungover.stages.mild_hangover.label>sbornia leggera</Hungover.stages.mild_hangover.label>
@@ -17,7 +17,7 @@
   <!-- EN: pounding hangover -->
   <Hungover.stages.pounding_hangover.label>sbornia martellante</Hungover.stages.pounding_hangover.label>
   <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
-  <Hungover.stages.pounding_hangover.description>Mi sento come se un branco di oche starnazzasse nel mio cranio.</Hungover.stages.pounding_hangover.description>
+  <Hungover.stages.pounding_hangover.description>Mi sento come se uno stormo di oche mi beccasse il cranio.</Hungover.stages.pounding_hangover.description>
   
   <!-- EN: alcohol warmth -->
   <Inebriated.stages.alcohol_warmth.label>ebbrezza</Inebriated.stages.alcohol_warmth.label>

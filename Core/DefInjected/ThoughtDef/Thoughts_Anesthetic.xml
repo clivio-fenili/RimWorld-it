@@ -4,6 +4,6 @@
   <!-- EN: anesthetic wooziness -->
   <AnestheticHigh.stages.anesthetic_wooziness.label>stordimento anestetico</AnestheticHigh.stages.anesthetic_wooziness.label>
   <!-- EN: I feel so heavy... and so relaxed... -->
-  <AnestheticHigh.stages.anesthetic_wooziness.description>Mi sento così pesante ... e così rilassato ...</AnestheticHigh.stages.anesthetic_wooziness.description>
+  <AnestheticHigh.stages.anesthetic_wooziness.description>Mi sento così pesante... e così rilassat{PAWN_gender ? o:a}...</AnestheticHigh.stages.anesthetic_wooziness.description>
   
 </LanguageData>

@@ -12,7 +12,7 @@
   <!-- EN: moderate expectations -->
   <Expectations.stages.moderate_expectations.label>aspettative moderate</Expectations.stages.moderate_expectations.label>
   <!-- EN: I can't expect to be totally pampered. -->
-  <Expectations.stages.moderate_expectations.description>Non posso aspettarmi di essere totalmente coccolato.</Expectations.stages.moderate_expectations.description>
+  <Expectations.stages.moderate_expectations.description>Non posso aspettarmi di essere totalmente coccolat{PAWN_gender ? o:a}.</Expectations.stages.moderate_expectations.description>
   <!-- EN: low expectations -->
   <Expectations.stages.low_expectations.label>aspettative basse</Expectations.stages.low_expectations.label>
   <!-- EN: I can't expect great comforts. -->

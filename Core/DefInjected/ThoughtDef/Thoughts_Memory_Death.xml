@@ -26,7 +26,7 @@
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>prelievo organi da colono</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
-  <KnowColonistExecuted.stages.colonist_organharvested.description>Un colono è morto perché qualcuno ha prelevato parti del corpo da esso. È orribile.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>Un colono è morto perché qualcuno gli ha prelevato parti del corpo. È orribile.</KnowColonistExecuted.stages.colonist_organharvested.description>
   <!-- EN: colonist ripscanned -->
   <KnowColonistExecuted.stages.colonist_ripscanned.label>colono sottoposto a ripscanner</KnowColonistExecuted.stages.colonist_ripscanned.label>
   <!-- EN: A colonist died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
@@ -47,7 +47,7 @@
   <!-- EN: someone was organ-murdered -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>uccisione di qualcuno per prelievo organi</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.description>Un prigioniero o un ospite è morto perché la colonia ha prelevato parti del corpo da esso. È orribile.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>Un prigioniero o un ospite è morto perché la colonia gli ha prelevato parti del corpo. È orribile.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   <!-- EN: someone was ripscanned -->
   <KnowGuestExecuted.stages.someone_was_ripscanned.label>qualcuno sottoposto a ripscanner</KnowGuestExecuted.stages.someone_was_ripscanned.label>
   <!-- EN: A prisoner died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
@@ -56,7 +56,7 @@
   <!-- EN: innocent prisoner died -->
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>prigioniero innocente morto</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
   <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Uno dei nostri prigionieri è morto nonostante fosse innocuo. Dovremmo essere in grado di prenderci cura dei nostri prigionieri. Se li volessimo morti potremmo almeno condurre una regolare esecuzione piuttosto che permettere tali barbarie.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Uno dei nostri prigionieri è morto nonostante fosse innocuo. Dovremmo essere in grado di prenderci cura dei nostri prigionieri. Se li avessimo voluti morti, avremmo almeno potuto giustiziarli in modo regolare, invece di permettere una tale barbarie.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
   
   <!-- EN: my aunt {0} died -->
   <MyAuntDied.stages.my_aunt_died.label>morte di mia zia {0}</MyAuntDied.stages.my_aunt_died.label>
@@ -86,12 +86,12 @@
   <!-- EN: my fiance {0} died -->
   <MyFianceDied.stages.my_fiance_died.label>morte del mio fidanzato {0}</MyFianceDied.stages.my_fiance_died.label>
   <!-- EN: My fiance died. Such a man... my future is gone. -->
-  <MyFianceDied.stages.my_fiance_died.description>Il mio fidanzato è morto. Un uomo così... il mio futuro è andato.</MyFianceDied.stages.my_fiance_died.description>
+  <MyFianceDied.stages.my_fiance_died.description>Il mio fidanzato è morto. Un uomo così... il mio futuro non c'è più.</MyFianceDied.stages.my_fiance_died.description>
   
   <!-- EN: my fiancée {0} died -->
   <MyFianceeDied.stages.my_fiance_died.label>morte della mia fidanzata {0}</MyFianceeDied.stages.my_fiance_died.label>
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
-  <MyFianceeDied.stages.my_fiance_died.description>La mia fidanzata è morta. Una donna così... il mio futuro è andato.</MyFianceeDied.stages.my_fiance_died.description>
+  <MyFianceeDied.stages.my_fiance_died.description>La mia fidanzata è morta. Una donna così... il mio futuro non c'è più.</MyFianceeDied.stages.my_fiance_died.description>
   
   <!-- EN: my grandchild {0} died -->
   <MyGrandchildDied.stages.my_grandchild_died.label>morte di mio(a) nipote {0}</MyGrandchildDied.stages.my_grandchild_died.label>
@@ -111,17 +111,17 @@
   <!-- EN: my husband {0} died -->
   <MyHusbandDied.stages.my_husband_died.label>morte di mio marito {0}</MyHusbandDied.stages.my_husband_died.label>
   <!-- EN: My husband is dead. I am alone. -->
-  <MyHusbandDied.stages.my_husband_died.description>Mio marito è morto. Sono sola.</MyHusbandDied.stages.my_husband_died.description>
+  <MyHusbandDied.stages.my_husband_died.description>Mio marito è morto. Sono sol{PAWN_gender ? o:a}.</MyHusbandDied.stages.my_husband_died.description>
   
   <!-- EN: my kin {0} died -->
-  <MyKinDied.stages.my_kin_died.label>morte del mio parente {0}</MyKinDied.stages.my_kin_died.label>
+  <MyKinDied.stages.my_kin_died.label>morte {1_gender ? del mio : della mia} parente {0}</MyKinDied.stages.my_kin_died.label>
   <!-- EN: My kin died. -->
   <MyKinDied.stages.my_kin_died.description>Il mio parente è morto.</MyKinDied.stages.my_kin_died.description>
   
   <!-- EN: my lover {0} died -->
   <MyLoverDied.stages.my_lover_died.label>morte del mio amore {0}</MyLoverDied.stages.my_lover_died.label>
   <!-- EN: My lover died. I am so alone. -->
-  <MyLoverDied.stages.my_lover_died.description>Il mio amore è morto. Sono così solo(a).</MyLoverDied.stages.my_lover_died.description>
+  <MyLoverDied.stages.my_lover_died.description>Il mio amore è morto. Sono così sol{PAWN_gender ? o:a}.</MyLoverDied.stages.my_lover_died.description>
   
   <!-- EN: my mother {0} died -->
   <MyMotherDied.stages.my_mother_died.label>morte di mia madre {0}</MyMotherDied.stages.my_mother_died.label>
@@ -156,12 +156,12 @@
   <!-- EN: my wife {0} died -->
   <MyWifeDied.stages.my_wife_died.label>morte di mia moglie {0}</MyWifeDied.stages.my_wife_died.label>
   <!-- EN: My wife is dead. I am alone. -->
-  <MyWifeDied.stages.my_wife_died.description>Mia moglie è morta. Sono così solo.</MyWifeDied.stages.my_wife_died.description>
+  <MyWifeDied.stages.my_wife_died.description>Mia moglie è morta. Sono sol{PAWN_gender ? o:a}.</MyWifeDied.stages.my_wife_died.description>
   
   <!-- EN: my rival {0} died -->
   <PawnWithBadOpinionDied.stages.my_rival_died.label>morte {1_gender ? del mio : della mia } rivale {0}</PawnWithBadOpinionDied.stages.my_rival_died.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.description>Gli sta bene. Almeno c'è un po' di giustizia in questo mondo.</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>{OTHERPAWN_gender ? Gli : Le} sta bene. Almeno c'è un po' di giustizia in questo mondo.</PawnWithBadOpinionDied.stages.my_rival_died.description>
   
   <!-- EN: my friend {0} died -->
   <PawnWithGoodOpinionDied.stages.my_friend_died.label>morte {1_gender ? del mio amico : della mia amica } {0}</PawnWithGoodOpinionDied.stages.my_friend_died.label>
