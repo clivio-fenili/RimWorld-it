@@ -19,7 +19,7 @@
   <!-- EN: boomalope -->
   <Boomalope.label>boomalope</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>Progettato per la produzione di sostanze chimiche, il boomalope cresce un grande sacco di sostanze volatili sulla schiena. Anche se è debole e fragile per la sua taglia, gli altri animali lo evitano a causa della potente esplosione che produce alla morte. Può essere munto con molta cautela per ottenere chemfuel.</Boomalope.description>
+  <Boomalope.description>Progettato per la produzione di sostanze chimiche, il boomalope sviluppa sulla schiena una grande sacca di sostanze volatili. Anche se è debole e fragile per la sua taglia, gli altri animali lo evitano a causa della potente esplosione che produce alla morte. Può essere munto con molta cautela per ottenere chemfuel.</Boomalope.description>
   <!-- EN: head -->
   <Boomalope.tools.head.label>testa</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
@@ -152,7 +152,7 @@
   <!-- EN: muffalo -->
   <Muffalo.label>muffalo</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>Un grande erbivoro gregario discendente dai bufali, adattato sia a climi freddi che caldi. Sebbene i muffalo infuriati siano letali, quelli addomesticati sono piuttosto docili e possono essere usati come animali da soma.\n\nNessuno sa esattamente perché siano blu - potrebbe essere un test precoce di modifica genetica che non è mai stato cambiato.</Muffalo.description>
+  <Muffalo.description>Un grande erbivoro gregario discendente dai bufali, adattato sia a climi freddi che caldi. Sebbene i muffalo infuriati siano letali, quelli addomesticati sono piuttosto docili e possono essere usati come animali da soma.\n\nNessuno sa esattamente perché siano blu - potrebbe persino essere l'effetto di uno dei primi esperimenti di modifica genetica, che nessuno ha mai corretto.</Muffalo.description>
   <!-- EN: head -->
   <Muffalo.tools.head.label>testa</Muffalo.tools.head.label>
   <!-- EN: left hoof -->

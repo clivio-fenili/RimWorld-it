@@ -32,7 +32,7 @@
   <GuineaPig.tools.head.label>testa</GuineaPig.tools.head.label>
   
   <!-- EN: husky -->
-  <Husky.label>Husky</Husky.label>
+  <Husky.label>husky</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
   <Husky.description>Un cane grande ed energico con una folta pelliccia per rimanere a suo agio negli ambienti artici.</Husky.description>
   <!-- EN: left claw -->
@@ -47,7 +47,7 @@
   <Husky.tools.head.label>testa</Husky.tools.head.label>
   
   <!-- EN: labrador retriever -->
-  <LabradorRetriever.label>Labrador retriever</LabradorRetriever.label>
+  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
   <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
   <LabradorRetriever.description>Un cane molto versatile, di taglia media. Originariamente allevato per recuperare gli uccelli uccisi durante la caccia, il Labrador è anche un eccellente cane da guardia, compagno di gioco e amico di famiglia.</LabradorRetriever.description>
   <!-- EN: left claw -->
@@ -77,7 +77,7 @@
   <Monkey.tools.head.label>testa</Monkey.tools.head.label>
   
   <!-- EN: yorkshire terrier -->
-  <YorkshireTerrier.label>Yorkshire terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
   <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweigh the cost of feeding it. -->
   <YorkshireTerrier.description>Un cane piccolo e di buon carattere. Originariamente allevato per cacciare i topi, in seguito divenne un animale da spettacolo e da compagnia. Alcuni lo considerano inutile, ma l'aumento dell'umore che dà strofinando il naso può superare il costo di nutrirlo.</YorkshireTerrier.description>
   <!-- EN: left claw -->

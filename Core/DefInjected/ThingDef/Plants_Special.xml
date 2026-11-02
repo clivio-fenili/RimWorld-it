@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: burned stump -->
-  <BurnedTree.label>albero bruciato</BurnedTree.label>
+  <BurnedTree.label>ceppo bruciato</BurnedTree.label>
   <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
-  <BurnedTree.description>Un ceppo bruciato di un albero. È brutto e non produce legno utilizzabile.</BurnedTree.description>
+  <BurnedTree.description>Il ceppo bruciato di un albero. È brutto e produce pochissimo legno utilizzabile.</BurnedTree.description>
   
   <!-- EN: chopped stump -->
   <ChoppedStump.label>ceppo tagliato</ChoppedStump.label>
@@ -22,7 +22,7 @@
   <Plant_Ambrosia.description>Un raro cespuglio selvatico che produce il frutto dell'ambrosia. Il frutto è delizioso e genera un aumento d'umore simile a una droga. L'ambrosia non può essere coltivata, rendendo così i cespugli selvatici molto preziosi.\n\nLa sua rarità, bellezza e pregio spiegano perché fu chiamata ambrosia, come il cibo degli antichi dei greci.</Plant_Ambrosia.description>
   
   <!-- EN: timbershroom -->
-  <Plant_Timbershroom.label>legname</Plant_Timbershroom.label>
+  <Plant_Timbershroom.label>fungo legnoso</Plant_Timbershroom.label>
   <!-- EN: A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance. -->
   <Plant_Timbershroom.description>Un fungo alto e marrone con un lungo gambo. Quando raccolto, produce una sostanza simile al legno.</Plant_Timbershroom.description>
   
@@ -34,6 +34,6 @@
   <!-- EN: smashed stump -->
   <SmashedStump.label>ceppo distrutto</SmashedStump.label>
   <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <SmashedStump.description>I resti di un ceppo distrutto da danni. È brutto. Può essere estratto ma produce poco legno utilizzabile. Se lasciato all'aperto, col tempo si deteriorerà.</SmashedStump.description>
+  <SmashedStump.description>I resti di un albero distrutto da danni. È brutto. Può essere estratto ma produce poco legno utilizzabile. Se lasciato all'aperto, col tempo si deteriorerà.</SmashedStump.description>
   
 </LanguageData>

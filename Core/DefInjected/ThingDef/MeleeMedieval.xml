@@ -4,7 +4,7 @@
   <!-- EN: gladius -->
   <MeleeWeapon_Gladius.label>gladio</MeleeWeapon_Gladius.label>
   <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
-  <MeleeWeapon_Gladius.description>Una spada corta di concezione antica. Buono per pugnalare e tagliare. E' leggero e veloce, cosa che talvolta gli permette di battere armi più grandi e pesanti.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.description>Una spada corta di concezione antica. Buona per pugnalare e tagliare. È leggera e veloce, cosa che talvolta le permette di battere armi più grandi e pesanti.</MeleeWeapon_Gladius.description>
   <!-- EN: handle -->
   <MeleeWeapon_Gladius.tools.handle.label>impugnatura</MeleeWeapon_Gladius.tools.handle.label>
   <!-- EN: point -->

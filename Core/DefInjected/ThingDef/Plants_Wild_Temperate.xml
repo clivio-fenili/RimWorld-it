@@ -14,7 +14,7 @@
   <!-- EN: dandelions -->
   <Plant_Dandelion.label>dente di leone</Plant_Dandelion.label>
   <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
-  <Plant_Dandelion.description>Un piccolo fiore comune che cresce in grandi ammassi. Sebbene sia spesso considerata una pianta infestante, i denti di leone in fiore sono piuttosto belli.</Plant_Dandelion.description>
+  <Plant_Dandelion.description>Un piccolo fiore giallo che cresce in grandi ammassi. Sebbene sia spesso considerato una pianta infestante, i denti di leone in fiore sono piuttosto belli.</Plant_Dandelion.description>
   
   <!-- EN: moss -->
   <Plant_Moss.label>muschio</Plant_Moss.label>
@@ -34,11 +34,11 @@
   <!-- EN: pine tree -->
   <Plant_TreePine.label>pino</Plant_TreePine.label>
   <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
-  <Plant_TreePine.description>Una grande conifera ricoperta di aghi spinosi. Cresce con una particolare forma conica.</Plant_TreePine.description>
+  <Plant_TreePine.description>Una grande conifera ricoperta di pigne spinose. Cresce con una particolare forma conica.</Plant_TreePine.description>
   
   <!-- EN: poplar tree -->
   <Plant_TreePoplar.label>pioppo</Plant_TreePoplar.label>
   <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
-  <Plant_TreePoplar.description>Un albero dal legno tenero che cresce molto velocemente. Sfortunatamente, il suo legno è debole e pertanto fornisce poco materiale utile rispetto ad alberi a legno duro.</Plant_TreePoplar.description>
+  <Plant_TreePoplar.description>Un albero dal legno tenero che cresce molto velocemente. Sfortunatamente, il suo legno è debole e pertanto fornisce meno materiale utile rispetto agli alberi a legno duro.</Plant_TreePoplar.description>
   
 </LanguageData>

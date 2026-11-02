@@ -4,7 +4,7 @@
   <!-- EN: club -->
   <MeleeWeapon_Club.label>clava</MeleeWeapon_Club.label>
   <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
-  <MeleeWeapon_Club.description>Un bastone sagomato, pesante sul fondo, per pestare a morte i nemici. Quest'arma è così antica da essere parte della biologia umana. I biologi evoluzionisti affermano che la principale ragione per cui gli uomini possono piegare i polsi da un lato all'altro (invece che solo avanti e indietro come gli altri primati) è per riuscire a brandire meglio una clava.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.description>Un bastone sagomato, pesante a un'estremità, per pestare a morte i nemici. Quest'arma è così antica da essere parte della biologia umana. I biologi evoluzionisti affermano che una delle ragioni principali per cui gli uomini possono piegare i polsi da un lato all'altro (invece che solo avanti e indietro come gli altri primati) è per riuscire a brandire meglio una clava.</MeleeWeapon_Club.description>
   <!-- EN: handle -->
   <MeleeWeapon_Club.tools.handle.label>manico</MeleeWeapon_Club.tools.handle.label>
   <!-- EN: head -->
@@ -13,7 +13,7 @@
   <!-- EN: ikwa -->
   <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
   <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
-  <MeleeWeapon_Ikwa.description>Una corta lancia collegata ad una lunga punta affilata, concepita per essere spinta dentro agli organi vitali con un rapido movimento.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.description>Un corto manico da lancia con una lunga punta affilata, concepito per essere conficcato negli organi vitali con un rapido affondo.</MeleeWeapon_Ikwa.description>
   <!-- EN: handle -->
   <MeleeWeapon_Ikwa.tools.handle.label>impugnatura</MeleeWeapon_Ikwa.tools.handle.label>
   <!-- EN: head -->
