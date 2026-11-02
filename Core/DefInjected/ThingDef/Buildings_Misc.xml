@@ -9,7 +9,7 @@
   <!-- EN: caravan hitching spot -->
   <CaravanPackingSpot.label>area formazione carovane</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
-  <CaravanPackingSpot.description>Indica un'area per la formazione delle carovane. Posizionala vicino ai tuoi depositi per velocizzare il processo di carico della carovana.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Indica un'area dove legare gli animali e formare le carovane. I coloni legheranno qui gli animali mentre caricano una carovana. Puoi usarla anche durante gli incontri lontano da casa, per evitare che gli animali si allontanino.</CaravanPackingSpot.description>
   
   <!-- EN: cave exit -->
   <CaveExit.label>uscita dalla caverna</CaveExit.label>
@@ -56,7 +56,7 @@
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>Quando rileva il fuoco, questo dispositivo di sicurezza esplode proiettando una schiuma estinguente in un raggio attorno ad esso. Può essere anche attivato manualmente.</FirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Attivare estintore a schiuma</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>Attiva {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>tomba</Grave.label>
@@ -66,12 +66,12 @@
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>scanner minerario sotterraneo</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>Un radar direzionato al suolo, combinato con un sonar a risonanza magnetica, che ti permette di individuare (ma non identificare) i minerali sepolti in profondità sotto la superficie. Richiede una quantità enorme di elettricità.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Un'unità di rilevamento usata dai ricercatori per cercare risorse sepolte. La probabilità di trovare una risorsa dipende dall'abilità di ricerca dell'operatore. Consuma molta elettricità. Se trovi una risorsa sepolta, dovrai usare le trivelle di profondità per estrarla. Non funziona sotto un tetto.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>scanner minerario a lungo raggio</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>Può essere usato dai ricercatori per individuare uno specifico tipo di minerale sul pianeta. Il tempo che richiede per trovare la risorsa è abbastanza casuale e dipende dall'abilità del ricercatore.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Un'unità di rilevamento laterale usata dai ricercatori per individuare uno specifico tipo di minerale sul pianeta. La probabilità di trovare una risorsa dipende dall'abilità di ricerca dell'operatore. Questo sensore può essere regolato per cercare uno specifico tipo di risorsa. Consuma molta elettricità. Se trovi una risorsa, dovrai metterti in viaggio per raccoglierla.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>area di nozze</MarriageSpot.label>
@@ -86,7 +86,7 @@
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>multianalizzatore</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>Incrementa la velocità di ricerca quando posizionato vicino ad un tavolo da ricerca hi-tech e sblocca nuovi progetti di ricerca. Ogni tavolo da ricerca può usare solo un multianalizzatore.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Incrementa la velocità di ricerca quando posizionato vicino ad un banco da ricerca hi-tech e sblocca nuovi progetti di ricerca. Ogni banco da ricerca può usare solo un multianalizzatore.</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
   <OrbitalTradeBeacon.label>faro orbitale commerciale</OrbitalTradeBeacon.label>
@@ -96,22 +96,22 @@
   <!-- EN: party spot -->
   <PartySpot.label>area di festa</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Indica un'area dove organizzate feste.</PartySpot.description>
+  <PartySpot.description>Indica un'area dove organizzare feste.</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>Cartello recinto</PenMarker.label>
+  <PenMarker.label>cartello del recinto</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>Un palo con un cartello che indica una recinzione per animali. Deve essere posizionato in un'area recintata da cancelli, barricate, muri e porte. Puoi assegnare a ogni cartello un gruppo di animali da accettare e gli addetti porteranno gli animali nella recinzione appropriata.</PenMarker.description>
+  <PenMarker.description>Un palo con un cartello che indica un recinto per animali. Deve essere posizionato in un'area chiusa da recinzioni, barricate, muri e porte. Puoi assegnare a ogni cartello un gruppo di animali da accettare e gli addetti porteranno gli animali nel recinto appropriato.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>lanciacapsule</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>Un porto di rifornimento per il lancio di una capsula di trasporto. I lanciacapsule si possono attivare in gruppo... ma per farlo devono trovarsi uno accanto all'altro.</PodLauncher.description>
+  <PodLauncher.description>Una porta di rifornimento per il lancio di una capsula di trasporto. I lanciacapsule si possono attivare in gruppo... ma per farlo devono trovarsi uno accanto all'altro.</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
   <Sarcophagus.label>sarcofago</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>Un contenitore funerario ornamentale per morti rispettabili.</Sarcophagus.description>
+  <Sarcophagus.description>Un contenitore funerario decorato, per onorare i defunti.</Sarcophagus.description>
   
   <!-- EN: grand stele -->
   <SteleGrand.label>imponente stele</SteleGrand.label>
@@ -126,16 +126,16 @@
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>cassetta attrezzi</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
-  <ToolCabinet.description>Incrementa la velocità di lavoro quando posizionato vicino ad un banco da lavoro. Un banco può usare fino a due cassette attrezzi.</ToolCabinet.description>
+  <ToolCabinet.description>Incrementa la velocità di lavoro quando posizionata vicino ad un banco da lavoro. Un banco può usare fino a due cassette attrezzi.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>capsula di trasporto</TransportPod.label>
   <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>Una capsula di trasporto lanciabile in traiettoria suborbitale capace di trasportare persone, oggetti o animali. Può essere usata per inviare doni, trasportare persone o rifornimenti, attacchi a sorpresa o invio di rinforzi in battaglia.</TransportPod.description>
+  <TransportPod.description>Una capsula di trasporto lanciabile in traiettoria suborbitale capace di trasportare persone, oggetti o animali. Può essere usata per inviare doni, trasportare persone o rifornimenti, sferrare attacchi a sorpresa o inviare rinforzi in battaglia.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>monitor dei parametri vitali</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>Incrementa la qualità del trattamento medico, la probabilità di successo della chirurgia e la velocità di acquisizione dell'immunità quando posizionato accanto ad un letto d'ospedale. Funziona solo con letti d'ospedale... i letti normali non ne traggono vantaggio. Assegnare più di un monitor dei parametri vitali allo stesso letto non non produce effetti.</VitalsMonitor.description>
+  <VitalsMonitor.description>Incrementa la qualità del trattamento medico, la probabilità di successo della chirurgia e la velocità di acquisizione dell'immunità quando posizionato accanto ad un letto d'ospedale. Funziona solo con letti d'ospedale... i letti normali non ne traggono vantaggio. Assegnare più di un monitor dei parametri vitali allo stesso letto non produce effetti.</VitalsMonitor.description>
   
 </LanguageData>

@@ -9,7 +9,7 @@
   <!-- EN: chess table -->
   <ChessTable.label>scacchiera</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
-  <ChessTable.description>L'antico gioco dei re. Per ammazzare qualche ora, anche giocando da soli. Allena le abilità intellettuali.</ChessTable.description>
+  <ChessTable.description>L'antico gioco dei re. Per ammazzare qualche ora, anche giocando da soli. Allena le abilità intellettuali.\n\nPer usare questo edificio servono sedie o sgabelli adiacenti.</ChessTable.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>TV a schermo piatto</FlatscreenTelevision.label>
@@ -19,7 +19,7 @@
   <!-- EN: Game-of-Ur board -->
   <GameOfUrBoard.label>gioco di Ur</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
-  <GameOfUrBoard.description>Risalente al 2500 A.C., questo emozionante quanto esasperante gioco da tavolo può essere giocato da una o due persone. Allena le abilità intellettuali.</GameOfUrBoard.description>
+  <GameOfUrBoard.description>Risalente al 2500 a.C., questo emozionante quanto esasperante gioco da tavolo può essere giocato da una o due persone. Allena le abilità intellettuali.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
   <HoopstoneRing.label>cerchio per ferro di cavallo</HoopstoneRing.label>
@@ -34,12 +34,12 @@
   <!-- EN: megascreen television -->
   <MegascreenTelevision.label>TV megaschermo</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <MegascreenTelevision.description>Un'enorme TV high-tech. Gigantesche immagini interattive escono quasi fuori dallo schermo. Molto divertente. Capta le trasmissioni di antichi satelliti e schede dati onnipresenti.</MegascreenTelevision.description>
+  <MegascreenTelevision.description>Un'enorme TV high-tech. Gigantesche immagini dai colori vivissimi escono quasi fuori dallo schermo. Molto divertente. Capta le trasmissioni di antichi satelliti e schede dati onnipresenti.</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
   <PokerTable.label>tavolo da poker</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
-  <PokerTable.description>Un tavolo studiato per giochi da carte d'azzardo come il poker. Un ottimo modo per mettere alla prova le tue abilità strategiche e un po' di fortuna.</PokerTable.description>
+  <PokerTable.description>Un tavolo studiato per giochi da carte d'azzardo come il poker. Un ottimo modo per mettere alla prova le tue abilità strategiche e un po' di fortuna.\n\nPer usare questo edificio servono sedie o sgabelli adiacenti.</PokerTable.description>
   
   <!-- EN: telescope -->
   <Telescope.label>telescopio</Telescope.label>

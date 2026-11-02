@@ -42,7 +42,7 @@
   <WatermillGenerator.description>Produce elettricità da un fiume. Deve essere posizionato con la ruota nell'acqua corrente. Se i mulini sono troppo vicini, la turbolenza riduce la produzione di energia.</WatermillGenerator.description>
   
   <!-- EN: waterproof conduit -->
-  <WaterproofConduit.label>cavi elettrici impermeabili</WaterproofConduit.label>
+  <WaterproofConduit.label>cavo elettrico impermeabile</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power through shallow water or mud. -->
   <WaterproofConduit.description>Cavi elettrici isolati per trasportare energia attraverso acque basse o fango.</WaterproofConduit.description>
   

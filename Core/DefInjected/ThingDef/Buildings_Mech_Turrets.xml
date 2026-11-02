@@ -37,6 +37,6 @@
   <!-- EN: auto mortar -->
   <Turret_AutoMortar.label>mortaio automatico</Turret_AutoMortar.label>
   <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
-  <Turret_AutoMortar.description>Un mortaio automatica autoalimentato e autocaricante. Può colpire bersagli a qualsiasi distanza e oltrepassando i muri, ma è abbastanza impreciso.</Turret_AutoMortar.description>
+  <Turret_AutoMortar.description>Un mortaio automatico autoalimentato e autocaricante. Può colpire bersagli a qualsiasi distanza e oltrepassando i muri, ma è abbastanza impreciso.</Turret_AutoMortar.description>
   
 </LanguageData>

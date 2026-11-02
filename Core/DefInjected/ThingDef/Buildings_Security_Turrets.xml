@@ -48,7 +48,7 @@
   <!-- EN: uranium slug cannon -->
   <Gun_TurretSniper.label>cannone a proiettili di uranio</Gun_TurretSniper.label>
   <!-- EN: A self-loading uranium slug cannon designed to attach to a turret. -->
-  <Gun_TurretSniper.description>Un cannone di precisione a caricamento automatico progettato per essere fissato ad una torretta. Preciso a distanza, non è buono nel puntare bersagli vicini.</Gun_TurretSniper.description>
+  <Gun_TurretSniper.description>Un cannone a proiettili di uranio a caricamento automatico progettato per essere fissato ad una torretta.</Gun_TurretSniper.description>
   <!-- EN: uranium slug cannon -->
   <Gun_TurretSniper.verbs.Verb_Shoot.label>cannone a proiettili di uranio</Gun_TurretSniper.verbs.Verb_Shoot.label>
   
@@ -126,7 +126,7 @@
   <!-- EN: An armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
   <Turret_Sniper.description>Una torretta perforante a lungo raggio. I suoi proiettili di uranio estremamente pesanti possono trapassare armature pesanti a grandi distanze, ma richiede nuove ricariche di uranio dopo l'uso. È più accurata a lunghe distanze e non può sparare da vicino. Può esplodere se danneggiata.</Turret_Sniper.description>
   <!-- EN: Uranium slugs -->
-  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Durata canna</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Proiettili di uranio</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until rearm -->
   <Turret_Sniper.comps.CompRefuelable.fuelLabel>Colpi prima della ricarica</Turret_Sniper.comps.CompRefuelable.fuelLabel>
   <!-- EN: No slugs -->
