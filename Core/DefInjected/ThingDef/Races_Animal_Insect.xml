@@ -4,7 +4,7 @@
   <!-- EN: megascarab -->
   <Megascarab.label>megascarabeo</Megascarab.label>
   <!-- EN: A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megascarab.description>Un grande scarabeo geneticamente modificato. Precedentemente casta operaia di un ecosistema artificiale di insettoidi progettato per combattere le invasioni meccanoidi, viene ora visto spesso senza i suoi più letali cugini insetto. In ogni caso, le sue dimensioni e il suo solido carapace lo rendono pericoloso quando attacca. Una creatura eusociale, non si può riprodurre individualmente.</Megascarab.description>
+  <Megascarab.description>Un insetto da guerra geneticamente modificato che somiglia a un enorme scarabeo. Un tempo casta operaia di un ecosistema artificiale di insetti progettato per combattere le invasioni meccanoidi, è meno letale dei suoi cugini più grandi. In ogni caso, le sue dimensioni e il suo solido carapace lo rendono pericoloso quando attacca. Essendo una creatura eusociale, non può riprodursi individualmente.\n\nProgettati per prosperare negli ambienti devastati dai meccanoidi, gli insetti da guerra come questo si muovono più velocemente dopo essere stati esposti a un terreno inquinato.</Megascarab.description>
   <!-- EN: mandibles -->
   <Megascarab.tools.mandibles.label>mandibole</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
@@ -13,7 +13,7 @@
   <!-- EN: megaspider -->
   <Megaspider.label>megaragno</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megaspider.description>Non esattamente un ragno, il megaragno è un insetto gigante geneticamente modificato delle dimensioni di un orso. Modellato per il lavoro ed il combattimento pesante, la sua spessa armatura chitinosa lo rende duro da uccidere, mentre le sue lunghe lame squartatrici lo rendono letale in corpo a corpo. Tuttavia, è piuttosto lento in campo aperto.</Megaspider.description>
+  <Megaspider.description>Non esattamente un ragno, il megaragno è un insetto gigante geneticamente modificato delle dimensioni di un orso. La sua spessa armatura chitinosa lo rende duro da uccidere, mentre le sue lunghe lame squartatrici lo rendono letale in corpo a corpo. Tuttavia, è piuttosto lento in campo aperto.\n\nProgettati per combattere i meccanoidi negli ambienti tossici, gli insetti da guerra come questo si muovono più velocemente dopo essere stati esposti a un terreno inquinato.</Megaspider.description>
   <!-- EN: insect meat -->
   <Megaspider.race.meatLabel>carne di insetto</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
@@ -24,7 +24,7 @@
   <!-- EN: spelopede -->
   <Spelopede.label>spelopede</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Spelopede.description>Un insetto biomodificato di medie dimensioni grande come una pecora. Lo spelopede è la casta media di un nido, occupandosi della maggior parte dei compiti così come del combattimento grazie alle sue chele scavatrici. E' pericoloso in combattimento, ma lento in campo aperto.</Spelopede.description>
+  <Spelopede.description>Un insetto biomodificato di medie dimensioni grande come una pecora. Lo spelopede è la casta media di un nido: si occupa della maggior parte dei compiti e combatte con le sue chele scavatrici. È pericoloso in combattimento, ma lento in campo aperto.\n\nProgettati per prosperare negli ambienti devastati dai meccanoidi, gli insetti da guerra come questo si muovono più velocemente dopo essere stati esposti a un terreno inquinato.</Spelopede.description>
   <!-- EN: head claw -->
   <Spelopede.tools.head_claw.label>chela</Spelopede.tools.head_claw.label>
   <!-- EN: head -->

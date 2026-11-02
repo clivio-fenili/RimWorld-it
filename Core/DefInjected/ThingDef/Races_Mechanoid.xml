@@ -25,7 +25,7 @@
   <!-- EN: lancer -->
   <Mech_Lancer.label>lanciere</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
-  <Mech_Lancer.description>Mechanoidi da combattimento veloci, di dimensioni umane, costruiti per il combattimento a media e lunga distanza. Il loro corpo leggero li rende vulnerabili a distanza ravvicinata, soprattutto nel corpo a corpo. I veterani delle guerre contro i mechanoidi sanno che spesso la cosa più sicura da fare contro un lanciere è caricare.</Mech_Lancer.description>
+  <Mech_Lancer.description>Mechanoidi da combattimento veloci, di dimensioni umane, costruiti per il combattimento a media e lunga distanza. Il loro corpo leggero li rende vulnerabili a distanza ravvicinata, soprattutto nel corpo a corpo.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>pugno sinistro</Mech_Lancer.tools.left_fist.label>
   <!-- EN: fist -->
@@ -42,11 +42,11 @@
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
   <Mech_Pikeman.description>Un goffo meccanoide da combattimento a più gambe, specializzato come piattaforma per armi a lungo raggio. Sebbene sia efficace a distanza, è debole nei combattimenti ravvicinati e nel corpo a corpo.\n\nI veterani delle guerre meccanoidi sanno che spesso il posto più sicuro intorno a un picchiere è stare a contatto con lui.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
-  <Mech_Pikeman.tools.front_left_leg.label>gamba sinistra anteriore</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_left_leg.label>gamba anteriore sinistra</Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: leg -->
   <Mech_Pikeman.tools.front_left_leg.labelNoLocation>gamba</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
-  <Mech_Pikeman.tools.front_right_leg.label>gamba destra anteriore</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.label>gamba anteriore destra</Mech_Pikeman.tools.front_right_leg.label>
   <!-- EN: leg -->
   <Mech_Pikeman.tools.front_right_leg.labelNoLocation>gamba</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
@@ -70,7 +70,7 @@
   <!-- EN: termite -->
   <Mech_Termite.label>termite</Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
-  <Mech_Termite.description>Un meccanoide di medie dimensioni. Le termite sono specializzate nello scavare, nel dissotterrare e nello sfondare strutture difensive. I difensori devono decidere se eliminarle prima che scavino tra le difese o affrontarle dove riemergono.</Mech_Termite.description>
+  <Mech_Termite.description>Un meccanoide di medie dimensioni. Le termiti sono specializzate nello scavare, nel dissotterrare e nello sfondare strutture difensive. I difensori devono decidere se eliminarle prima che scavino tra le difese o affrontarle dove riemergono.</Mech_Termite.description>
   <!-- EN: head -->
   <Mech_Termite.tools.head.label>testa</Mech_Termite.tools.head.label>
   

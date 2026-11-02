@@ -76,7 +76,7 @@
   <!-- EN: chain shotgun -->
   <Gun_ChainShotgun.label>fucile a pompa automatico</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
-  <Gun_ChainShotgun.description>Un fucile a pompa con caricatore completamente automatico. Ha un raggio ancora più corto di un normale fucile a pompa, ma è incredibilmente pericoloso grazie alle sue raffiche di fuoco.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.description>Un fucile a pompa completamente automatico, alimentato a caricatore. Ha un raggio ancora più corto di un normale fucile a pompa, ma è incredibilmente pericoloso grazie alle sue raffiche di fuoco.</Gun_ChainShotgun.description>
   <!-- EN: stock -->
   <Gun_ChainShotgun.tools.stock.label>calcio</Gun_ChainShotgun.tools.stock.label>
   <!-- EN: barrel -->
@@ -162,7 +162,7 @@
   <!-- EN: revolver -->
   <Gun_Revolver.label>revolver</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
-  <Gun_Revolver.description>Un vecchio modello di revolver ad azione doppia. Non è molto potente, ma ha una discreta gittata per essere una pistola ed è rapida da estrarre.</Gun_Revolver.description>
+  <Gun_Revolver.description>Un vecchio modello di revolver ad azione doppia. Non è molto potente, ma ha una discreta gittata per essere una pistola ed è rapido da estrarre.</Gun_Revolver.description>
   <!-- EN: grip -->
   <Gun_Revolver.tools.grip.label>impugnatura</Gun_Revolver.tools.grip.label>
   <!-- EN: barrel -->
@@ -173,7 +173,7 @@
   <!-- EN: smoke launcher -->
   <Gun_SmokeLauncher.label>lanciadardi di fumogeni</Gun_SmokeLauncher.label>
   <!-- EN: A wide-barreled smoke shell launcher. The shell will upon impact release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Gun_SmokeLauncher.description>Un lanciadardi di fumogeni a canna larga. Il proiettile al momento dell'impatto rilascerà una nuvola di fumo, oscurando i colpi in arrivo e impedendo il blocco delle torrette.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.description>Un lanciadardi di fumogeni a canna larga. Il proiettile al momento dell'impatto rilascerà una nuvola di fumo, oscurando i colpi in arrivo e impedendo alle torrette di agganciare il bersaglio.</Gun_SmokeLauncher.description>
   <!-- EN: stock -->
   <Gun_SmokeLauncher.tools.stock.label>calcio</Gun_SmokeLauncher.tools.stock.label>
   <!-- EN: barrel -->

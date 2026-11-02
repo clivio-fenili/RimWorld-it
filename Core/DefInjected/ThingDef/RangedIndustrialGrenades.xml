@@ -27,7 +27,7 @@
   <!-- EN: molotov cocktails -->
   <Weapon_GrenadeMolotov.label>bombe molotov</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
-  <Weapon_GrenadeMolotov.description>Bottiglie di vetro riempite di liquido infiammabile con un pezzo di stoffa accesso infilato nel collo. L'arma preferita dei rivoltosi e dei combattenti disperati da un orlo all'altro della galassia.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.description>Bottiglie di vetro riempite di liquido infiammabile con un pezzo di stoffa acceso infilato nel collo. L'arma preferita dei rivoltosi e dei combattenti disperati da un orlo all'altro della galassia.</Weapon_GrenadeMolotov.description>
   <!-- EN: throw molotov -->
   <Weapon_GrenadeMolotov.verbs.throw_molotov.label>bombe molotov</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   
