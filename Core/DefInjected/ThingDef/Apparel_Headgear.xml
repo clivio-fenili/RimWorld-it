@@ -9,7 +9,7 @@
   <!-- EN: recon helmet -->
   <Apparel_ArmorHelmetRecon.label>elmetto da ricognizione</Apparel_ArmorHelmetRecon.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
-  <Apparel_ArmorHelmetRecon.description>Un elmetto corazzato high-tech con un computer integrato e una placca protettiva in plastacciaio.\n\nArmature come questa sono spesso usate dalle truppe imperiali o dalle forze di polizia di Glitterworld.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetRecon.description>Un elmetto corazzato high-tech con un computer di monitoraggio integrato e una placca protettiva in plastacciaio.\n\nArmature come questa sono spesso usate dalle truppe di esplorazione imperiali o dalle forze di polizia di Glitterworld.</Apparel_ArmorHelmetRecon.description>
   
   <!-- EN: bowler hat -->
   <Apparel_BowlerHat.label>bombetta</Apparel_BowlerHat.label>
@@ -39,7 +39,7 @@
   <!-- EN: psychic foil helmet -->
   <Apparel_PsychicFoilHelmet.label>elmetto di stagnola psichica</Apparel_PsychicFoilHelmet.label>
   <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
-  <Apparel_PsychicFoilHelmet.description>Un sottile elmetto contenente fogli di stagnola psichicamente assorbente finemente avvolti. Riduce l'impatto delle onde psichiche.</Apparel_PsychicFoilHelmet.description>
+  <Apparel_PsychicFoilHelmet.description>Un sottile elmetto contenente fogli di stagnola psichicamente assorbente calibrati con precisione. Riduce l'impatto delle onde psichiche.</Apparel_PsychicFoilHelmet.description>
   
   <!-- EN: simple helmet -->
   <Apparel_SimpleHelmet.label>elmetto semplice</Apparel_SimpleHelmet.label>

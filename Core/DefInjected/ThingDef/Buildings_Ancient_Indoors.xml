@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ancient barrel -->
-  <AncientBarrel.label>botte antica</AncientBarrel.label>
+  <AncientBarrel.label>barile antico</AncientBarrel.label>
   <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
-  <AncientBarrel.description>Un antico barile rotto che sembra contenere rifiuti di qualche tipo. L'unica cosa che contiene ora è una macchia di fango essiccato.</AncientBarrel.description>
+  <AncientBarrel.description>Un antico barile rotto che sembra aver contenuto un tempo rifiuti di qualche tipo. L'unica cosa che contiene ora è una macchia di fango essiccato.</AncientBarrel.description>
   
   <!-- EN: ancient basic recharger -->
   <AncientBasicRecharger.label>antico ricaricatore di base</AncientBasicRecharger.label>
@@ -22,7 +22,7 @@
   <AncientCrate.description>Una cassa antica e rotta. Tutti gli oggetti di valore che una volta conteneva si sono degradati fino a diventare inutilizzabili.</AncientCrate.description>
   
   <!-- EN: ancient display bank -->
-  <AncientDisplayBank.label>antica banca espositiva</AncientDisplayBank.label>
+  <AncientDisplayBank.label>antico banco di schermi</AncientDisplayBank.label>
   <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientDisplayBank.description>Un'antica interfaccia per computer. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientDisplayBank.description>
   
@@ -52,9 +52,9 @@
   <AncientLargeMechGestator.description>Un antico e grande gestatore mech. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientLargeMechGestator.description>
   
   <!-- EN: ancient locker bank -->
-  <AncientLockerBank.label>antica banca di armadietti</AncientLockerBank.label>
+  <AncientLockerBank.label>antica fila di armadietti</AncientLockerBank.label>
   <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
-  <AncientLockerBank.description>Un'antica banca di armadietti arrugginita. Tutti gli armadietti sono stati aperti con la forza e non è stato lasciato nulla di valore.</AncientLockerBank.description>
+  <AncientLockerBank.description>Un'antica fila di armadietti arrugginita. Tutti gli armadietti sono stati aperti con la forza e non è stato lasciato nulla di valore.</AncientLockerBank.description>
   
   <!-- EN: ancient machine -->
   <AncientMachine.label>macchina antica</AncientMachine.label>
@@ -72,7 +72,7 @@
   <AncientMechGestator.description>Un antico gestatore mech. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientMechGestator.description>
   
   <!-- EN: ancient mech vat -->
-  <AncientMechGestatorTank.label>antico vasca gestatore mech</AncientMechGestatorTank.label>
+  <AncientMechGestatorTank.label>antica vasca gestatore mech</AncientMechGestatorTank.label>
   <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
   <AncientMechGestatorTank.description>Un antico dispositivo in grado di formare nuovi mechanoidi e sostenere quelli feriti mentre si rigenerano.</AncientMechGestatorTank.description>
   <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
@@ -86,7 +86,7 @@
   <!-- EN: ancient military crate -->
   <AncientMilitaryCrate.label>antica cassa militare</AncientMilitaryCrate.label>
   <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
-  <AncientMilitaryCrate.description>Un'antica cassa dall'aspetto militare. È stato rotto molto tempo fa e tutti gli oggetti di valore che un tempo conteneva sono stati saccheggiati.</AncientMilitaryCrate.description>
+  <AncientMilitaryCrate.description>Un'antica cassa dall'aspetto militare. È stata rotta molto tempo fa e tutti gli oggetti di valore che un tempo conteneva sono stati saccheggiati.</AncientMilitaryCrate.description>
   
   <!-- EN: ancient operating table -->
   <AncientOperatingTable.label>antico tavolo operatorio</AncientOperatingTable.label>
@@ -121,12 +121,12 @@
   <!-- EN: ancient storage cylinder -->
   <AncientStorageCylinder.label>antico cilindro di stoccaggio</AncientStorageCylinder.label>
   <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientStorageCylinder.description>Un antico dispositivo che sembra che un tempo conservasse un qualche tipo di fluido. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientStorageCylinder.description>
+  <AncientStorageCylinder.description>Un antico dispositivo che sembra aver contenuto un tempo un qualche tipo di fluido. Mancano parti di valore e tutto il resto è degradato all'inutilità.</AncientStorageCylinder.description>
   
   <!-- EN: ancient stove -->
   <AncientStove.label>antica stufa</AncientStove.label>
   <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
-  <AncientStove.description>Un'antica stufa. Distrutta e arrugginita, ora è completamente inutilizzabile.\n\nCome sia arrivata qui è difficile da dire.</AncientStove.description>
+  <AncientStove.description>Un'antica stufa. Distrutta e arrugginita, ora è completamente inutilizzabile.</AncientStove.description>
   
   <!-- EN: ancient system rack -->
   <AncientSystemRack.label>antico sistema rack</AncientSystemRack.label>

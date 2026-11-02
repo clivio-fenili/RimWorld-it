@@ -22,9 +22,9 @@
   <Apparel_CollarShirt.description>Una camicia di bell'aspetto con dei bottoni.</Apparel_CollarShirt.description>
   
   <!-- EN: duster -->
-  <Apparel_Duster.label>mantello</Apparel_Duster.label>
+  <Apparel_Duster.label>spolverino</Apparel_Duster.label>
   <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
-  <Apparel_Duster.description>Un lungo mantello per proteggersi dal sole e dalla furia della natura.</Apparel_Duster.description>
+  <Apparel_Duster.description>Un lungo spolverino per proteggersi dal sole e dalla polvere.</Apparel_Duster.description>
   
   <!-- EN: flak jacket -->
   <Apparel_FlakJacket.label>giubbotto antiproiettile</Apparel_FlakJacket.label>
@@ -64,7 +64,7 @@
   <!-- EN: marine armor -->
   <Apparel_PowerArmor.label>armatura pesante</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>Un'armatura pesante completa. Le placche stratificate di fibre di plastacciaio sono molto efficaci nel bloccare gli attacchi, con pochi punti deboli sulle giunture. L'assistenza neuro-memetica permette agli umani di indossare l'armatura e muoversi comunque con facilità.\n\nUn'armatura del genere viene solitamente usata dai giannizzeri imperiali e dai commando marine spaziali.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>Un'armatura pesante completa. Le placche stratificate di fibre di plastacciaio sono molto efficaci nel bloccare gli attacchi, con pochi punti deboli sulle giunture. L'assistenza neuro-memetica permette agli umani di indossare l'armatura e muoversi comunque con facilità.\n\nUn'armatura del genere viene solitamente usata dai marine spaziali per incursioni rapide.</Apparel_PowerArmor.description>
   
   <!-- EN: robe -->
   <Apparel_Robe.label>vestaglia</Apparel_Robe.label>

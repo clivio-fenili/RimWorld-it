@@ -4,7 +4,7 @@
   <!-- EN: concrete -->
   <Concrete.label>cemento</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>Cemento grezzo. Velocizza gli spostamenti, economico, veloce da installare, ma abbastanza brutto.</Concrete.description>
+  <Concrete.description>Cemento grezzo. È economico e veloce da installare, ma anche piuttosto brutto.</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>piastrella d'oro</GoldTile.label>

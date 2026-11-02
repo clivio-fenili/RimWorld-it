@@ -15,7 +15,7 @@
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>bomba fumogena</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>Una cortina fumogena difensiva monouso ad attivazione automatica. Se chi la indossa viene colpito da un proiettile, rilascerà una coltre di fumo, nascondendolo dai colpi in arrivo ed impedendo alle torrette di puntarlo.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Una cortina fumogena difensiva. Quando viene attivata, rilascia una nube di fumo che ostacola i colpi in arrivo e impedisce alle torrette di agganciare il bersaglio.</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
   <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>scarica di fumo</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->

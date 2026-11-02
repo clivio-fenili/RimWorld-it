@@ -4,6 +4,6 @@
   <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>scudo energetico</Apparel_ShieldBelt.label>
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
-  <Apparel_ShieldBelt.description>Uno scudo energetico personale. Tenterà di fermare ogni proiettile in movimento o attacco energetico. E' inefficace contro attacchi in mischia o colpi a bruciapelo. Impedisce di sparare nello stesso modo in cui impedisce di essere colpiti.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>Un dispositivo che respinge i proiettili. Cerca di fermare proiettili e schegge in arrivo, ma non ha effetto contro gli attacchi in mischia o il calore. Impedisce a chi lo indossa di sparare e si spegne all'istante se colpito da un EMP.</Apparel_ShieldBelt.description>
   
 </LanguageData>
