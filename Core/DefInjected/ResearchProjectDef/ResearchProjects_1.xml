@@ -77,9 +77,9 @@
   -->
   <ComplexClothing.generalRules.rulesStrings>
     <li>subject->sartoria avanzata</li>
-    <li>subject_story->realizzò abiti resistenti per la gente delle città di urbworld</li>
+    <li>subject_story->realizzò abiti resistenti per la gente delle città di un urbworld</li>
     <li>subject_story->si rilassava cucendo e raccontando storie ai bambini del villaggio</li>
-    <li>subject_story->imparò a confezionare abiti da indossare nelle grandi esibizioni della troupe di [ANYPAWN_possessive]</li>
+    <li>subject_story->imparò a confezionare abiti da indossare nelle grandi esibizioni della sua troupe</li>
     <li>subject_gerund->realizzazione di abiti complessi</li>
   </ComplexClothing.generalRules.rulesStrings>
   
@@ -96,7 +96,7 @@
   -->
   <ComplexFurniture.generalRules.rulesStrings>
     <li>subject->ebanisteria</li>
-    <li>subject_story->studiò intaglio del legno con un maestro falegname</li>
+    <li>subject_story->studiò l'intaglio del legno con un maestro falegname</li>
     <li>subject_story->costruì da solo una città di baite in legno</li>
     <li>subject_story->fondò una fabbrica, vendendo mobili di alta qualità ai commercianti di passaggio</li>
     <li>subject_gerund->costruzione di mobili complessi</li>
@@ -117,7 +117,7 @@
     <li>subject->coltivazione del devilstrand</li>
     <li>subject_story->usò il devilstrand come tagliafuoco naturale</li>
     <li>subject_story->sviluppò tecniche per coltivare devilstrand facilmente</li>
-    <li>subject_story->diventò ossessionato dai funghi e si autoproclamò principessa del regno di [ANYPAWN_possessive]</li>
+    <li>subject_story->diventò ossessionato dai funghi e si autoproclamò principessa del suo regno</li>
     <li>subject_gerund->coltivazione del devilstrand</li>
   </Devilstrand.generalRules.rulesStrings>
   
@@ -216,7 +216,7 @@
   <PassiveCooler.generalRules.rulesStrings>
     <li>subject->evaporazione</li>
     <li>subject->raffreddamenti passivi</li>
-    <li>subject_story->si trasferì su un mondo tropicale torridamente caldo e sviluppò tecniche uniche per rimanere fresco</li>
+    <li>subject_story->si trasferì su un mondo tropicale torrido e sviluppò tecniche uniche per rimanere fresco</li>
     <li>subject_story->studiò tecniche primitive di raffreddamento nelle biblioteche di un coreworld</li>
     <li>subject_story->notò, sulle coste di un pianeta oceanico, che dove si depositavano gli spruzzi di mare faceva più fresco</li>
     <li>subject_gerund->costruzione di raffreddamenti passivi</li>
@@ -244,7 +244,7 @@
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>produzione penoxicilina</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>Produci penoxicillina, un farmaco per la prevenzione delle infezioni che blocca peste, malaria ed altro prima della loro comparsa.</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>Produci penoxicilina, un farmaco per la prevenzione delle infezioni che blocca peste, malaria ed altro prima della loro comparsa.</PenoxycylineProduction.description>
   <!-- EN:
     <li>subject->penoxycyline production</li>
     <li>subject_story->lectured to the United Planets about preventative medicine</li>
@@ -253,11 +253,11 @@
     <li>subject_gerund->synthesizing penoxycyline</li>
   -->
   <PenoxycylineProduction.generalRules.rulesStrings>
-    <li>subject->produzione di penoxicillina</li>
+    <li>subject->produzione di penoxicilina</li>
     <li>subject_story->tenne una conferenza ai Pianeti Uniti sulla medicina preventiva</li>
     <li>subject_story->fu cacciato da Dawn Falls come ciarlatano, per aver venduto una medicina che "non fa nulla"</li>
-    <li>subject_story->prevenne la diffusione di un'epidemia di malaria grazie a un attento dosaggio della penoxicillina</li>
-    <li>subject_gerund->sintesi di penoxicillina</li>
+    <li>subject_story->prevenne la diffusione di un'epidemia di malaria grazie a un attento dosaggio della penoxicilina</li>
+    <li>subject_gerund->sintesi di penoxicilina</li>
   </PenoxycylineProduction.generalRules.rulesStrings>
   
   <!-- EN: plate armor -->
@@ -273,7 +273,7 @@
   -->
   <PlateArmor.generalRules.rulesStrings>
     <li>subject->armature a piastre</li>
-    <li>subject_story->realizzò un'armatura con rottami quando le autorità circondarono la baracca della famiglia di [ANYPAWN_possessive]</li>
+    <li>subject_story->realizzò un'armatura con rottami quando le autorità circondarono la baracca della sua famiglia</li>
     <li>subject_story->divenne famoso come "Fabbro Verde", quando il muschio crebbe sull'armatura di legno</li>
     <li>subject_story->iniziò la prima cooperativa di fabbri d'armatura su un urbworld</li>
     <li>subject_gerund->forgiatura di armature a piastre</li>
@@ -282,7 +282,7 @@
   <!-- EN: psychite refining -->
   <PsychiteRefining.label>raffinazione psychite</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
-  <PsychiteRefining.description>Raffina foglie di psychite in flake e yayo, diverse tipologie della droga euforica psychite.</PsychiteRefining.description>
+  <PsychiteRefining.description>Raffina foglie di psicoide in flake e yayo, diverse tipologie della droga euforica psychite.</PsychiteRefining.description>
   <!-- EN:
     <li>subject->psychite production</li>
     <li>subject_story->used [ANYPAWN_possessive] university job as cover for [ANYPAWN_possessive] drug-dealing</li>
@@ -292,7 +292,7 @@
   -->
   <PsychiteRefining.generalRules.rulesStrings>
     <li>subject->produzione di psychite</li>
-    <li>subject_story->usò il lavoro all'università di [ANYPAWN_possessive] come copertura per il traffico di droga</li>
+    <li>subject_story->usò il suo lavoro all'università come copertura per il suo traffico di droga</li>
     <li>subject_story->fondò una comune dove il flake a basso dosaggio veniva aggiunto ai cibi</li>
     <li>subject_story->fece una campagna per la legalizzazione dello yayo su un vicino urbworld</li>
     <li>subject_gerund->raffinazione della psychite</li>
@@ -312,8 +312,8 @@
   <PsychoidBrewing.generalRules.rulesStrings>
     <li>subject->psicoide</li>
     <li>subject_story->entrò in una comune di psicoide di breve durata su un mondo di culti</li>
-    <li>subject_story->sperimentò con il psicoide per aiutare soldati traumatizzati</li>
-    <li>subject_story->legalizzò la psicoide per la produzione di massa su diversi coreworld, quando ebbe il potere di farlo</li>
+    <li>subject_story->sperimentò con lo psicoide per aiutare soldati traumatizzati</li>
+    <li>subject_story->legalizzò lo psicoide per la produzione di massa su diversi coreworld, quando ebbe il potere di farlo</li>
     <li>subject_gerund->preparazione di psicoide</li>
   </PsychoidBrewing.generalRules.rulesStrings>
   
@@ -332,9 +332,9 @@
   <RecurveBow.generalRules.rulesStrings>
     <li>subject->arceria</li>
     <li>subject->fabbricazione di archi</li>
-    <li>subject_story->seguì una boomalope rabbiosa per quattro giorni prima di ucciderla con una sola freccia</li>
+    <li>subject_story->seguì un boomalope rabbioso per quattro giorni prima di ucciderlo con una sola freccia</li>
     <li>subject_story->si stabilì vicino a una foresta di tassi per procurarsi i materiali perfetti per gli archi</li>
-    <li>subject_story->cresciuto i bambini della colonia come cacciatori-raccoglitori, ognuno un maestro arciere</li>
+    <li>subject_story->crebbe i bambini della colonia come cacciatori-raccoglitori, ognuno un maestro arciere</li>
     <li>subject_gerund->fabbricazione di archi</li>
   </RecurveBow.generalRules.rulesStrings>
   
@@ -368,7 +368,7 @@
     <li>subject_gerund->cutting stones</li>
   -->
   <Stonecutting.generalRules.rulesStrings>
-    <li>subject->masoneria</li>
+    <li>subject->muratura</li>
     <li>subject_story->fu il primo di una generazione di architetti di templi, tutti con lo stesso nome</li>
     <li>subject_story->sviluppò tecniche uniche per tagliare le rocce più dure con strumenti semplici</li>
     <li>subject_story->pavimentò l'intero palazzo del viceré su un mondo medievale</li>

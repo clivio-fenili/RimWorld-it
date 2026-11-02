@@ -101,9 +101,9 @@
   </BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
-  <ColoredLights.label>illuminazione colorata</ColoredLights.label>
+  <ColoredLights.label>illuminazione avanzata</ColoredLights.label>
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
-  <ColoredLights.description>Realizza luci colorate a scopo decorativo. Unicamente estetico.</ColoredLights.description>
+  <ColoredLights.description>Costruisci potenti luci per esterni. Inoltre, permette di personalizzare il colore delle luci elettriche e ne dimezza il consumo di energia. Non vale per le lampade solari.</ColoredLights.description>
   <!-- EN:
     <li>subject->advanced lighting</li>
     <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
@@ -210,7 +210,7 @@
   <!-- EN: gas operation -->
   <GasOperation.label>sottrazione di gas</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
-  <GasOperation.description>Crea armi da fuoco ad elevata potenza come fucili, mitragliatrici leggere e mitragliatrici pesanti.</GasOperation.description>
+  <GasOperation.description>Crea armi da fuoco ad elevata potenza come fucili a pompa automatici, mitragliatrici leggere e mitragliatrici pesanti.</GasOperation.description>
   <!-- EN:
     <li>subject->heavy weaponry</li>
     <li>subject->high-power firearms</li>
@@ -266,7 +266,7 @@
     <li>subject_story->costruì un revolver unico da 12 colpi e vinse duello dopo duello</li>
     <li>subject_story->si specializzò in armi semplici, fornendo fucili da caccia e fucili ai cacciatori</li>
     <li>subject_story->divenne armaiolo, guadagnando fama in tutto il settore</li>
-    <li>subject_gerund->armaiolo</li>
+    <li>subject_gerund->lavoro di armaiolo</li>
     <li>subject_gerund->fabbricazione di armi da fuoco</li>
   </Gunsmithing.generalRules.rulesStrings>
   
@@ -395,7 +395,7 @@
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>razioni di sopravvivenza</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>Produci razioni di sopravvivenza preconfezionate che non si guastano mai. Ottimo per i viaggi.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>Produci razioni di sopravvivenza preconfezionate che non si guastano mai. Ottime per i viaggi.</PackagedSurvivalMeal.description>
   <!-- EN:
     <li>subject->packaged survival meals</li>
     <li>subject->non-perishable food</li>
@@ -409,12 +409,12 @@
     <li>subject->cibo non deperibile</li>
     <li>subject_story->sapeva che, in caso di disastro, c'erano abbastanza razioni confezionate per sopravvivere fino all'arrivo dei soccorsi</li>
     <li>subject_story->fondò una cucina sociale che donava razioni di sopravvivenza a tutte le navi in partenza</li>
-    <li>subject_story->trovò razioni di sopravvivenza nelle montagne vecchie di secoli</li>
+    <li>subject_story->trovò nelle montagne razioni di sopravvivenza vecchie di secoli</li>
     <li>subject_gerund->preparazione di razioni di sopravvivenza</li>
   </PackagedSurvivalMeal.generalRules.rulesStrings>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>prostetica</Prosthetics.label>
+  <Prosthetics.label>protesica</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>Costruisci parti del corpo protesiche di basso costo per rimpiazzare arti perduti. Necessitano di un medico esperto per essere impiantate.</Prosthetics.description>
   <!-- EN:
@@ -433,9 +433,9 @@
   </Prosthetics.generalRules.rulesStrings>
   
   <!-- EN: smokepop packs -->
-  <SmokepopBelt.label>composti fumogene</SmokepopBelt.label>
+  <SmokepopBelt.label>bombe fumogene</SmokepopBelt.label>
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
-  <SmokepopBelt.description>Costruisci composti fumogeni che consentono a chi lo indossa di schierare una cortina fumogena difensiva.</SmokepopBelt.description>
+  <SmokepopBelt.description>Costruisci bombe fumogene che consentono a chi le indossa di creare una cortina fumogena difensiva.</SmokepopBelt.description>
   <!-- EN:
     <li>subject->smokescreen</li>
     <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
@@ -449,7 +449,7 @@
     <li>subject_story->lavorò come facchino per delle band, usando fumogeni per effetti speciali</li>
     <li>subject_story->creò un perimetro difensivo di fumogeni intorno ai villaggi locali, per tenere lontani gli animali selvatici</li>
     <li>subject_story->usò i fumogeni per addestrare nuovi vigili del fuoco, senza il pericolo di un vero incendio</li>
-    <li>subject_gerund->costruzione di composti fumogeni</li>
+    <li>subject_gerund->costruzione di bombe fumogene</li>
     <li>subject_gerund->dispiegamento di cortine fumogene</li>
   </SmokepopBelt.generalRules.rulesStrings>
   

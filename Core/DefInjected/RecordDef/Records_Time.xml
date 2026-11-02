@@ -27,9 +27,9 @@
   <TimeConstructing.description>Tempo totale trascorso a costruire e demolire edifici.</TimeConstructing.description>
   
   <!-- EN: time downed -->
-  <TimeDowned.label>tempo inconscio</TimeDowned.label>
+  <TimeDowned.label>tempo a terra</TimeDowned.label>
   <!-- EN: Total time spent downed. -->
-  <TimeDowned.description>Tempo totale trascorso mentre ero incosciente.</TimeDowned.description>
+  <TimeDowned.description>Tempo totale trascorso a terra.</TimeDowned.description>
   
   <!-- EN: time drafted -->
   <TimeDrafted.label>tempo in mobilitazione</TimeDrafted.label>
@@ -37,19 +37,19 @@
   <TimeDrafted.description>Tempo totale che ho trascorso in mobilitazione.</TimeDrafted.description>
   
   <!-- EN: time firefighting -->
-  <TimeFirefighting.label>tempo lotta incendi</TimeFirefighting.label>
+  <TimeFirefighting.label>tempo a spegnere incendi</TimeFirefighting.label>
   <!-- EN: Total time spent firefighting. -->
   <TimeFirefighting.description>Tempo totale trascorso a spegnere incendi.</TimeFirefighting.description>
   
   <!-- EN: time finding food and eating -->
-  <TimeGettingFood.label>tempo cibo</TimeGettingFood.label>
+  <TimeGettingFood.label>tempo a cercare cibo e mangiare</TimeGettingFood.label>
   <!-- EN: Total time spent on finding food and eating. -->
   <TimeGettingFood.description>Tempo totale trascorso a cercare e mangiare cibo.</TimeGettingFood.description>
   
   <!-- EN: time spent on entertainment -->
   <TimeGettingJoy.label>tempo a svagarsi</TimeGettingJoy.label>
   <!-- EN: Total time spent on entertainment. -->
-  <TimeGettingJoy.description>Tempo totale che ho trascorso a svagarsi.</TimeGettingJoy.description>
+  <TimeGettingJoy.description>Tempo totale che ho trascorso a svagarmi.</TimeGettingJoy.description>
   
   <!-- EN: time handling animals -->
   <TimeHandlingAnimals.label>tempo con animali</TimeHandlingAnimals.label>
@@ -104,12 +104,12 @@
   <!-- EN: time sowing and harvesting -->
   <TimeSowingAndHarvesting.label>tempo a seminare e raccogliere</TimeSowingAndHarvesting.label>
   <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
-  <TimeSowingAndHarvesting.description>Tempo totale trascorso a seminare e raccogliere colture.</TimeSowingAndHarvesting.description>
+  <TimeSowingAndHarvesting.description>Tempo totale trascorso a seminare, raccogliere e tagliare piante.</TimeSowingAndHarvesting.description>
   
   <!-- EN: time treating and feeding -->
   <TimeTreatingAndFeeding.label>tempo da infermiere</TimeTreatingAndFeeding.label>
   <!-- EN: Total time spent treating and feeding patients. -->
-  <TimeTreatingAndFeeding.description>Tempo totale trascorso a cuare e dar da mangiare ai pazienti.</TimeTreatingAndFeeding.description>
+  <TimeTreatingAndFeeding.description>Tempo totale trascorso a curare e dar da mangiare ai pazienti.</TimeTreatingAndFeeding.description>
   
   <!-- EN: time under a roof -->
   <TimeUnderRoof.label>tempo sotto tetto</TimeUnderRoof.label>

@@ -71,7 +71,7 @@
   <!-- EN: Johnson-Tanaka drive -->
   <ShipEngine.label>propulsore Johnson-Tanaka</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
-  <ShipEngine.description>Realizza un propulsore Johnson-Tanaka per una nave. Il propulsore JT può spingerti verso altre stelle sfruttando effetti quantistici per inviare slancio a stelle lontane. Naturalmente, come per tutte le astronavi, servono comunque molti anni per arrivare ovunque.</ShipEngine.description>
+  <ShipEngine.description>Realizza un propulsore Johnson-Tanaka per una nave. Il propulsore JT può spingerti verso altre stelle sfruttando effetti quantistici per inviare slancio a stelle lontane. Naturalmente, come per tutte le astronavi, servono comunque molti anni per arrivare da qualche parte.</ShipEngine.description>
   <!-- EN:
     <li>subject->Johnson-Tanaka theory</li>
     <li>subject->exotic momentum transfer</li>
@@ -122,7 +122,7 @@
   -->
   <ShipSensorCluster.generalRules.rulesStrings>
     <li>subject->navigazione interstellare</li>
-    <li>subject_story->usò sensori prototipo d'astronave per rilevare un asteroide di livello estinzione e evacuare il pianeta</li>
+    <li>subject_story->usò sensori prototipo d'astronave per rilevare un asteroide di livello estinzione ed evacuare il pianeta</li>
     <li>subject_story->lavorò come navigatore e cuoco su uno yacht stellare di glitterworld</li>
     <li>subject_story->perfezionò il design dei sensori a lungo raggio, migliorandone l'utilità</li>
     <li>subject_gerund->navigare nello spazio interstellare</li>

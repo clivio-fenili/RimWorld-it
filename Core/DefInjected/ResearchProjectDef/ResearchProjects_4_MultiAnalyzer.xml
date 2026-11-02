@@ -55,8 +55,8 @@
   -->
   <ChargedShot.generalRules.rulesStrings>
     <li>subject->munizioni a impulsi</li>
-    <li>subject_story->studiò i monorotaia del glitterworld e modificò la tecnologia per impiegarla nelle armi</li>
-    <li>subject_story->uccise un crawler meccanico attirandolo con una lancia a impulsi</li>
+    <li>subject_story->studiò le monorotaie del glitterworld e modificò la tecnologia per impiegarla nelle armi</li>
+    <li>subject_story->uccise un crawler meccanico attirandolo e colpendolo da lontano con un lanciacariche</li>
     <li>subject_story->scoprì come infondere una carica persistente nelle munizioni dei fucili, aumentando enormemente la letalità</li>
     <li>subject_gerund->costruire munizioni a impulsi</li>
     <li>subject_gerund->usare munizioni a impulsi</li>
@@ -86,11 +86,11 @@
   <!-- EN: fabrication -->
   <Fabrication.label>fabbricazione</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>Costruisci banchi da fabbricazione in grado di progetti high-tech che spaziano dall'assemblaggio di componenti alla costruzione di armature potenziate.</Fabrication.description>
+  <Fabrication.description>Costruisci banchi da inventore in grado di realizzare progetti high-tech che spaziano dall'assemblaggio di componenti alla costruzione di armature potenziate.</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
-  <Fabrication.discoveredLetterText>Ora hai la tecnologia per costruire un banco da fabbricazione, ma richiede anche alcuni componenti avanzati per iniziare. Puoi raccogliere componenti avanzati in diversi modi:\n\n  -Tutti gli insediamenti Outlander vendono componenti avanzati. Invia una carovana per acquistarne un po'.\n  -Alcuni commercianti visitatori vendono componenti avanzati. Invitali o aspettali.\n  -Alcune missioni vengono ricompensate con componenti avanzati.</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterText>Ora hai la tecnologia per costruire un banco da inventore, ma richiede anche alcuni componenti avanzati per iniziare. Puoi raccogliere componenti avanzati in diversi modi:\n\n  -Tutti gli insediamenti degli stranieri vendono componenti avanzati. Invia una carovana per acquistarne un po'.\n  -Alcuni commercianti visitatori vendono componenti avanzati. Invitali o aspettali.\n  -Alcune missioni vengono ricompensate con componenti avanzati.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
-  <Fabrication.discoveredLetterTitle>Informazioni su: ottenere componenti avanzati</Fabrication.discoveredLetterTitle>
+  <Fabrication.discoveredLetterTitle>Info: ottenere componenti avanzati</Fabrication.discoveredLetterTitle>
   <!-- EN:
     <li>subject->high-tech fabrication benches</li>
     <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
@@ -130,7 +130,7 @@
   <!-- EN: marine armor -->
   <PoweredArmor.label>armatura pesante</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>Costruisci armature potenziate marine, tute d'armatura potenziata di uso generale usate dalle truppe d'assalto high-tech. Nota che queste richiedono anche componenti avanzati.</PoweredArmor.description>
+  <PoweredArmor.description>Costruisci armature pesanti, tute d'armatura potenziata di uso generale usate dalle truppe d'assalto high-tech. Nota che queste richiedono anche componenti avanzati.</PoweredArmor.description>
   <!-- EN:
     <li>subject->marine armor</li>
     <li>subject_story->was employed by the shock troops to maintain their armor</li>
@@ -141,19 +141,19 @@
     <li>subject_gerund->constructing general-use advanced armor</li>
   -->
   <PoweredArmor.generalRules.rulesStrings>
-    <li>subject->armature marine</li>
+    <li>subject->armature pesanti</li>
     <li>subject_story->fu assunto dalle truppe d'assalto per mantenere le loro armature</li>
     <li>subject_story->testò l'armatura camminando disarmato in un villaggio ostile senza subire un graffio</li>
     <li>subject_story->pensò all'armatura come protezione dal clima ostile del pianeta, ma funzionò bene anche contro i pirati</li>
     <li>subject_gerund->costruire armature da truppe d'assalto</li>
-    <li>subject_gerund->costruire armature marine</li>
+    <li>subject_gerund->costruire armature pesanti</li>
     <li>subject_gerund->costruire armature avanzate di uso generale</li>
   </PoweredArmor.generalRules.rulesStrings>
   
   <!-- EN: recon armor -->
   <ReconArmor.label>armatura da ricognizione</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
-  <ReconArmor.description>Crea un'armatura da ricognizione, un'armatura potenziata leggera usata dalle truppe scout che hanno bisogno di protezione in movimento. Nota che anche queste richiedono componenti avanzati.</ReconArmor.description>
+  <ReconArmor.description>Crea armature da ricognizione, armature potenziate leggere usate dalle truppe scout che hanno bisogno di protezione in movimento. Nota che anche queste richiedono componenti avanzati.</ReconArmor.description>
   <!-- EN:
     <li>subject->recon armor</li>
     <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
@@ -172,9 +172,9 @@
   </ReconArmor.generalRules.rulesStrings>
   
   <!-- EN: rocketswarm launcher -->
-  <RocketswarmLauncher.label>lanciarazzi sciame</RocketswarmLauncher.label>
+  <RocketswarmLauncher.label>lanciatore di sciami di razzi</RocketswarmLauncher.label>
   <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
-  <RocketswarmLauncher.description>Produci lanciarazzi sciame, torrette a raffica singola in grado di devastare un'ampia area in un momento chiave della battaglia.</RocketswarmLauncher.description>
+  <RocketswarmLauncher.description>Produci lanciatori di sciami di razzi, torrette a raffica singola in grado di devastare un'ampia area in un momento chiave della battaglia.</RocketswarmLauncher.description>
   <!-- EN:
     <li>subject->rocket turrets</li>
     <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
@@ -184,14 +184,14 @@
   -->
   <RocketswarmLauncher.generalRules.rulesStrings>
     <li>subject->torrette lanciarazzi</li>
-    <li>subject_story->testimoniò sull'uso dei lanciarazzi sciame contro obiettivi civili</li>
+    <li>subject_story->testimoniò sull'uso dei lanciatori di sciami di razzi contro obiettivi civili</li>
     <li>subject_story->costruì difese estreme, tra cui trappole e lanciarazzi, nel caso in cui l'insediamento fosse stato minacciato</li>
     <li>subject_story->iniziò costruendo razzi primitivi per raggiungere lo spazio, ma l'alto tasso di fallimento portò a riutilizzarli come armi</li>
     <li>subject_gerund->costruire torrette lanciarazzi</li>
   </RocketswarmLauncher.generalRules.rulesStrings>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>torretta di precisione</SniperTurret.label>
+  <SniperTurret.label>torretta a proiettili di uranio</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
   <SniperTurret.description>Produci la torretta perforante a proiettili di uranio. Spara proiettili di uranio che lacerano il plastacciaio come fosse carta, ma è meno efficace a corto raggio.</SniperTurret.description>
   <!-- EN:

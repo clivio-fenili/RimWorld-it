@@ -82,11 +82,11 @@
     <li>subject_gerund->crafting heavy autocannon turrets</li>
   -->
   <HeavyTurrets.generalRules.rulesStrings>
-    <li>subject->torrette autocannon</li>
+    <li>subject->torrette con cannone automatico</li>
     <li>subject_story->respinse da solo un assalto di cultisti, nascondendosi dietro una parete di torrette</li>
     <li>subject_story->fu assunto per costruire un perimetro difensivo con sacchi di sabbia e torrette per i locali</li>
     <li>subject_story->costruì torretta dopo torretta, senza mai chiedere chi le comprava</li>
-    <li>subject_gerund->assemblare torrette autocannon pesanti</li>
+    <li>subject_gerund->assemblare torrette pesanti con cannone automatico</li>
   </HeavyTurrets.generalRules.rulesStrings>
   
   <!-- EN: hospital bed -->
@@ -246,7 +246,7 @@
   <!-- EN: transport pod -->
   <TransportPod.label>capsula di trasporto</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>Realizza capsule di trasporto lanciabili che puoi usare per mandare persone e rifornimenti a grandi distanze lungo la superficie del pianeta. Può essere usato per assaltare, viaggiare, inviare doni e altro.</TransportPod.description>
+  <TransportPod.description>Realizza capsule di trasporto lanciabili che puoi usare per mandare persone e rifornimenti a grandi distanze lungo la superficie del pianeta. Possono essere usate per assaltare, viaggiare, inviare doni e altro.</TransportPod.description>
   <!-- EN:
     <li>subject->transport pods</li>
     <li>subject_story->landed a pod in the middle of a feral tribe and barely escaped alive</li>
@@ -257,7 +257,7 @@
   <TransportPod.generalRules.rulesStrings>
     <li>subject->capsule di trasporto</li>
     <li>subject_story->atterrò con una capsula in mezzo a una tribù selvaggia e riuscì a malapena a fuggire vivo</li>
-    <li>subject_story->spese una fortuna per inviare una capsula di trasporto all'oggetto della sua affezione, con dentro un solo anello nuziale</li>
+    <li>subject_story->spese una fortuna per inviare una capsula di trasporto all'oggetto del suo affetto, con dentro un solo anello nuziale</li>
     <li>subject_story->evitò la carestia grazie a un uso oculato delle capsule</li>
     <li>subject_gerund->costruire capsule di trasporto</li>
   </TransportPod.generalRules.rulesStrings>
